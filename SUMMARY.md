@@ -4,7 +4,7 @@
 
 ## Introduktion
 
-* [Om Smålands Fotbollförbund](introduktion/om-smff.md)
+* [Om Smålands Fotbollförbund](introduktion/om-smalands-fotbollforbund.md)
 * [Om styrmodellen](introduktion/om-styrmodellen.md)
 * [Så läser du styrmodellen](introduktion/sa-laser-du-styrmodellen.md)
 * [Begreppslista](introduktion/begreppslista.md)
@@ -14,15 +14,15 @@
 * [Folkrörelseprincipen](grund-och-varden/folkrorelseprincipen.md)
 * [Idrottens värdegrund](grund-och-varden/idrottens-vardegrund.md)
 * [God demokratisk styrning](grund-och-varden/god-demokratisk-styrning.md)
-* [Normordning och styrande principer](grund-och-varden/normordning-och-styrande-principer.md)
-* [Styrprinciper](grund-och-varden/styrprinciper.md)
+* [Normordning](grund-och-varden/normordning.md)
+* [Styrande principer](grund-och-varden/styrande-principer.md)
 
 ## Organisationens struktur
 
 * [Styrarkitekturen](organisationens-struktur/styrarkitekturen.md)
 * [Ansvar och roller](organisationens-struktur/ansvar-och-roller.md)
 * [Organisationsschema](organisationens-struktur/organisationsschema.md)
-* [Förhållande till RF, SvFF och RF-SISU Småland](organisationens-struktur/forhallande-till-rf-svff-och-rf-sisu-smaland.md)
+* [Förhållande till RF, SvFF och RF-SISU](organisationens-struktur/forhallande-till-rf-svff-och-rf-sisu.md)
 
 ## Demokratisk styrning
 
@@ -34,7 +34,7 @@
 
 ## Distriktsstyrelsen och ledningen
 
-* [Distriktsstyrelsens roll](distriktsstyrelsen-och-ledningen/distriktsstyrelsens-roll.md)
+* [Distriktsstyrelsen](distriktsstyrelsen-och-ledningen/distriktsstyrelsen.md)
 * [Presidiet](distriktsstyrelsen-och-ledningen/presidiet.md)
 * [Hedersordförande och hedersledamot](distriktsstyrelsen-och-ledningen/hedersordforande-och-hedersledamot.md)
 * [Distriktschefen](distriktsstyrelsen-och-ledningen/distriktschefen.md)
@@ -45,12 +45,8 @@
 ## Kommittéer och arbetsgrupper
 
 * [Kommittémodellen](kommitteer-och-arbetsgrupper/kommittemodellen.md)
-* [Anläggningskommittén](kommitteer-och-arbetsgrupper/anlaggningskommitten.md)
-* [Domarkommittén](kommitteer-och-arbetsgrupper/domarkommitten.md)
-* [Föreningskommittén](kommitteer-och-arbetsgrupper/foreningskommitten.md)
-* [Tävlingskommittén](kommitteer-och-arbetsgrupper/tavlingskommitten.md)
-* [Utvecklingskommittén](kommitteer-och-arbetsgrupper/utvecklingskommitten.md)
-* [Arbetsgrupper och referensgrupper](kommitteer-och-arbetsgrupper/arbetsgrupper-och-referensgrupper.md)
+* [Arbetsgrupper](kommitteer-och-arbetsgrupper/arbetsgrupper.md)
+* [Referensgrupper](kommitteer-och-arbetsgrupper/referensgrupper.md)
 
 ## Granskande funktioner
 

@@ -11,7 +11,7 @@ description: >-
 
 Börja med dessa tre sidor i ordning:
 
-1. [Om Smålands Fotbollförbund](om-smff.md) — förstå vad distriktet är och gör
+1. [Om Smålands Fotbollförbund](om-smalands-fotbollforbund.md) — förstå vad distriktet är och gör
 2. [Om styrmodellen](om-styrmodellen.md) — förstå vad detta dokument är till för
 3. [Styrarkitekturen](../organisationens-struktur/styrarkitekturen.md) — se hur organisationen hänger ihop
 
@@ -21,7 +21,7 @@ Läs sedan det avsnitt som är mest relevant för ditt uppdrag.
 
 ## Om du har ett specifikt uppdrag
 
-**Ny i distriktsstyrelsen?** Börja med [Distriktsstyrelsens roll](../distriktsstyrelsen-och-ledningen/distriktsstyrelsens-roll.md), sedan [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+**Ny i distriktsstyrelsen?** Börja med [Distriktsstyrelsens roll](../distriktsstyrelsen-och-ledningen/distriktsstyrelsen.md), sedan [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
 
 **Ny som kommittéordförande eller kommittéledamot?** Börja med [Kommittémodellen](../kommitteer-och-arbetsgrupper/kommittemodellen.md) och sedan den specifika kommitténs sida. Läs sedan [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschefen.md) för att förstå gränssnittet mot kansliet.
 
