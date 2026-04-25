@@ -29,7 +29,7 @@ Läs sedan det avsnitt som är mest relevant för ditt uppdrag.
 
 **Ny i valberedningen?** Börja med [Valberedningen](../granskande-funktioner/valberedningen.md) och [Val, ombud och rösträtt](../demokratisk-styrning/val-ombud-och-rostratt.md).
 
-**Arbetar i kansliet?** Börja med [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschefen.md) och [Kansliet](../distriktsstyrelsen-och-ledningen/kansliet.md), sedan [Processer och arbetssätt](../processer-och-arbetssatt/beredning-och-beslutsfattande.md).
+**Arbetar i kansliet?** Börja med [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschefen.md) och [Kansliet](../distriktsstyrelsen-och-ledningen/kansliet.md), sedan [Processer och arbetssätt](../processer-och-arbetssatt/beslutsfattande.md).
 
 ***
 
@@ -39,7 +39,7 @@ Läs sedan det avsnitt som är mest relevant för ditt uppdrag.
 
 **Vem bestämmer om tävlingsregler?** → [Representantskapet](../demokratisk-styrning/representantskapet.md)
 
-**Hur går det till att skicka en motion?** → [Motionsprocessen](../processer-och-arbetssatt/motionsprocessen.md)
+**Hur går det till att skicka en motion?** → [Motionsprocessen](../processer-och-arbetssatt/beredning.md)
 
 **Vad gäller för attest och ekonomi?** → [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md) och [Attestordning](https://dokument.smaland.football/instruktioner/attestordning)
 

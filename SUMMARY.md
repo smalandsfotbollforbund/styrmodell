@@ -56,43 +56,24 @@
 
 ## Strategi och operativt uppdrag
 
-* [Vision, mission och verksamhetsidé](strategi-och-operativt-uppdrag/vision-mission-och-verksamhetside.md)
 * [Strategihuset](strategi-och-operativt-uppdrag/strategihuset.md)
-* [Basuppgifter SvFF-SDF](strategi-och-operativt-uppdrag/basuppgifter-svff-sdf.md)
+* [Vision, mission och verksamhetsidé](strategi-och-operativt-uppdrag/vision-mission-och-verksamhetside.md)
+* [Strategiska inriktningar](strategi-och-operativt-uppdrag/strategiska-inriktningar.md)
+* [Prioriteringar och mål](strategi-och-operativt-uppdrag/prioriteringar-och-mal.md)
+* [Verksamhetsområden och basuppgifter](strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md)
 * [Planering, uppföljning och årscykel](strategi-och-operativt-uppdrag/planering-uppfoljning-och-arscykel.md)
 * [Ansvarsmatris](strategi-och-operativt-uppdrag/ansvarsmatris.md)
 
 ## Processer och arbetssätt
 
-* [Beredning och beslutsfattande](processer-och-arbetssatt/beredning-och-beslutsfattande.md)
-* [Motionsprocessen](processer-och-arbetssatt/motionsprocessen.md)
-* [Valprocessen](processer-och-arbetssatt/valprocessen.md)
-* [Budget- och verksamhetsplaneringsprocessen](processer-och-arbetssatt/budget-och-verksamhetsplaneringsprocessen.md)
-* [Bestraffningsärenden](processer-och-arbetssatt/bestraffningsarenden.md)
-* [Stadgeändring](processer-och-arbetssatt/stadgeandring.md)
-* [Introduktion av förtroendevalda](processer-och-arbetssatt/introduktion-av-fortroendevalda.md)
-
-## Områden och åtaganden
-
-* [Trygg idrott](omraden-och-ataganden/trygg-idrott.md)
-* [Antidoping](omraden-och-ataganden/antidoping.md)
-* [Riskhantering och kris](omraden-och-ataganden/riskhantering-och-kris.md)
-* [Informationssäkerhet och GDPR](omraden-och-ataganden/informationssakerhet-och-gdpr.md)
-* [HR och personalpolitik](omraden-och-ataganden/hr-och-personalpolitik.md)
-* [Kommunikation och media](omraden-och-ataganden/kommunikation-och-media.md)
-* [IT och digitala system](omraden-och-ataganden/it-och-digitala-system.md)
-* [Samverkan med externa parter](omraden-och-ataganden/samverkan-med-externa-parter.md)
-* [Föreningsstöd vid kris](omraden-och-ataganden/foreningsstod-vid-kris.md)
-* [Hållbarhet](omraden-och-ataganden/hallbarhet-och-jamstalldhet.md)
-* [Jämställdhet, mångfald och inkludering](omraden-och-ataganden/jamstalldhet-mangfald-och-inkludering.md)
+* [Beslutsfattande](processer-och-arbetssatt/beslutsfattande.md)
+* [Beredning](processer-och-arbetssatt/beredning.md)
+* [Verkställighet](processer-och-arbetssatt/verkstallighet.md)
+* [Uppföljning och återrapportering](processer-och-arbetssatt/uppfoljning-och-aterrapportering.md)
+* [Dokumentation och protokoll](processer-och-arbetssatt/dokumentation-och-protokoll.md)
+* [Möteshantering](processer-och-arbetssatt/moteshantering.md)
 
 ## Styrande dokument
 
 * [Dokumentarkitektur](styrande-dokument/dokumentarkitektur.md)
-
-## Om styrmodellen
-
-* [Ägarskap och förvaltning](om-styrmodellen/agarskap-och-forvaltning.md)
-* [Informationshemvister](om-styrmodellen/informationshemvister.md)
-* [Revidering och uppdatering](om-styrmodellen/revidering-och-uppdatering.md)
-* [Versionshantering](om-styrmodellen/versionshantering.md)
+* [Externa bärande dokument](styrande-dokument/externa-barande-dokument.md)

@@ -4,7 +4,7 @@
 
 Detta dokument beskriver motionsrätten och andra former av initiativrätt i Smålands Fotbollförbund.
 
------
+***
 
 ## Vad är initiativrätt?
 
@@ -12,33 +12,33 @@ Initiativrätt innebär rätten att väcka frågor till beslut. I en demokratisk
 
 SmFF:s viktigaste verktyg för initiativrätt är motionsrätten.
 
------
+***
 
 ## Motionsrätten
 
 En motion är ett formellt förslag till ett beslutande organ. Motionsrätten tillkommer:
 
-- **Röstberättigad förening** — kan lämna motion direkt
-- **Röstberättigad medlem i en sådan förening** — kan lämna motion via sin förening, som bifogar sitt yttrande
+* **Röstberättigad förening** — kan lämna motion direkt
+* **Röstberättigad medlem i en sådan förening** — kan lämna motion via sin förening, som bifogar sitt yttrande
 
 Motioner kan lämnas till:
 
-- **Årsmötet** — i frågor som faller inom årsmötets mandat
-- **Representantskapet** — i frågor om tävlingsregler och seriesammansättning
+* **Årsmötet** — i frågor som faller inom årsmötets mandat
+* **Representantskapet** — i frågor om tävlingsregler och seriesammansättning
 
------
+***
 
 ## Motionens väg — kortfattat
 
 1. Föreningen skriver och skickar in sin motion inom angiven tidsfrist
-1. Kansliet bekräftar mottagandet
-1. Distriktsstyrelsen bereder motionen och lämnar sitt yttrande
-1. Motionen och styrelsens yttrande distribueras med möteshandlingarna
-1. Det beslutande organet behandlar och beslutar
+2. Kansliet bekräftar mottagandet
+3. Distriktsstyrelsen bereder motionen och lämnar sitt yttrande
+4. Motionen och styrelsens yttrande distribueras med möteshandlingarna
+5. Det beslutande organet behandlar och beslutar
 
-Den fullständiga processen beskrivs i [Motionsprocessen](../processer-och-arbetssatt/motionsprocessen.md).
+Den fullständiga processen beskrivs i [Motionsprocessen](../processer-och-arbetssatt/beredning.md).
 
------
+***
 
 ## Tidsgränser
 
@@ -46,7 +46,7 @@ Den fullständiga processen beskrivs i [Motionsprocessen](../processer-och-arbet
 
 **Till representantskapet:** Skriftliga förslag ska vara distriktsstyrelsen tillhanda senast **15 december**.
 
------
+***
 
 ## Varför motionsrätten är viktig
 
@@ -54,7 +54,7 @@ Motionsrätten är ett skydd för den demokratiska ordningen. Den säkerställer
 
 SmFF ska aktivt informera föreningarna om motionsrätten och kansliet ska vara tillgängligt för frågor om hur en motion skrivs och lämnas in.
 
------
+***
 
 ## Styrelsens initiativrätt
 
@@ -62,7 +62,7 @@ Utöver föreningarnas motionsrätt har distriktsstyrelsen rätt att lägga prop
 
 En viktig distinktion: frågor av principiell, ekonomisk eller organisatorisk vikt som inte är brådskande bör hanteras via de demokratiska organen, inte enbart av styrelsen.
 
------
+***
 
 ## Arbetsgrupper och referensgrupper som initiativverktyg
 

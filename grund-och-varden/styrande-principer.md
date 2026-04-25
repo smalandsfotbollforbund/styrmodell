@@ -1,16 +1,16 @@
-# Styrprinciper
+# Styrande principer
 
 ## Syfte
 
 Detta dokument beskriver de grundläggande styrprinciperna som ska gälla i Smålands Fotbollförbund och som genomsyrar hela styrmodellen.
 
------
+***
 
 ## Vad är styrprinciper?
 
 Styrprinciper är de grundläggande regler för hur organisationen ska fatta beslut, fördela ansvar och hantera sin verksamhet. De är mer konkreta än folkrörelseprincipen men mer principiella än enskilda regler i en delegationsordning. De fungerar som ett filter: när det är oklart hur en fråga ska hanteras ska styrprinciperna ge vägledning.
 
------
+***
 
 ## De sju styrprinciperna
 
@@ -42,10 +42,10 @@ En grundläggande princip för intern kontroll är att den som initierar eller s
 
 Gråzoner — situationer där det är oklart vem som har ansvar eller mandat — ska inte accepteras som en permanent ordning. De ska identifieras och åtgärdas genom tydligare delegationer, instruktioner eller styrmodellens egna dokument. Gråzoner som hanteras informellt och löses genom personliga relationer är ett strukturproblem, inte en lösning.
 
------
+***
 
 ## Styrprinciperna och styrmodellen
 
 Styrprinciperna genomsyrar hela styrmodellen. De syns i hur normordningen är uppbyggd, hur delegation och intern kontroll är beskrivet, hur kommittémodellen fungerar och hur processerna för beredning och beslut är utformade. De utgör det gemensamma förhållningssättet som alla i organisationen förväntas dela.
 
-Mer om hur principerna tillämpas i konkreta sammanhang finns i [Beredning och beslutsfattande](../processer-och-arbetssatt/beredning-och-beslutsfattande.md) och [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+Mer om hur principerna tillämpas i konkreta sammanhang finns i [Beredning och beslutsfattande](../processer-och-arbetssatt/beslutsfattande.md) och [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md).

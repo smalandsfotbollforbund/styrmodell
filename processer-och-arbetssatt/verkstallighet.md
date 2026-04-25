@@ -1,4 +1,4 @@
-# Valprocessen
+# Verkställighet
 
 ## Syfte
 
@@ -63,4 +63,4 @@ Valberedningen beslutar om arvode till styrelseledamöter och disciplinnämndens
 
 ## Introduktion av nyvalda
 
-Efter valet ansvarar distriktschefen för att nyvalda styrelseledamöter, kommittéordföranden och andra valda ges en god introduktion till sina uppdrag. Processen för introduktion av förtroendevalda beskrivs i [Introduktion av förtroendevalda](introduktion-av-fortroendevalda.md).
+Efter valet ansvarar distriktschefen för att nyvalda styrelseledamöter, kommittéordföranden och andra valda ges en god introduktion till sina uppdrag. Processen för introduktion av förtroendevalda beskrivs i [Introduktion av förtroendevalda](/broken/pages/eNdBwewWPHpyPjoxfj0a).
