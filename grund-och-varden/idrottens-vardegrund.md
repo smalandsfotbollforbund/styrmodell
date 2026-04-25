@@ -14,14 +14,7 @@ RF:s idéprogram “Idrotten vill” sammanfattar idrottens värdegrund i fyra k
 
 I det sammanhanget ska svensk fotbolls värdegrund också ses:
 
-<details>
-
-<summary><strong>Vi vill varandras framgång</strong></summary>
-
-* Vi samarbetar för att hitta lösningar som bidrar till att utveckla svensk fotboll.
-* Vi lyssnar till varandras kunskaper och åsikter och engagerar oss i svensk fotbolls gemensamma frågor.
-
-</details>
+{% include "../.gitbook/includes/fotbollens-vardegrund.md" %}
 
 <details>
 
