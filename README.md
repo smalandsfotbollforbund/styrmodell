@@ -1,4 +1,23 @@
-# Vår styrmodell
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+---
+
+# VÅR STYRMODELL
 
 Denna webbplats samlar allt som beskriver hur Smålands Fotbollförbund styrs, leds och utvecklas. Här hittar du svar på hur organisationen är uppbyggd, vem som ansvarar för vad och hur beslut fattas.
 
