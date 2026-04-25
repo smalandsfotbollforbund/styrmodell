@@ -20,13 +20,7 @@ RF:s idéprogram “Idrotten vill” sammanfattar idrottens värdegrund i fyra k
 
 **Rent spel** Idrotten ska präglas av ärlighet, respekt och ansvar. Det innebär att regler och beslut respekteras, att motståndare och domare behandlas värdigt och att verksamheten bedrivs fritt från fusk, doping och matchfixning.
 
-<details>
-
-<summary><strong>Glädje och gemenskap</strong></summary>
-
-Idrotten ska skapa glädje, engagemang och tillhörighet. För fotbollens del handlar det om känslan på träningen, i omklädningsrummet och på match — men också om gemenskapen i föreningslivet och distriktet som helhet.
-
-</details>
+{% include "../.gitbook/includes/idrottens-karnvarden.md" %}
 
 <details>
 
