@@ -14,8 +14,6 @@ Visionen är en inspirerande bild av framtiden som vägleder våra beslut och ha
 {% endtab %}
 
 {% tab title="Mission" %}
-
-
 ### Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.
 
 Vi är till för föreningarna. För spelarna, ledarna och domarna – med rötter i gräsroten och blicken mot framtiden. Vi skapar förutsättningar för att de ska lyckas med sitt. Det gör vi genom utbildning, stöd och samordning. Vi arbetar också för att fotbollen ska vara trygg, jämlik och fri från fusk. För vi tror att fotbollen, rätt använd, gör människor och samhällen bättre. Tillsammans med föreningar, kommuner och andra samhällsaktörer skapar vi goda förutsättningar för att fotbollen ska blomstra – på ett sätt som bygger både människor och gemenskap.
