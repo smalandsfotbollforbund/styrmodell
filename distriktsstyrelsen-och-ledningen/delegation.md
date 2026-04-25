@@ -2,94 +2,59 @@
 
 ## Syfte
 
-Detta dokument beskriver de övergripande principer som ska gälla för delegering inom Smålands Fotbollförbund.
+Detta dokument beskriver hur delegation fungerar i Smålands Fotbollförbund och vilka principer som gäller.
 
-Syftet är att skapa tydlighet i hur beslutanderätt får fördelas, vilka krav som gäller för delegering och hur delegerade beslut ska dokumenteras, följas upp och återrapporteras.
+-----
 
-***
+## Vad är delegation?
 
-## Vad delegering innebär
+Delegation innebär att ett organ eller en funktion med beslutanderätt överlåter rätten att fatta beslut i vissa typer av ärenden till ett annat organ eller en annan funktion.
 
-Delegering innebär att ett organ eller en funktion med beslutanderätt överför rätt att fatta beslut i vissa typer av ärenden till ett annat organ eller en annan funktion.
+Delegation gör det möjligt för styrelsen att fokusera på strategisk ledning, för kommittéerna att hantera ämnesspecifika frågor med rätt kompetens och för distriktschefen att verkställa och driva verksamheten effektivt. Rätt använd skapar delegation tydlighet och effektivitet — fel använd skapar gråzoner och otydlighet.
 
-Delegering innebär aldrig att det övergripande ansvaret övergår. Den som delegerar behåller ansvar för att delegationen är tydlig, lämplig och följs upp. Att delegera bort genomförande är möjligt — att delegera bort ansvar är det inte.
+-----
 
-***
+## Vad delegation inte innebär
 
-## Varför delegering behövs
+Delegation innebär aldrig att det övergripande ansvaret övergår. Den som delegerar behåller ansvaret för att:
 
-Rätt använd gör delegering att styrelsen kan fokusera på strategisk ledning, att kommittéerna kan hantera ämnesspecifika frågor med erforderlig kompetens och att distriktschefen och kansliet kan verkställa och driva verksamheten effektivt. Delegering är ett verktyg för tydlighet, inte ett sätt att kringgå beslutsordningen.
+- delegationen är tydlig och lämplig
+- delegaten har förutsättningar att utöva mandatet
+- delegerade beslut följs upp och återrapporteras
+- delegationen kan återkallas om förutsättningarna ändras
 
-***
+-----
 
 ## Grundprinciper
 
-### 1. Delegering ska ha stöd i styrmodellen
+**Delegering ska vara skriftlig** — delegation ska dokumenteras i arbetsordning, delegationsordning eller protokollfört styrelsebeslut. Det ska alltid framgå vem som delegerar, till vem, för vilka ärenden, med vilka begränsningar och hur återrapportering sker.
 
-Ingen delegering får ske på ett sätt som strider mot stadgarna eller mot SmFF:s grundläggande ansvarsfördelning. Frågor som stadgarna lägger på ett specifikt organ kan inte delegeras bort från det organet.
+**Delegering ska vara tydlig och avgränsad** — vaga delegationer skapar gråzoner. En delegation ska vara tillräckligt konkret för att delegaten ska kunna tillämpa den.
 
-### 2. Delegering ska vara skriftlig
+**Delegering ska följas upp** — delegerade beslut ska återrapporteras till det organ som delegerat, normalt vid nästkommande ordinarie sammanträde.
 
-Delegering ska alltid dokumenteras i ett styrdokument, en arbetsordning, en delegationsordning eller ett protokollfört styrelsebeslut. Muntlig eller informell delegering är inte giltig i styrmodellen.
+**Inget kan delegeras utöver det egna mandatet** — man kan inte delegera mer än vad man själv har rätt att besluta om.
 
-Det ska alltid gå att förstå: vem som delegerar, vem som är delegat, vilka ärenden som omfattas, vilka begränsningar som gäller och hur återrapportering ska ske.
-
-### 3. Delegering ska vara tydlig och avgränsad
-
-Vaga eller övergripande delegationer skapar gråzoner. Delegering ska vara tillräckligt konkret för att delegaten ska kunna tillämpa den och för att organisationen ska kunna följa upp den.
-
-### 4. Delegering ska vara spårbar
-
-Det ska i efterhand gå att följa vilket beslut som fattats, av vem, när och med stöd av vilket mandat. Brist på spårbarhet är en brist i intern kontroll.
-
-### 5. Delegering ska följas upp
-
-Delegerade beslut ska återrapporteras och kunna granskas av det organ som delegerat. Som huvudregel sker återrapportering vid nästkommande ordinarie sammanträde.
-
-***
+-----
 
 ## Vad som normalt inte delegeras
 
-Följande typer av frågor ska som huvudregel inte delegeras:
+Som huvudregel delegeras inte: frågor som stadgarna lägger på demokratiska organ, beslut om övergripande strategi och prioriteringar, fastställande av styrande dokument, beslut av större principiell eller ekonomisk betydelse.
 
-* frågor som stadgarna lägger på årsmöte eller representantskap
-* beslut om övergripande strategi och prioriteringar
-* beslut om organisationens grundstruktur
-* fastställande av övergripande styrande dokument
-* beslut av större principiell eller ekonomisk betydelse
-* ansvarsfrihetsfrågor
+-----
 
-***
+## Delegering i praktiken
 
-## Vad som normalt kan delegeras
+**Styrelse till kommitté** — styrelsen kan delegera beslutanderätt i tydligt definierade sakfrågor inom kommitténs ansvarsområde, kombinerat med krav på återrapportering.
 
-Följande typer av frågor kan delegeras inom tydliga ramar:
+**Styrelse till presidiet** — om presidiet ges beslutsmandat ska det vara tydligt reglerat i styrelsens arbetsordning.
 
-* ämnesspecifika sakfrågor inom kommittéernas verksamhetsområden
-* löpande beslut i tävlings-, utbildnings-, förenings-, domar- och anläggningsfrågor
-* administrativa och operativa verkställighetsbeslut
-* brådskande beslut inom angivna ramar
+**Styrelse till distriktschefen** — styrelsen kan delegera beslutanderätt i frågor som rör löpande förvaltning och operativ ledning.
 
-***
+**Brådskande beslut** — i undantagsfall kan beslut behöva fattas innan ordinarie organ hinner sammanträda. Sådana beslut ska dokumenteras noggrant och återrapporteras vid nästkommande sammanträde.
 
-## Delegering mellan nivåerna
+-----
 
-**Styrelse till kommitté** — styrelsen kan delegera beslutanderätt i tydligt definierade sakfrågor inom kommitténs ansvarsområde. Det ska kombineras med tydliga ramar, krav på återrapportering och möjlighet till uppföljning.
+## Delegationsordningen
 
-**Styrelse till distriktschef** — styrelsen kan delegera beslutanderätt i frågor som rör löpande förvaltning och operativ ledning. Detta ska inte förväxlas med distriktschefens allmänna ansvar att verkställa styrelsens beslut.
-
-**Styrelse till presidiet** — om presidiet ges beslutsmandat ska det vara tydligt reglerat i styrelsens arbetsordning. Presidiet ska inte bli en informell genväg för frågor som borde avgöras av styrelsen.
-
-**Kommitté till personal** — om en kommitté vidaredelegerar eller om delegation uttryckligen lagts till personal i kommitténs arbets- och delegationsordning, ska detta vara dokumenterat och återrapporterat.
-
-***
-
-## Brådskande beslut
-
-I undantagsfall kan beslut behöva fattas innan ordinarie organ hinner sammanträda. Sådana beslut ska vara tydligt avgränsade, dokumenteras noggrant och återrapporteras vid nästkommande ordinarie sammanträde. Brådskande beslut är ett undantag och ska inte bli ett normalt arbetssätt.
-
-***
-
-## Delegering och intern kontroll
-
-Delegering och intern kontroll hänger tätt samman. En välformad delegering skapar tydlighet och spårbarhet. En otydlig delegering skapar gråzoner och risker. Delegationsprinciperna i detta dokument ska därför alltid läsas tillsammans med dokumentet om [intern kontroll och attest](/broken/pages/BNaQDiz2VOIuGH6EQc63).
+Den faktiska delegationsordningen — som specificerar vilka beslut som delegerats till vilka funktioner — finns som styrdokument på [dokument.smaland.football](https://dokument.smaland.football). Styrmodellen beskriver principerna; delegationsordningen specificerar vad som faktiskt gäller.
