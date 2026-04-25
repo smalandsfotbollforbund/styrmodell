@@ -50,7 +50,7 @@ I styrmodellen ska verksamhetsidén koppla strategi till organisation. Den hjäl
 
 Vision, mission och verksamhetsidé ska förstås i linje med SmFF:s folkrörelseförankring och den småländska identiteten. De ska inte bara användas som kommunikationsformuleringar utan som verklig riktning för hur organisationen styrs, prioriterar och verkar.
 
-Strategihusets vidare konkretisering av dessa nivåer beskrivs i dokumentet om [strategihuset](../tidigare/07-strategi-och-operativt-uppdrag/02-strategihuset.md).
+Strategihusets vidare konkretisering av dessa nivåer beskrivs i dokumentet om [strategihuset](/broken/pages/HWkuYqzloVG7FTVJvoLM).
 
 ***
 

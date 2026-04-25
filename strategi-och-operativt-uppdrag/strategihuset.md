@@ -58,4 +58,4 @@ Strategihuset ska hjälpa SmFF att välja vad som är viktigast att fokusera på
 
 Strategihuset ska inte bara användas i planering utan också i uppföljning. SmFF ska löpande kunna följa upp om prioriteringarna avspeglas i verksamheten, om aktiviteter drar åt rätt håll och om organisationens resurser används i linje med den beslutade strategin.
 
-Hur uppföljning kopplar till den löpande rytmen i verksamhetsåret beskrivs i dokumentet om [planering, uppföljning och årscykel](../tidigare/07-strategi-och-operativt-uppdrag/04-planering-uppfoljning-och-arscykel.md).
+Hur uppföljning kopplar till den löpande rytmen i verksamhetsåret beskrivs i dokumentet om [planering, uppföljning och årscykel](/broken/pages/Yty0VvwGP4M52MGfJknZ).
