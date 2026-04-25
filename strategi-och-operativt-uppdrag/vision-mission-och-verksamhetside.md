@@ -18,6 +18,8 @@ SmFF:s strategiska identitet uttrycks i tre nivåer som beslutats av distriktets
 
 **Verksamhetsidé — vad vi är och hur vi verkar:** _Smålands Fotbollförbund är en sammanhållande kraft för fotbollen i Småland – ett nav för stöd, samverkan och utveckling._
 
+{% include "../.gitbook/includes/vision-mission-och-verksamhetside.md" %}
+
 ***
 
 ## Vision

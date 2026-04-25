@@ -20,6 +20,26 @@ RF:s idéprogram “Idrotten vill” sammanfattar idrottens värdegrund i fyra k
 
 **Rent spel** Idrotten ska präglas av ärlighet, respekt och ansvar. Det innebär att regler och beslut respekteras, att motståndare och domare behandlas värdigt och att verksamheten bedrivs fritt från fusk, doping och matchfixning.
 
+{% tabs %}
+{% tab title="Glädje och gemenskap" %}
+
+{% endtab %}
+
+{% tab title="Demokrati och delaktighet" %}
+
+{% endtab %}
+
+{% tab title="Allas rätt att vara med" %}
+
+{% endtab %}
+
+{% tab title="Rent spel" %}
+## Rent spel
+
+Idrotten ska präglas av ärlighet, respekt och ansvar. Det innebär att regler och beslut respekteras, att motståndare och domare behandlas värdigt och att verksamheten bedrivs fritt från fusk, doping och matchfixning.
+{% endtab %}
+{% endtabs %}
+
 ***
 
 ## Värdegrunden i SmFF:s vardag
