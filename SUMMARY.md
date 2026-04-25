@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Vår styrmodell](README.md)
+* [VÅR STYRMODELL](README.md)
 
 ## Introduktion
 
