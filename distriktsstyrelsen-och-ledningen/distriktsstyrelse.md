@@ -1,10 +1,16 @@
-# Distriktsstyrelsen
+---
+description: >-
+  Leder SmFF mellan de demokratiska mötena. Sammansättning, fem huvudfunktioner
+  och gränser uppåt och nedåt.
+---
+
+# Distriktsstyrelse
 
 Distriktsstyrelsen är SmFF:s högsta beslutande organ när de demokratiska organen inte är samlade. Den leder distriktet mellan mötena — inom de ramar stadgar och demokratiska beslut sätter. Aldrig utanför dem.
 
 Styrelsens mandat är ett förtroendeuppdrag från föreningarna. Det är inte ett fristående mandat.
 
------
+***
 
 ## Sammansättning
 
@@ -12,7 +18,7 @@ Styrelsen består av distriktsordförande och sex övriga ledamöter. Hälften a
 
 Styrelsen är beslutsmässig när alla ledamöter kallats och minst hälften är närvarande. Kallelse ska gå ut minst två veckor före mötet.
 
------
+***
 
 ## Fem huvudfunktioner
 
@@ -26,13 +32,13 @@ Styrelsen är beslutsmässig när alla ledamöter kallats och minst hälften är
 
 **Uppföljning** — följer upp verksamhet, ekonomi, måluppfyllelse och intern kontroll. Uppföljning är inte en formalitet — det är en förutsättning för att styrningen ska fungera.
 
------
+***
 
 ## Vad styrelsen inte bör ta över
 
 Frågor som hör hemma på demokratisk nivå ska stanna där. Frågor som delegerats till kommitté eller distriktschef ska inte övertäckas. Löpande drift och operativa beslut hör till distriktschefen.
 
------
+***
 
 ## Styrelsens arbetsordning
 

@@ -1,8 +1,14 @@
-# Förhållandet till RF, SvFF och RF-SISU Småland
+---
+description: >-
+  Hur SmFF förhåller sig till Riksidrottsförbundet, Svenska Fotbollförbundet och
+  distriktidrottsförbundet RF-SISU Småland.
+---
+
+# Förhållande till RF, SvFF och RF-SISU
 
 SmFF verkar inte isolerat. Distriktet är en del av ett system av organisationer som sätter ramar, ger uppdrag och samverkar. Att förstå dessa relationer är att förstå varför styrmodellen ser ut som den gör.
 
------
+***
 
 ## Riksidrottsförbundet (RF)
 
@@ -10,7 +16,7 @@ RF är den svenska idrottsrörelsens samlande organisation. SmFF är inte direkt
 
 RF påverkar SmFF genom stadgar som sätter de yttersta ramarna för hur idrottsföreningar och förbund får organiseras, rekommendationer som vägledning för demokratisk styrning och god förvaltning, och bidragssystem som i sin tur påverkar vår finansiering via SvFF och DF.
 
------
+***
 
 ## Svenska Fotbollförbundet (SvFF)
 
@@ -20,7 +26,7 @@ SvFF påverkar SmFF genom stadgar som fastställer hur SDF ska vara organiserade
 
 SmFF är ett av sexton SDF inom svensk fotboll och är geografiskt tillhörigt Götalands Fotbollförbunds region.
 
------
+***
 
 ## RF-SISU Småland (DF)
 
@@ -28,7 +34,7 @@ RF-SISU Småland är distriktidrottsförbundet — RF:s och SISU:s gemensamma re
 
 Relationen präglas av samverkan: samverkansplanen reglerar det gemensamma arbetet under verksamhetsåret, DF är en viktig partner i utbildning och föreningsutveckling, DF administrerar delar av det statliga bidraget till föreningarna, och DF har stadgeenlig rätt att utse ytterligare en revisor i SmFF.
 
------
+***
 
 ## Självständighet inom ramarna
 

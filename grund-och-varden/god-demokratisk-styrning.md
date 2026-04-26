@@ -1,8 +1,14 @@
+---
+description: >-
+  RF:s rekommendation om god demokratisk styrning och vad den innebär konkret
+  för SmFF:s processer, organ och kultur.
+---
+
 # God demokratisk styrning
 
 RF har tagit fram en rekommendation för god demokratisk styrning av idrottsförbund. Den är vägledande — inte tvingande som stadgarna — men SmFF ska aktivt sträva efter att leva upp till den. Det är inte ett minimikrav. Det är ett kvalitetskrav.
 
------
+***
 
 ## Vad det innebär
 
@@ -10,7 +16,7 @@ God demokratisk styrning handlar om att organisationens processer för beslut, s
 
 Det handlar lika mycket om kultur som om struktur.
 
------
+***
 
 ## Sju nyckelområden
 
@@ -28,7 +34,7 @@ Det handlar lika mycket om kultur som om struktur.
 
 **Självutvärdering och granskning** — styrelsen ska granska sitt demokratiska arbete. Lekmannarevisionen har ett särskilt ansvar att bedöma om organisationen lever upp till principerna för god demokratisk styrning.
 
------
+***
 
 ## God styrning är ett pågående arbete
 

@@ -1,8 +1,14 @@
+---
+description: >-
+  Vem som genomför fattade beslut, hur uppföljning av verkställighet fungerar
+  och vad som gäller vid brådska.
+---
+
 # Verkställighet
 
 Ett fattat beslut är inte genomfört förrän det är verkställt. Verkställighet innebär att genomföra det som beslutats — inom den tid, med de resurser och på det sätt som beslutet anger.
 
------
+***
 
 ## Vem verkställer
 
@@ -12,7 +18,7 @@ Ett fattat beslut är inte genomfört förrän det är verkställt. Verkställig
 
 Förtroendevalda beslutar och styr — anställda genomför. Det är en grundläggande rolldelning.
 
------
+***
 
 ## Uppföljning av verkställighet
 
@@ -20,7 +26,7 @@ Fattade beslut som inte verkställts ska noteras aktivt och hanteras. Det är st
 
 Beslut bör normalt följas upp vid nästkommande ordinarie sammanträde. Väsentliga avvikelser eller hinder för verkställighet ska rapporteras omgående.
 
------
+***
 
 ## Brådskande verkställighet
 

@@ -1,10 +1,16 @@
-# Verksamhetsområden
+---
+description: >-
+  Det operativa uppdraget från SvFF med basuppgiftsområden som definierar vad
+  SmFF faktiskt gör i vardagen.
+---
+
+# Verksamhetsområden och basuppgifter
 
 Verksamhetsområdena är det operativa uppdraget — vad SmFF faktiskt gör i vardagen. De hämtas från basuppgifterna som SvFF och SDF gemensamt definierat och som utgör den miniminivå av arbete distriktet ska genomföra.
 
 Basuppgifternas syfte är att säkerställa att föreningar i hela landet får likvärdigt och kontinuerligt stöd, oavsett vilket SDF de tillhör.
 
------
+***
 
 ## SmFF:s fem verksamhetsområden
 
@@ -18,13 +24,13 @@ Basuppgifternas syfte är att säkerställa att föreningar i hela landet får l
 
 **Våra resurser** — opinion, anläggningar, styrning, HR, ekonomi, digitalisering, IT och ekonomiska resurser.
 
------
+***
 
 ## Basuppgifter och strategisk profilering
 
-Basuppgifterna anger vad SmFF *måste* genomföra som grundservice. Utöver det kan distriktet prioritera strategiska initiativ i linje med strategihuset. Det är viktigt att hålla isär vad som är grundservice och vad som är egenprofil — annars riskerar grunduppdraget att inte bäras med tillräcklig kraft.
+Basuppgifterna anger vad SmFF _måste_ genomföra som grundservice. Utöver det kan distriktet prioritera strategiska initiativ i linje med strategihuset. Det är viktigt att hålla isär vad som är grundservice och vad som är egenprofil — annars riskerar grunduppdraget att inte bäras med tillräcklig kraft.
 
------
+***
 
 ## Kommittéerna och verksamhetsområdena
 

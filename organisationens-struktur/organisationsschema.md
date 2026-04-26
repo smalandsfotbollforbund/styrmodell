@@ -1,20 +1,24 @@
+---
+description: >-
+  Visuell och textuell översikt av SmFF:s organisation med mandat- och
+  rapporteringsvägar.
+---
+
 # Organisationsschema
 
-*[Organisationsschema infogas som bild. Schemat visar de fem nivåerna med demokratiska organ, distriktsstyrelsen, presidiet, de fem kommittéerna, distriktschefen, kansliet, disciplinnämnden, valberedningen och revisionen — med pilar som visar mandat och rapporteringsvägar.]*
+_\[Organisationsschema infogas som bild. Schemat visar de fem nivåerna med demokratiska organ, distriktsstyrelsen, presidiet, de fem kommittéerna, distriktschefen, kansliet, disciplinnämnden, valberedningen och revisionen — med pilar som visar mandat och rapporteringsvägar.]_
 
------
+***
 
 ## Organisationens delar
 
 ### Demokratiska organ
 
-**Årsmötet** — distriktets högsta beslutande organ.
-**Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
+**Årsmötet** — distriktets högsta beslutande organ. **Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
 
 ### Strategisk nivå
 
-**Distriktsstyrelsen** — sju ledamöter inklusive ordförande. Väljs av årsmötet.
-**Presidiet** — inrättas av styrelsen vid behov.
+**Distriktsstyrelsen** — sju ledamöter inklusive ordförande. Väljs av årsmötet. **Presidiet** — inrättas av styrelsen vid behov.
 
 ### Taktisk nivå
 
@@ -28,7 +32,7 @@ Fem stadgeenliga kommittéer: anläggningskommittén, domarkommittén, förening
 
 **Valberedningen**, **revisionen**, **lekmannarevisionen**, **disciplinnämnden**.
 
------
+***
 
 ## Mandat och rapportering
 
@@ -40,6 +44,6 @@ Pilarna i schemat visar tre riktningar:
 
 **Sidled (samverkan)** — distriktschefen och kommittéerna samverkar i genomförande. Granskande organ verkar oberoende av det de granskar.
 
------
+***
 
-Mer om varje del finns i [Styrarkitekturen](styrarkitekturen.md) och [Ansvar och roller](ansvar-och-roller.md).
+Mer om varje del finns i [Styrarkitekturen](styrarkitektur.md) och [Ansvar och roller](ansvar-och-roller.md).

@@ -1,3 +1,9 @@
+---
+description: >-
+  Vilka dokument och beslut som väger tyngst när det uppstår oklarheter; från
+  RF:s stadgar till processbeskrivningar.
+---
+
 # Normordning
 
 När regler, beslut eller dokument pekar i olika riktningar gäller normordningen — en rangordning som avgör vad som väger tyngst. Det är ett av styrmodellens viktigaste verktyg för att lösa oklarheter och förebygga konflikter.

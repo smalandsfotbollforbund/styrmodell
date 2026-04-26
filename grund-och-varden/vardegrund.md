@@ -1,3 +1,9 @@
+---
+description: >-
+  Glädje och gemenskap, demokrati och delaktighet, allas rätt att vara med, rent
+  spel och barnkonventionen som svensk lag.
+---
+
 # Värdegrund
 
 Vår värdegrund härleds till fotbollens värdegrund som bygger på idrottens fyra gemensamma kärnvärden. Dessa omfattar distriktet och alla föreningar som är medlemmar.
@@ -48,4 +54,4 @@ Barnrättsperspektivet är inte ett separat program. Det ska genomsyra hela verk
 
 ## När värdegrunden åsidosätts
 
-Förseelser mot värdegrunden hanteras via [Disciplinnämnden](../granskande-funktioner/disciplinnamnden.md) och SmFF:s arbete med [trygg idrott](https://dokument.smaland.football/policyer/trygg-idrott). Konsekvenserna regleras av RF:s stadgar och SvFF:s regelverk.
+Förseelser mot värdegrunden hanteras via [Disciplinnämnden](../granskande-funktioner/disciplinnamnd.md) och SmFF:s arbete med [trygg idrott](https://dokument.smaland.football/policyer/trygg-idrott). Konsekvenserna regleras av RF:s stadgar och SvFF:s regelverk.

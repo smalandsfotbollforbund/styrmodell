@@ -1,16 +1,22 @@
+---
+description: >-
+  Principerna bakom tvåstegsprincipen, sakattest och slutattest och varför
+  intern kontroll stärker förtroendet.
+---
+
 # Intern kontroll och attest
 
 Intern kontroll är inte ett tecken på misstro — det är ett kännetecken på en välskött organisation. Det skapar trygghet för förtroendevalda, tjänstepersoner, föreningar och revisorer, och stärker den demokratiska legitimiteten.
 
 RF:s rekommendation anger att styrelsen ansvarar för att det finns ändamålsenliga system för uppföljning och kontroll, och att den finansiella rapporteringen är korrekt.
 
------
+***
 
 ## Vad intern kontroll omfattar
 
 Intern kontroll i SmFF är inte begränsat till ekonomi. Det handlar om hela styrkedjan: ekonomi och attest, delegation och beslutsfattande, dokumentation och protokoll, uppföljning och återrapportering, ansvarsfördelning och efterlevnad av styrande dokument.
 
------
+***
 
 ## Fem grundprinciper
 
@@ -24,7 +30,7 @@ Intern kontroll i SmFF är inte begränsat till ekonomi. Det handlar om hela sty
 
 **Proportionerliga kontroller** — robusta nog för trygghet, men inte onödigt komplicerade i förhållande till organisationens storlek.
 
------
+***
 
 ## Attest
 
@@ -36,6 +42,6 @@ Attest är kärnan i den ekonomiska interna kontrollen. Grundprincipen är **tv�
 
 Vid distriktschefens frånvaro ska en fastställd backup-ordning gälla — dokumenterad och känd i förväg.
 
------
+***
 
 Den detaljerade attestordningen och delegationsordningen för ekonomiska befogenheter finns under [Dokument](https://dokument.smaland.football/instruktioner/attestordning).

@@ -1,14 +1,20 @@
+---
+description: >-
+  Hur beslutanderätt får överlåtas, vad som gäller och vad som normalt aldrig
+  delegeras.
+---
+
 # Delegation
 
 Delegation innebär att ett organ med beslutanderätt överlåter rätten att fatta beslut i vissa frågor till ett annat organ eller en tjänsteperson. Rätt använd skapar delegation tydlighet och effektivitet. Fel använd skapar gråzoner och otydlighet.
 
------
+***
 
 ## Vad delegation inte innebär
 
 Delegation innebär aldrig att det övergripande ansvaret övergår. Den som delegerar behåller ansvaret för att delegationen är tydlig, lämplig och följs upp. Man kan delegera utförande — inte ansvar.
 
------
+***
 
 ## Grundprinciper
 
@@ -20,13 +26,13 @@ Delegation innebär aldrig att det övergripande ansvaret övergår. Den som del
 
 **Uppföljd** — delegerade beslut ska återrapporteras, normalt vid nästkommande ordinarie sammanträde.
 
------
+***
 
 ## Vad som normalt inte delegeras
 
 Frågor som stadgarna lägger på de demokratiska organen, övergripande strategiska prioriteringar, fastställande av styrande dokument, beslut av principiell eller stor ekonomisk betydelse och ansvarsfrihetsfrågor.
 
------
+***
 
 ## Delegering i praktiken
 
@@ -38,6 +44,6 @@ Frågor som stadgarna lägger på de demokratiska organen, övergripande strateg
 
 Brådskande beslut — per capsulam — är ett undantag, inte ett normalt arbetssätt. Sådana beslut ska dokumenteras och anmälas vid nästkommande möte.
 
------
+***
 
 Den faktiska delegationsordningen finns under [Dokument](https://dokument.smaland.football/delegationsordningar).

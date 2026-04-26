@@ -1,10 +1,16 @@
-# Presidiet
+---
+description: >-
+  Liten grupp ur styrelsen för beredande eller delegerade uppgifter, men inte
+  ett parallellt beslutsorgan.
+---
+
+# Presidium
 
 Presidiet är en mindre grupp ur distriktsstyrelsen — ett verktyg för styrelsen att organisera sitt arbete effektivt, inte ett parallellt beslutsorgan.
 
 Stadgarna anger att styrelsen kan inrätta ett presidium och att antalet ledamöter ska vara färre än hälften av styrelsens numerär.
 
------
+***
 
 ## Presidietets roller
 
@@ -12,7 +18,7 @@ Stadgarna anger att styrelsen kan inrätta ett presidium och att antalet ledamö
 
 **Delegerad beslutsfunktion** — styrelsen kan delegera beslutanderätt i tydligt avgränsade frågor. Ett konkret exempel är bidrags- och projektärenden, där presidiet agerar beslutande instans på delegation. All delegering till presidiet ska vara skriftligt beslutad av styrelsen och framgå av arbetsordningen.
 
------
+***
 
 ## Vad presidiet inte är
 

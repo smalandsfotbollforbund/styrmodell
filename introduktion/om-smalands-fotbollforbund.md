@@ -62,4 +62,4 @@ Vi arbetar utifrån en vision, mission och verksamhetsidé beslutad av förening
 
 {% include "../.gitbook/includes/vision-mission-och-verksamhetside.md" %}
 
-Mer om strategi och riktning finns under [Strategihuset](../strategi-och-operativt-uppdrag/strategihuset.md).
+Mer om strategi och riktning finns under [Strategihuset](../strategi-och-operativt-uppdrag/strategihus.md).

@@ -19,44 +19,44 @@
 
 ## Organisationens struktur
 
-* [Styrarkitekturen](organisationens-struktur/styrarkitekturen.md)
+* [Styrarkitektur](organisationens-struktur/styrarkitektur.md)
 * [Ansvar och roller](organisationens-struktur/ansvar-och-roller.md)
 * [Organisationsschema](organisationens-struktur/organisationsschema.md)
 * [Förhållande till RF, SvFF och RF-SISU](organisationens-struktur/forhallande-till-rf-svff-och-rf-sisu.md)
 
 ## Demokratisk styrning
 
-* [Årsmötet](demokratisk-styrning/arsmotet.md)
-* [Representantskapet](demokratisk-styrning/representantskapet.md)
+* [Årsmöte](demokratisk-styrning/arsmote.md)
+* [Representantskap](demokratisk-styrning/representantskap.md)
 * [Val, ombud och rösträtt](demokratisk-styrning/val-ombud-och-rostratt.md)
 * [Motioner och initiativrätt](demokratisk-styrning/motioner-och-initiativratt.md)
 * [Demokratisk legitimitet och medlemsinflytande](demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md)
 
 ## Distriktsstyrelsen och ledningen
 
-* [Distriktsstyrelsen](distriktsstyrelsen-och-ledningen/distriktsstyrelsen.md)
-* [Presidiet](distriktsstyrelsen-och-ledningen/presidiet.md)
+* [Distriktsstyrelse](distriktsstyrelsen-och-ledningen/distriktsstyrelse.md)
+* [Presidium](distriktsstyrelsen-och-ledningen/presidium.md)
 * [Hedersordförande och hedersledamot](distriktsstyrelsen-och-ledningen/hedersordforande-och-hedersledamot.md)
-* [Distriktschefen](distriktsstyrelsen-och-ledningen/distriktschefen.md)
-* [Kansliet](distriktsstyrelsen-och-ledningen/kansliet.md)
+* [Distriktschef](distriktsstyrelsen-och-ledningen/distriktschef.md)
+* [Kansli](distriktsstyrelsen-och-ledningen/kansli.md)
 * [Delegation](distriktsstyrelsen-och-ledningen/delegation.md)
 * [Intern kontroll och attest](distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
 
 ## Kommittéer och arbetsgrupper
 
-* [Kommittémodellen](kommitteer-och-arbetsgrupper/kommittemodellen.md)
+* [Kommittéer](kommitteer-och-arbetsgrupper/kommitteer.md)
 * [Arbetsgrupper](kommitteer-och-arbetsgrupper/arbetsgrupper.md)
 * [Referensgrupper](kommitteer-och-arbetsgrupper/referensgrupper.md)
 
 ## Granskande funktioner
 
-* [Valberedningen](granskande-funktioner/valberedningen.md)
+* [Valberedning](granskande-funktioner/valberedning.md)
 * [Revision och lekmannarevision](granskande-funktioner/revision-och-lekmannarevision.md)
-* [Disciplinnämnden](granskande-funktioner/disciplinnamnden.md)
+* [Disciplinnämnd](granskande-funktioner/disciplinnamnd.md)
 
 ## Strategi och operativt uppdrag
 
-* [Strategihuset](strategi-och-operativt-uppdrag/strategihuset.md)
+* [Strategihus](strategi-och-operativt-uppdrag/strategihus.md)
 * [Vision, mission och verksamhetsidé](strategi-och-operativt-uppdrag/vision-mission-och-verksamhetside.md)
 * [Strategiska inriktningar](strategi-och-operativt-uppdrag/strategiska-inriktningar.md)
 * [Prioriteringar och mål](strategi-och-operativt-uppdrag/prioriteringar-och-mal.md)

@@ -1,8 +1,14 @@
-# Styrarkitekturen
+---
+description: >-
+  SmFF:s fem nivåer, demokratisk, strategisk, taktisk, operativ och granskande,
+  samt hur de förhåller sig till varandra.
+---
+
+# Styrarkitektur
 
 SmFF:s organisation är uppdelad i fem nivåer. Varje nivå har ett tydligt syfte och tydliga gränser mot de andra. Att förstå nivåerna är att förstå hur organisationen fungerar.
 
------
+***
 
 ## De fem nivåerna
 
@@ -42,21 +48,17 @@ Självständig i förhållande till den löpande styrningen. Granskar, kontrolle
 
 **Valberedningen** bereder val. **Revision och lekmannarevision** granskar ekonomi och verksamhet. **Disciplinnämnden** prövar bestraffningsärenden.
 
------
+***
 
 ## Fem typer av ansvar
 
 Dessa ansvarstyper används genomgående i styrmodellen:
 
-**Besluta** — fatta formella beslut inom tilldelat mandat.
-**Bereda** — utreda och lämna förslag inför beslut.
-**Verkställa** — genomföra fattade beslut.
-**Följa upp** — mäta, analysera och återrapportera.
-**Granska** — oberoende pröva om styrning och verksamhet fungerar som avsett.
+**Besluta** — fatta formella beslut inom tilldelat mandat. **Bereda** — utreda och lämna förslag inför beslut. **Verkställa** — genomföra fattade beslut. **Följa upp** — mäta, analysera och återrapportera. **Granska** — oberoende pröva om styrning och verksamhet fungerar som avsett.
 
 Samma funktion bör normalt inte ensam bära fler steg i samma kedja — särskilt inte beslut och granskning, eller initiering och slutattest.
 
------
+***
 
 ## Gränsdragningar som ska värnas
 

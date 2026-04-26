@@ -1,3 +1,9 @@
+---
+description: >-
+  SmFF ägs av sina medlemsföreningar, styrs demokratiskt och drivs ideellt. Det
+  är folkrörelsens kärna och grunden för allt vi gör.
+---
+
 # Folkrörelseprincip
 
 Smålands Fotbollförbund är ingen myndighet, inget företag och ingen förening tillhörig en enda ägare. Det är en folkrörelse; en fri och frivillig sammanslutning av föreningar som delar gemensamma värden och arbetar mot ett gemensamt mål.

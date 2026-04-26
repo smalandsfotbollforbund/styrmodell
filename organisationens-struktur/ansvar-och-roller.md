@@ -1,8 +1,14 @@
+---
+description: >-
+  Alla roller i organisationen, skillnaden mellan förtroendevalda och anställda,
+  och de fem typerna av ansvar.
+---
+
 # Ansvar och roller
 
 SmFF:s organisation bärs av förtroendevalda och anställda. Det är en viktig distinktion — de har olika mandat, olika ansvar och olika förhållande till organisationen.
 
------
+***
 
 ## Förtroendevalda och anställda
 
@@ -12,39 +18,31 @@ SmFF:s organisation bärs av förtroendevalda och anställda. Det är en viktig 
 
 Dessa roller ska inte blandas samman. Anställda tar inte över förtroendevaldas ansvar. Förtroendevalda detaljstyr inte de anställdas operativa arbete.
 
------
+***
 
 ## Roller i organisationen
 
 ### Demokratiska organ
 
-**Årsmötet** — beslutar i frågor som stadgarna lägger där. Väljer och granskar.
-**Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
+**Årsmötet** — beslutar i frågor som stadgarna lägger där. Väljer och granskar. **Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
 
 ### Strategisk nivå
 
-**Distriktsstyrelsen** — strategisk ledning, ansvar, delegation och uppföljning.
-**Distriktsordföranden** — leder styrelsens arbete. Primär kontakt för distriktschefen i det löpande.
-**Presidiet** — bereder och hanterar delegerade uppgifter.
+**Distriktsstyrelsen** — strategisk ledning, ansvar, delegation och uppföljning. **Distriktsordföranden** — leder styrelsens arbete. Primär kontakt för distriktschefen i det löpande. **Presidiet** — bereder och hanterar delegerade uppgifter.
 
 ### Taktisk nivå
 
-**Kommittéordföranden** — leder sin kommittés arbete. Rapporterar till styrelsen.
-**Kommittéledamoten** — bidrar aktivt i beredning, prioritering och uppföljning.
+**Kommittéordföranden** — leder sin kommittés arbete. Rapporterar till styrelsen. **Kommittéledamoten** — bidrar aktivt i beredning, prioritering och uppföljning.
 
 ### Operativ nivå
 
-**Distriktschefen** — leder den löpande verksamheten. Personalansvar för kansliet. Anställd av styrelsen.
-**Kansliet** — verkställer, administrerar och stödjer hela organisationen.
+**Distriktschefen** — leder den löpande verksamheten. Personalansvar för kansliet. Anställd av styrelsen. **Kansliet** — verkställer, administrerar och stödjer hela organisationen.
 
 ### Granskande funktioner
 
-**Valberedningen** — bereder val. Rapporterar till och är vald av årsmötet.
-**Revisorn** — granskar räkenskaper och förvaltning.
-**Lekmannarevisorn** — granskar verksamhetens ändamålsenlighet och intern kontroll.
-**Disciplinnämnden** — prövar bestraffningsärenden. Självständigt organ.
+**Valberedningen** — bereder val. Rapporterar till och är vald av årsmötet. **Revisorn** — granskar räkenskaper och förvaltning. **Lekmannarevisorn** — granskar verksamhetens ändamålsenlighet och intern kontroll. **Disciplinnämnden** — prövar bestraffningsärenden. Självständigt organ.
 
------
+***
 
 ## En samlad bild av ansvarsfördelning
 

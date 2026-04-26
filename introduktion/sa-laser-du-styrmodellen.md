@@ -11,30 +11,30 @@ description: >-
 Börja här:
 
 1. [Om Smålands Fotbollförbund](om-smalands-fotbollforbund.md) — vad är distriktet och vad gör vi?
-2. [Styrarkitekturen](../organisationens-struktur/styrarkitekturen.md) — hur hänger organisationen ihop?
+2. [Styrarkitekturen](../organisationens-struktur/styrarkitektur.md) — hur hänger organisationen ihop?
 3. Det avsnitt som gäller ditt uppdrag (se nedan)
 
 ***
 
 ## Ny i ett specifikt uppdrag?
 
-**I distriktsstyrelsen** → [Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelsen.md), [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md), [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
+**I distriktsstyrelsen** → [Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md), [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
 
-**Kommittéordförande eller ledamot** → [Kommittémodellen](../kommitteer-och-arbetsgrupper/kommittemodellen.md), sedan din kommittés dokument på [dokument.smaland.football](https://dokument.smaland.football)
+**Kommittéordförande eller ledamot** → [Kommittémodellen](../kommitteer-och-arbetsgrupper/kommitteer.md), sedan din kommittés dokument på [dokument.smaland.football](https://dokument.smaland.football)
 
 **Revisor eller lekmannarevisor** → [Revision och lekmannarevision](../granskande-funktioner/revision-och-lekmannarevision.md), [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
 
-**Valberedningen** → [Valberedningen](../granskande-funktioner/valberedningen.md), [Val, ombud och rösträtt](../demokratisk-styrning/val-ombud-och-rostratt.md)
+**Valberedningen** → [Valberedningen](../granskande-funktioner/valberedning.md), [Val, ombud och rösträtt](../demokratisk-styrning/val-ombud-och-rostratt.md)
 
-**Kansliet** → [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschefen.md), [Kansliet](../distriktsstyrelsen-och-ledningen/kansliet.md)
+**Kansliet** → [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschef.md), [Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md)
 
 ***
 
 ## Letar du svar på en specifik fråga?
 
-**Hur fungerar ett årsmöte?** → [Årsmötet](../demokratisk-styrning/arsmotet.md)
+**Hur fungerar ett årsmöte?** → [Årsmötet](../demokratisk-styrning/arsmote.md)
 
-**Vem bestämmer om tävlingsregler?** → [Representantskapet](../demokratisk-styrning/representantskapet.md)
+**Vem bestämmer om tävlingsregler?** → [Representantskapet](../demokratisk-styrning/representantskap.md)
 
 **Vad innebär folkrörelseprincipen?** → [Folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md)
 
