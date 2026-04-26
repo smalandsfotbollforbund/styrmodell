@@ -1,44 +1,27 @@
 # Kansliet
 
-## Syfte
+Kansliet är den samlade beteckningen för de anställda tjänstepersoner som driver SmFF:s dagliga verksamhet. Det leds av distriktschefen.
 
-Detta dokument beskriver kansliets roll i Smålands Fotbollförbunds styrmodell.
+Kansliet är organisationens operativa infrastruktur — den funktion som gör att styrelsens beslut genomförs, att kommittéerna kan arbeta effektivt och att föreningarna får service.
 
-***
+-----
 
-## Vad är kansliet?
+## Kansliets roll
 
-Kansliet är den samlade beteckningen för de anställda tjänstepersoner som driver och stödjer SmFF:s dagliga verksamhet. Kansliet leds av distriktschefen.
+Kansliet verkställer fattade beslut, administrerar och samordnar processer, bereder ärenden inför styrelse och kommittéer, ger service och stöd till föreningar, domare och övriga aktörer, hanterar ekonomi, rapportering och administration samt bidrar till kontinuitet och kvalitet i organisationens arbete.
 
-Kansliet är den operativa infrastrukturen för hela organisationen. Det är kansliet som verkställer styrelsens och kommittéernas beslut, administrerar tävlingsverksamheten, stödjer föreningarna, hanterar ekonomin och ser till att den dagliga verksamheten fungerar.
+Kansliet är en stödjande och verkställande funktion — inte en beslutande. Operativa beslut som inte uttryckligen delegerats till distriktschefen eller personal fattas av rätt organ.
 
-***
+-----
 
-## Kansliets roll i styrkedjan
+## Relation till kommittéerna
 
-Kansliet verkar på den operativa nivån — den fjärde av organisationens fem nivåer. Det innebär att kansliet:
+Kansliet stödjer alla fem kommittéerna. Varje kommitté har normalt en handläggande tjänsteperson som bidrar med beredning, administration och genomförande.
 
-* verkställer fattade beslut
-* administrerar och samordnar processer
-* bereder ärenden inför styrelse och kommittéer
-* ger service och stöd till föreningar, domare och andra aktörer
-* hanterar ekonomi, rapportering och administration
-* bidrar till kontinuitet och kvalitet i organisationens arbete
+En viktig distinktion: kommittéordföranden leder kommitténs arbete — men distriktschefen är chef för personalen. Kommittéordföranden kan ge kanslipersonalen uppdrag inom kommitténs verksamhet, men inte direktiv om anställnings- eller personalfrågor.
 
-Kansliet är en stödjande och verkställande funktion — inte en beslutande. Operativa beslut som inte uttryckligen delegerats till distriktschefen eller personal ska fattas av rätt organ.
+-----
 
-***
+## Kapacitet och basuppgifter
 
-## Kansliets relation till kommittéerna
-
-Kansliet stödjer alla fem kommittéerna i deras arbete. Varje kommitté har normalt en handläggande tjänsteperson som bidrar med beredning, administration och genomförande av kommitténs aktiviteter.
-
-Det är viktigt att gränsen är tydlig: kommittéordföranden leder kommitténs arbete och bär ansvaret för att det håller sig inom styrelsens ramar — men distriktschefen är chef för den personal som stödjer kommittén. Kommittéordföranden ger kanslipersonal uppdrag inom kommitténs verksamhet, men inte direktiv om anställnings- eller personalfrågor.
-
-***
-
-## Kansliets kapacitet och basuppgifterna
-
-Kansliets sammansättning och kapacitet ska vara dimensionerad för att SmFF ska kunna bära sitt uppdrag. Basuppgifterna från SvFF sätter en miniminivå för vad kansliet måste kunna leverera. Mer om basuppgifterna finns i [Basuppgifter SvFF–SDF](/broken/pages/yWJl75lzpC12lTwgDlx6).
-
-Det är distriktsstyrelsens ansvar att säkerställa att kansliet har de resurser och den organisation som krävs — och distriktschefens ansvar att använda resurserna väl.
+Kansliets sammansättning ska dimensioneras för att SmFF ska kunna bära sitt uppdrag. Basuppgifterna från SvFF sätter en miniminivå. Mer om det under [Verksamhetsområden](../strategi-och-operativt-uppdrag/verksamhetsomraden.md).
