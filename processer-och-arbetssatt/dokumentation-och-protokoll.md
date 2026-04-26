@@ -1,63 +1,34 @@
-# Bestraffningsärenden
+# Dokumentation och protokoll
 
-## Syfte
+Dokumentation är organisationens minne. Det är det som gör det möjligt att förstå vad som beslutats, varför och av vem — och att följa upp, granska och lära av det.
 
-Detta dokument beskriver hur bestraffningsärenden hanteras i Smålands Fotbollförbund — från anmälan till beslut och eventuellt överklagande.
+-----
 
-***
+## Varför dokumentation är viktig
 
-## Utgångspunkt
+Utan god dokumentation saknas spårbarhet. Beslut kan inte följas upp. Granskande organ saknar underlag. Kontinuiteten vid personbyten försvåras. Och vid tvister eller oklarheter finns inget att falla tillbaka på.
 
-Bestraffningsärenden hanteras enligt RF:s stadgar kapitel 14 och SvFF:s disciplinreglemente. SmFF:s disciplinnämnd är den beslutande instansen på distriktsnivå. En rättssäker och transparent hantering är grundläggande för förtroendet för fotbollen.
+-----
 
-***
+## Protokoll
 
-## Vad som kan leda till bestraffning
+Alla beslut i styrelse, kommittéer och demokratiska organ ska protokollföras. Protokollet ska:
 
-Bestraffning kan bli aktuell vid förseelser mot RF:s stadgar, SvFF:s regelverk eller SmFF:s tävlingsregler. Det kan handla om osportsligt uppträdande, diskriminering, matchfixning, dopingbrott, ekonomiska oegentligheter eller brott mot trygg idrott-regelverket.
+- vara i beslutsformat — det är besluten som dokumenteras, inte ordagranna diskussioner
+- justeras av utsedda justerare (normalt ordföranden och en till)
+- arkiveras spårbart och vara tillgängligt för de som har rätt att ta del av det
+- för styrelsens del: vara tillgängliga för hedersordförande och hedersledamöter
 
-***
+Per capsulam-beslut dokumenteras och anmäls vid nästkommande ordinarie sammanträde.
 
-## Processen steg för steg
+-----
 
-### 1. Anmälan
+## Versionskontroll för styrande dokument
 
-En anmälan kan göras av:
+Styrmodellen och styrande dokument förvaltas i GitHub, vilket ger automatisk versionshistorik. Varje ändring är daterad och spårbar. Vid väsentliga revideringar av ett styrdokument ska en ändringslogg läggas till i dokumentet.
 
-* domare eller matchfunktionär (via matchprotokoll eller separat anmälan)
-* förening
-* SmFF:s eget initiativ
+-----
 
-Anmälan ska vara skriftlig och inges till SmFF:s kansli. Kansliet registrerar anmälan och vidarebefordrar till disciplinnämnden.
+## Sekretess och tillgänglighet
 
-### 2. Beredning
-
-Disciplinnämnden tar emot anmälan och avgör om ärendet ska tas upp till prövning. Den berörda parten (spelare, ledare, förening) ska ges möjlighet att yttra sig.
-
-Kansliet ger administrativt stöd men deltar inte i nämndens sakbedömning.
-
-### 3. Beslut
-
-Disciplinnämnden fattar sitt beslut. Nämnden är beslutsmässig när minst tre ledamöter deltar. Ledamot med jäv deltar inte.
-
-Möjliga påföljder är tillrättavisning, böter eller avstängning. Beslut ska vara skriftligt motiverat.
-
-### 4. Delgivning
-
-Beslutet delges den berörda parten skriftligen. Tidsfristen för överklagande räknas från delgivningsdatum.
-
-### 5. Överklagande
-
-Beslut av SmFF:s disciplinnämnd kan överklagas till SvFF:s disciplinnämnd. För att SvFF:s disciplinnämnd ska pröva ärenden om tillrättavisning, böter eller avstängning upp till en månad (eller fyra tävlingstillfällen) krävs prövningstillstånd.
-
-***
-
-## Jäv och oberoende
-
-Disciplinnämndens ledamöter ska alltid pröva om jäv föreligger innan handläggning påbörjas. Ledamot som är jävig ska anmäla detta och träda ur handläggningen. Se [Disciplinnämnden](../granskande-funktioner/disciplinnamnden.md).
-
-***
-
-## Relation till trygg idrott
-
-Bestraffningsärenden som rör övergrepp, diskriminering eller trakasserier hänger tätt samman med SmFF:s arbete för trygg idrott. Se [Trygg idrott](../omraden-och-ataganden/trygg-idrott.md).
+Styrmodellen är publik. Styrande dokument under [Dokument](https://dokument.smaland.football) är publika om inget annat anges. Protokoll från valberedningens arbete är sekretessbelagda — de överlämnas till distriktet efter mötet. Disciplinärendens handlingar hanteras med hänsyn till rättssäkerhet och integritet.
