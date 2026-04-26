@@ -1,51 +1,47 @@
 # Styrande principer
 
-## Syfte
+Styrmodellen vilar på ett antal grundprinciper som genomsyrar hur organisationen ska fatta beslut, fördela ansvar och hantera sin verksamhet. De är mer konkreta än folkrörelseprincipen men mer principiella än enskilda regler. De fungerar som ett filter: när det är oklart hur en fråga ska hanteras ska principerna ge vägledning.
 
-Detta dokument beskriver de grundläggande styrprinciperna som ska gälla i Smålands Fotbollförbund och som genomsyrar hela styrmodellen.
+-----
 
-***
+## Rätt fråga på rätt nivå
 
-## Vad är styrprinciper?
+Frågor ska hanteras av det organ som har mandat för dem — varken högre eller lägre. Demokratiska organ beslutar i demokratiska frågor. Styrelsen beslutar i strategiska frågor. Kommittéer beslutar i delegerade taktiska frågor. Distriktschefen beslutar i operativa frågor.
 
-Styrprinciper är de grundläggande regler för hur organisationen ska fatta beslut, fördela ansvar och hantera sin verksamhet. De är mer konkreta än folkrörelseprincipen men mer principiella än enskilda regler i en delegationsordning. De fungerar som ett filter: när det är oklart hur en fråga ska hanteras ska styrprinciperna ge vägledning.
+Att hantera frågor på fel nivå — oavsett riktning — försvagar organisationens legitimitet.
 
-***
+-----
 
-## De sju styrprinciperna
+## Demokratisk legitimitet kringgås inte
 
-### 1. Rätt fråga på rätt nivå
+Frågor som stadgarna lägger på årsmötet eller representantskapet avgörs där — inte av styrelse, kommitté eller kansli, oavsett om det sker via informell praxis, delegation eller tidsbrist.
 
-Frågor ska hanteras av det organ som har mandat för dem. Det innebär att demokratiska organ beslutar i demokratiska frågor, styrelsen beslutar i strategiska frågor, kommittéer beslutar i delegerade taktiska frågor och distriktschefen beslutar i operativa frågor. Att hantera frågor på fel nivå — för högt eller för lågt — försvagar organisationens legitimitet och effektivitet.
+-----
 
-### 2. Demokratisk legitimitet kringgås inte
+## Strategisk och operativ ledning hålls isär
 
-Frågor som stadgarna lägger på årsmötet eller representantskapet ska inte i praktiken avgöras av styrelse, kommitté eller kansli — oavsett om det sker genom delegation, informell praxis eller tidsbrist. Demokratin är inte ett hinder att kringgå, utan grunden som organisationen vilar på.
+Distriktsstyrelsen ansvarar för riktning, prioritering och uppföljning. Distriktschefen och kansliet ansvarar för genomförande. Dessa roller ska inte blandas samman — varken genom att styrelsen detaljstyr driften eller att kansliet tar strategiska beslut.
 
-### 3. Strategisk och operativ ledning hålls isär
+-----
 
-Distriktsstyrelsen ansvarar för övergripande ledning, prioritering och uppföljning. Distriktschefen och kansliet ansvarar för genomförande och löpande verksamhet. Dessa roller ska inte blandas samman — varken genom att styrelsen detaljstyr driften eller att kansliet tar över strategiska beslut.
+## Beredning och beslut skiljs åt
 
-### 4. Beredning och beslut skiljs åt
+Att bereda ett ärende är inte samma sak som att besluta om det. Kommittéer, presidium och kansli kan bereda — men beslutet fattas av det organ som har mandat. God beredning förbättrar kvaliteten på beslut, men äger inte beslutet.
 
-Att bereda ett ärende — att analysera, utreda och ta fram ett förslag — är inte samma sak som att fatta beslut. Kommittéer, presidium, kansli och tjänstepersoner kan bereda ärenden, men beslutet måste fattas av det organ eller den delegat som har mandat. God beredning förbättrar beslutskvaliteten; beslutet tillhör ändå det beslutande organet.
+-----
 
-### 5. Delegering är skriftlig och spårbar
+## Delegering är skriftlig och spårbar
 
-All delegering av beslutanderätt ska vara tydligt beslutad, dokumenterad och möjlig att följa upp. Det ska alltid gå att förstå vem som delegerat vad, till vem, för vilka ärenden och med vilka begränsningar. Muntlig eller informell delegering är inte giltig i styrmodellen. Den som delegerar behåller det övergripande ansvaret.
+All delegering av beslutanderätt ska dokumenteras. Det ska alltid gå att förstå vem som delegerat, vad, till vem och med vilka begränsningar. Muntlig delegering gäller inte. Den som delegerar behåller det övergripande ansvaret.
 
-### 6. Ingen kontrollerar hela kedjan ensam
+-----
 
-En grundläggande princip för intern kontroll är att den som initierar eller sakgranskar ett ärende normalt inte ensamt ska kunna slutattestera och verkställa det. Separation av steg är ett skydd mot fel och missbruk — inte ett tecken på misstro.
+## Ingen kontrollerar hela kedjan ensam
 
-### 7. Gråzoner ska aktivt hanteras
+Den som initierar eller sakgranskar ett ärende ska normalt inte ensam slutattestera och verkställa det. Separation av roller är ett skydd mot fel — inte ett uttryck för misstro.
 
-Gråzoner — situationer där det är oklart vem som har ansvar eller mandat — ska inte accepteras som en permanent ordning. De ska identifieras och åtgärdas genom tydligare delegationer, instruktioner eller styrmodellens egna dokument. Gråzoner som hanteras informellt och löses genom personliga relationer är ett strukturproblem, inte en lösning.
+-----
 
-***
+## Gråzoner ska aktivt hanteras
 
-## Styrprinciperna och styrmodellen
-
-Styrprinciperna genomsyrar hela styrmodellen. De syns i hur normordningen är uppbyggd, hur delegation och intern kontroll är beskrivet, hur kommittémodellen fungerar och hur processerna för beredning och beslut är utformade. De utgör det gemensamma förhållningssättet som alla i organisationen förväntas dela.
-
-Mer om hur principerna tillämpas i konkreta sammanhang finns i [Beredning och beslutsfattande](../processer-och-arbetssatt/beslutsfattande.md) och [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+Gråzoner — situationer där ansvar eller mandat är oklart — är ett strukturproblem, inte en naturlag. De ska identifieras och åtgärdas via tydligare delegationer, instruktioner eller styrmodellens egna dokument. Informella lösningar via personliga relationer accepteras inte som permanent ordning.
