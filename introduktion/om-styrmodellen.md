@@ -1,72 +1,49 @@
 # Om styrmodellen
 
-## Vad är en styrmodell?
+Styrmodellen är spelreglerna för hur Smålands Fotbollförbund fungerar. Den beskriver hur organisationen är uppbyggd, hur beslut fattas, vem som ansvarar för vad och varför det ser ut som det gör.
 
-En styrmodell förklarar spelreglerna för hur en organisation fungerar. Den svarar på frågor som:
+Den är principiell — inte detaljerad. Det som är konkret och föränderligt hör hemma under [Dokument](https://dokument.smaland.football).
 
-* Vem bestämmer vad?
-* Vem ansvarar för vad?
-* Hur fattas beslut?
-* Hur hänger organisationens delar ihop?
-* Vilka dokument är styrande och vilka är vägledande?
+-----
 
-En styrmodell är alltså inte en policy eller en handlingsplan — den är ett samlat ramverk som gör organisationen begriplig och förutsägbar för alla som arbetar i den.
+## Två nivåer av styrning
 
-***
+**Styrmodellen** beskriver fenomen och principer. Vad är ett årsmöte? Hur fungerar delegation? Vad innebär intern kontroll? Dessa principer ändras sällan och ska hålla över tid.
 
-## Varför behöver Smålands Fotbollförbund en styrmodell?
+**Dokument** innehåller det konkreta. Vad säger arbetsordningen för styrelsen? Hur ser delegationsordningen ut för tävlingskommittén? Vad är attestgränserna? Dokumenten ses över årligen och länkas från styrmodellen.
 
-Distriktet är en komplex organisation. Det finns ett kansli med anställda, en styrelse med förtroendevalda, fem kommittéer med drygt tjugo ledamöter, en disciplinnämnd, en valberedning, revisorer, ett representantskap och hundratals föreningar med rösträtt vid det demokratiska årsmötet.
+-----
 
-Utan tydlighet i roller, ansvar och beslutsvägar uppstår lätt gråzoner, dubbelarbete och informell styrning — dvs. att saker bestäms av vana, personliga relationer eller oklar praxis snarare än av tydliga och gemensamt kända regler.
+## Vad styr vad?
 
-Styrmodellen syftar till att förebygga det. Den ska:
+All styrning i SmFF vilar på en normordning — en rangordning där överordnade dokument alltid går före:
 
-* göra det enkelt att förstå vem som ansvarar för vad
-* säkerställa att rätt beslut fattas i rätt organ
-* skydda den demokratiska strukturen som föreningarna har beslutat om
-* ge alla i organisationen en gemensam referenspunkt
+**RF:s stadgar → SvFF:s stadgar → SmFF:s stadgar → RF:s rekommendationer → Demokratiska beslut → Styrelsens styrdokument**
 
-***
+Läs mer under [Normordning](../grund-och-varden/normordning-och-styrande-principer.md).
 
-## Vad styrmodellen är — och vad den inte är
+-----
 
-**Styrmodellen är:**
+## Styrmodellen är inte statisk
 
-* en principiell beskrivning av hur organisationen ska fungera
-* ett ramverk för att förstå beslutsordning, roller och ansvar
-* ett pedagogiskt verktyg för dem som har ett uppdrag i distriktet
+Styrmodellen ska uppdateras när organisationen förändras — till exempel efter stadgeändringar, ny organisation eller när genomgångar visar att delar behöver skärpas. Men grundprinciperna ska hålla länge.
 
-**Styrmodellen är inte:**
+Dokumenten ses däremot över varje år.
 
-* ett regeldokument som styr varje detalj
-* en ersättning för stadgarna — stadgarna är alltid överordnade
-* ett statiskt dokument som aldrig förändras
+-----
 
-***
+## Ägarskap och förvaltning
 
-## Vad som styr vad — en enkel bild
+Distriktsstyrelsen äger styrmodellen och ansvarar för att den är aktuell. Distriktsordföranden driver det löpande förvaltningsarbetet.
 
-Styrmodellen vilar på en normordning — en ordning som talar om vilka dokument och beslut som väger tyngst när det uppstår oklarheter. Den kan sammanfattas enkelt:
+**Väsentliga förändringar** — ny struktur, ny normordning, principiella ändringar — beslutas av distriktsstyrelsen.
 
-**RF:s stadgar** → **SvFF:s stadgar** → **SmFF:s stadgar** → **RF:s rekommendationer** → **Demokratiska beslut** → **Styrdokument**
+**Löpande underhåll** — rättningar, länkuppdateringar, förtydliganden — hanteras av distriktsordföranden eller distriktschefen löpande.
 
-Det betyder att SmFF:s egna beslut och dokument aldrig kan strida mot stadgarna, och att demokratiska beslut (från årsmöte och representantskap) alltid väger tyngre än styrelsens egna beslut.
+Styrmodellen förvaltas i GitHub och publiceras via GitBook. Ändringshistorik finns i respektive fil via GitHubs versionshantering.
 
-Den fullständiga normordningen beskrivs i [Normordning och styrande principer](../grund-och-varden/normordning-och-styrande-principer.md).
+-----
 
-***
+## Vill du föreslå en förändring?
 
-## Styrmodellen och de styrande dokumenten
-
-Styrmodellen på denna webbplats beskriver _principerna_. De faktiska styrdokumenten — poliserna, arbetsordningarna, instruktionerna och processbeskrivningarna — finns samlade på [dokument.smaland.football](https://dokument.smaland.football).
-
-De hör ihop och länkas till varandra. Styrmodellen förklarar logiken; de styrande dokumenten specificerar vad som faktiskt gäller.
-
-***
-
-## Vem äger styrmodellen?
-
-Distriktsstyrelsen har det övergripande ansvaret för att styrmodellen är aktuell och korrekt. Distriktsordföranden driver det löpande förvaltningsarbetet. Större förändringar beslutas av distriktsstyrelsen. Vissa delar — som stadgeändringar — kräver beslut av årsmötet.
-
-Hur styrmodellen förvaltas och revideras beskrivs i [Ägarskap och förvaltning](../om-styrmodellen/agarsap-och-forvaltning.md).
+Synpunkter på styrmodellen är välkomna. Kontakta kansliet på [smaland@svenskfotboll.se](mailto:smaland@svenskfotboll.se) eller distriktsordföranden direkt.
