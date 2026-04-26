@@ -4,7 +4,7 @@ Smålands Fotbollförbund är ingen myndighet, inget företag och ingen förenin
 
 Det är inte en juridisk detalj. Det är grunden för allt vi gör.
 
------
+***
 
 ## Vad folkrörelsen innebär
 
@@ -18,7 +18,41 @@ Det är inte en juridisk detalj. Det är grunden för allt vi gör.
 
 **Styrningen ska vara transparent.** Föreningarna har rätt att förstå hur beslut fattas och hur resurser används. Det är precis vad styrmodellen syftar till.
 
------
+{% include "../.gitbook/includes/untitled.md" %}
+
+<details>
+
+<summary><strong>Beslut fattas demokratiskt</strong></summary>
+
+Ingen kan ensam bestämma hur distriktet styrs utan ett mandat från demokratiska val och beslut. Det är fotrörelsens kärna.
+
+</details>
+
+<details>
+
+<summary><strong>Engagemanget är frivilligt</strong></summary>
+
+Förtroendeuppdrag utförs av fri vilja och inte för pengar. Det innebär att vi alltid måste förtjäna det förtroendet.
+
+</details>
+
+<details>
+
+<summary><strong>Verksamheten är ideell</strong></summary>
+
+SmFF drivs inte i vinstsyfte. Överskott återinvesteras i fotbollen och föreningarna.
+
+</details>
+
+<details>
+
+<summary><strong>Styrningen ska vara transparent</strong></summary>
+
+Föreningarna har rätt att förstå hur beslut fattas och hur resurser används. Det är precis vad styrmodellen syftar till.
+
+</details>
+
+***
 
 ## Folkrörelse och professionalisering
 
@@ -26,10 +60,10 @@ SmFF är en professionaliserad idrottsorganisation med anställda, ekonomiska fl
 
 Styrmodellen hanterar den spänningen genom en tydlig rolldelning: förtroendevalda bär det demokratiska ansvaret och den strategiska ledningen, anställda genomför och stödjer. Professionaliseringen ska stärka folkrörelsen — inte ersätta den.
 
------
+***
 
 ## Folkrörelseprincipen i normordningen
 
 Folkrörelseprincipen är inte en normnivå som väger tyngre eller lättare än stadgarna — den är värdegrunden som hela styrmodellen vilar på. RF:s stadgar slår fast att idrotten organiseras i självständiga föreningar och förbund som tillsammans utgör en fri och frivillig folkrörelse.
 
-Läs mer om hur värden och normer samverkar under [Normordning](normordning-och-styrande-principer.md) och [Idrottens värdegrund](idrottens-vardegrund.md).
+Läs mer om hur värden och normer samverkar under [Normordning](normordning.md) och [Idrottens värdegrund](idrottens-vardegrund.md).

@@ -1,14 +1,8 @@
 ---
-description: >-
-  Här förklaras de viktigaste begreppen i styrmodellen. Begreppen är ordnade
-  tematiskt — börja i det tema som är mest relevant för dig.
+description: De viktigaste begreppen i styrmodellen, ordnade tematiskt.
 ---
 
 # Begreppslista
-
-De viktigaste begreppen i styrmodellen — ordnade tematiskt.
-
------
 
 ## Organisationer
 
@@ -22,7 +16,7 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Specialidrottsdistriktsförbund (SDF)** — formell beteckning för ett distriktsförbund inom ett specialidrottsförbund. SmFF är ett av sexton SDF inom svensk fotboll.
 
------
+***
 
 ## Styrelser och organ
 
@@ -34,13 +28,13 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Distriktidrottsstyrelsen (DFS)** — RF-SISU Smålands styrelse.
 
-**Presidiet** — en mindre grupp ur distriktsstyrelsen. Kan ges beredande eller delegerade uppgifter. Inte ett självständigt beslutsorgan.
+**Presidium (PD)** — en mindre grupp ur distriktsstyrelsen. Kan ges beredande eller delegerade uppgifter. Inte ett självständigt beslutsorgan.
 
------
+***
 
 ## Roller
 
-**Distriktsordförande** — ordförande i distriktsstyrelsen. Väljs av årsmötet.
+**Distriktsordförande (DO)** — ordförande i distriktsstyrelsen. Väljs av årsmötet.
 
 **Distriktschef (DC)** — anställd verksamhetsledare. Leder den löpande verksamheten.
 
@@ -56,7 +50,7 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Firmatecknare** — har rätt att underteckna avtal och ekonomiska dokument i SmFF:s namn.
 
------
+***
 
 ## Demokratiska processer
 
@@ -76,7 +70,7 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Per capsulam** — beslut som fattas utan sammanträde, t.ex. via digital omröstning. Ska anmälas vid nästkommande möte.
 
------
+***
 
 ## Styrning och kontroll
 
@@ -90,7 +84,7 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Jäv** — situation där en persons intresse eller relation gör att de inte bör delta i handläggning eller beslut. Ska anmälas.
 
------
+***
 
 ## Dokumenttyper
 
@@ -108,7 +102,7 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Processbeskrivning** — steg-för-steg-beskrivning av en process, med ansvar och tidsgränser.
 
------
+***
 
 ## Granskande funktioner
 
@@ -120,7 +114,7 @@ De viktigaste begreppen i styrmodellen — ordnade tematiskt.
 
 **Disciplinnämnden** — prövar bestraffningsärenden. Självständigt organ valt av årsmötet.
 
------
+***
 
 ## Utmärkelser
 

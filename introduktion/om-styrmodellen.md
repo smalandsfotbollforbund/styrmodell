@@ -1,10 +1,29 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # Om styrmodellen
 
 Styrmodellen är spelreglerna för hur Smålands Fotbollförbund fungerar. Den beskriver hur organisationen är uppbyggd, hur beslut fattas, vem som ansvarar för vad och varför det ser ut som det gör.
 
-Den är principiell — inte detaljerad. Det som är konkret och föränderligt hör hemma under [Dokument](https://dokument.smaland.football).
+Den är principiell — inte detaljerad. Det som är konkret och föränderligt hör hemma under [Dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/).
 
------
+***
 
 ## Två nivåer av styrning
 
@@ -12,38 +31,53 @@ Den är principiell — inte detaljerad. Det som är konkret och föränderligt 
 
 **Dokument** innehåller det konkreta. Vad säger arbetsordningen för styrelsen? Hur ser delegationsordningen ut för tävlingskommittén? Vad är attestgränserna? Dokumenten ses över årligen och länkas från styrmodellen.
 
------
+***
 
 ## Vad styr vad?
 
 All styrning i SmFF vilar på en normordning — en rangordning där överordnade dokument alltid går före:
 
-**RF:s stadgar → SvFF:s stadgar → SmFF:s stadgar → RF:s rekommendationer → Demokratiska beslut → Styrelsens styrdokument**
+**RF:s stadgar**\
+↓
 
-Läs mer under [Normordning](../grund-och-varden/normordning-och-styrande-principer.md).
+**SvFF:s stadgar**\
+↓
 
------
+**SmFF:s stadgar**\
+↓
+
+**RF:s rekommendationer för god demokratisk styrning**\
+↓
+
+**Demokratiska beslut**\
+↓
+
+**Styrdokument fastställda av distriktsstyrelsen**
+
+Läs mer under [Normordning](../grund-och-varden/normordning.md).
+
+***
 
 ## Styrmodellen är inte statisk
 
-Styrmodellen ska uppdateras när organisationen förändras — till exempel efter stadgeändringar, ny organisation eller när genomgångar visar att delar behöver skärpas. Men grundprinciperna ska hålla länge.
+Styrmodellen ska uppdateras när organisationen förändras, till exempel efter stadgeändringar, ny organisation eller när genomgångar visar att delar behöver skärpas. Men grundprinciperna ska hålla länge.
 
 Dokumenten ses däremot över varje år.
 
------
+***
 
 ## Ägarskap och förvaltning
 
 Distriktsstyrelsen äger styrmodellen och ansvarar för att den är aktuell. Distriktsordföranden driver det löpande förvaltningsarbetet.
 
-**Väsentliga förändringar** — ny struktur, ny normordning, principiella ändringar — beslutas av distriktsstyrelsen.
+**Väsentliga förändringar** som ny struktur, ny normordning eller principiella ändringar beslutas av distriktsstyrelsen.
 
-**Löpande underhåll** — rättningar, länkuppdateringar, förtydliganden — hanteras av distriktsordföranden eller distriktschefen löpande.
+**Löpande underhåll** som rättningar, länkuppdateringar eller förtydliganden hanteras av distriktsordföranden eller distriktschefen löpande.
 
 Styrmodellen förvaltas i GitHub och publiceras via GitBook. Ändringshistorik finns i respektive fil via GitHubs versionshantering.
 
------
+***
 
 ## Vill du föreslå en förändring?
 
-Synpunkter på styrmodellen är välkomna. Kontakta kansliet på [smaland@svenskfotboll.se](mailto:smaland@svenskfotboll.se) eller distriktsordföranden direkt.
+Synpunkter på styrmodellen är välkomna. Kontakta distriktsordföranden eller distriktschefen direkt.
