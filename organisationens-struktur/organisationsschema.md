@@ -1,71 +1,45 @@
 # Organisationsschema
 
-## Syfte
+*[Organisationsschema infogas som bild. Schemat visar de fem nivåerna med demokratiska organ, distriktsstyrelsen, presidiet, de fem kommittéerna, distriktschefen, kansliet, disciplinnämnden, valberedningen och revisionen — med pilar som visar mandat och rapporteringsvägar.]*
 
-Detta dokument presenterar en visuell och textuell översikt av Smålands Fotbollförbunds organisation.
+-----
 
-***
-
-## Visuellt organisationsschema
-
-_\[Organisationsschema infogas här som bild. Schemat ska visa de demokratiska organen, distriktsstyrelsen, presidiet, de fem kommittéerna, distriktschefen, kansliet, disciplinnämnden, valberedningen och revisionen — samt pilarna som visar mandat och rapporteringsvägar.]_
-
-***
-
-## Organisationens delar i korthet
+## Organisationens delar
 
 ### Demokratiska organ
 
-**Årsmötet** — distriktets högsta beslutande organ. Sammansatt av ombud för medlemsföreningarna.
-
-**Representantskapet** — beslutar om tävlingsregler och seriesammansättning. Sammansatt av ombud för medlemsföreningarna och distriktsstyrelsens ledamöter.
+**Årsmötet** — distriktets högsta beslutande organ.
+**Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
 
 ### Strategisk nivå
 
-**Distriktsstyrelsen** — leder distriktet mellan demokratiska möten. Sju ledamöter valda av årsmötet.
-
-**Presidiet** — en mindre grupp ur styrelsen med beredande och delegerade uppgifter.
+**Distriktsstyrelsen** — sju ledamöter inklusive ordförande. Väljs av årsmötet.
+**Presidiet** — inrättas av styrelsen vid behov.
 
 ### Taktisk nivå
 
-**Anläggningskommittén** — ansvarar för anläggningsfrågor.
-
-**Domarkommittén** — ansvarar för domarfrågor och domarutbildning.
-
-**Föreningskommittén** — ansvarar för föreningsutveckling.
-
-**Tävlingskommittén** — ansvarar för tävlingsverksamhet och bereder frågor till representantskapet.
-
-**Utvecklingskommittén** — ansvarar för spelarutbildning och tränarutbildning.
+Fem stadgeenliga kommittéer: anläggningskommittén, domarkommittén, föreningskommittén, tävlingskommittén, utvecklingskommittén.
 
 ### Operativ nivå
 
-**Distriktschefen** — anställd verksamhetsledare. Leder den löpande verksamheten.
-
-**Kansliet** — anställda tjänstepersoner som driver och stödjer den dagliga verksamheten.
+**Distriktschefen** och **kansliet**.
 
 ### Granskande funktioner
 
-**Valberedningen** — bereder val inför årsmötet. Väljs av och rapporterar till årsmötet.
+**Valberedningen**, **revisionen**, **lekmannarevisionen**, **disciplinnämnden**.
 
-**Revisionen** — granskar räkenskaper och förvaltning. Väljs av årsmötet.
+-----
 
-**Lekmannarevisionen** — granskar verksamhetens ändamålsenlighet och styrning. Väljs av årsmötet.
+## Mandat och rapportering
 
-**Disciplinnämnden** — prövar bestraffningsärenden. Väljs av årsmötet och verkar självständigt.
+Pilarna i schemat visar tre riktningar:
 
-***
+**Nedåt (mandat)** — styrelsen ger kommittéerna uppdrag och ramar. Styrelsen tillsätter och instruerar distriktschefen.
 
-## Mandat och rapporteringsvägar
+**Uppåt (rapportering)** — kommittéer och distriktschef återrapporterar till styrelsen. Styrelsen redovisar till de demokratiska organen.
 
-Pilarna i organisationsschemat visar:
+**Sidled (samverkan)** — distriktschefen och kommittéerna samverkar i genomförande. Granskande organ verkar oberoende av det de granskar.
 
-* **Nedåt (mandat)** — styrelsen ger kommittéerna deras uppdrag och ramar; styrelsen tillsätter och instruerar distriktschefen
-* **Uppåt (rapportering)** — kommittéer och distriktschef återrapporterar till styrelsen; styrelsen redovisar till de demokratiska organen
-* **Sidled (samverkan)** — distriktschefen och kommittéerna samverkar i genomförande; granskande organ verkar oberoende
+-----
 
-***
-
-## Mer om varje del
-
-Varje del av organisationen beskrivs utförligare i sitt eget avsnitt i styrmodellen. Utgå från [Så läser du styrmodellen](../introduktion/sa-laser-du-styrmodellen.md) för att hitta rätt.
+Mer om varje del finns i [Styrarkitekturen](styrarkitekturen.md) och [Ansvar och roller](ansvar-och-roller.md).
