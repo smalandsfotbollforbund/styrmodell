@@ -1,81 +1,51 @@
 # Ansvar och roller
 
-## Syfte
-
-Detta dokument ger en samlad översikt av de roller och ansvar som finns i Smålands Fotbollförbund och hur de förhåller sig till varandra.
+SmFF:s organisation bärs av förtroendevalda och anställda. Det är en viktig distinktion — de har olika mandat, olika ansvar och olika förhållande till organisationen.
 
 -----
 
-## Fem typer av ansvar
+## Förtroendevalda och anställda
 
-I styrmodellen används fem ansvarstyper som är bärande i hela organisationen. Varje organ och funktion har ett huvudansvar för en eller flera av dessa:
+**Förtroendevalda** — styrelseledamöter, kommittéordföranden, kommittéledamöter, valberedningsledamöter, revisorer, lekmannarevisorer och disciplinnämndsledamöter — utövar ett demokratiskt och strategiskt ledarskap på mandat från de demokratiska organen.
 
-**Besluta** — att fatta formella och bindande beslut inom tilldelat mandat.
+**Anställda** — distriktschefen och kanslipersonalen — utövar ett professionellt och operativt ledarskap. De är anställda av styrelsen och genomför förtroendevaldas beslut.
 
-**Bereda** — att utreda, analysera och lämna förslag inför beslut.
-
-**Verkställa** — att genomföra fattade beslut och driva den dagliga verksamheten.
-
-**Följa upp** — att mäta, analysera och återrapportera resultat, ekonomi och måluppfyllelse.
-
-**Granska** — att oberoende pröva om styrning, verksamhet och ekonomi fungerar som avsett.
-
-En central princip är att samma organ eller funktion normalt inte bör ha ensamt ansvar för fler än ett steg i samma kedja — särskilt inte beslut och granskning, eller initiering och slutattest.
+Dessa roller ska inte blandas samman. Anställda tar inte över förtroendevaldas ansvar. Förtroendevalda detaljstyr inte de anställdas operativa arbete.
 
 -----
 
-## Roller och deras primära ansvar
+## Roller i organisationen
 
 ### Demokratiska organ
 
-**Årsmötet** — beslutar i de frågor stadgarna lägger där. Väljer styrelse, revisorer, valberedning och disciplinnämnd. Fastställer arbetsplan och budget. Prövar ansvarsfrihet.
-
-**Representantskapet** — beslutar om tävlingsregler och seriesammansättning för seniorer.
+**Årsmötet** — beslutar i frågor som stadgarna lägger där. Väljer och granskar.
+**Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
 
 ### Strategisk nivå
 
-**Distriktsstyrelsen** — beslutar strategiskt, fördelar ansvar, följer upp verksamhet och ekonomi, fastställer styrande dokument, tillsätter kommittéer och distriktschef.
-
-**Presidiet** — bereder och hanterar delegerade uppgifter. Är inte ett självständigt beslutsorgan.
-
-**Distriktsordföranden** — leder styrelsens arbete, representerar distriktet utåt och är primär kontakt för distriktschefen i det löpande arbetet.
+**Distriktsstyrelsen** — strategisk ledning, ansvar, delegation och uppföljning.
+**Distriktsordföranden** — leder styrelsens arbete. Primär kontakt för distriktschefen i det löpande.
+**Presidiet** — bereder och hanterar delegerade uppgifter.
 
 ### Taktisk nivå
 
-**Kommittéordföranden** — leder sin kommittés arbete, ansvarar för beredning, rapportering och att kommitténs arbete håller sig inom styrelsens ramar. Utsedd av styrelsen.
-
-**Kommittéledamoten** — bidrar aktivt i kommitténs beredning, prioritering och uppföljning. Utsedd av styrelsen.
+**Kommittéordföranden** — leder sin kommittés arbete. Rapporterar till styrelsen.
+**Kommittéledamoten** — bidrar aktivt i beredning, prioritering och uppföljning.
 
 ### Operativ nivå
 
-**Distriktschefen** — leder den löpande verksamheten, har personalansvar för kansliet, föredrar ärenden inför styrelsen och säkerställer att fattade beslut verkställs. Anställd av styrelsen.
-
-**Kansliet** — verkställer, administrerar och stödjer hela organisationen i det dagliga arbetet. Anställda under distriktschefens ledning.
+**Distriktschefen** — leder den löpande verksamheten. Personalansvar för kansliet. Anställd av styrelsen.
+**Kansliet** — verkställer, administrerar och stödjer hela organisationen.
 
 ### Granskande funktioner
 
-**Valberedningen** — bereder val och lämnar motiverade förslag till årsmötet. Väljs av och rapporterar till årsmötet.
-
-**Revisorn** — granskar räkenskaper och förvaltning. Väljs av årsmötet.
-
-**Lekmannarevisorn** — granskar verksamhetens ändamålsenlighet och intern kontroll. Väljs av årsmötet.
-
-**Disciplinnämnden** — prövar bestraffningsärenden självständigt. Väljs av årsmötet.
+**Valberedningen** — bereder val. Rapporterar till och är vald av årsmötet.
+**Revisorn** — granskar räkenskaper och förvaltning.
+**Lekmannarevisorn** — granskar verksamhetens ändamålsenlighet och intern kontroll.
+**Disciplinnämnden** — prövar bestraffningsärenden. Självständigt organ.
 
 -----
 
-## Förtroendevalda och anställda — en viktig distinktion
+## En samlad bild av ansvarsfördelning
 
-En av de grundläggande distinktionerna i styrmodellen är skillnaden mellan förtroendevalda och anställda.
-
-**Förtroendevalda** — styrelseledamöter, kommittéordföranden, kommittéledamöter, valberedningsledamöter, revisorer, lekmannarevisorer och disciplinnämndsledamöter — bär sitt uppdrag på mandat från de demokratiska organen. De utövar ett politiskt och strategiskt ledarskap.
-
-**Anställda** — distriktschefen och kanslipersonalen — utövar ett professionellt och operativt ledarskap. De är anställda av styrelsen och genomför de förtroendevaldas beslut.
-
-Dessa två kategorier ska inte blandas samman. Anställda ska inte ta över förtroendevaldas ansvar, och förtroendevalda ska inte detaljstyra de anställdas operativa arbete.
-
------
-
-## Mer om varje roll
-
-Varje roll beskrivs mer utförligt i sitt eget avsnitt i styrmodellen. En samlad bild av ansvarsfördelningen i specifika frågetyper finns i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Vem som ansvarar för vad i konkreta frågetyper framgår av [Ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
