@@ -8,49 +8,7 @@ Det är inte en juridisk detalj. Det är grunden för allt vi gör.
 
 ## Vad folkrörelsen innebär
 
-**Organisationen ägs av sina medlemmar.** Inte av styrelsen, inte av kansliet, inte av enskilda personer. Föreningarna äger distriktet — och i förlängningen deras spelare, ledare och domare.
-
-**Beslut fattas demokratiskt.** Ingen kan ensam bestämma hur distriktet styrs utan ett mandat från demokratiska val och beslut. Det är fotrörelsens kärna.
-
-**Engagemanget är frivilligt.** Förtroendeuppdrag utförs av fri vilja — inte för pengar. Det innebär att vi alltid måste förtjäna det förtroendet.
-
-**Verksamheten är ideell.** SmFF drivs inte i vinstsyfte. Överskott återinvesteras i fotbollen och föreningarna.
-
-**Styrningen ska vara transparent.** Föreningarna har rätt att förstå hur beslut fattas och hur resurser används. Det är precis vad styrmodellen syftar till.
-
 {% include "../.gitbook/includes/untitled.md" %}
-
-<details>
-
-<summary><strong>Beslut fattas demokratiskt</strong></summary>
-
-Ingen kan ensam bestämma hur distriktet styrs utan ett mandat från demokratiska val och beslut. Det är fotrörelsens kärna.
-
-</details>
-
-<details>
-
-<summary><strong>Engagemanget är frivilligt</strong></summary>
-
-Förtroendeuppdrag utförs av fri vilja och inte för pengar. Det innebär att vi alltid måste förtjäna det förtroendet.
-
-</details>
-
-<details>
-
-<summary><strong>Verksamheten är ideell</strong></summary>
-
-SmFF drivs inte i vinstsyfte. Överskott återinvesteras i fotbollen och föreningarna.
-
-</details>
-
-<details>
-
-<summary><strong>Styrningen ska vara transparent</strong></summary>
-
-Föreningarna har rätt att förstå hur beslut fattas och hur resurser används. Det är precis vad styrmodellen syftar till.
-
-</details>
 
 ***
 
