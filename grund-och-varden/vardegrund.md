@@ -22,9 +22,7 @@ Värdegrunden är inte ett ideal vi strävar mot, utan en förväntan på hur vi
 
 SmFF:s strategiska prioriteringar är direkta uttryck för värdegrunden. Den är inte separat från verksamheten. Den är verksamheten.
 
-***
-
-## Barnrättsperspektivet
+### Barnrättsperspektivet
 
 FN:s konvention om barnets rättigheter är sedan 1 januari 2020 lag i Sverige. Sedan 2009 fastslår RF:s stadgar att all idrott för barn ska bedrivas ur ett barnrättsperspektiv och utgå från barnkonventionen. Det är bindande för alla förbund och föreningar som är anslutna till RF, inklusive SmFF och dess föreningar.
 
