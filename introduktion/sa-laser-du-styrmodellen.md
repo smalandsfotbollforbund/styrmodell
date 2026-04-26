@@ -36,7 +36,7 @@ Börja här:
 
 **Vem bestämmer om tävlingsregler?** → [Representantskapet](../demokratisk-styrning/representantskapet.md)
 
-**Vad innebär folkrörelseprincipen?** → [Folkrörelseprincipen](../grund-och-varden/folkrorelseprincipen.md)
+**Vad innebär folkrörelseprincipen?** → [Folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md)
 
 **Hur fungerar attest?** → [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md) + [Attestordning](https://dokument.smaland.football/instruktioner/attestordning)
 

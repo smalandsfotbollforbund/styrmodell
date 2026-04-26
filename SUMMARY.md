@@ -11,7 +11,7 @@
 
 ## Grund och värden
 
-* [Folkrörelseprincipen](grund-och-varden/folkrorelseprincipen.md)
+* [Folkrörelseprincip](grund-och-varden/folkrorelseprincip.md)
 * [Värdegrund](grund-och-varden/vardegrund.md)
 * [God demokratisk styrning](grund-och-varden/god-demokratisk-styrning.md)
 * [Normordning](grund-och-varden/normordning.md)
