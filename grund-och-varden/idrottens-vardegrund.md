@@ -1,45 +1,57 @@
 # Idrottens värdegrund
 
-Idrottens värdegrund är ett samlat uttryck för de grundläggande värderingar som ska genomsyra all idrottsverksamhet i Sverige. Den är fastställd av RF-stämman och binder hela den svenska idrottsrörelsen — inklusive SmFF och dess föreningar.
+Idrottens värdegrund är fastställd av RF-stämman och gäller hela idrottsrörelsen — inklusive SmFF och alla föreningar i distriktet. Det är inte ett internt policydokument. Det är en grundförutsättning för att vi är en del av idrottsrörelsen.
 
-Värdegrunden är inte ett internt policydokument som SmFF självt beslutat om. Den är en del av det regelverk distriktet verkar inom och ska förstås som en grundförutsättning för SmFF:s existens inom idrottsrörelsen.
+-----
 
-***
+## Fyra kärnvärden
 
-## Idrottens kärnvärden
+**Glädje och gemenskap** — fotbollen ska skapa engagemang, tillhörighet och glädje. På planen och i omklädningsrummet, i föreningen och i distriktet.
 
-RF:s idéprogram “Idrotten vill” sammanfattar idrottens värdegrund i fyra kärnvärden:
+**Demokrati och delaktighet** — alla medlemmars röst har lika värde. Beslut fattas öppet och i ordnade former. De som berörs av beslut ska ha möjlighet att påverka dem.
 
-{% include "../.gitbook/includes/idrottens-karnvarden.md" %}
+**Allas rätt att vara med** — fotbollen ska vara öppen för alla, oavsett nationalitet, etniskt ursprung, religion, ålder, kön, sexuell läggning eller funktionsförutsättning.
 
-I det sammanhanget ska svensk fotbolls värdegrund också ses:
+**Rent spel** — ärlighet, respekt och ansvar på och utanför planen. Nolltolerans mot doping, matchfixning och diskriminering.
 
-{% include "../.gitbook/includes/fotbollens-vardegrund.md" %}
+-----
 
-***
+## Värdegrunden i praktiken
 
-## Värdegrunden i SmFF:s vardag
+Värdegrunden är inte ett ideal vi strävar mot — det är en förväntan på hur vi beter oss. I distriktet syns det i hur vi fattar beslut, hur vi hanterar konflikter, hur vi kommunicerar med föreningar och hur vi arbetar med trygg idrott och jämställdhet.
 
-Idrottens värdegrund är inte abstrakt — den ska synas i hur SmFF och föreningarna faktiskt beter sig. Det innebär i praktiken att:
+SmFF:s strategiska prioriteringar — starkare föreningar, jämställdhet och inkludering, världsledande spelarutbildning, trygga miljöer — är alla direkta uttryck för värdegrunden. Den är inte separat från verksamheten. Den är verksamheten.
 
-* beslut fattas öppet och i demokratisk ordning
-* alla som vill delta i fotbollen i Småland välkomnas
-* miljöer på och utanför planen ska vara trygga och fria från diskriminering
-* ekonomisk hantering sköts med hederlighet och transparens
-* motgångar hanteras med värdighet och respekt för alla parter
+-----
 
-***
+## Barnrättsperspektivet
 
-## Koppling till SmFF:s egna mål
+FN:s konvention om barnets rättigheter är sedan 1 januari 2020 lag i Sverige. Sedan 2009 fastslår RF:s stadgar att all idrott för barn ska bedrivas ur ett barnrättsperspektiv och utgå från barnkonventionen. Det är bindande för alla förbund och föreningar som är anslutna till RF — inklusive SmFF och dess föreningar.
 
-SmFF:s strategiska prioriteringar 2024–2027 är direkt kopplade till idrottens värdegrund. Prioriteringarna starkare föreningar, jämställdhet och mångfald och inkludering, världsledande spelarutbildning och trygga miljöer är alla konkreta uttryck för värdegrunden tillämpat på den småländska fotbollens verklighet.
+Barnkonventionen har fyra grundprinciper som är direkt relevanta för fotbollsverksamheten:
 
-Värdegrunden är alltså inte en separat ambition vid sidan av verksamhetsmålen — den är den värderingsmässiga grunden som målen vilar på.
+**Artikel 2** — Alla barn är lika mycket värda och har samma rättigheter. Ingen får diskrimineras.
 
-***
+**Artikel 3** — Barnets bästa ska komma i första rummet vid alla beslut som rör barn.
 
-## Vad händer när värdegrunden åsidosätts?
+**Artikel 6** — Alla barn har rätt till liv, överlevnad och utveckling.
 
-När verksamhet inom SmFF eller i en förening inte lever upp till värdegrunden kan det hanteras på flera sätt: genom dialog och stöd, genom utbildning, eller i allvarliga fall genom disciplinnämndens bestraffningssystem. Trygg idrott-arbetet och disciplinsystemet är båda ytterst förankrade i värdegrunden.
+**Artikel 12** — Barn har rätt att uttrycka sin mening och bli hörda i alla frågor som rör dem.
 
-Mer om detta finns i [Trygg idrott](/broken/pages/OIJ65KMK8IiDgU5oLR3u) och [Disciplinnämnden](../granskande-funktioner/disciplinnamnden.md).
+I praktiken innebär det att SmFF och föreningarna ska säkerställa att barn och unga har möjlighet att påverka den verksamhet de deltar i, att miljöer är trygga och fria från diskriminering, kränkningar och övergrepp, att vuxna alltid agerar utifrån barnets bästa och att det finns rutiner för att uppmärksamma och hantera när barn inte mår bra.
+
+Barnrättsperspektivet är inte ett separat program — det ska genomsyra hela verksamheten för barn och unga, från hur träningar planeras till hur tävlingsverksamheten organiseras och hur föreningarna styrs.
+
+-----
+
+## Idrotten Vill
+
+RF:s idéprogram “Idrotten Vill” (antaget av RF-stämman 2019) är idrottsrörelsens samlade beskrivning av hur idrott ska bedrivas. Det levandegör RF:s stadgars vision, verksamhetsidé och värdegrund och ger vägledning om hur förening och förbund ska omsätta dessa i praktisk verksamhet.
+
+SmFF:s styrmodell och verksamhet ska vara i linje med Idrotten Vill. Dokumentet finns tillgängligt på [rf.se](https://www.rf.se).
+
+-----
+
+## När värdegrunden åsidosätts
+
+Förseelser mot värdegrunden hanteras via [Disciplinnämnden](../granskande-funktioner/disciplinnamnden.md) och SmFF:s arbete med [trygg idrott](https://dokument.smaland.football/policyer/trygg-idrott). Konsekvenserna regleras av RF:s stadgar och SvFF:s regelverk.
