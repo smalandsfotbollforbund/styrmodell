@@ -24,4 +24,4 @@ Styrmodellen hanterar den spänningen genom en tydlig rolldelning: förtroendeva
 
 Folkrörelseprincipen är inte en normnivå som väger tyngre eller lättare än stadgarna — den är värdegrunden som hela styrmodellen vilar på. RF:s stadgar slår fast att idrotten organiseras i självständiga föreningar och förbund som tillsammans utgör en fri och frivillig folkrörelse.
 
-Läs mer om hur värden och normer samverkar under [Normordning](normordning.md) och [Idrottens värdegrund](idrottens-vardegrund.md).
+Läs mer om hur värden och normer samverkar under [Normordning](normordning.md) och [Idrottens värdegrund](vardegrund.md).
