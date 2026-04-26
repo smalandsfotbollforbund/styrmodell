@@ -1,66 +1,27 @@
 # Verkställighet
 
-## Syfte
+Ett fattat beslut är inte genomfört förrän det är verkställt. Verkställighet innebär att genomföra det som beslutats — inom den tid, med de resurser och på det sätt som beslutet anger.
 
-Detta dokument beskriver hur valprocessen fungerar i Smålands Fotbollförbund — från valberedningens arbete till valens genomförande på årsmötet.
+-----
 
-***
+## Vem verkställer
 
-## Utgångspunkt
+**Distriktschefen** ansvarar för att styrelsens beslut verkställs. Det operativa genomförandet sker via kansliet.
 
-Valen på årsmötet är en av de viktigaste händelserna i distriktets demokratiska liv. Valens kvalitet påverkar direkt vilka personer som bär organisationen, hur styrelsen och organen fungerar och hur förtroendet för distriktet uppfattas av föreningarna.
+**Kommittéordföranden** ansvarar för att beslut i kommittén verkställs med stöd av kansliet.
 
-Valprocessen ska präglas av transparens, välmotiverade förslag och reell möjlighet för föreningarna att nominera kandidater.
+Förtroendevalda beslutar och styr — anställda genomför. Det är en grundläggande rolldelning.
 
-***
+-----
 
-## Valberedningens process
+## Uppföljning av verkställighet
 
-Valberedningen är det organ som bereder valen. Den arbetar självständigt och på uppdrag av årsmötet. Processen följer dessa steg:
+Fattade beslut som inte verkställts ska noteras aktivt och hanteras. Det är styrelsens ansvar att följa upp att beslut genomförs — inte bara att de fattas.
 
-**Senast 6 månader före årsmötet** Valberedningen publicerar namnen på sina ledamöter och informerar om hur förslag på kandidater kan lämnas. Föreningarna ska ha reell möjlighet att nominera.
+Beslut bör normalt följas upp vid nästkommande ordinarie sammanträde. Väsentliga avvikelser eller hinder för verkställighet ska rapporteras omgående.
 
-**Senast 1 november** Valberedningen kontaktar dem vars mandattid utgår och frågar om de är villiga att kandidera för en ny period.
+-----
 
-**Senast 1 december** Valberedningen informerar distriktet om vilka som avgår och namnen på dem som avböjt omval.
+## Brådskande verkställighet
 
-**Löpande fram till februari** Valberedningen genomför intervjuer och samtal med kandidater. Den bedömer kompetens, erfarenhet, mångfald, könsfördelning och förmåga att avsätta tid för uppdraget.
-
-**Senast 1 februari** Valberedningen skickar sitt förslag med uppgifter om samtliga föreslagna personer till röstberättigade föreningar och till distriktsstyrelsen. Förslaget ska innehålla motiveringar.
-
-***
-
-## Vad valberedningen väger in
-
-Valberedningen ska bedöma och väga samman:
-
-* stadgakrav på könsfördelning (minst en tredjedel av det underrepresenterade könet)
-* valbarhetskrav — personen ska vara medlem i en förening ansluten till distriktet
-* kompetens, erfarenhet och bredd i sammansättningen
-* behovet av kontinuitet och förnyelse
-* förmåga att avsätta erforderlig tid
-
-***
-
-## Genomförande av val på mötet
-
-Val på årsmötet genomförs enligt följande ordning:
-
-1. Valberedningen presenterar sitt förslag och motiveringar
-2. Övriga nominerade kandidater presenteras
-3. Omröstning sker med slutna sedlar om antalet kandidater överstiger antalet platser
-4. Första omröstningen kräver absolut majoritet (mer än hälften av avgivna röster)
-5. Om ingen uppnår absolut majoritet genomförs en andra omröstning med enkel majoritet
-6. Vid lika röstetal i tredje omröstningen avgör lotten
-
-***
-
-## Arvode
-
-Valberedningen beslutar om arvode till styrelseledamöter och disciplinnämndens ledamöter med ledning av de principer som årsmötet fastställt. Arvodesförslaget presenteras tillsammans med valförslaget.
-
-***
-
-## Introduktion av nyvalda
-
-Efter valet ansvarar distriktschefen för att nyvalda styrelseledamöter, kommittéordföranden och andra valda ges en god introduktion till sina uppdrag. Processen för introduktion av förtroendevalda beskrivs i [Introduktion av förtroendevalda](/broken/pages/eNdBwewWPHpyPjoxfj0a).
+I vissa situationer behöver ett beslut verkställas snabbt. Principerna för brådskande beslut — inklusive per capsulam — beskrivs under [Beslutsfattande](beslutsfattande.md). Det brådskande läget ändrar inte krav på dokumentation och återrapportering.
