@@ -1,69 +1,39 @@
 # Valberedningen
 
-## Syfte
+Valberedningen är årsmötets organ. Den väljs av föreningarna, arbetar på deras uppdrag och bär ett eget ansvar inför dem. Uppgiften är enkel men tung: bereda val på ett sätt som stärker organisationens kompetens, legitimitet och förtroende.
 
-Detta dokument beskriver valberedningens roll i Smålands Fotbollförbunds styrmodell.
+-----
 
-Syftet är att tydliggöra valberedningen som ett självständigt organ för att bereda val på ett sätt som stärker kompetens, legitimitet, transparens och förtroende.
+## Oberoende är grunden
 
-***
+Valberedningen ska arbeta fritt från sittande styrelses önskemål, informella påtryckningar och personliga lojaliteter. Styrelseledamöter är inte valbara till valberedningen. Tjänstepersoner anställda hos SvFF eller SmFF är inte valbara. Sekretess gäller för arbetet.
 
-## Valberedningens ställning
+-----
 
-Valberedningen är årsmötets organ. Den väljs av årsmötet, arbetar på uppdrag av årsmötet och bär ett eget ansvar inför årsmötet.
+## Sammansättning och beslutsmässighet
 
-Valberedningens uppgift är inte att företräda sittande styrelse, kansliet eller enskilda intressen — utan att för hela förbundets bästa bereda val och bidra till att medlemsföreningarna kan fatta välgrundade valbeslut.
+Valberedningen ska bestå av ordförande och minst tre övriga ledamöter. Den utser vice ordförande inom sig och tillsätter sekreterare. Beslutsmässig när kallelse utgått två veckor i förväg och minst hälften är närvarande.
 
-Stadgarna anger att valberedningen ska bestå av ordförande och minst tre övriga ledamöter. Valberedningen ska utse vice ordförande inom sig och tillsätta sekreterare. Den är beslutsmässig när kallelse utgått två veckor i förväg och minst hälften av ledamöterna är närvarande.
-
-***
-
-## Oberoende
-
-Valberedningens oberoende är grunden för dess legitimitet. Det innebär att valberedningen ska arbeta fritt från:
-
-* sittande styrelses önskemål och informella påtryckningar
-* informella maktstrukturer i organisationen
-* personliga lojaliteter som gynnar enskilda kandidater
-* kortsiktiga hänsyn som försvagas förbundets långsiktiga behov
-
-Ledamot av distriktsstyrelsen är inte valbar till valberedningen. Tjänstepersoner anställda hos SvFF eller distriktet är inte valbara till valberedningen. Sekretess gäller för valberedningens arbete och beslut ska protokollföras. Efter årsmötet överlämnas protokollen till distriktet.
-
-***
+-----
 
 ## Valberedningens åligganden
 
-Valberedningen ska bereda de val som enligt stadgarna görs av årsmötet. Det omfattar val av distriktsordförande, övriga styrelseledamöter, disciplinnämnd, revisorer och valberedningens egna efterträdare.
+Valberedningen bereder val av distriktsordförande, övriga styrelseledamöter, disciplinnämnd, revisorer och sina egna efterträdare. Den föreslår arvode med ledning av de principer årsmötet beslutat.
 
-Valberedningen ska senast den 1 november fråga dem vars mandattid utgår om de är villiga att kandidera för ny period. Senast den 1 december ska valberedningen informera distriktet om vilka som avgår och namnen på dem som avböjt omval.
+**Senast 6 månader före mötet** — publicerar namnen på sina ledamöter och informerar om hur förslag kan lämnas.
 
-Senast den 1 februari ska valberedningen tillställa röstberättigade föreningar och styrelsen sitt förslag jämte uppgifter om samtliga föreslagna personer.
+**Senast 1 november** — frågar dem vars mandattid utgår om de är villiga att kandidera igen.
 
-Valberedningen ska beslutas om arvode till styrelsens ledamöter och disciplinnämndens ledamöter med ledning av de principer årsmötet beslutat.
+**Senast 1 december** — informerar distriktet om vilka som avgår och namnen på dem som avböjt omval.
 
-***
+**Senast 1 februari** — skickar sitt förslag med uppgifter om samtliga föreslagna till röstberättigade föreningar och styrelsen.
 
-## Vad valberedningen ska väga in
+-----
 
-I sitt arbete ska valberedningen väga in:
+## Vad valberedningen väger in
 
-* krav enligt stadgar, inklusive könsfördelning och valbarhetskrav
-* behov av kompetens, erfarenhet och bredd i sammansättningen
-* behov av mångfald och jämställdhet
-* behovet av kontinuitet och förnyelse i balans
-* förmåga att avsätta erforderlig tid för uppdraget
-* organisationens strategiska läge och utvecklingsbehov
+Krav enligt stadgar inklusive könsfördelning, kompetens och erfarenhet, mångfald och bredd, balans mellan kontinuitet och förnyelse samt förmåga att avsätta tillräcklig tid.
 
-RF:s rekommendation anger att valberedningen i god tid, senast sex månader före årsmötet, ska publicera namnen på sina ledamöter och informera om hur förslag kan lämnas, samt att valberedningen ska lämna ett motiverat yttrande om sina förslag i samband med att handlingarna skickas ut.
+-----
 
-***
-
-## Transparens och kommunikation
-
-God demokratisk styrning kräver att valberedningens arbete inte uppfattas som slutet. Valberedningen bör arbeta på ett sätt som ger föreningarna reell möjlighet att lämna förslag och förstå hur valen bereds. Motiverade förslag stärker förtroendet för valprocessen och för de valda organens legitimitet.
-
-***
-
-## Valberedningen och styrelsen
-
-Valberedningen ska inte vara en förlängning av styrelsen, men behöver förstå styrelsens uppdrag och sammansättning för att kunna lämna välgrundade förslag. Relationen ska präglas av tydlig rollfördelning, tillräcklig information och respekt för varandras uppdrag — inte av informell samordning som undergräver oberoendet.
+Processen beskrivs i detalj under [Dokument](https://dokument.smaland.football/processer/valprocessen).
