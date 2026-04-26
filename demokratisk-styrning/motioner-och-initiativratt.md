@@ -1,69 +1,35 @@
 # Motioner och initiativrätt
 
-## Syfte
+Motionsrätten är ett av föreningarnas viktigaste verktyg. Genom motioner kan föreningarna — och deras medlemmar — väcka frågor till beslut på demokratisk nivå. Det är inte ett klagomålssystem. Det är ett påverkansverktyg.
 
-Detta dokument beskriver motionsrätten och andra former av initiativrätt i Smålands Fotbollförbund.
+-----
 
-***
+## Vem kan motionera
 
-## Vad är initiativrätt?
+Rätten att lämna motion tillkommer röstberättigad förening och röstberättigad medlem i en sådan förening. En members motion lämnas via föreningen, som bifogar sitt yttrande.
 
-Initiativrätt innebär rätten att väcka frågor till beslut. I en demokratisk organisation är det avgörande att initiativrätten inte är förbehållen styrelsen — föreningarna och deras medlemmar måste ha reella möjligheter att lyfta frågor och påverka organisationens inriktning.
+Motioner kan riktas till **årsmötet** — i alla frågor som faller inom dess mandat — eller till **representantskapet** — i frågor om tävlingsregler och seriesammansättning.
 
-SmFF:s viktigaste verktyg för initiativrätt är motionsrätten.
-
-***
-
-## Motionsrätten
-
-En motion är ett formellt förslag till ett beslutande organ. Motionsrätten tillkommer:
-
-* **Röstberättigad förening** — kan lämna motion direkt
-* **Röstberättigad medlem i en sådan förening** — kan lämna motion via sin förening, som bifogar sitt yttrande
-
-Motioner kan lämnas till:
-
-* **Årsmötet** — i frågor som faller inom årsmötets mandat
-* **Representantskapet** — i frågor om tävlingsregler och seriesammansättning
-
-***
-
-## Motionens väg — kortfattat
-
-1. Föreningen skriver och skickar in sin motion inom angiven tidsfrist
-2. Kansliet bekräftar mottagandet
-3. Distriktsstyrelsen bereder motionen och lämnar sitt yttrande
-4. Motionen och styrelsens yttrande distribueras med möteshandlingarna
-5. Det beslutande organet behandlar och beslutar
-
-Den fullständiga processen beskrivs i [Motionsprocessen](../processer-och-arbetssatt/beredning.md).
-
-***
+-----
 
 ## Tidsgränser
 
 **Till årsmötet:** Motion ska vara distriktsstyrelsen tillhanda senast **1 november**.
 
-**Till representantskapet:** Skriftliga förslag ska vara distriktsstyrelsen tillhanda senast **15 december**.
+**Till representantskapet:** Skriftliga förslag ska inkomma senast **15 december**.
 
-***
+Motioner som inkommer efter dessa datum behandlas inte vid aktuellt möte.
 
-## Varför motionsrätten är viktig
+-----
 
-Motionsrätten är ett skydd för den demokratiska ordningen. Den säkerställer att föreningarna inte bara är passiva mottagare av styrelsens förslag, utan aktiva deltagare i att forma organisationens inriktning. En organisation som i praktiken försvårar utövandet av motionsrätten — genom otydlig information, för snäva tidsfrister eller bristande beredning — urholkar sin demokratiska legitimitet.
+## Styrelsens beredning
 
-SmFF ska aktivt informera föreningarna om motionsrätten och kansliet ska vara tillgängligt för frågor om hur en motion skrivs och lämnas in.
+Styrelsen bereder varje motion och lämnar ett eget yttrande — bifall, avslag eller alternativt förslag. En motion kan inte tystas ned. Den ska presenteras för mötet, oavsett styrelsens inställning.
 
-***
+-----
 
 ## Styrelsens initiativrätt
 
-Utöver föreningarnas motionsrätt har distriktsstyrelsen rätt att lägga propositioner — egna förslag — till de demokratiska organen. Styrelsen har också rätt att ta upp frågor på eget initiativ mellan de demokratiska mötena, inom ramen för sitt mandat.
+Utöver föreningarnas motionsrätt lägger styrelsen propositioner — egna förslag — till de demokratiska organen. Frågor av principiell eller ekonomisk vikt som inte är brådskande bör hanteras via demokratiska organ, inte enbart av styrelsen.
 
-En viktig distinktion: frågor av principiell, ekonomisk eller organisatorisk vikt som inte är brådskande bör hanteras via de demokratiska organen, inte enbart av styrelsen.
-
-***
-
-## Arbetsgrupper och referensgrupper som initiativverktyg
-
-Kommittéer och styrelsen kan inrätta arbetsgrupper för att bereda specifika frågor. En arbetsgrupp kan inte fatta beslut, men kan ta initiativ till utredning, samla synpunkter från föreningar och lämna underlag till beslutande organ. Det är ett sätt att bredda delaktigheten i beredning utan att ändra beslutsordningen.
+Processen för motionshantering beskrivs i detalj under [Dokument](https://dokument.smaland.football/processer/motionsprocessen).
