@@ -8,40 +8,47 @@ description: >-
 
 När regler, beslut eller dokument pekar i olika riktningar gäller normordningen — en rangordning som avgör vad som väger tyngst. Det är ett av styrmodellens viktigaste verktyg för att lösa oklarheter och förebygga konflikter.
 
------
+***
 
 ## Rangordningen
 
 Varje nivå väger tyngre än nivån under. Inget beslut eller dokument kan strida mot nivåerna ovanför.
 
-**1. RF:s stadgar**
-De yttersta ramarna för hela idrottsrörelsen. Gäller alla förbund och föreningar, inklusive SmFF.
+{% stepper %}
+{% step %}
+**RF:s stadgar** De yttersta ramarna för hela idrottsrörelsen. Gäller alla förbund och föreningar, inklusive SmFF.
+{% endstep %}
 
-**2. SvFF:s stadgar**
-Fotbollens nationella regler. Fastställer hur SDF ska organiseras och vilka stadgar de ska ha. SmFF:s stadgar ska följa SvFF:s stadgemall och godkännas av SvFF.
+{% step %}
+**SvFF:s stadgar** Fotbollens nationella regler. Fastställer hur SDF ska organiseras och vilka stadgar de ska ha. SmFF:s stadgar ska följa SvFF:s stadgemall och godkännas av SvFF.
+{% endstep %}
 
-**3. SmFF:s stadgar**
-Distriktets eget högsta styrdokument. Beslutas av föreningarna på årsmötet. Kan inte ändras av styrelsen ensam.
+{% step %}
+**SmFF:s stadgar** Distriktets eget högsta styrdokument. Beslutas av föreningarna på årsmötet. Kan inte ändras av styrelsen ensam.
+{% endstep %}
 
-**4. RF:s rekommendation för god demokratisk styrning**
-Inte tvingande som stadgarna, men en central vägledning som SmFF ska följa. Läs mer under [God demokratisk styrning](god-demokratisk-styrning.md).
+{% step %}
+**Beslut av årsmöte och representantskap** Bindande för styrelse och alla delar av organisationen. Överordnade styrelsens egna beslut.
+{% endstep %}
 
-**5. Beslut av årsmöte och representantskap**
-Bindande för styrelse och alla delar av organisationen. Överordnade styrelsens egna beslut.
+{% step %}
+**Distriktsstyrelsens beslut och styrdokument** Policyer, arbetsordningar, delegationsordningar och instruktioner fastställda av styrelsen.
+{% endstep %}
 
-**6. Distriktsstyrelsens beslut och styrdokument**
-Policyer, arbetsordningar, delegationsordningar och instruktioner fastställda av styrelsen.
+{% step %}
+**Kommittéers och organs styrdokument** Dokument inom det mandat styrelsen delegerat.
+{% endstep %}
+{% endstepper %}
 
-**7. Kommittéers och organs styrdokument**
-Dokument inom det mandat styrelsen delegerat.
+**RF:s rekommendation för god demokratisk styrning** Inte tvingande som stadgarna, men en central vägledning som SmFF ska följa. Läs mer under [God demokratisk styrning](god-demokratisk-styrning.md).
 
------
+***
 
 ## Tolkning av normordningen
 
 Uppstår konflikt gäller det dokument eller beslut som ligger högre i hierarkin. Uppstår oklarhet om var en fråga hör hemma ska den lyftas till närmast ansvarig beslutsnivå — inte lösas informellt.
 
------
+***
 
 ## Folkrörelseprincipen
 
