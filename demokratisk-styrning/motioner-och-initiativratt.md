@@ -8,7 +8,7 @@ description: >-
 
 Motionsrätten är ett av föreningarnas viktigaste verktyg. Genom motioner kan föreningarna — och deras medlemmar — väcka frågor till beslut på demokratisk nivå. Det är inte ett klagomålssystem. Det är ett påverkansverktyg.
 
-***
+-----
 
 ## Vem kan motionera
 
@@ -16,7 +16,7 @@ Rätten att lämna motion tillkommer röstberättigad förening och röstberätt
 
 Motioner kan riktas till **årsmötet** — i alla frågor som faller inom dess mandat — eller till **representantskapet** — i frågor om tävlingsregler och seriesammansättning.
 
-***
+-----
 
 ## Tidsgränser
 
@@ -26,13 +26,13 @@ Motioner kan riktas till **årsmötet** — i alla frågor som faller inom dess 
 
 Motioner som inkommer efter dessa datum behandlas inte vid aktuellt möte.
 
-***
+-----
 
 ## Styrelsens beredning
 
 Styrelsen bereder varje motion och lämnar ett eget yttrande — bifall, avslag eller alternativt förslag. En motion kan inte tystas ned. Den ska presenteras för mötet, oavsett styrelsens inställning.
 
-***
+-----
 
 ## Styrelsens initiativrätt
 
