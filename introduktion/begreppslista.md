@@ -14,7 +14,7 @@ description: De viktigaste begreppen i styrmodellen, ordnade tematiskt.
 
 **RF-SISU Småland (DF, distriktidrottsförbundet)** — RF:s och SISU:s gemensamma organisation för Småland. Parallell organisation till SmFF, inte överordnad. Samverkar med SmFF via samverkansplanen.
 
-**Specialidrottsdistriktsförbund (SDF)** — formell beteckning för ett distriktsförbund inom ett specialidrottsförbund. SmFF är ett av sexton SDF inom svensk fotboll.
+**Specialidrottsdistriktsförbund (SDF)** — formell beteckning för ett distriktsförbund inom ett specialidrottsförbund. SmFF är ett av flera SDF inom svensk fotboll.
 
 ***
 
