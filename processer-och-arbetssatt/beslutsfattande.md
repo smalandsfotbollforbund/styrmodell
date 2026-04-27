@@ -8,13 +8,13 @@ description: >-
 
 Beslut i SmFF fattas på rätt nivå, av rätt organ, med rätt mandat. Det är en grundprincip — inte en formalitet.
 
-***
+-----
 
 ## Vad ett beslut kräver
 
-För att ett beslut ska vara giltigt och legitimt krävs att det fattas av ett organ som har mandat för frågan, att organet är beslutsmässigt (kallelse skickad, tillräckligt antal ledamöter), att underlaget är tillräckligt för att fatta ett välgrundat beslut och att beslutet dokumenteras i protokoll.
+För att ett beslut ska vara giltigt och legitimt krävs att det fattas av ett organ som har mandat för frågan, att organet är beslutsmässigt, att underlaget är tillräckligt för att fatta ett välgrundat beslut och att beslutet dokumenteras i protokoll.
 
-***
+-----
 
 ## Typer av beslut
 
@@ -24,7 +24,7 @@ För att ett beslut ska vara giltigt och legitimt krävs att det fattas av ett o
 
 **Delegerade beslut** — fattas av presidiet, kommittéer eller distriktschefen inom ramen för skriftlig delegation. Ska återrapporteras.
 
-***
+-----
 
 ## Beslutsmässighet
 
@@ -32,7 +32,7 @@ Distriktsstyrelsen är beslutsmässig när alla ledamöter kallats och minst hä
 
 Kommittéer är beslutsmässiga när minst hälften av ledamöterna deltar.
 
-***
+-----
 
 ## Dokumentation
 
