@@ -8,9 +8,9 @@ description: >-
 
 De strategiska inriktningarna är det “Småland ska”-laget — konkreta åtaganden om vad distriktet ska åstadkomma på strukturell nivå, inom ramen för vision och mission.
 
-De är mer konkreta än visionen men mer övergripande än de periodvisa prioriteringarna.
+De är mer konkreta än visionen men mer övergripande än de periodvisa prioriteringarna. De är stabila över tid och ändras normalt inte förrän en ny strategiperiod inleds.
 
-***
+-----
 
 ## SmFF:s strategiska inriktningar
 
@@ -24,8 +24,8 @@ De är mer konkreta än visionen men mer övergripande än de periodvisa priorit
 
 **Stärka samverkan** mellan kommuner, näringsliv och föreningar för långsiktig ekonomisk tillväxt.
 
-***
+-----
 
-De strategiska inriktningarna är stabila över tid och ändras normalt inte förrän en ny strategiperiod inleds. De ska genomsyra hur styrelse, kommittéer och kansli prioriterar och planerar.
+De strategiska inriktningarna ska genomsyra hur styrelse, kommittéer och kansli prioriterar och planerar.
 
-Nästa nivå: [Prioriteringar och mål](prioriteringar-och-mal.md).
+Nästa nivå i strategihuset: [Prioriteringar och mål](prioriteringar-och-mal.md).
