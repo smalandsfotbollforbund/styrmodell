@@ -8,17 +8,17 @@ description: >-
 
 Distriktsstyrelsen är SmFF:s högsta beslutande organ när de demokratiska organen inte är samlade. Den leder distriktet mellan mötena — inom de ramar stadgar och demokratiska beslut sätter. Aldrig utanför dem.
 
-Styrelsens mandat är ett förtroendeuppdrag från föreningarna. Det är inte ett fristående mandat.
+Styrelsens mandat är ett förtroendeuppdrag från föreningarna. Det är inte ett fristående mandat. Styrelsens ändamål på strategisk nivå är att *främja* — med ett förhållningssätt präglat av *närvaro* gentemot organisationen och dess föreningar.
 
-***
+-----
 
 ## Sammansättning
 
-Styrelsen består av distriktsordförande och sex övriga ledamöter. Hälften av ledamöterna väljs vartannat år för en mandattid på två år. Sammansättningen ska präglas av mångfald och jämställdhet — det underrepresenterade könet ska representeras med minst en tredjedel.
+Styrelsen består av distriktsordförande och övriga ledamöter enligt stadgarna. Hälften av ledamöterna väljs vartannat år för en mandattid på två år. Sammansättningen ska präglas av mångfald och jämställdhet — det underrepresenterade könet ska representeras med minst en tredjedel.
 
 Styrelsen är beslutsmässig när alla ledamöter kallats och minst hälften är närvarande. Kallelse ska gå ut minst två veckor före mötet.
 
-***
+-----
 
 ## Fem huvudfunktioner
 
@@ -32,16 +32,24 @@ Styrelsen är beslutsmässig när alla ledamöter kallats och minst hälften är
 
 **Uppföljning** — följer upp verksamhet, ekonomi, måluppfyllelse och intern kontroll. Uppföljning är inte en formalitet — det är en förutsättning för att styrningen ska fungera.
 
-***
+-----
+
+## Treenigheten
+
+Distriktsstyrelsen är en av tre ömsesidigt beroende roller i SmFF:s centrala styrningskoncept. Styrelsen sätter riktningen, kommittéordförandena omsätter den i ämnesspecifik planering och distriktschefen möjliggör genomförandet. Ingen av de tre kan agera framgångsrikt utan de andra.
+
+Konceptet beskrivs utförligare i [Styrarkitektur](../organisationens-struktur/styrarkitektur.md).
+
+-----
 
 ## Vad styrelsen inte bör ta över
 
 Frågor som hör hemma på demokratisk nivå ska stanna där. Frågor som delegerats till kommitté eller distriktschef ska inte övertäckas. Löpande drift och operativa beslut hör till distriktschefen.
 
-***
+-----
 
-## Styrelsens arbetsordning
+## Arbetsordningen
 
-Styrelsens konkreta arbetsformer — möten, kallelser, protokoll, konstituerande möte — regleras i arbetsordningen under [Dokument](https://dokument.smaland.football/arbetsordningar/distriktsstyrelsen).
+Styrelsens konkreta arbetsformer — möten, kallelser, protokoll, konstituerande möte — regleras i arbetsordningen under [Dokument](https://dokument.smaland.football/arbetsordningar/distriktsstyrelse).
 
 RF:s rekommendation anger att styrelsen ska utvärdera sitt arbete minst en gång per år.
