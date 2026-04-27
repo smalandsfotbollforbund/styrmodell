@@ -10,7 +10,7 @@ Revision och lekmannarevision väljs av årsmötet och verkar på dess uppdrag. 
 
 Revisorer och lekmannarevisorer får inte vara anställda hos RF, DF, SvFF, SmFF, SISU eller deras distriktsförbund. Styrelseledamöter i SmFF är inte valbara.
 
-***
+-----
 
 ## Revisionen
 
@@ -20,7 +20,7 @@ Räkenskaperna ska överlämnas till revisorerna senast fyra veckor före årsm�
 
 Revisionen granskar ekonomisk redovisning och bokslut, förvaltning och ekonomisk hantering, ordning och spårbarhet i ekonomiska processer samt om beslutsfattande skett inom tillåtna ramar.
 
-***
+-----
 
 ## Lekmannarevisionen
 
@@ -28,7 +28,7 @@ Granskar verksamheten ur ett ändamåls- och styrningsperspektiv. Lekmannarevisi
 
 RF:s rekommendation ger lekmannarevisionen ett särskilt ansvar att granska arbetet med god demokratisk styrning — om styrmodellen tillämpas, om roller och mandat är tydliga.
 
-***
+-----
 
 ## Skillnaden
 
