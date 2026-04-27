@@ -123,3 +123,19 @@ description: De viktigaste begreppen i styrmodellen, ordnade tematiskt.
 **Årets profiler** — årliga utmärkelser inom spelare, ledare, domare, domartalang, förening och anläggning.
 
 **Hedersordförande / Hedersledamot** — SmFF:s högsta hedersbetygelse. Beslutas av årsmötet.
+
+## Ytterligare begrepp
+
+|                              | Bör användas för                                                                                                            |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Årsmöte                      | SmFF:s högsta demokratiska möte                                                                                             |
+| Extra årsmöte                | Extra demokratiskt möte enligt stadgar                                                                                      |
+| Representantskapsmöte        | Formellt demokratiskt möte för representantskapet                                                                           |
+| Extra representantskapsmöte  | Extra demokratiskt möte enligt stadgar                                                                                      |
+| Sammanträde                  | När styrelse, kommitté, disciplinnämnd, valberedning eller annat organ samlas för beredning, ställningstagande eller beslut |
+| Dialogmöte / forum / rådslag | Icke-beslutande mötesplatser                                                                                                |
+| Beredning                    | Framtagande av underlag inför beslut                                                                                        |
+| Beslut                       | Formellt ställningstagande av behörigt organ                                                                                |
+| Verkställighet               | Genomförande av fatttat beslut                                                                                              |
+
+Ett möte är inte beslutande bara för att många deltar. Beslutandeätt kräver stöd i stadgar, arbetsordning eller delegationsordning.
