@@ -4,6 +4,12 @@ Prioriteringarna är de fokusområden där SmFF riktar särskild kraft under en 
 
 -----
 
+# Prioriteringar och mål
+
+Prioriteringarna är de fokusområden där SmFF riktar särskild kraft under en given strategiperiod. De konkretiserar de strategiska inriktningarna och ger organisationen ett gemensamt fokus.
+
+-----
+
 ## Prioriteringar 2024–2027
 
 SmFF har fyra prioriteringar för perioden, fastställda av de demokratiska organen:
@@ -26,4 +32,4 @@ Hur uppföljningen kopplar till den löpande rytmen i verksamhetsåret beskrivs 
 
 -----
 
-Prioriteringar gäller en strategiperiod och ses över inför varje ny period. Inriktningarna under dem är mer stabila. Prioriteringarna är det som kan och bör justeras när omvärld och behov förändras.
+Prioriteringar gäller en strategiperiod och ses över inför varje ny period. De kan och bör justeras när omvärld och behov förändras.
