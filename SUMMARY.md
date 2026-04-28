@@ -22,7 +22,7 @@
 * [Styrarkitektur](organisationens-struktur/styrarkitektur.md)
 * [Ansvar och roller](organisationens-struktur/ansvar-och-roller.md)
 * [Organisationsschema](organisationens-struktur/organisationsschema.md)
-* [Förhållande till RF, SvFF och RF-SISU](organisationens-struktur/forhallande-till-rf-svff-och-rf-sisu.md)
+* [Förhållande i idrottens ekosystem](organisationens-struktur/forhallande-i-idrottens-ekosystem.md)
 
 ## Demokratisk styrning
 

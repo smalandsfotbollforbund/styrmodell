@@ -1,10 +1,11 @@
 ---
+description: Styrmodellen beskriver hur vi styrs, leds och utvecklas.
 layout:
   width: wide
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -19,16 +20,8 @@ layout:
 
 # VÅR STYRMODELL
 
-Här samlar vi allt som beskriver hur Smålands Fotbollförbund styrs, leds och utvecklas. Styrmodellen är spelreglerna för organisationen — ett gemensamt ramverk som gör det tydligt vem som gör vad, hur beslut fattas och varför.
+**Styrmodellen anger de principer som ska gälla i hela organisationen, på sätt och vis är det våra spelregler som ger ramverket för hur vi fungerar. Den är vår gemensamma karta över ansvar, mandat, beslut, beredning, verkställighet, uppföljning och granskning.**&#x20;
 
-Styrmodellen beskriver principer. Konkreta dokument — arbetsordningar, policyer, delegationsordningar och processer — finns samlat under [Dokument](https://dokument.smaland.football).
+De konkreta arbetssätten, mandaten, årshjulen och rutinerna regleras i styrande och stödjande dokument som beslutas och förvaltas under [dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/) enligt dokumentarkitekturen.
 
-***
-
-Ny här? Börja med [Om Smålands Fotbollförbund](introduktion/om-smalands-fotbollforbund.md) eller gå direkt till [Så läser du styrmodellen](introduktion/sa-laser-du-styrmodellen.md).
-
-Har du frågor? Kontakta oss på [smaland@svenskfotboll.se](mailto:smaland@svenskfotboll.se) eller besök [smalandsfotbollen.se](https://www.smalandsfotbollen.se).
-
-
-
-Styrmodellen är SmFF:s gemensamma karta över ansvar, mandat, beslut, beredning, verkställighet, uppföljning och granskning. Den anger de principer som ska gälla i hela organisationen. De konkreta arbetssätten, mandaten, årshjulen och rutinerna regleras i styrande och stödjande dokument som beslutas och förvaltas enligt dokumentarkitekturen.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Introduktion</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Grund och värden</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Organisationens struktur</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Demokratisk styrning</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Distriktsstyrelsen och ledningen</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Kommittéer och arbetsgrupper</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Granskande funktioner</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Strategi och operativt uppdrag</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Processer och arbetssätt</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Styrande dokument</strong></td></tr></tbody></table>

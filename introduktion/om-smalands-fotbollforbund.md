@@ -21,7 +21,7 @@ layout:
 
 Vi finns till för fotbollen i Småland och för de människor som bär den. Vi är en ideell organisation ägd och styrd av våra medlemsföreningar. Det är föreningarna som sätter spelreglerna, väljer ledning och bestämmer riktningen.
 
-Smålands Fotbollförbund brukar förkortas SmFF och kallas Smålands FF eller Smålandsfotbollen.
+Smålands Fotbollförbund brukar förkortas SmFF, men kallas ofta för Smålandsfotbollen.
 
 ## Vi samordnar, stödjer och utvecklar
 
@@ -44,9 +44,9 @@ Kansliet finns i Jönköping. Kontaktuppgifter och mer om verksamheten hittar du
 
 ## Vår plats i svensk fotboll
 
-SmFF är ett av flera specialidrottsdistriktsförbund (SDF) inom svensk fotboll. Vi verkar under Svenska Fotbollförbundet (SvFF), som i sin tur hör till Riksidrottsförbundet (RF). Det innebär att RF:s och SvFF:s stadgar sätter ramarna för hur vi får och ska verka.
+SmFF är ett av flera specialidrottsdistriktsförbund (SDF) inom svensk fotboll. Vi verkar under [Svenska Fotbollförbundet](https://svenskfotboll.se) (SvFF), som i sin tur hör till [Riksidrottsförbundet](https://rf.se) (RF). Det innebär att RF:s och SvFF:s stadgar sätter ramarna för hur vi får och ska verka.
 
-Inom de ramarna har vi egna beslutsorgan, egna stadgar och ett eget demokratiskt liv. Mer om dessa relationer finns under LÄNK!!!
+Inom de ramarna har vi egna beslutsorgan, egna stadgar och ett eget demokratiskt liv. Mer om dessa relationer finns under [Förhållande i idrottens ekosystem](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
 
 ## Vår långsiktiga riktning
 

@@ -42,7 +42,7 @@ Börja här:
 
 **Vem ansvarar för vad?** → [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md)
 
-**Vilka styrdokument finns?** → [Dokument](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/)
+**Vilka styrdokument finns?** → [Dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/)
 
 ***
 
