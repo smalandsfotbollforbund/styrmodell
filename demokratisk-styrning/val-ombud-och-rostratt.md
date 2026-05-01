@@ -1,43 +1,67 @@
 ---
 description: >-
-  Hur rösträtten fungerar, vad ombud får och inte får göra, vad som är valbart
-  och hur omröstning vid val går till.
+  Hur val, ombud och rösträtt ska förstås i Smålands Fotbollförbunds demokratiska
+  styrning.
 ---
 
 # Val, ombud och rösträtt
 
-Valen på årsmötet avgör vilka som får förtroende att bära, leda och granska distriktet. Det är en av de viktigaste uppgifterna mötet har.
+Val, ombud och rösträtt är grunden för medlemsföreningarnas formella inflytande.
 
------
+Den här sidan beskriver principerna i styrmodellen. Exakta regler om röstlängd, valbarhet, omröstning och valförfarande följer av stadgarna och beslutade dokument.
 
-## Rösträtt och röstlängd
+## Rösträtt
 
-Rösträtten bestäms av en röstlängd upprättad av SvFF. Röstlängden gäller 1 januari–31 december och upptar föreningar som betalat avgifter och fullgjort sina förpliktelser.
+Rösträtten tillkommer medlemsföreningarna enligt den röstlängd som gäller för mötet.
 
-Varje röstberättigad förening har en grundröst. Tilläggsröster utgår baserat på lagförsäkringar: 2–3 försäkringar ger en tilläggsröst, 4 eller fler ger två. Ingen förenings röstetal får överstiga en femtedel av det sammanlagda röstetalet.
+Rösträtten är föreningens demokratiska mandat. Den ska hanteras tydligt, spårbart och med respekt för stadgarna.
 
------
+Om det uppstår oklarhet om rösträtt, röstlängd eller valbarhet ska frågan hanteras enligt stadgarna och [Normordning](../grund-och-varden/normordning.md).
 
 ## Ombud
 
-Föreningarnas inflytande utövas av ombud. Varje förening utser högst två ombud, men rösträtten följer röstlängden — inte antalet ombud. Ombud ska vara röstberättigad medlem i den förening det företräder, får inte vara styrelseledamot och får inte representera fler än en förening.
+Ombud företräder en förening vid demokratiskt möte.
 
------
+Ombudet bär inte ett eget personligt mandat, utan företräder föreningen inom ramen för den rösträtt som gäller för mötet.
 
-## Valbara poster
+Det ska vara tydligt vem som företräder vilken förening och vilken rösträtt föreningen har.
 
-Årsmötet väljer distriktsordförande, övriga styrelseledamöter (hälften vartannat år, tvåårig mandattid), ordförande och ledamöter i disciplinnämnden, revisorer (varav minst ett auktoriserat revisionsbolag), valberedning samt ombud till SvFF:s årsmöte.
+## Val
 
-Valbar är den som är röstberättigad medlem i en ansluten förening. Valda organ ska ha könsfördelning där det underrepresenterade könet är representerat med minst en tredjedel. Tjänstepersoner anställda hos SvFF eller SmFF är inte valbara till styrelse, valberedning eller revisor.
+Valen på årsmötet avgör vilka personer som får förtroende att bära, leda, bereda eller granska distriktet.
 
------
+Val ska därför hanteras med öppenhet, tydlig beredning och respekt för valberedningens självständiga roll.
 
-## Omröstning vid val
+Valberedningens uppdrag beskrivs i [Valberedning](../granskande-funktioner/valberedning.md).
 
-Val sker med slutna sedlar om kandidaterna är fler än platserna. Första omröstningen kräver absolut majoritet. Uppnås det inte, avgör enkel majoritet i andra omröstningen. Vid lika röstetal i tredje omröstningen avgör lotten.
+## Valbarhet
 
------
+Valbarhet regleras i stadgarna och andra tillämpliga regler.
 
-## Valprocess i detalj
+Styrmodellen ska inte dubblera de detaljerade valbarhetsreglerna. Den ska klargöra principen: den som väljs ska vara valbar, förstå uppdragets ansvar och kunna bidra till förtroende för distriktets styrning.
 
-Hur valberedningen arbetar och hur processen ser ut steg för steg beskrivs i [Valberedning](../granskande-funktioner/valberedning.md) och i processbeskrivningen under [Dokument](https://dokument.smaland.football/processer/valprocessen).
+## Valberedningens betydelse
+
+Valberedningen är årsmötets organ för att bereda val.
+
+Det innebär att valberedningen inte är underställd distriktsstyrelsen i sitt valberedande uppdrag.
+
+En väl fungerande valberedning stärker demokratisk legitimitet, förtroende och långsiktig kompetensförsörjning.
+
+## Slutna och öppna processer
+
+Valprocesser behöver både integritet och öppenhet.
+
+Integritet behövs för att personer ska kunna nomineras, prövas och samtala med valberedningen på ett tryggt sätt.
+
+Öppenhet behövs för att föreningarna ska förstå processen, veta hur de kan nominera och kunna ta ställning till förslagen.
+
+Balansen mellan dessa två är viktig.
+
+## Vägledande princip
+
+Val, ombud och rösträtt ska hanteras så att föreningarnas inflytande blir tydligt och möjligt att använda.
+
+Det ska vara lätt att förstå vem som har rösträtt, vem som företräder vem och hur valen bereds.
+
+Demokrati behöver ordning. Annars blir inflytandet svårare att använda.
