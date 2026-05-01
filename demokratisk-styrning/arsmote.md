@@ -1,44 +1,81 @@
 ---
 description: >-
-  SmFF:s högsta beslutande organ och dess sammansättning, vad som beslutas, fyra
-  funktioner och vad som gäller praktiskt.
+  Årsmötets roll som Smålands Fotbollförbunds högsta beslutande organ.
 ---
 
 # Årsmöte
 
-Årsmötet är SmFF:s högsta beslutande organ. Det är den plats där föreningarnas formella inflytande ytterst utövas — och varifrån alla övriga organs mandat i slutändan härleds.
+Årsmötet är Smålands Fotbollförbunds högsta beslutande organ.
 
-Inga andra organ kan överpröva ett beslut fattat av årsmötet. Frågor som stadgarna lägger på årsmötet kan inte delegeras ned i organisationen.
+Det är den plats där medlemsföreningarnas formella inflytande ytterst utövas. Det är också den demokratiska nivå som övriga organ i distriktet ytterst härleder sitt mandat från.
 
------
+Frågor som stadgarna lägger på årsmötet ska avgöras av årsmötet. De ska inte flyttas ned i organisationen genom informell praxis, delegation eller praktiskt behov.
+
+## Årsmötets funktion
+
+Årsmötet har fyra huvudfunktioner i styrmodellen.
+
+| Funktion | Innebörd |
+| --- | --- |
+| **Legitimerande** | Ger distriktsstyrelsen och andra organ demokratisk grund |
+| **Riktande** | Beslutar i frågor som anger inriktning enligt stadgarna |
+| **Granskande** | Prövar ansvarsfrihet och tar del av revisionens granskning |
+| **Väljande** | Väljer personer till centrala uppdrag |
+
+Årsmötet ska därför inte förstås som en formalitet. Det är föreningarnas främsta gemensamma beslutspunkt.
 
 ## Sammansättning
 
-Årsmötet består av ombud för föreningar som är medlemmar i SvFF med hemort eller säte inom distriktet. Varje röstberättigad förening får utse högst två ombud, men rösträtten bestäms av röstlängden — inte antalet ombud. Ombud får inte vara styrelseledamot och får inte representera mer än en förening.
+Årsmötet består av ombud för röstberättigade föreningar.
 
------
+Hur ombud, rösträtt och valbarhet fungerar beskrivs i [Val, ombud och rösträtt](val-ombud-och-rostratt.md).
 
-## Vad som beslutas
+## Ärenden på årsmötet
 
-Stadgarna anger uttömmande vilka ärenden som ska förekomma, bland dem verksamhetsberättelse och årsredovisning, ansvarsfrihet för distriktsstyrelsen, principer för arvodesbestämning, arbetsplan och budget, styrelsens förslag och inkomna motioner, val av styrelse, disciplinnämnd, revisorer och valberedning samt ombud till SvFF:s årsmöte.
+Vilka ärenden som ska behandlas på årsmötet framgår av stadgarna.
 
-Beslut i frågor av principiell eller ekonomisk betydelse får inte fattas om de inte finns på utskickad dagordning.
+Det kan bland annat handla om verksamhetsberättelse, årsredovisning, ansvarsfrihet, arbetsplan, budget, motioner, distriktsstyrelsens förslag och val.
 
------
+Den här sidan beskriver årsmötets roll i styrmodellen. Den ersätter inte stadgarna och ska inte återge hela dagordningen i detalj.
 
-## Fyra funktioner
+## Beslut av principiell eller ekonomisk betydelse
 
-**Legitimerande** — ger styrelse och organ deras demokratiska mandat.
-**Riktande** — fastställer arbetsplan och budget. Strategiska vägval beslutas av föreningarna.
-**Granskande** — prövar ansvarsfrihet och tar del av revisionens granskning.
-**Väljande** — utser de som ska bära, leda och granska distriktet.
+Beslut i frågor av principiell eller ekonomisk betydelse ska hanteras med tydlig beredning, rätt information och rätt beslutsnivå.
 
------
+Frågor som hör till årsmötets mandat ska inte avgöras av distriktsstyrelsen eller andra organ bara för att de är praktiskt brådskande eller svåra att bereda.
 
-## Tidpunkt och praktik
+När det är oklart vilken nivå som ska besluta ska frågan prövas mot [Normordning](../grund-och-varden/normordning.md) och [Styrande principer](../grund-och-varden/styrande-principer.md).
 
-Ordinarie möte hålls senast två veckor före SvFF:s årsmöte, normalt i mars. Kallelse skickas minst tre veckor i förväg. Handlingar distribueras till föreningarna senast två veckor före mötet.
+## Extra årsmöte
 
-Extra årsmöte kallas när styrelsen finner det nödvändigt, när minst två tredjedelar av röstberättigade föreningar begär det, eller när revisorerna begär det.
+Extra årsmöte används när en fråga behöver hanteras av medlemsföreningarna innan nästa ordinarie årsmöte.
 
-Motioner hanteras enligt [Motioner och initiativrätt](motioner-och-initiativratt.md). Valprocessen beskrivs i detalj under [Dokument](https://dokument.smaland.football/processer/valprocessen).
+Det ska inte användas för frågor som kan hanteras inom distriktsstyrelsens mandat eller inom ett annat organs tydliga delegation.
+
+## Gränsdragning mot representantskapet
+
+Årsmötet är distriktets högsta beslutande organ.
+
+Representantskapet är ett medlemsorgan med särskilt avgränsat mandat i tävlingsfrågor mellan årsmötena.
+
+Frågor av större principiell betydelse som inte hör till representantskapets tävlingsmandat hör normalt hemma på årsmötet. Representantskapets roll beskrivs i [Representantskap](representantskap.md).
+
+## Motioner och förslag
+
+Motioner är föreningarnas formella väg att väcka frågor till årsmötet.
+
+Hur motioner och initiativrätt fungerar beskrivs i [Motioner och initiativrätt](motioner-och-initiativratt.md).
+
+## Val
+
+Årsmötet väljer de personer och organ som enligt stadgarna ska väljas av medlemsföreningarna.
+
+Hur val, ombud och rösträtt fungerar beskrivs i [Val, ombud och rösträtt](val-ombud-och-rostratt.md). Valberedningens roll beskrivs i [Valberedning](../granskande-funktioner/valberedning.md).
+
+## Vägledande princip
+
+Årsmötet ska vara tydligt, begripligt och väl förberett.
+
+Föreningarna ska kunna förstå vad de beslutar om, varför frågan ligger på årsmötet och vilka konsekvenser beslutet får.
+
+Det är så medlemsdemokratin blir mer än en punkt på dagordningen.
