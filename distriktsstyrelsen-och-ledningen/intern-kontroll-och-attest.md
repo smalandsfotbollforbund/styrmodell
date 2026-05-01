@@ -1,59 +1,103 @@
 ---
 description: >-
-  Principerna bakom tvåstegsprincipen, sakattest och slutattest och varför
-  intern kontroll stärker förtroendet.
+  Principerna för intern kontroll, riskhantering och attest i Smålands
+  Fotbollförbund.
 ---
 
 # Intern kontroll och attest
 
-Intern kontroll är inte ett tecken på misstro — det är ett kännetecken på en välskött organisation. Det skapar trygghet för förtroendevalda, tjänstepersoner, föreningar och revisorer, och stärker den demokratiska legitimiteten.
+Intern kontroll är en del av styrningen.
 
-RF:s rekommendation anger att styrelsen ansvarar för att det finns ändamålsenliga system för uppföljning och kontroll, och att den finansiella rapporteringen är korrekt.
+Det handlar inte om misstro. Det handlar om att skapa ordning, ansvar, spårbarhet och trygghet för föreningar, förtroendevalda, tjänstepersoner och revisorer.
 
-***
+Den detaljerade attestordningen och andra konkreta instruktioner ska finnas i [dokumentarkivet](https://styrning.smaland.football/dokument). Den här sidan beskriver principerna.
 
 ## Vad intern kontroll omfattar
 
-Intern kontroll i SmFF är inte begränsat till ekonomi. Det handlar om hela styrkedjan: ekonomi och attest, delegation och beslutsfattande, dokumentation och protokoll, uppföljning och återrapportering, ansvarsfördelning och efterlevnad av styrande dokument.
+Intern kontroll omfattar mer än ekonomi.
 
-***
+Det handlar om att distriktet har fungerande arbetssätt för:
 
-## Fem grundprinciper
+* ansvarsfördelning
+* delegation
+* beslut och verkställighet
+* ekonomi och attest
+* dokumentation och protokoll
+* riskhantering
+* uppföljning och återrapportering
+* efterlevnad av styrande dokument
 
-**Tydlig ansvarsfördelning** — det ska alltid vara klart vem som ansvarar för sakgranskning, attest, verkställighet och kontroll.
+Intern kontroll ska vara inbyggd i det vanliga arbetet, inte ligga som ett sidospår.
 
-**Ingen kontrollerar hela kedjan ensam** — den som initierar eller sakgranskar en transaktion ska normalt inte ensam slutattestera och verkställa den.
+## Distriktsstyrelsens ansvar
 
-**Dokumentation är spårbar** — det ska i efterhand gå att förstå vad som attesterades, av vem, när och med vilket mandat.
+Distriktsstyrelsen ansvarar för att det finns en tillräcklig intern kontroll.
 
-**Rutiner är kända och tillämpade** — intern kontroll fungerar inte enbart genom dokument. De ansvariga måste känna till och tillämpa rutinerna i vardagen.
+Det innebär inte att distriktsstyrelsen ska utföra alla kontroller själv. Men den ska säkerställa att kontrollsystemet finns, fungerar och följs upp.
 
-**Proportionerliga kontroller** — robusta nog för trygghet, men inte onödigt komplicerade i förhållande till organisationens storlek.
+Distriktschef och kansli har viktiga roller i att genomföra och dokumentera kontrollmoment inom den löpande verksamheten.
 
-***
+## Grundprinciper
+
+Intern kontroll i distriktet ska bygga på fem principer.
+
+| Princip | Innebörd |
+| --- | --- |
+| **Tydlig ansvarsfördelning** | Det ska vara klart vem som bereder, beslutar, verkställer, attesterar, följer upp och granskar |
+| **Ingen kontrollerar hela kedjan ensam** | Samma person eller funktion ska normalt inte initiera, godkänna, verkställa och kontrollera samma ärende ensam |
+| **Spårbar dokumentation** | Det ska gå att se vad som beslutats, attesterats eller kontrollerats, av vem och på vilken grund |
+| **Kända arbetssätt** | Rutiner och kontrollpunkter ska vara kända av dem som ska använda dem |
+| **Proportionerliga kontroller** | Kontrollerna ska vara robusta nog för trygghet men inte mer krångliga än nödvändigt |
 
 ## Attest
 
-Attest är kärnan i den ekonomiska interna kontrollen. Grundprincipen är **tvåstegsprincipen** — ekonomiska transaktioner granskas av minst två personer.
+Attest är en central del av den ekonomiska interna kontrollen.
 
-**Sakattest** — berörd ansvarig tjänsteperson bekräftar att kostnaden är sakligt riktig och hör till verksamheten.
+Grundprincipen är att ekonomiska transaktioner ska kontrolleras av mer än en person eller funktion när det är möjligt och rimligt.
 
-**Slutattest** — distriktschefen godkänner slutgiltigt. Kostnader kopplade direkt till distriktschefen slutattesteras av distriktsordföranden.
+**Sakattest** innebär att en kostnad eller transaktion kontrolleras sakligt: att den hör till verksamheten, är korrekt och har stöd i uppdrag eller beslut.
 
-Vid distriktschefens frånvaro ska en fastställd backup-ordning gälla — dokumenterad och känd i förväg.
+**Slutattest** innebär ett slutligt godkännande enligt beslutad ordning.
 
-Den detaljerade attestordningen och delegationsordningen för ekonomiska befogenheter finns under [Dokument](https://dokument.smaland.football/instruktioner/attestordning).
+Vem som får attestera vad ska framgå av attestordning, delegationsordning eller annat beslutat dokument i dokumentarkivet.
 
-## Vidare inforamtion
+## Riskanalys och internkontrollplan
 
-Tillägg bör införas:
+Intern kontroll bör utgå från risk.
 
-1. Årlig riskanalys beslutas av distriktsstyrelsen.
-2. Risker bedöms utifrån sannolikhet och konsekvens.
-3. Styrelsen fastställer internkontrollplan.
-4. Kontrollmoment får ansvarig, frekvens och rapporteringsväg.
-5. Utfallet återrapporteras till styrelsen.
-6. Lekmannarevisionen får underlaget som del av sin granskning.
-7. Väsentliga brister leder till åtgärdsplan.
+Det innebär att distriktet regelbundet bör identifiera, bedöma och hantera väsentliga risker i verksamhet, ekonomi och styrning.
 
-<br>
+En internkontrollplan kan användas för att tydliggöra:
+
+* vilka risker som ska följas upp
+* vilka kontrollmoment som ska göras
+* vem som ansvarar
+* hur ofta kontroll ska ske
+* hur resultat ska rapporteras
+* vilka åtgärder som krävs vid brister
+
+Riskanalys och internkontrollplan ska hållas på en nivå som passar distriktets storlek och uppdrag. Det ska vara användbart, inte bara snyggt på papper.
+
+## Återrapportering
+
+Intern kontroll blir inte färdig förrän den återrapporteras.
+
+Distriktsstyrelsen behöver få tillräcklig information för att kunna ta ansvar för styrning, ekonomi och risker.
+
+Väsentliga brister bör leda till åtgärdsplan, ansvarig funktion och uppföljning.
+
+Lekmannarevision och revision kan använda underlag från intern kontroll i sin granskning.
+
+## Gräns mot revision och lekmannarevision
+
+Intern kontroll är distriktets eget system för att förebygga, upptäcka och hantera risker.
+
+Revision och lekmannarevision granskar hur styrning, ekonomi och intern kontroll fungerar.
+
+Det är viktigt att hålla isär dessa roller. Den som granskar ska inte samtidigt vara ansvarig för den verksamhet som granskas.
+
+## Vägledande princip
+
+Intern kontroll ska vara tillräckligt stadig för att tåla granskning och tillräckligt enkel för att användas i vardagen.
+
+Det är där den gör nytta: i det löpande arbetet, innan problemen blir stora.
