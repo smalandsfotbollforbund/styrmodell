@@ -1,41 +1,60 @@
 ---
 description: >-
-  Föreningarnas viktigaste påverkansverktyg; vem kan motionera, till vad, när
-  och hur hanteras det sedan.
+  Motioner och initiativrätt som formella vägar för föreningarnas inflytande.
 ---
 
 # Motioner och initiativrätt
 
-Motionsrätten är ett av föreningarnas viktigaste verktyg. Genom motioner kan föreningarna — och deras medlemmar — väcka frågor till beslut på demokratisk nivå. Det är inte ett klagomålssystem. Det är ett påverkansverktyg.
+Motioner är ett av medlemsföreningarnas viktigaste verktyg för att påverka distriktet.
 
------
+En motion är inte ett klagomålssystem. Det är ett formellt förslag till beslut på demokratisk nivå.
 
-## Vem kan motionera
+Den här sidan beskriver motioner och initiativrätt som del av styrmodellen. Exakta tidsgränser, formkrav och behörigheter följer av stadgarna och beslutade dokument.
 
-Rätten att lämna motion tillkommer röstberättigad förening och röstberättigad medlem i en sådan förening. En members motion lämnas via föreningen, som bifogar sitt yttrande.
+## Motionens roll
 
-Motioner kan riktas till **årsmötet** — i alla frågor som faller inom dess mandat — eller till **representantskapet** — i frågor om tävlingsregler och seriesammansättning.
+Motioner gör det möjligt för föreningar, och i vissa fall medlemmar genom sin förening, att lyfta frågor till årsmöte eller representantskap.
 
------
+Det stärker medlemsinflytandet och gör det möjligt för frågor att komma under demokratisk prövning även när de inte väcks av distriktsstyrelsen.
 
-## Tidsgränser
+## Rätt fråga till rätt organ
 
-**Till årsmötet:** Motion ska vara distriktsstyrelsen tillhanda senast **1 november**.
+Motioner och förslag ska riktas till rätt demokratisk nivå.
 
-**Till representantskapet:** Skriftliga förslag ska inkomma senast **15 december**.
+Frågor som hör till årsmötets mandat ska hanteras av årsmötet.
 
-Motioner som inkommer efter dessa datum behandlas inte vid aktuellt möte.
+Frågor som hör till representantskapets tävlingsmandat ska hanteras av representantskapet.
 
------
+Gränsdragningen mellan årsmöte och representantskap beskrivs i [Årsmöte](arsmote.md) och [Representantskap](representantskap.md).
 
-## Styrelsens beredning
+## Tidsgränser och formkrav
 
-Styrelsen bereder varje motion och lämnar ett eget yttrande — bifall, avslag eller alternativt förslag. En motion kan inte tystas ned. Den ska presenteras för mötet, oavsett styrelsens inställning.
+Tidsgränser och formkrav ska följas.
 
------
+De finns för att föreningar, distriktsstyrelse och andra berörda ska hinna läsa, bereda och ta ställning till förslagen på ett ordnat sätt.
 
-## Styrelsens initiativrätt
+Styrmodellen ska inte dubblera varje detalj i stadgar eller processbeskrivningar. Den ska klargöra principen: motioner ska hanteras öppet, korrekt och i rätt tid.
 
-Utöver föreningarnas motionsrätt lägger styrelsen propositioner — egna förslag — till de demokratiska organen. Frågor av principiell eller ekonomisk vikt som inte är brådskande bör hanteras via demokratiska organ, inte enbart av styrelsen.
+## Beredning av motioner
 
-Processen för motionshantering beskrivs i detalj under [Dokument](https://dokument.smaland.football/processer/motionsprocessen).
+Motioner ska beredas inför beslut.
+
+Beredningen ska hjälpa det demokratiska mötet att förstå förslaget, konsekvenserna och möjliga vägval.
+
+En motion ska inte tystas ned genom utebliven beredning. Även när distriktsstyrelsen föreslår avslag ska frågan hanteras så att mötet kan fatta beslut.
+
+## Distriktsstyrelsens initiativrätt
+
+Distriktsstyrelsen kan väcka egna förslag till årsmöte eller representantskap inom respektive organs mandat.
+
+Sådana förslag bör användas när en fråga behöver demokratisk förankring eller när frågan ligger utanför distriktsstyrelsens eget mandat.
+
+Det ska vara tydligt om ett förslag kommer från distriktsstyrelsen eller från en förening.
+
+## Vägledande princip
+
+Motioner och initiativrätt ska göra medlemsinflytandet verkligt.
+
+Det kräver att rätt fråga hamnar på rätt nivå, att underlag tas fram i tid och att föreningarna kan förstå vad de ska ta ställning till.
+
+Det är bättre med en rak och välberedd motion än en fråga som vandrar runt i organisationen utan tydlig hemvist.
