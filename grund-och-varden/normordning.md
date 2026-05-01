@@ -1,57 +1,76 @@
 ---
 description: >-
-  Vilka dokument och beslut som väger tyngst när det uppstår oklarheter; från
-  RF:s stadgar till processbeskrivningar.
+  Vilka dokument och beslut som väger tyngst när det uppstår oklarheter eller
+  konflikter.
 ---
 
 # Normordning
 
-När regler, beslut eller dokument pekar i olika riktningar gäller normordningen — en rangordning som avgör vad som väger tyngst. Det är ett av styrmodellens viktigaste verktyg för att lösa oklarheter och förebygga konflikter.
+Normordningen beskriver vilka regler, beslut och dokument som väger tyngst när de pekar åt olika håll.
 
-***
+Det är kärnkällan för dokumenthierarki och normkonflikter i styrmodellen. Andra sidor ska därför hänvisa hit när frågan gäller vad som gäller framför något annat.
 
-## Rangordningen
+## Rangordning
 
-Varje nivå väger tyngre än nivån under. Inget beslut eller dokument kan strida mot nivåerna ovanför.
+Varje nivå väger tyngre än nivån under. Inget beslut eller dokument i distriktet kan strida mot nivåerna ovanför.
 
 {% stepper %}
 {% step %}
-**RF:s stadgar** De yttersta ramarna för hela idrottsrörelsen. Gäller alla förbund och föreningar, inklusive SmFF.
+**RF:s stadgar**  
+De yttersta ramarna för hela idrottsrörelsen. Gäller för förbund, distrikt och föreningar inom idrottsrörelsen.
 {% endstep %}
 
 {% step %}
-**SvFF:s stadgar** Fotbollens nationella regler. Fastställer hur SDF ska organiseras och vilka stadgar de ska ha. SmFF:s stadgar ska följa SvFF:s stadgemall och godkännas av SvFF.
+**Svenska Fotbollförbundets stadgar och överordnade regelverk**  
+Fotbollens nationella stadgar och regler. De anger bland annat hur SDF ska organiseras och vilka ramar som gäller för distriktsförbund inom svensk fotboll.
 {% endstep %}
 
 {% step %}
-**SmFF:s stadgar** Distriktets eget högsta styrdokument. Beslutas av föreningarna på årsmötet. Kan inte ändras av styrelsen ensam.
+**Smålands Fotbollförbunds stadgar**  
+Distriktets högsta interna normnivå. Stadgarna beslutas av medlemsföreningarna på årsmötet och kan inte ändras av distriktsstyrelsen ensam.
 {% endstep %}
 
 {% step %}
-**Beslut av årsmöte och representantskap** Bindande för styrelse och alla delar av organisationen. Överordnade styrelsens egna beslut.
+**Beslut av årsmöte och representantskap**  
+Beslut från medlemsorganen inom respektive mandat. Årsmötet är distriktets högsta beslutande organ. Representantskapet har ett särskilt avgränsat mandat i tävlingsfrågor.
 {% endstep %}
 
 {% step %}
-**Distriktsstyrelsens beslut och styrdokument** Policyer, arbetsordningar, delegationsordningar och instruktioner fastställda av styrelsen.
+**Distriktsstyrelsens beslut och styrdokument**  
+Beslut och styrdokument som distriktsstyrelsen fastställer inom sitt mandat, till exempel policyer, arbetsordningar, delegationsordningar och instruktioner.
 {% endstep %}
 
 {% step %}
-**Kommittéers och organs styrdokument** Dokument inom det mandat styrelsen delegerat.
+**Organ- och funktionsspecifika dokument**  
+Dokument som gäller för kommittéer, funktioner eller roller inom de ramar som följer av stadgar, demokratiska beslut och distriktsstyrelsens beslut.
+{% endstep %}
+
+{% step %}
+**Operativa tillämpningsdokument och stödmaterial**  
+Processbeskrivningar, rutiner, mallar, checklistor, bilagor och andra stöd som används i det praktiska arbetet. De får inte skapa ny beslutsordning eller ändra mandat.
 {% endstep %}
 {% endstepper %}
 
-**RF:s rekommendation för god demokratisk styrning** Inte tvingande som stadgarna, men en central vägledning som SmFF ska följa. Läs mer under [God demokratisk styrning](god-demokratisk-styrning.md).
+## Vägledande dokument
 
-***
+Alla viktiga dokument är inte normer på samma sätt som stadgar och beslut.
+
+RF:s rekommendation för god demokratisk styrning är inte tvingande på samma sätt som stadgar, men är en central vägledning för hur distriktet ska förstå och utveckla sin demokratiska styrning.
+
+Läs mer under [God demokratisk styrning](god-demokratisk-styrning.md).
 
 ## Tolkning av normordningen
 
-Uppstår konflikt gäller det dokument eller beslut som ligger högre i hierarkin. Uppstår oklarhet om var en fråga hör hemma ska den lyftas till närmast ansvarig beslutsnivå — inte lösas informellt.
+Om två dokument verkar säga olika saker gäller dokumentet eller beslutet som ligger högre i normordningen.
 
-***
+Om det är oklart var en fråga hör hemma ska frågan lyftas till rätt ansvarig nivå. Den ska inte lösas genom vana, personligt omdöme eller informell praxis.
+
+Normordningen ska användas tillsammans med [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md), som beskriver dokumenttyper och dokumentarkiv.
 
 ## Folkrörelseprincipen
 
-Folkrörelseprincipen är inte en normnivå — det är värdegrunden som hela normordningen vilar på. Den förklarar varför organisationen är demokratiskt uppbyggd och varför de demokratiska besluten alltid väger tyngre än styrelsens egna.
+Folkrörelseprincipen är inte en egen normnivå i rangordningen.
+
+Den är grunden som förklarar varför distriktet är demokratiskt uppbyggt, varför medlemsföreningarnas beslut har särskild tyngd och varför ansvar och mandat måste vara tydliga.
 
 Läs mer under [Folkrörelseprincip](folkrorelseprincip.md).
