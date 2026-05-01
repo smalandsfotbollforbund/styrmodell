@@ -1,67 +1,88 @@
 ---
 description: >-
-  Styrmodellen är ett uppslagsverk. Du behöver alltså inte läsa den från pärm
-  till pärm utan gå direkt till det du behöver.
+  Hur du hittar rätt i styrmodellen och när du ska gå vidare till dokumentarkivet.
 ---
 
 # Så läser du styrmodellen
 
-## Ny i organisationen?
+Styrmodellen är inte tänkt att läsas från början till slut varje gång. Den ska fungera som en karta.
 
-Börja här:
+Börja där frågan hör hemma. Gå vidare via länkarna. Om du är osäker på vilket dokument eller beslut som väger tyngst ska du gå till [Normordning](../grund-och-varden/normordning.md).
 
-1. [Om Smålands Fotbollförbund](om-smalands-fotbollforbund.md) — vad är distriktet och vad gör vi?
-2. [Styrarkitekturen](../organisationens-struktur/styrarkitektur.md) — hur hänger organisationen ihop?
-3. Det avsnitt som gäller ditt uppdrag (se nedan)
+## Börja här om du är ny
 
-***
+Om du är ny i distriktets styrning är detta en bra läsordning:
 
-## Ny i ett specifikt uppdrag?
+1. [Om Smålands Fotbollförbund](om-smalands-fotbollforbund.md)
+2. [Om styrmodellen](om-styrmodellen.md)
+3. [Begreppslista](begreppslista.md)
+4. [Styrarkitektur](../organisationens-struktur/styrarkitektur.md)
+5. Den del som gäller ditt uppdrag
 
-**I distriktsstyrelsen** → [Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md), [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
+Det räcker ofta. Resten används när frågan kräver det.
 
-**Kommittéordförande eller ledamot** → [Kommittémodellen](../kommitteer-och-arbetsgrupper/kommitteer.md), sedan din kommittés dokument på [dokument.smaland.football](https://dokument.smaland.football)
+## Om du har ett uppdrag
 
-**Revisor eller lekmannarevisor** → [Revision och lekmannarevision](../granskande-funktioner/revision-och-lekmannarevision.md), [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
+**Distriktsstyrelsen**  
+Börja med [Distriktsstyrelse](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
 
-**Valberedningen** → [Valberedningen](../granskande-funktioner/valberedning.md), [Val, ombud och rösträtt](../demokratisk-styrning/val-ombud-och-rostratt.md)
+**Kommittéordförande eller kommittéledamot**  
+Börja med [Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och det konkreta kommittédokument som finns i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
-**Kansliet** → [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschef.md), [Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md)
+**Distriktschef eller kansli**  
+Börja med [Distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md), [Kansli](../distriktsstyrelsen-och-ledningen/kansli.md), [Verkställighet](../processer-och-arbetssatt/verkstallighet.md) och [Uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md).
 
-***
+**Valberedning**  
+Börja med [Valberedning](../granskande-funktioner/valberedning.md), [Val, ombud och rösträtt](../demokratisk-styrning/val-ombud-och-rostratt.md) och [Demokratisk legitimitet och medlemsinflytande](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md).
 
-## Letar du svar på en specifik fråga?
+**Revision eller lekmannarevision**  
+Börja med [Revision och lekmannarevision](../granskande-funktioner/revision-och-lekmannarevision.md), [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md) och [Dokumentation och protokoll](../processer-och-arbetssatt/dokumentation-och-protokoll.md).
 
-**Hur fungerar ett årsmöte?** → [Årsmötet](../demokratisk-styrning/arsmote.md)
+## Om du söker svar på en fråga
 
-**Vem bestämmer om tävlingsregler?** → [Representantskapet](../demokratisk-styrning/representantskap.md)
+| Fråga | Gå till |
+| --- | --- |
+| Vad är distriktets grund och uppdrag? | [Om Smålands Fotbollförbund](om-smalands-fotbollforbund.md) |
+| Hur fungerar styrmodellen? | [Om styrmodellen](om-styrmodellen.md) |
+| Vad betyder ett begrepp? | [Begreppslista](begreppslista.md) |
+| Vad väger tyngst vid konflikt? | [Normordning](../grund-och-varden/normordning.md) |
+| Hur hänger organisationen ihop? | [Styrarkitektur](../organisationens-struktur/styrarkitektur.md) |
+| Hur fungerar årsmötet? | [Årsmöte](../demokratisk-styrning/arsmote.md) |
+| Vem bestämmer om tävlingsregler? | [Representantskap](../demokratisk-styrning/representantskap.md) |
+| Vem ansvarar för vad? | [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md) |
+| Hur fungerar delegation? | [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) |
+| Hur hänger styrmodellen ihop med dokumentarkivet? | [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md) |
+| Var finns konkreta styrande dokument? | [Dokumentarkivet](https://styrning.smaland.football/dokument) |
 
-**Vad innebär folkrörelseprincipen?** → [Folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md)
+## Styrmodellen och dokumentarkivet
 
-**Hur fungerar attest?** → [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md) + [Attestordning](https://dokument.smaland.football/instruktioner/attestordning)
+Styrmodellen beskriver principer, nivåer och samband.
 
-**Vem ansvarar för vad?** → [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md)
+Dokumentarkivet innehåller konkreta dokument, till exempel stadgar, policyer, arbetsordningar, delegationsordningar, instruktioner, riktlinjer, processbeskrivningar, bilagor och externa dokument.
 
-**Vilka styrdokument finns?** → [Dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/)
+Om du behöver veta vilken typ av dokument som ska användas, gå till [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md).
 
-***
-
-## Osäker på ett begrepp?
-
-Gå till [Begreppslistan](begreppslista.md).
-
-***
+Om du behöver läsa ett beslutat dokument, gå till [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 ## Styrmodellens avsnitt
 
-| Avsnitt                              | Vad du hittar här                                                                |
-| ------------------------------------ | -------------------------------------------------------------------------------- |
-| **Grund och värden**                 | Folkrörelseprincipen, värdegrund, normordning, styrprinciper                     |
-| **Organisationens struktur**         | Hur organisationen hänger ihop, roller, schema, relationer utåt                  |
-| **Demokratisk styrning**             | Årsmöte, representantskap, val, motioner, legitimitet                            |
-| **Distriktsstyrelsen och ledningen** | Styrelse, presidium, distriktschef, kansli, delegation, kontroll                 |
-| **Kommittéer och arbetsgrupper**     | Kommittémodellen, arbetsgrupper, referensgrupper                                 |
-| **Granskande funktioner**            | Valberedning, revision, disciplinnämnd                                           |
-| **Strategi och operativt uppdrag**   | Vision, strategihus, inriktningar, prioriteringar, verksamhetsområden, planering |
-| **Processer och arbetssätt**         | Hur beslut, beredning, uppföljning och dokumentation fungerar principiellt       |
-| **Dokument**                         | Dokumentarkitektur och externa bärande dokument                                  |
+| Avsnitt | Vad du hittar där |
+| --- | --- |
+| **Introduktion** | Vad styrmodellen är, hur den läses och vilka begrepp som används |
+| **Grund och värden** | Folkrörelseprincip, värdegrund, god demokratisk styrning, normordning och styrande principer |
+| **Organisationens struktur** | Styrarkitektur, roller, organisationsschema och relationer i idrottens ekosystem |
+| **Demokratisk styrning** | Årsmöte, representantskap, val, motioner och medlemsinflytande |
+| **Distriktsstyrelsen och ledningen** | Distriktsstyrelse, presidium, distriktschef, kansli, delegation och intern kontroll |
+| **Kommittéer och arbetsgrupper** | Kommittéer, arbetsgrupper och referensgrupper |
+| **Granskande funktioner** | Valberedning, revision, lekmannarevision och disciplinnämnd |
+| **Strategi och operativt uppdrag** | Strategihus, inriktningar, prioriteringar, verksamhetsområden, planering och ansvarsmatris |
+| **Processer och arbetssätt** | Beslutsfattande, beredning, verkställighet, uppföljning, dokumentation och möteshantering |
+| **Styrande dokument** | Dokumentarkitektur och externa bärande dokument |
+
+## När du är osäker
+
+Lös inte oklarheter genom vana eller gissning.
+
+Gå först till rätt kärnkälla. Om frågan gäller rangordning mellan dokument och beslut, gå till [Normordning](../grund-och-varden/normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv, gå till [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md). Om frågan gäller ett ord eller en förkortning, gå till [Begreppslista](begreppslista.md).
+
+Rätt fråga på rätt plats. Då blir styrningen tydligare för alla.
