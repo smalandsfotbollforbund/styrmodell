@@ -4,138 +4,257 @@ description: De viktigaste begreppen i styrmodellen, ordnade tematiskt.
 
 # Begreppslista
 
+Begreppslistan ska hjälpa läsaren att förstå hur ord och förkortningar används i styrmodellen.
+
+Den ska inte ersätta stadgar, beslutade dokument eller andra styrande dokument. När ett begrepp har en formell betydelse i stadgar eller reglemente gäller den formella definitionen där.
+
+## Namnstandard
+
+För att minska risken för sammanblandning ska styrmodellen använda följande namnstandard.
+
+| Begrepp | Ska användas för |
+| --- | --- |
+| **Smålands Fotbollförbund** | Distriktsförbundet inom svensk fotboll |
+| **Distriktet** | Kortform för Smålands Fotbollförbund i löpande text |
+| **SDF** | Formell beteckning när specialidrottsdistriktsförbund avses |
+| **SmFF** | Förkortning som kan användas i tabeller eller när utrymmet kräver det, men bör undvikas i löpande text |
+| **Distriktsstyrelsen** | Styrelsen i Smålands Fotbollförbund |
+| **DS** | Förkortning för distriktsstyrelsen |
+| **Svenska Fotbollförbundet** | Nationellt specialidrottsförbund för fotboll |
+| **SvFF** | Förkortning för Svenska Fotbollförbundet |
+| **Förbundsstyrelsen** | Styrelsen i Svenska Fotbollförbundet |
+| **FS** | Förkortning för förbundsstyrelsen |
+| **Riksidrottsförbundet** | Den svenska idrottsrörelsens samlande organisation |
+| **RF** | Förkortning för Riksidrottsförbundet |
+| **Riksidrottsstyrelsen** | Styrelsen i Riksidrottsförbundet |
+| **RS** | Förkortning för riksidrottsstyrelsen |
+| **RF-SISU Småland** | Distriktidrottsförbundet i Småland |
+| **Distriktidrottsförbundet** | Kortform för RF-SISU Småland i styrmodellen |
+| **DF** | Förkortning för distriktidrottsförbundet |
+| **Distriktidrottsstyrelsen** | Styrelsen i RF-SISU Småland |
+| **DFS** | Förkortning för distriktidrottsstyrelsen |
+
+När det finns risk för sammanblandning ska styrmodellen välja det tydligare begreppet, även om det blir något längre.
+
 ## Organisationer
 
-**Smålands Fotbollförbund (SmFF, distriktet)** — den ideella organisation som samordnar och stödjer fotbollen i Jönköpings, Kalmar och Kronobergs län. Ägs av sina medlemsföreningar.
+**Smålands Fotbollförbund**  
+Distriktsförbundet inom svensk fotboll för Småland och Öland. I styrmodellen används ofta kortformen **distriktet**.
 
-**Svenska Fotbollförbundet (SvFF)** — nationellt specialidrottsförbund. Fastställer stadgemall och regler som SmFF ska följa. Undvik “förbundet” i SmFF-sammanhang — risk för sammanblandning.
+**Distriktet**  
+Kortform för Smålands Fotbollförbund.
 
-**Riksidrottsförbundet (RF)** — den svenska idrottsrörelsens samlande organisation. RF:s stadgar gäller hela rörelsen, inklusive SmFF.
+**SDF**  
+Specialidrottsdistriktsförbund. I styrmodellen används SDF när den formella rollen inom idrottens organisation behöver beskrivas.
 
-**RF-SISU Småland (DF, distriktidrottsförbundet)** — RF:s och SISU:s gemensamma organisation för Småland. Parallell organisation till SmFF, inte överordnad. Samverkar med SmFF via samverkansplanen.
+**Svenska Fotbollförbundet**  
+Nationellt specialidrottsförbund för fotboll. Förkortas **SvFF**.
 
-**Specialidrottsdistriktsförbund (SDF)** — formell beteckning för ett distriktsförbund inom ett specialidrottsförbund. SmFF är ett av flera SDF inom svensk fotboll.
+**Riksidrottsförbundet**  
+Den svenska idrottsrörelsens samlande organisation. Förkortas **RF**.
 
-***
+**RF-SISU Småland**  
+Distriktidrottsförbundet i Småland. I styrmodellen används begreppet **distriktidrottsförbundet** när organisationens roll i idrottens struktur beskrivs.
+
+**Distriktidrottsförbundet**  
+Kortform för RF-SISU Småland i styrmodellen. Förkortas **DF**.
 
 ## Styrelser och organ
 
-**Distriktsstyrelsen (DS)** — SmFF:s styrelse. Högsta beslutande organ när de demokratiska organen inte är samlade.
+**Distriktsstyrelsen**  
+Styrelsen i Smålands Fotbollförbund. Förkortas **DS**. Distriktsstyrelsen leder distriktet mellan de demokratiska mötena.
 
-**Förbundsstyrelsen (FS)** — SvFF:s styrelse.
+**Förbundsstyrelsen**  
+Styrelsen i Svenska Fotbollförbundet. Förkortas **FS**.
 
-**Riksidrottsstyrelsen (RS)** — RF:s styrelse.
+**Riksidrottsstyrelsen**  
+Styrelsen i Riksidrottsförbundet. Förkortas **RS**.
 
-**Distriktidrottsstyrelsen (DFS)** — RF-SISU Smålands styrelse.
+**Distriktidrottsstyrelsen**  
+Styrelsen i RF-SISU Småland. Förkortas **DFS**.
 
-**Presidium (PD)** — en mindre grupp ur distriktsstyrelsen. Kan ges beredande eller delegerade uppgifter. Inte ett självständigt beslutsorgan.
+**Årsmöte**  
+Smålands Fotbollförbunds högsta beslutande organ.
 
-***
+**Representantskap**  
+Medlemsorgan med särskilt mandat i tävlingsfrågor mellan årsmötena. Representantskapet kan förstås som ett avgränsat mini-årsmöte för tävlingsfrågor.
+
+**Extra årsmöte**  
+Extra demokratiskt möte enligt stadgarna.
+
+**Kommitté**  
+Organ under distriktsstyrelsen som verkar inom ett särskilt sakområde och inom de ramar distriktsstyrelsen beslutat.
+
+**Arbetsgrupp**  
+Tillfällig eller avgränsad grupp som får ett särskilt uppdrag. En arbetsgrupp är inte ett självständigt beslutsorgan om den inte uttryckligen fått ett sådant mandat.
+
+**Referensgrupp**  
+Grupp som bidrar med kunskap, erfarenhet eller perspektiv. En referensgrupp är inte ett beslutsorgan.
+
+**Disciplinnämnd**  
+Självständigt organ valt av årsmötet för att pröva disciplinära ärenden inom sitt mandat.
 
 ## Roller
 
-**Distriktsordförande (DO)** — ordförande i distriktsstyrelsen. Väljs av årsmötet.
+**Distriktsordförande**  
+Ordförande i distriktsstyrelsen. Väljs av årsmötet.
 
-**Distriktschef (DC)** — anställd verksamhetsledare. Leder den löpande verksamheten.
+**Distriktschef**  
+Anställd verksamhetsledare som leder den löpande verksamheten inom de ramar som distriktsstyrelsen beslutat.
 
-**Kommittéordförande (KO)** — leder en kommitté. Utsedd av distriktsstyrelsen.
+**Kansli**  
+Distriktets tjänstepersonsorganisation. Bereder, verkställer och följer upp inom givna ramar.
 
-**Kommittéledamot (KL)** — ledamot i en kommitté. Utsedd av distriktsstyrelsen.
+**Kommittéordförande**  
+Person som leder en kommittés arbete inom kommitténs uppdrag och mandat.
 
-**Ombud** — representant för en förening vid demokratiskt möte. Bär föreningens rösträtt.
+**Kommittéledamot**  
+Ledamot i en kommitté.
 
-**Adjungerad** — deltar i möte utan att vara formellt vald ledamot.
+**Ombud**  
+Person som företräder en förening vid demokratiskt möte och bär föreningens rösträtt.
 
-**Hedersordförande / Hedersledamot** — SmFF:s högsta hedersbetygelse. Har yttranderätt på årsmöte och representantskap.
+**Adjungerad**  
+Person som deltar i ett möte utan att vara formellt vald ledamot. En adjungerad har inte rösträtt om inte annat följer av särskilt beslut eller reglering.
 
-**Firmatecknare** — har rätt att underteckna avtal och ekonomiska dokument i SmFF:s namn.
+**Hedersordförande och hedersledamot**  
+Hedersbetygelser inom Smålands Fotbollförbund.
 
-***
+**Firmatecknare**  
+Person eller personer som har rätt att underteckna avtal och handlingar för distriktets räkning enligt beslut.
+
+## Styrning och ansvar
+
+**Styrmodell**  
+Den samlade logik som beskriver hur distriktet styrs, leds, organiseras, följs upp och utvecklas.
+
+**Normordning**  
+Rangordning som avgör vilket dokument eller beslut som väger tyngst vid konflikt. Kärnkällan för normordningen finns i [Normordning](../grund-och-varden/normordning.md).
+
+**Dokumentarkitektur**  
+Beskriver hur styrmodellen och dokumentarkivet hänger ihop, vilka dokumenttyper som används och hur dokument ska förvaltas. Kärnkällan finns i [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md).
+
+**Delegation**  
+Överlåtelse av beslutanderätt inom en beslutad ram. Den som delegerar behåller det övergripande ansvaret.
+
+**Beredning**  
+Framtagande av underlag inför beslut.
+
+**Beslut**  
+Formellt ställningstagande av behörigt organ eller behörig funktion.
+
+**Verkställighet**  
+Genomförande av fattat beslut.
+
+**Uppföljning**  
+Kontroll av att beslut, mål, uppdrag eller processer genomförs och får avsedd effekt.
+
+**Återrapportering**  
+Rapportering tillbaka till den nivå eller funktion som gett uppdrag, fattat beslut eller har uppföljningsansvar.
+
+**Granskning**  
+Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning, efterlevnad eller ändamålsenlighet.
+
+**Jäv**  
+Situation där en persons intresse eller relation kan påverka, eller uppfattas påverka, opartiskheten i beredning eller beslut.
+
+**Intern kontroll**  
+Strukturer och arbetssätt som ska säkerställa ordning, spårbarhet, riskhantering och efterlevnad.
+
+**Sakattest**  
+Kontroll av att en kostnad är sakligt riktig.
+
+**Slutattest**  
+Slutligt godkännande av en ekonomisk transaktion.
 
 ## Demokratiska processer
 
-**Årsmötet** — SmFF:s högsta beslutande organ. Hålls en gång per år, normalt i mars.
+**Motion**  
+Formellt förslag från röstberättigad förening eller annan behörig part enligt stadgarna.
 
-**Representantskapet** — beslutar om tävlingsregler och seriesammansättning. Sammanträder normalt i januari–februari.
+**Proposition**  
+Förslag från distriktsstyrelsen till årsmöte eller annat demokratiskt organ.
 
-**Extra årsmöte** — kallas vid behov för frågor som inte kan vänta till ordinarie möte.
+**Röstlängd**  
+Förteckning över röstberättigade föreningar och deras rösttal.
 
-**Motion** — formellt förslag inlämnat av röstberättigad förening eller medlem.
+**Ansvarsfrihet**  
+Årsmötets beslut om huruvida distriktsstyrelsen ska beviljas ansvarsfrihet för den tid som granskningen avser.
 
-**Proposition** — förslag från distriktsstyrelsen till ett demokratiskt möte.
+**Per capsulam**  
+Beslut som fattas utan ordinarie sammanträde. Ska dokumenteras och anmälas enligt gällande ordning.
 
-**Röstlängd** — förteckning upprättad av SvFF över röstberättigade föreningar och deras rösttal.
-
-**Ansvarsfrihet** — beslut på årsmötet om huruvida styrelsen skött sitt uppdrag godtagbart.
-
-**Per capsulam** — beslut som fattas utan sammanträde, t.ex. via digital omröstning. Ska anmälas vid nästkommande möte.
-
-***
-
-## Styrning och kontroll
-
-**Normordning** — rangordning som avgör vilket dokument eller beslut som väger tyngst vid konflikt.
-
-**Delegation** — överlåtelse av beslutanderätt. Den som delegerar behåller det övergripande ansvaret.
-
-**Sakattest** — godkännande att en kostnad är sakligt riktig.
-
-**Slutattest** — slutgiltigt godkännande av en ekonomisk transaktion.
-
-**Jäv** — situation där en persons intresse eller relation gör att de inte bör delta i handläggning eller beslut. Ska anmälas.
-
-***
+**Dialogmöte, forum eller rådslag**  
+Icke-beslutande mötesplatser för dialog, förankring eller kunskapsinhämtning.
 
 ## Dokumenttyper
 
-**Stadgar** — organisationens högsta interna styrdokument. Beslutas av årsmötet, godkänns av SvFF.
+Dokumenttyperna definieras samlat i [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md). Begreppslistan ger därför bara korta stöddefinitioner.
 
-**Policy** — övergripande principer inom ett område. Beslutas av distriktsstyrelsen.
+**Stadgar**  
+Organisationens högsta interna normnivå.
 
-**Arbetsordning** — reglerar hur ett organ ska arbeta.
+**Policy**  
+Övergripande princip eller viljeinriktning inom ett område.
 
-**Delegationsordning** — reglerar vem som beslutar om vad.
+**Arbetsordning**  
+Dokument som beskriver hur ett organ arbetar inom sitt uppdrag.
 
-**Instruktion** — beskriver ansvar och mandat för en roll. Befattningsbeskrivningar är instruktioner.
+**Delegationsordning**  
+Dokument som anger vem som får fatta beslut i vilka typer av ärenden.
 
-**Riktlinje** — vägledning för tillämpning. Stöder en policy.
+**Instruktion**  
+Dokument som beskriver ansvar, mandat och förväntningar för en roll eller funktion.
 
-**Processbeskrivning** — steg-för-steg-beskrivning av en process, med ansvar och tidsgränser.
+**Riktlinje**  
+Vägledning för tillämpning eller bedömning.
 
-***
+**Processbeskrivning**  
+Beskrivning av hur ett återkommande arbetsflöde genomförs.
+
+**Bilaga**  
+Stödmaterial, mall, översikt eller kompletterande underlag.
+
+**Externt dokument**  
+Dokument som påverkar distriktet men beslutas av annan aktör.
+
+**Reglemente**  
+Dokument med fasta regler för ett område, organ eller en tävlingsform. Ska användas sparsamt och med tydlig koppling till dokumentarkitekturen.
 
 ## Granskande funktioner
 
-**Revisor** — granskar räkenskaper och förvaltning. Minst en ska vara auktoriserad.
+**Revisor**  
+Granskar räkenskaper och förvaltning enligt sitt uppdrag.
 
-**Lekmannarevisor** — granskar verksamhetens ändamålsenlighet och intern kontroll.
+**Lekmannarevisor**  
+Granskar verksamhetens ändamålsenlighet, styrning och interna kontroll.
 
-**Valberedning** — bereder val inför årsmötet. Organ under årsmötet, inte styrelsen.
+**Valberedning**  
+Årsmötets organ för att bereda val.
 
-**Disciplinnämnden** — prövar bestraffningsärenden. Självständigt organ valt av årsmötet.
-
-***
+**Disciplinnämnd**  
+Självständigt årsmötesvalt organ för disciplinära frågor inom sitt mandat.
 
 ## Utmärkelser
 
-**Förtjänsttecken** — utmärkelse för långvariga insatser för fotbollen. Guld, silver och brons inom SmFF.
+**Förtjänsttecken**  
+Utmärkelse för långvariga insatser för fotbollen.
 
-**Årets profiler** — årliga utmärkelser inom spelare, ledare, domare, domartalang, förening och anläggning.
+**Årets profiler**  
+Årliga utmärkelser inom områden som spelare, ledare, domare, domartalang, förening och anläggning.
 
-**Hedersordförande / Hedersledamot** — SmFF:s högsta hedersbetygelse. Beslutas av årsmötet.
+**Hedersordförande och hedersledamot**  
+Smålands Fotbollförbunds högsta hedersbetygelser.
 
-## Ytterligare begrepp
+## Mötesbegrepp
 
-|                              | Bör användas för                                                                                                            |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Årsmöte                      | SmFF:s högsta demokratiska möte                                                                                             |
-| Extra årsmöte                | Extra demokratiskt möte enligt stadgar                                                                                      |
-| Representantskapsmöte        | Formellt demokratiskt möte för representantskapet                                                                           |
-| Extra representantskapsmöte  | Extra demokratiskt möte enligt stadgar                                                                                      |
-| Sammanträde                  | När styrelse, kommitté, disciplinnämnd, valberedning eller annat organ samlas för beredning, ställningstagande eller beslut |
-| Dialogmöte / forum / rådslag | Icke-beslutande mötesplatser                                                                                                |
-| Beredning                    | Framtagande av underlag inför beslut                                                                                        |
-| Beslut                       | Formellt ställningstagande av behörigt organ                                                                                |
-| Verkställighet               | Genomförande av fatttat beslut                                                                                              |
+| Begrepp | Bör användas för |
+| --- | --- |
+| **Årsmöte** | Distriktets högsta demokratiska möte |
+| **Extra årsmöte** | Extra demokratiskt möte enligt stadgarna |
+| **Representantskap** | Medlemsorgan för särskilt angivna tävlingsfrågor |
+| **Extra representantskap** | Extra möte med representantskapet enligt stadgarna |
+| **Sammanträde** | När distriktsstyrelsen, kommitté, disciplinnämnd, valberedning eller annat organ samlas för beredning, ställningstagande eller beslut |
+| **Dialogmöte, forum eller rådslag** | Icke-beslutande mötesplatser |
 
-Ett möte är inte beslutande bara för att många deltar. Beslutandeätt kräver stöd i stadgar, arbetsordning eller delegationsordning.
+Ett möte är inte beslutande bara för att många deltar. Beslutanderätt kräver stöd i stadgar, arbetsordning, delegationsordning eller annat behörigt beslut.
