@@ -1,91 +1,99 @@
 ---
 description: >-
-  De sju grundprinciper som genomsyrar hur SmFF ska fatta beslut, fördela ansvar
-  och hantera sin verksamhet.
+  De grundprinciper som ska vägleda beslut, ansvarsfördelning och arbetssätt i
+  Smålands Fotbollförbund.
 ---
 
 # Styrande principer
 
-Styrmodellen vilar på ett antal grundprinciper som genomsyrar hur organisationen ska fatta beslut, fördela ansvar och hantera sin verksamhet. De är mer konkreta än folkrörelseprincipen men mer principiella än enskilda regler. De fungerar som ett filter: när det är oklart hur en fråga ska hanteras ska principerna ge vägledning.
+De styrande principerna beskriver hur Smålands Fotbollförbund ska tänka när ansvar, mandat, beslut och arbetssätt behöver tolkas.
 
-***
+Principerna är mer konkreta än folkrörelseprincipen, men mer övergripande än enskilda regler, rutiner och dokument. De ska hjälpa distriktet att hålla rätt nivå, rätt ansvar och rätt ordning.
+
+Om frågan gäller vilket dokument eller beslut som väger tyngst ska [Normordning](normordning.md) användas. Om frågan gäller dokumenttyp eller dokumentarkiv ska [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md) användas.
 
 ## Rätt fråga på rätt nivå
 
-Frågor ska hanteras av det organ som har mandat för dem — varken högre eller lägre. Demokratiska organ beslutar i demokratiska frågor. Styrelsen beslutar i strategiska frågor. Kommittéer beslutar i delegerade taktiska frågor. Distriktschefen beslutar i operativa frågor.
+Frågor ska hanteras av den nivå som har mandat för dem.
 
-Att hantera frågor på fel nivå — oavsett riktning — försvagar organisationens legitimitet.
+Demokratiska organ beslutar i demokratiska frågor. Distriktsstyrelsen beslutar i strategiska frågor. Kommittéer verkar inom de ramar och delegationer som distriktsstyrelsen beslutat. Distriktschef och kansli ansvarar för operativ ledning och verkställighet inom givna ramar.
 
-***
+Att hantera frågor på fel nivå försvagar tydligheten, även när avsikten är god.
 
-## Demokratisk legitimitet kringgås inte
+## Demokratisk legitimitet ska skyddas
 
-Frågor som stadgarna lägger på årsmötet eller representantskapet avgörs där — inte av styrelse, kommitté eller kansli, oavsett om det sker via informell praxis, delegation eller tidsbrist.
+Frågor som stadgarna lägger på årsmötet eller representantskapet ska avgöras där.
 
-***
+De ska inte flyttas till distriktsstyrelsen, kommittéer, distriktschef eller kansli genom informell praxis, delegation eller tidsbrist.
 
-## Strategisk och operativ ledning hålls isär
+Det är grunden i en folkrörelse: mandatet börjar hos medlemsföreningarna.
 
-Distriktsstyrelsen ansvarar för riktning, prioritering och uppföljning. Distriktschefen och kansliet ansvarar för genomförande. Dessa roller ska inte blandas samman — varken genom att styrelsen detaljstyr driften eller att kansliet tar strategiska beslut.
+## Strategisk och operativ ledning ska hållas isär
 
-***
+Distriktsstyrelsen ansvarar för riktning, prioritering, delegation, uppföljning och intern kontroll.
 
-## Beredning och beslut skiljs åt
+Distriktschef och kansli ansvarar för att leda och genomföra den löpande verksamheten inom beslutade ramar.
 
-Att bereda ett ärende är inte samma sak som att besluta om det. Kommittéer, presidium och kansli kan bereda — men beslutet fattas av det organ som har mandat. God beredning förbättrar kvaliteten på beslut, men äger inte beslutet.
+Distriktsstyrelsen ska inte detaljstyra kansliets vardag. Kansliet ska inte ta över distriktsstyrelsens strategiska ansvar.
 
-***
+## Beredning och beslut ska skiljas åt
 
-## Delegering är skriftlig och spårbar
+Att bereda ett ärende är inte samma sak som att besluta.
 
-All delegering av beslutanderätt ska dokumenteras. Det ska alltid gå att förstå vem som delegerat, vad, till vem och med vilka begränsningar. Muntlig delegering gäller inte. Den som delegerar behåller det övergripande ansvaret.
+Kommittéer, presidium, distriktschef och kansli kan bereda ärenden. Beslut fattas av det organ eller den funktion som har mandat.
 
-***
+God beredning stärker beslutet, men äger inte beslutet.
 
-## Ingen kontrollerar hela kedjan ensam
+## Delegation ska vara skriftlig och spårbar
 
-Den som initierar eller sakgranskar ett ärende ska normalt inte ensam slutattestera och verkställa det. Separation av roller är ett skydd mot fel — inte ett uttryck för misstro.
+Delegation av beslutanderätt ska dokumenteras.
 
-***
+Det ska gå att förstå:
 
-## Gråzoner ska aktivt hanteras
+* vem som delegerat
+* vad som delegerats
+* till vem delegation skett
+* vilka begränsningar som gäller
+* hur beslut ska återrapporteras
 
-Gråzoner — situationer där ansvar eller mandat är oklart — är ett strukturproblem, inte en naturlag. De ska identifieras och åtgärdas via tydligare delegationer, instruktioner eller styrmodellens egna dokument. Informella lösningar via personliga relationer accepteras inte som permanent ordning.
+Den som delegerar behåller det övergripande ansvaret. Mer om delegation finns i [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
 
-## Vidare principer
+## Ansvar ska kunna följas
 
-SmFF omfattas inte av kommunallagen, men använder flera av den kommunala demokratins principer som förebild: beslut fattas i behörigt organ, beredning och beslut hålls isär, delegation är undantag från huvudregeln, beslut dokumenteras, jäv hanteras öppet och ansvar kan inte delegeras bort.
+Det ska gå att följa vem som bereder, beslutar, verkställer, följer upp och granskar.
 
-Förtroendevalda organ fattar beslut kollektivt vid behörigt sammanträde. Enskilda förtroendevalda företräder inte organets beslutanderätt, om inte beslutanderätt uttryckligen delegerats till dem. Ordförandens roll är att leda arbetet, inte att ersätta organets kollektiva beslut.
+Samma funktion bör normalt inte ensam bära hela kedjan i en fråga. Särskilt viktigt är att skilja mellan beslut och granskning, samt mellan initiering, sakattest, slutattest och verkställighet.
 
+Den samlade ansvarsfördelningen beskrivs i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
+## Gråzoner ska hanteras aktivt
 
-Beslutanderättens princip
+Gråzoner uppstår när ansvar, mandat eller arbetssätt är oklara.
 
-Beslutanderätt i SmFF tillkommer endast organ eller funktioner som fått mandat genom stadgar, demokratiskt beslut, arbetsordning eller delegationsordning. Mandat kan inte uppstå genom tradition, närvaro, praktiskt behov eller informell överenskommelse.
+De ska inte bli permanenta lösningar genom vana, personliga relationer eller praktiskt behov. De ska hanteras genom tydligare uppdrag, dokument, delegationer, instruktioner eller processer.
 
-Kollektivprincipen
+Det är bättre att reda ut gränsen en gång än att leva med otydlighet länge.
 
-Förtroendevalda organ fattar beslut kollektivt. Ordföranden leder arbetet men ersätter inte organets beslutanderätt, om inte särskild delegation finns.
+## Dokumentation ska vara tillräcklig
 
-Beredningsprincipen
+Beslut, uppdrag, delegationer och viktiga ställningstaganden ska dokumenteras på ett sätt som gör dem möjliga att följa.
 
-Ärenden av principiell, ekonomisk eller demokratisk betydelse ska beredas innan beslut. Beredningen ska innehålla konsekvensanalys, riskbedömning, ansvarsförslag och förslag till beslut.
+Dokumentation ska inte göras tyngre än nödvändigt, men den ska vara tillräcklig för ansvar, uppföljning och granskning.
 
-Delegationsprincipen
+Mer om detta finns i [Dokumentation och protokoll](../processer-och-arbetssatt/dokumentation-och-protokoll.md).
 
-Delegation är ett undantag från huvudregeln att beslut fattas av behörigt organ. Delegation ska vara skriftlig, avgränsad, spårbar, återrapporterad och möjlig att återkalla.
+## Transparens ska vara utgångspunkt
 
-Verkställighetsprincipen
+Styrningen ska vara begriplig och möjlig att följa för dem som berörs.
 
-Verkställighet innebär genomförande av redan fattade beslut eller åtgärder där inget självständigt vägval görs. Om ett självständigt vägval krävs är det normalt ett beslut, inte ren verkställighet.
+Handlingar, beslut och styrande dokument ska vara tillgängliga i den utsträckning rättssäkerhet, integritet och sekretess inte hindrar det.
 
-Transparensprincipen
+Öppenhet är inte bara kommunikation. Det är en del av förtroendet.
 
-Handlingar, beslut och styrande dokument ska vara tillgängliga för föreningarna i den utsträckning rättssäkerhet, integritet och sekretess inte hindrar det.
+## Intern kontroll är en del av styrningen
 
-Risk- och kontrollprincipen
+Risker ska identifieras, bedömas, hanteras och följas upp.
 
-Väsentliga risker ska identifieras, bedömas, hanteras och följas upp årligen. Intern kontroll är en del av ordinarie styrning, inte ett parallellt system.
+Intern kontroll är inte ett parallellt system vid sidan av verksamheten. Det är en del av ordinarie styrning och ansvar.
 
-<br>
+Mer om detta finns i [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
