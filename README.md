@@ -1,5 +1,5 @@
 ---
-description: Styrmodellen beskriver hur vi styrs, leds och utvecklas.
+description: Styrmodellen beskriver hur Smålands Fotbollförbund styrs, leds och utvecklas.
 layout:
   width: wide
   title:
@@ -20,8 +20,51 @@ layout:
 
 # VÅR STYRMODELL
 
-**Styrmodellen anger de principer som ska gälla i hela organisationen, på sätt och vis är det våra spelregler som ger ramverket för hur vi fungerar. Den är vår gemensamma karta över ansvar, mandat, beslut, beredning, verkställighet, uppföljning och granskning.**&#x20;
+**Styrmodellen är Smålands Fotbollförbunds gemensamma karta för styrning, ansvar och arbetssätt. Den visar hur distriktet fungerar, hur beslut fattas och hur ansvar fördelas mellan medlemsdemokrati, distriktsstyrelse, kommittéer, distriktschef, kansli och granskande funktioner.**
 
-De konkreta arbetssätten, mandaten, årshjulen och rutinerna regleras i styrande och stödjande dokument som beslutas och förvaltas under [dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/) enligt dokumentarkitekturen.
+Styrmodellen ska ge ordning utan att göra arbetet krångligare än det behöver vara. Den ska vara stadig nog att hålla över tid och tydlig nog att användas i vardagen.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Introduktion</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Grund och värden</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Organisationens struktur</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Demokratisk styrning</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Distriktsstyrelsen och ledningen</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Kommittéer och arbetsgrupper</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Granskande funktioner</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Strategi och operativt uppdrag</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Processer och arbetssätt</strong></td></tr><tr><td><i class="fa-hand-wave">:hand-wave:</i> <strong>Styrande dokument</strong></td></tr></tbody></table>
+## Styrmodellen och dokumentarkivet
+
+Styrmodellen finns på:
+
+[styrning.smaland.football](https://styrning.smaland.football)
+
+Dokumentarkivet finns på:
+
+[styrning.smaland.football/dokument](https://styrning.smaland.football/dokument)
+
+Styrmodellen beskriver principerna. Dokumentarkivet innehåller de konkreta styrande och stödjande dokumenten.
+
+Hur de två delarna hänger ihop beskrivs i [Dokumentarkitektur](styrande-dokument/dokumentarkitektur.md).
+
+## När något är oklart
+
+Om dokument, beslut eller regler pekar åt olika håll ska frågan lösas enligt [Normordning](grund-och-varden/normordning.md).
+
+Det är där dokumenthierarkin beskrivs. Andra sidor ska hänvisa dit, inte bygga egna parallella rangordningar.
+
+## För vem styrmodellen finns
+
+Styrmodellen är i första hand ett internt stöd för:
+
+* distriktsstyrelsen
+* kommittéer
+* distriktschef
+* kansli
+* granskande funktioner
+* andra personer med uppdrag i distriktets styrning och verksamhet
+
+Den publiceras öppet för att skapa transparens gentemot föreningar och andra intressenter.
+
+## Hitta rätt
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Introduktion</strong><br>Vad styrmodellen är, hur den används och vilka begrepp som gäller.</td></tr><tr><td><strong>Grund och värden</strong><br>Folkrörelseprincip, värdegrund, god demokratisk styrning, normordning och styrande principer.</td></tr><tr><td><strong>Organisationens struktur</strong><br>Hur distriktet är uppbyggt och hur roller, nivåer och relationer hänger ihop.</td></tr><tr><td><strong>Demokratisk styrning</strong><br>Årsmöte, representantskap, ombud, motioner, medlemsinflytande och demokratisk legitimitet.</td></tr><tr><td><strong>Distriktsstyrelsen och ledningen</strong><br>Distriktsstyrelsens ansvar, distriktschef, kansli, delegation, intern kontroll och attest.</td></tr><tr><td><strong>Kommittéer och arbetsgrupper</strong><br>Kommittéer, arbetsgrupper och referensgrupper samt hur de verkar inom givna ramar.</td></tr><tr><td><strong>Granskande funktioner</strong><br>Valberedning, revision, lekmannarevision och disciplinnämnd.</td></tr><tr><td><strong>Strategi och operativt uppdrag</strong><br>Strategihus, verksamhetsområden, basuppgifter, mål, planering och uppföljning.</td></tr><tr><td><strong>Processer och arbetssätt</strong><br>Hur beslut, beredning, verkställighet, uppföljning, dokumentation och möten fungerar principiellt.</td></tr><tr><td><strong>Styrande dokument</strong><br>Dokumentarkitektur och externa bärande dokument.</td></tr></tbody></table>
+
+## En enkel princip
+
+En sak ska beskrivas på rätt plats.
+
+Därför ska styrmodellen inte upprepa samma information i flera olika filer. Den sida som äger frågan ska vara kärnkällan. Andra sidor ska länka dit eller sammanfatta kort.
+
+Det gör modellen lättare att förstå, lättare att uppdatera och svårare att tolka fel.
