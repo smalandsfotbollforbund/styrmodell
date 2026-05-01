@@ -1,41 +1,61 @@
 ---
 description: >-
-  Den operativa infrastrukturen som verkställer beslut, administrerar processer
-  och stödjer hela organisationen.
+  Kansliets roll som operativ och stödjande tjänstepersonsorganisation.
 ---
 
 # Kansli
 
-Kansliet är den samlade beteckningen för de anställda tjänstepersoner som driver SmFF:s dagliga verksamhet. Det leds av distriktschefen.
+Kansliet är Smålands Fotbollförbunds tjänstepersonsorganisation.
 
-Kansliet är organisationens operativa infrastruktur — den funktion som gör att styrelsens beslut genomförs, att kommittéerna kan arbeta effektivt och att föreningarna får service. Det bärande förhållningssättet på operativ nivå är *relevans* — att det kansliet levererar faktiskt är meningsfullt och användbart för föreningarna.
+Det leds av distriktschefen och verkar på den operativa nivån i styrmodellen. Kansliet gör att beslut, uppdrag och stöd till föreningarna fungerar i vardagen.
 
------
+Kansliet är en stödjande, beredande och verkställande funktion. Det är inte ett eget demokratiskt eller strategiskt beslutsorgan.
 
-## Kansliets roll
+## Kansliets uppgift
 
-Kansliet verkställer fattade beslut, administrerar och samordnar processer, bereder ärenden inför styrelse och kommittéer, ger service och stöd till föreningar och aktörer, hanterar ekonomi och rapportering samt bidrar till kontinuitet och kvalitet i organisationens arbete.
+Kansliet ska stödja distriktets verksamhet inom beslutade ramar.
 
-Kansliet är en stödjande och verkställande funktion — inte en beslutande. Operativa beslut som inte uttryckligen delegerats fattas av rätt organ.
+Det innebär bland annat att:
 
------
+* bereda ärenden inför distriktsstyrelse, kommittéer och andra organ
+* verkställa fattade beslut
+* administrera tävling, utbildning, föreningsstöd och andra verksamhetsområden
+* ge service och stöd till föreningar, ledare, domare, spelare och andra aktörer
+* hantera ekonomi, rapportering och dokumentation enligt beslutade rutiner
+* bidra till kontinuitet, kvalitet och lärande i organisationen
 
-## Kansliets organisation
+Kansliets arbete ska vara relevant för föreningarnas verklighet. Det ska märkas att stödet finns till för dem.
 
-Kansliet är organiserat i avdelningar utifrån verksamhetens behov. Avdelningarna speglar det operativa uppdraget och de basuppgifter SmFF ska bära. Inom avdelningarna finns roller och funktioner som matchdelegat, domarobservatör, distriktförbundskapten och instruktör — förtroendevalda eller arvoderade funktioner som är en del av den operativa leveransen.
+## Gräns mot distriktsstyrelsen
 
-Den exakta organisationen av avdelningar, roller och funktioner fastställs av distriktsstyrelsen och beskrivs i organisationsschemat under [Dokument](https://dokument.smaland.football/organisationsschema).
+Distriktsstyrelsen beslutar om riktning, ramar, uppdrag, delegation och uppföljning.
 
------
+Kansliet genomför arbetet inom dessa ramar.
 
-## Relation till kommittéerna
+Kansliet ska inte ta över distriktsstyrelsens strategiska ansvar. Samtidigt ska distriktsstyrelsen inte detaljstyra kansliets vardag på ett sätt som gör distriktschefens ledningsuppdrag otydligt.
 
-Kansliet stödjer kommittéerna i deras arbete. Handläggande tjänstepersoner bidrar med beredning, administration och genomförande av kommittéernas aktiviteter.
+## Gräns mot kommittéer
 
-En viktig distinktion: kommittéordföranden leder kommitténs arbete — men distriktschefen är chef för personalen. Kommittéordföranden kan ge kanslipersonalen uppdrag inom kommitténs verksamhet, men inte direktiv om anställnings- eller personalfrågor.
+Kansliet stödjer kommittéernas arbete genom beredning, administration, genomförande och uppföljning.
 
------
+Kommittéordföranden leder kommitténs arbete. Distriktschefen leder kanslipersonalen.
 
-## Kapacitet och basuppgifter
+Det betyder att kommittéordföranden kan bidra till prioritering och uppdrag inom kommitténs område, men inte ge personaldirektiv eller fatta beslut i personalfrågor.
 
-Kansliets sammansättning ska dimensioneras för att SmFF ska kunna bära sitt uppdrag. Basuppgifterna från SvFF sätter en miniminivå. Mer om det under [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+## Organisation och roller
+
+Kansliets organisation ska utgå från distriktets uppdrag, resurser och prioriteringar.
+
+Avdelningar, funktioner och roller kan förändras över tid. Den konkreta organisationen bör därför beskrivas i organisationsschema, instruktioner eller andra dokument i [dokumentarkivet](https://styrning.smaland.football/dokument), inte upprepas i detalj i styrmodellen.
+
+## Basuppgifter och kapacitet
+
+Kansliets arbete behöver hänga ihop med de basuppgifter och verksamhetsområden som distriktet ansvarar för.
+
+Basuppgifter och verksamhetsområden beskrivs i [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+
+## Vägledande princip
+
+Kansliet ska vara nära verksamheten, tydligt i uppdraget och praktiskt i genomförandet.
+
+En bra kanslifunktion syns inte alltid mest, men den märks när föreningarna får rätt stöd, i rätt tid och på rätt sätt.
