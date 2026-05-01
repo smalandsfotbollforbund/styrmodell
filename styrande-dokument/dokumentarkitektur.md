@@ -6,21 +6,15 @@ description: >-
 
 # Dokumentarkitektur
 
-Smålands Fotbollförbunds styrning behöver vara enkel att hitta, lätt att förstå och möjlig att hålla aktuell.
+Smålands Fotbollförbunds styrning behöver vara enkel att hitta, lätt att förstå och möjlig att hålla aktuell. Därför skiljer vi mellan styrmodellen och dokumentarkivet. Styrmodellen förklarar logiken. Dokumentarkivet visar vad som gäller i praktiken.
 
-Därför skiljer vi mellan **styrmodellen** och **dokumentarkivet**.
+[**styrning.smaland.football**](https://styrning.smaland.football) är styrmodellen. Den beskriver principerna för hur distriktet fungerar: ansvar, mandat, nivåer, beslut, beredning, verkställighet, uppföljning och granskning.
 
-**styrning.smaland.football** är styrmodellen. Den beskriver principerna för hur distriktet fungerar: ansvar, mandat, nivåer, beslut, beredning, verkställighet, uppföljning och granskning.
-
-**styrning.smaland.football/dokument** är dokumentarkivet. Där finns de konkreta styrande och stödjande dokumenten: stadgar, policyer, arbetsordningar, delegationsordningar, instruktioner, riktlinjer, processbeskrivningar, bilagor och externa dokument.
-
-Styrmodellen förklarar logiken. Dokumentarkivet visar vad som gäller i praktiken.
+[**styrning.smaland.football/dokument**](https://styrning.smaland.football/dokument) är dokumentarkivet. Där finns de konkreta styrande och stödjande dokumenten: stadgar, policyer, arbetsordningar, delegationsordningar, instruktioner, riktlinjer, processbeskrivningar, bilagor och externa dokument.
 
 ## Grundprincip
 
-Information ska finnas på rätt plats.
-
-Det innebär att styrmodellen inte ska upprepa innehållet i varje styrande dokument. Den ska förklara varför dokumentet behövs, vilken funktion det har och hur det passar in i helheten.
+Information ska finnas på rätt plats. Det innebär att styrmodellen inte ska upprepa innehållet i varje styrande dokument. Den ska förklara varför dokumentet behövs, vilken funktion det har och hur det passar in i helheten.
 
 På samma sätt ska ett konkret dokument i dokumentarkivet inte bygga en egen styrmodell. Det ska konkretisera sin del av styrningen och länka tillbaka till rätt sida i styrmodellen.
 
@@ -38,37 +32,29 @@ Den här sidan beskriver därför inte rangordningen i detalj. Här beskrivs i s
 
 Dokumentarkivet delas in i dokumenttyper. Varje dokumenttyp har en egen funktion.
 
-| Dokumenttyp | Används till | Beslutas normalt av | Förvaltas normalt av | Hemvist |
-| --- | --- | --- | --- | --- |
-| **Stadgar** | Grundstruktur, mandat och demokratiska grunder | Årsmötet | Distriktsstyrelsen | `styrning.smaland.football/dokument/stadgar` |
-| **Policy** | Övergripande principer och viljeinriktning inom ett område | Distriktsstyrelsen, om inte frågan bör beslutas av årsmötet | Distriktschef eller utsedd dokumentägare | `styrning.smaland.football/dokument/policyer` |
-| **Arbetsordning** | Hur ett organ arbetar inom sitt uppdrag | Distriktsstyrelsen, om inte annat följer av stadgar eller särskilt beslut | Distriktsstyrelsen eller utsedd funktion | `styrning.smaland.football/dokument/arbetsordningar` |
-| **Delegationsordning** | Vem som får fatta beslut i vilka ärenden | Distriktsstyrelsen | Distriktschef eller utsedd funktion | `styrning.smaland.football/dokument/delegationsordningar` |
-| **Instruktion** | Ansvar, mandat och förväntningar för roll eller funktion | Distriktsstyrelsen eller distriktschef inom given ram | Dokumentägare enligt beslut | `styrning.smaland.football/dokument/instruktioner` |
-| **Riktlinje** | Vägledning för tillämpning och bedömning | Distriktsstyrelsen, distriktschef eller ansvarigt organ beroende på fråga | Dokumentägare enligt beslut | `styrning.smaland.football/dokument/riktlinjer` |
-| **Processbeskrivning** | Hur en återkommande process genomförs steg för steg | Distriktschef, distriktsstyrelsen eller ansvarigt organ beroende på processens betydelse | Processägare eller dokumentägare | `styrning.smaland.football/dokument/processbeskrivningar` |
-| **Bilaga** | Stödmaterial, översikter, mallar, checklistor och kompletterande underlag | Följer huvuddokumentet eller beslutas av dokumentägare | Dokumentägare | `styrning.smaland.football/dokument/bilagor` |
-| **Externt dokument** | Dokument som påverkar distriktet men beslutas av annan aktör | Extern part | Bevakas av utsedd funktion inom distriktet | `styrning.smaland.football/dokument/externa-dokument` |
+<table><thead><tr><th>Dokumenttyp</th><th>Används till</th><th>Beslutas normalt av</th><th>Förvaltas normalt av</th><th width="134.5">Hemvist</th></tr></thead><tbody><tr><td><strong>Stadgar</strong></td><td>Grundstruktur, mandat och demokratiska grunder</td><td>Årsmötet</td><td>Distriktsstyrelsen</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar">Stadgar</a></td></tr><tr><td><strong>Policy</strong></td><td>Övergripande principer och viljeinriktning inom ett område</td><td>Distriktsstyrelsen, om inte frågan bör beslutas av årsmötet</td><td>Distriktschef eller utsedd dokumentägare</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/policyer">Policyer</a></td></tr><tr><td><strong>Arbetsordning</strong></td><td>Hur ett organ arbetar inom sitt uppdrag</td><td>Distriktsstyrelsen, om inte annat följer av stadgar eller särskilt beslut</td><td>Distriktsstyrelsen eller utsedd funktion</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/arbetsordningar">Arbetsordningar</a></td></tr><tr><td><strong>Delegationsordning</strong></td><td>Vem som får fatta beslut i vilka ärenden</td><td>Distriktsstyrelsen</td><td>Distriktschef eller utsedd funktion</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/delegationsordningar">Delegationsordningar</a></td></tr><tr><td><strong>Instruktion</strong></td><td>Ansvar, mandat och förväntningar för roll eller funktion</td><td>Distriktsstyrelsen eller distriktschef inom given ram</td><td>Dokumentägare enligt beslut</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/instruktioner">Instruktioner</a></td></tr><tr><td><strong>Riktlinje</strong></td><td>Vägledning för tillämpning och bedömning</td><td>Distriktsstyrelsen, distriktschef eller ansvarigt organ beroende på fråga</td><td>Dokumentägare enligt beslut</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/riktlinjer">Riktlinjer</a></td></tr><tr><td><strong>Processbeskrivning</strong></td><td>Hur en återkommande process genomförs steg för steg</td><td>Distriktschef, distriktsstyrelsen eller ansvarigt organ beroende på processens betydelse</td><td>Processägare eller dokumentägare</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/processbeskrivningar">Processbeskrivningar</a></td></tr><tr><td><strong>Bilaga</strong></td><td>Stödmaterial, översikter, mallar, checklistor och kompletterande underlag</td><td>Följer huvuddokumentet eller beslutas av dokumentägare</td><td>Dokumentägare</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/bilagor">Bilagor</a></td></tr><tr><td><strong>Externt dokument</strong></td><td>Dokument som påverkar distriktet men beslutas av annan aktör</td><td>Extern part</td><td>Bevakas av utsedd funktion inom distriktet</td><td><a data-mention href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument">Externa dokument</a></td></tr></tbody></table>
 
 ## Rätt dokument för rätt fråga
 
 Ett styrande dokument ska börja med rätt dokumenttyp. Annars blir det lätt oklart om dokumentet är ett beslut, en princip, en arbetsform, ett mandat, en instruktion eller ett praktiskt stöd.
 
-| Fråga | Dokumenttyp |
-| --- | --- |
-| Vad är den formella grunden? | Stadgar |
-| Vad är distriktets viljeinriktning eller princip? | Policy |
-| Hur arbetar ett organ? | Arbetsordning |
-| Vem får besluta vad? | Delegationsordning |
-| Vad gäller för en roll eller funktion? | Instruktion |
-| Hur bör något tillämpas eller bedömas? | Riktlinje |
-| Hur går ett återkommande arbetsflöde till? | Processbeskrivning |
-| Vilket stödmaterial behövs? | Bilaga |
-| Vilka externa dokument påverkar distriktet? | Externt dokument |
+| Fråga                                             | Dokumenttyp                                                    |
+| ------------------------------------------------- | -------------------------------------------------------------- |
+| Vad är den formella grunden?                      | [Stadgar](dokumentarkitektur.md#stadgar)                       |
+| Vad är distriktets viljeinriktning eller princip? | [Policy](dokumentarkitektur.md#policy)                         |
+| Hur arbetar ett organ?                            | [Arbetsordning](dokumentarkitektur.md#arbetsordning)           |
+| Vem får besluta vad?                              | [Delegationsordning](dokumentarkitektur.md#delegationsordning) |
+| Vad gäller för en roll eller funktion?            | [Instruktion](dokumentarkitektur.md#instruktion)               |
+| Hur bör något tillämpas eller bedömas?            | [Riktlinje](dokumentarkitektur.md#riktlinje)                   |
+| Hur går ett återkommande arbetsflöde till?        | [Processbeskrivning](dokumentarkitektur.md#processbeskrivning) |
+| Vilket stödmaterial behövs?                       | [Bilaga](dokumentarkitektur.md#bilaga)                         |
+| Vilka externa dokument påverkar distriktet?       | [Externt dokument](dokumentarkitektur.md#externt-dokument)     |
 
 Det ska vara så enkelt som möjligt, men inte enklare än att ansvar och mandat blir tydliga.
 
-## Stadgar
+<details>
+
+<summary><strong>Stadgar</strong></summary>
 
 Stadgar är distriktets högsta interna normnivå.
 
@@ -78,7 +64,11 @@ Stadgar ska inte användas för detaljerade rutiner, interna arbetssätt eller o
 
 Om en fråga i första hand handlar om hur ett organ ska arbeta, vem som får fatta beslut eller hur en process ska genomföras, hör den normalt hemma i arbetsordning, delegationsordning, instruktion eller processbeskrivning.
 
-## Policy
+</details>
+
+<details>
+
+<summary><strong>Policy</strong></summary>
 
 En policy anger distriktets övergripande viljeinriktning, principer och förhållningssätt inom ett område.
 
@@ -86,7 +76,11 @@ En policy ska vara tydlig nog att styra, men inte så detaljerad att den blir en
 
 Exempel på områden där policy kan vara rätt dokumenttyp är trygghet, ekonomi, kommunikation, hållbarhet, arbetsmiljö, representation och informationshantering.
 
-## Arbetsordning
+</details>
+
+<details>
+
+<summary><strong>Arbetsordning</strong></summary>
 
 En arbetsordning beskriver hur ett organ arbetar inom sitt uppdrag.
 
@@ -94,7 +88,11 @@ Den kan till exempel reglera uppdrag, sammansättning, mötesformer, beredning, 
 
 En arbetsordning ska inte ge ett organ större mandat än vad stadgar, årsmöte, representantskap eller distriktsstyrelse medger.
 
-## Delegationsordning
+</details>
+
+<details>
+
+<summary><strong>Delegationsordning</strong></summary>
 
 En delegationsordning anger vem som får fatta beslut i vilka typer av ärenden.
 
@@ -102,7 +100,11 @@ Den ska normalt ange ärendetyp, delegat, begränsningar, dokumentationskrav och
 
 Delegation ska alltid vara skriftlig, avgränsad och spårbar. Den som delegerar behåller det övergripande ansvaret.
 
-## Instruktion
+</details>
+
+<details>
+
+<summary><strong>Instruktion</strong></summary>
 
 En instruktion beskriver ansvar, mandat och förväntningar för en roll, funktion eller särskild organisatorisk uppgift.
 
@@ -110,7 +112,11 @@ Instruktioner kan till exempel användas för distriktschef, kommittéordförand
 
 En instruktion ska inte skapa ny beslutanderätt om den inte har stöd i stadgar, arbetsordning, delegationsordning eller annat behörigt beslut.
 
-## Riktlinje
+</details>
+
+<details>
+
+<summary><strong>Riktlinje</strong></summary>
 
 En riktlinje ger vägledning för hur en princip, policy eller del av styrmodellen ska tillämpas i praktiken.
 
@@ -118,7 +124,11 @@ Riktlinjer ska skapa enhetlighet i bedömning och tillämpning, men inte ersätt
 
 En riktlinje är mer konkret än en policy, men normalt mindre detaljerad än en processbeskrivning eller rutin.
 
-## Processbeskrivning
+</details>
+
+<details>
+
+<summary><strong>Processbeskrivning</strong></summary>
 
 En processbeskrivning beskriver hur ett återkommande arbetsflöde går till från start till slut.
 
@@ -126,7 +136,11 @@ Den bör normalt ange syfte, startpunkt, slutpunkt, huvudsteg, roller, ansvar, b
 
 Processbeskrivningar får inte skapa ny beslutsordning eller nya mandat. De ska visa hur arbetet går till inom redan beslutade ramar.
 
-## Bilaga
+</details>
+
+<details>
+
+<summary><strong>Bilaga</strong></summary>
 
 En bilaga är stödmaterial som hjälper läsaren att förstå, använda eller tillämpa styrmodellen och distriktets styrande dokument.
 
@@ -134,7 +148,11 @@ Bilagor kan till exempel vara organisationsschema, möteskalender, mallar, check
 
 En bilaga ska inte användas som självständigt normerande dokument om den inte uttryckligen har beslutats som en del av ett styrande dokument.
 
-## Externt dokument
+</details>
+
+<details>
+
+<summary><strong>Externt dokument</strong></summary>
 
 Ett externt dokument är ett dokument som påverkar distriktet men som inte beslutas av Smålands Fotbollförbund.
 
@@ -142,26 +160,19 @@ Det kan till exempel vara RF:s stadgar, Svenska Fotbollförbundets stadgar, RF:s
 
 När externa dokument används ska det vara tydligt vem som äger dokumentet, vem som får ändra det och vilken roll det har i distriktets styrning.
 
+</details>
+
 ## Kompletterande stödmaterial
 
 Alla praktiska dokument passar inte perfekt in i huvudtyperna. Därför kan dokumentarkivet också innehålla kompletterande stödmaterial.
 
 Sådant stödmaterial kan vara:
 
-* rutiner
-* mallar
-* register
-* förteckningar
-* planer
+* **rutiner** beskriver ett praktiskt återkommande arbetssätt. Den är mer detaljerad än en processbeskrivning och ska normalt inte innehålla principiella vägval.
+* **mallar** används för att skapa enhetliga underlag, till exempel beslutsunderlag, protokoll, riskanalys, konsekvensanalys eller delegationsrapportering.
+* **register** eller en **förteckningar** används för att hålla ordning på återkommande information, till exempel dokument, beslut, delegationer eller möten.
+* **planer** används för tidsatta eller återkommande styrdokument, till exempel verksamhetsplan, internkontrollplan, kommunikationsplan eller utbildningsplan.
 * checklistor
-
-En **rutin** beskriver ett praktiskt återkommande arbetssätt. Den är mer detaljerad än en processbeskrivning och ska normalt inte innehålla principiella vägval.
-
-En **mall** används för att skapa enhetliga underlag, till exempel beslutsunderlag, protokoll, riskanalys, konsekvensanalys eller delegationsrapportering.
-
-Ett **register** eller en **förteckning** används för att hålla ordning på återkommande information, till exempel dokument, beslut, delegationer eller möten.
-
-En **plan** används för tidsatta eller återkommande styrdokument, till exempel verksamhetsplan, internkontrollplan, kommunikationsplan eller utbildningsplan.
 
 Om ett stödmaterial får normerande betydelse ska det prövas om det i stället ska vara policy, riktlinje, instruktion, delegationsordning eller processbeskrivning.
 
