@@ -1,41 +1,72 @@
 ---
 description: >-
-  Anställd verksamhetsledare. Leder den löpande verksamheten, har personalansvar
-  och rapporterar till distriktsstyrelsen.
+  Distriktschefens roll som anställd verksamhetsledare och operativ chef.
 ---
 
 # Distriktschef
 
-Distriktschefen leder den löpande verksamheten i Smålands Fotbollförbund. Det är en anställd roll — inte en förtroendevald. Mandatet ges av distriktsstyrelsen, och uppdraget genomförs enligt styrelsens riktlinjer, beslut och instruktion. Ändamålet på operativ nivå är att *administrera* — med *relevans* för föreningarna som ledstjärna.
+Distriktschefen leder den löpande verksamheten i Smålands Fotbollförbund.
 
------
+Det är en anställd roll, inte ett förtroendevalt uppdrag. Mandatet ges av distriktsstyrelsen och utövas inom de ramar som följer av stadgar, beslut, instruktion, delegation och arbetsordning.
+
+Distriktschefen verkar på den operativa nivån i styrmodellen.
 
 ## Anställningsrelation
 
-Distriktschefen är anställd av och rapporterar till distriktsstyrelsen. I det löpande arbetet sker dialog primärt med distriktsordföranden — men det formella uppdraget ges av styrelsen som kollektiv. Enskilda styrelseledamöter kan inte ge direktiv utanför vad styrelsen beslutat.
+Distriktschefen är anställd av distriktet och rapporterar till distriktsstyrelsen.
 
-RF:s rekommendation anger att styrelsen ska fastställa en skriftlig instruktion för distriktschefen och utvärdera uppdraget minst en gång per år — utan att anställda är närvarande.
+I det löpande arbetet kan dialog ske med distriktsordföranden eller presidiet, men det formella uppdraget ges av distriktsstyrelsen som organ.
 
------
-
-## Treenigheten
-
-Distriktschefen är en av tre ömsesidigt beroende roller i SmFF:s centrala styrningskoncept. Distriktschefen möjliggör genomförandet av det som styrelsen beslutat och kommittéordförandena planerat. Mer om detta i [Styrarkitektur](../organisationens-struktur/styrarkitektur.md).
-
------
+Enskilda ledamöter kan inte ge egna direktiv till distriktschefen utanför det som distriktsstyrelsen beslutat.
 
 ## Huvuduppdrag
 
-Distriktschefen ansvarar för att leda och fördela arbetet i kansliet, säkerställa bokföring och ekonomihantering enligt lag och god sed, följa upp budget och upprätta bokslut, ha personalansvar för kanslipersonalen — inklusive medarbetarsamtal, lönesättning, MBL och arbetsmiljö, föredra ärenden och ge välgrundade beslutsunderlag till styrelsen, samordna kommittéernas arbete operativt samt verkställa och följa upp fattade beslut.
+Distriktschefens huvuduppdrag är att leda, samordna och utveckla den löpande verksamheten inom beslutade ramar.
 
------
+Det innebär bland annat att:
 
-## Gränsen mot kommittéerna
+* leda och fördela arbetet i kansliet
+* säkerställa att beslut verkställs
+* bidra till beredning av ärenden
+* följa upp verksamhet och ekonomi
+* samordna operativt stöd till kommittéer och andra organ
+* säkerställa att kansliet ger relevant stöd till föreningarna
+* rapportera till distriktsstyrelsen enligt beslutad ordning
 
-Kommittéordföranden är förtroendevald med mandat från styrelsen. Distriktschefen är inte chef för kommittéordförandena — men samordnar det operativa arbetet och leder den personal som stödjer kommittéerna.
+Det detaljerade uppdraget bör konkretiseras i instruktion och andra dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
------
+## Gräns mot distriktsstyrelsen
 
-## Instruktionen
+Distriktsstyrelsen beslutar om riktning, ramar, uppdrag, delegation och uppföljning.
 
-Den fullständiga instruktionen för distriktschefen — med detaljerat ansvarsområde och befogenheter — finns under [Dokument](https://dokument.smaland.football/instruktioner/distriktschef).
+Distriktschefen leder genomförandet inom dessa ramar.
+
+Distriktschefen ska inte ta över distriktsstyrelsens strategiska ansvar. Distriktsstyrelsen ska inte ta över distriktschefens operativa ledning.
+
+## Gräns mot kansliet
+
+Distriktschefen leder kansliet.
+
+Det innebär ansvar för arbetsledning, personalfrågor, samordning, prioritering och uppföljning inom den operativa verksamheten.
+
+Kansliet beskrivs närmare i [Kansli](kansli.md).
+
+## Gräns mot kommittéerna
+
+Kommittéordföranden leder kommitténs arbete inom kommitténs uppdrag.
+
+Distriktschefen är inte chef för kommittéordförandena, men leder den personal som stödjer kommittéerna och ansvarar för att det operativa arbetet hålls ihop.
+
+När kommittéernas arbete kräver kansliresurser behöver uppdrag, prioritering och ansvar vara tydliga.
+
+## Instruktion och utvärdering
+
+Distriktschefens uppdrag bör vara skriftligt reglerat i instruktion.
+
+Distriktsstyrelsen bör regelbundet följa upp och utvärdera distriktschefens uppdrag. Det ska göras på ett sätt som är tydligt, sakligt och kopplat till beslutad riktning, ansvar och förväntningar.
+
+## Vägledande princip
+
+Distriktschefen ska göra det beslutade möjligt i vardagen.
+
+Rollen kräver mandat nog att leda verksamheten och tydliga ramar nog att hålla ansvarsfördelningen rak.
