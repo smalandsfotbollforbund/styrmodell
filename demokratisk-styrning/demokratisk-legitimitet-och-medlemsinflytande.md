@@ -1,41 +1,68 @@
 ---
 description: >-
-  Varför legitimitet måste förtjänas, hur inflytandet lever mellan mötena och
-  vilka risker som underminerar demokratin.
+  Hur demokratisk legitimitet och medlemsinflytande ska förstås i styrmodellen.
 ---
 
 # Demokratisk legitimitet och medlemsinflytande
 
-SmFF:s legitimitet vilar på att föreningarna erkänner besluten som sina egna. Det sker inte automatiskt. Det kräver att beslut fattas rätt, på rätt mandat, med rätt information — och att föreningarna faktiskt kan förstå och följa vad som händer.
+Smålands Fotbollförbunds legitimitet bygger på att medlemsföreningarna kan förstå, påverka och känna igen sig i distriktets beslut.
 
------
+Det räcker inte att beslut är formellt korrekta. De behöver också vara begripliga, möjliga att följa och fattade på rätt nivå.
 
-## Formellt och levande inflytande
+## Formellt inflytande
 
-Medlemsinflytande sker på två sätt som båda behövs.
+Det formella medlemsinflytandet utövas genom stadgar, ombud, rösträtt, val, motioner, årsmöte och representantskap.
 
-**Formellt** — via stadgar, ombud, rösträtt, val och motioner. Det är grunden som inte kan frångås.
+Det är grunden. Den kan inte ersättas av dialogmöten, samråd eller informella samtal.
 
-**Levande** — via dialog, tydlig information, begriplig dokumentation och en kultur där föreningarnas deltagande faktiskt spelar roll.
+Årsmötets roll beskrivs i [Årsmöte](arsmote.md). Representantskapets roll beskrivs i [Representantskap](representantskap.md). Ombud och rösträtt beskrivs i [Val, ombud och rösträtt](val-ombud-och-rostratt.md).
 
-En organisation kan vara formellt korrekt och ändå upplevas som avlägsen och svårtillgänglig. Styrmodellen ska motverka det.
+## Levande inflytande
 
------
+Medlemsinflytande behöver också leva mellan de formella mötena.
 
-## Inflytande mellan mötena
+Det kan ske genom dialog, tydlig information, remisser, rådslag, föreningsbesök, beredningsprocesser och återkoppling.
 
-Föreningarna röstar på årsmötet — men inflytandet ska leva också däremellan. Det sker via representantskapet som ger föreningarna formell beslutanderätt i tävlingsfrågor under löpande år, via dialog och information från styrelse och kansli, och via möjligheter att lämna inspel i beredningsprocesser.
+Sådana former ersätter inte formella beslut, men de kan göra besluten bättre och mer förankrade.
 
------
+## Rätt nivå stärker legitimiteten
+
+Demokratisk legitimitet kräver att frågor hanteras på rätt nivå.
+
+Frågor som hör till årsmötet ska inte avgöras i distriktsstyrelsen. Frågor som hör till representantskapet ska inte flyttas till kommitté. Frågor som ligger inom distriktsstyrelsens ansvar ska inte hanteras som om de vore kanslifrågor.
+
+När ansvar eller nivå är oklar ska styrmodellen användas. [Normordning](../grund-och-varden/normordning.md), [Styrarkitektur](../organisationens-struktur/styrarkitektur.md) och [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md) är viktiga kärnkällor.
+
+## Begriplighet är en demokratifråga
+
+Föreningarna ska kunna förstå vad som beslutas, varför det beslutas och vad beslutet innebär.
+
+Handlingar, beslutsunderlag och protokoll ska därför vara tydliga nog för att kunna följas av dem som berörs.
+
+Det betyder inte att allt måste förenklas. Men det ska vara begripligt, sakligt och möjligt att hitta.
 
 ## Risker mot legitimiteten
 
-Demokratisk legitimitet kan urholkas utan att formella regler bryts. Det händer när frågor hanteras på fel nivå, när informella arbetssätt ersätter tydliga beslutsvägar, när handlingar är svåra att förstå eller ankommer sent, när valprocesser upplevs slutna, eller när återkopplingen till föreningarna uteblir.
+Demokratisk legitimitet kan försvagas även när formella regler följs.
 
-Att aktivt identifiera och åtgärda sådana risker är en del av god styrning.
+Det kan till exempel ske när:
 
------
+* frågor hanteras på fel nivå
+* informella arbetssätt ersätter beslutade vägar
+* handlingar kommer för sent eller är svåra att förstå
+* valprocesser upplevs slutna
+* återkoppling till föreningarna uteblir
+* samma fråga beskrivs olika på olika platser
+* beslut inte går att följa i efterhand
 
-## En vägledande fråga
+Sådana risker ska tas på allvar och hanteras som styrningsfrågor.
 
-Stärker detta föreningarnas möjlighet att förstå, delta och påverka — eller skapar det avstånd? Den frågan ska ställas varje gång styrmodellen utformas, revideras eller tillämpas.
+## Vägledande fråga
+
+En enkel fråga bör följa med i styrningen:
+
+**Stärker detta föreningarnas möjlighet att förstå, delta och påverka?**
+
+Om svaret är nej behöver arbetssättet, informationen eller beslutsvägen prövas igen.
+
+Det är så demokratin hålls nära. Inte med stora ord, utan med ordning, tydlighet och respekt för föreningarnas roll.
