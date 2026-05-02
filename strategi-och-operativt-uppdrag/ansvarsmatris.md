@@ -1,63 +1,86 @@
 ---
 description: >-
-  Vem som beslutar, bereder, verkställer, följer upp och granskar i olika
-  frågetyper, från stadgar till disciplinärenden.
+  Hur ansvarsfördelning ska förstås och användas i olika typer av frågor.
 ---
 
 # Ansvarsmatris
 
-Ansvarsmatrisen visar vem som beslutar, bereder, verkställer, följer upp och granskar i olika typer av frågor. Den är ett tillämpningsstöd — den ersätter inte stadgar eller styrande dokument, men hjälper organisationen att tillämpa dem konsekvent.
+Ansvarsmatrisen är ett stöd för att förstå vem som normalt bereder, beslutar, verkställer, följer upp och granskar olika typer av frågor.
 
------
+Den ersätter inte stadgar, delegationsordning, arbetsordningar eller andra beslutade dokument. Om det finns konflikt gäller [Normordning](../grund-och-varden/normordning.md).
 
-## Förklaring av roller
+Ansvarsmatrisen ska hjälpa organisationen att tillämpa styrmodellen konsekvent.
 
-**B — Besluta** — fattar formella beslut inom tilldelat mandat.
-**Be — Bereda** — utreder, analyserar och lämnar förslag.
-**V — Verkställa** — genomför fattade beslut.
-**F — Följa upp** — mäter och återrapporterar resultat.
-**G — Granska** — oberoende prövar om styrning och verksamhet fungerar som avsett.
+## Ansvarstyper
 
------
+Fem ansvarstyper används genomgående i styrmodellen.
 
-## Matrisen
+| Ansvarstyp | Innebörd |
+| --- | --- |
+| **Bereda** | Ta fram underlag och förslag inför beslut |
+| **Besluta** | Fatta formellt beslut inom mandat |
+| **Verkställa** | Genomföra fattade beslut |
+| **Följa upp** | Mäta, analysera och återrapportera |
+| **Granska** | Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning eller verksamhet |
 
-|Frågetyp                             |Besluta                            |Bereda                    |Verkställa   |Följa upp             |Granska          |
-|-------------------------------------|-----------------------------------|--------------------------|-------------|----------------------|-----------------|
-|Stadgar och stadgeändringar          |Årsmöte                            |DS, DC                    |Kansli       |DS                    |Rev / Lekmannarev|
-|Arbetsplan och budget                |Årsmöte                            |DS, kommittéer, DC        |DC, kansli   |DS                    |Rev / Lekmannarev|
-|Strategisk riktning                  |Årsmöte (övergr.), DS (inom mandat)|DS, kommittéer, DC        |DC, kansli   |DS                    |Lekmannarev      |
-|Tävlingsregler                       |Representantskap                   |DS, TK, kansli            |Kansli       |DS, Representantskapet|Rev              |
-|Seriesammansättning seniorer         |Representantskap                   |TK, kansli                |Kansli       |DS, Representantskapet|Rev              |
-|Löpande tävlingsärenden (delegerade) |TK eller personal                  |TK, kansli                |Kansli       |TK, DS                |Rev              |
-|Domarfrågor                          |DS, DK eller personal              |DK, kansli                |Kansli       |DK, DS                |Rev              |
-|Anläggningsfrågor                    |DS, AK eller personal              |AK, kansli                |Kansli       |AK, DS                |Lekmannarev      |
-|Utbildning och spelarutveckling      |DS, UK eller personal              |UK, kansli                |Kansli       |UK, DS                |Lekmannarev      |
-|Tillsättning av tjänstepersoner      |DS                                 |DS, ordförande, DC        |DC           |DS                    |Rev              |
-|Personalledning                      |DC                                 |DC                        |DC, kansli   |DS                    |Rev              |
-|Attest och ekonomiska transaktioner  |Enligt attestordning               |Kansli                    |Kansli, DC   |DS                    |Revision         |
-|Intern kontroll                      |DS                                 |DS, DC, kansli            |DC, kansli   |DS                    |Rev / Lekmannarev|
-|Bidrags- och projektärenden          |Presidiet (delegation DS)          |DC, kansli                |DC, kansli   |Presidiet, DS         |Rev / Lekmannarev|
-|Finansiella placeringar              |DS                                 |DC, ekonomiansvarig       |Firmatecknare|DS                    |Revision         |
-|Val                                  |Årsmöte                            |Valberedning              |Kansli (adm.)|Årsmöte               |Lekmannarev      |
-|Ansvarsfrihet                        |Årsmöte                            |Rev, Lekmannarev          |—            |Årsmöte               |Rev / Lekmannarev|
-|Förtjänsttecken (guld, SmFF)         |DS                                 |Utmärkelsegruppen         |Kansli       |DS                    |—                |
-|Förtjänsttecken (silver, brons m.fl.)|Utmärkelsegruppen (delegation)     |Utmärkelsegruppen         |Kansli       |DS                    |—                |
-|Årets profiler                       |DS                                 |Respektive kommitté (jury)|Kansli       |DS                    |—                |
-|Hedersutnämnanden                    |Årsmöte                            |DS                        |Kansli (adm.)|Årsmöte               |—                |
-|Disciplinärenden                     |Disciplinnämnden                   |Disciplinnämnden          |Kansli (adm.)|Disciplinnämnden      |Rev              |
+En funktion kan ha flera ansvar i samma fråga, men hela kedjan bör normalt inte ligga hos en och samma person eller funktion.
 
------
+## Hur matrisen ska användas
 
-## Förkortningar
+Ansvarsmatrisen ska användas när det är oklart:
 
-|Förkortning|Avser               |
-|-----------|--------------------|
-|DS         |Distriktsstyrelsen  |
-|DC         |Distriktschefen     |
-|TK         |Tävlingskommittén   |
-|DK         |Domarkommittén      |
-|AK         |Anläggningskommittén|
-|UK         |Utbildningskommittén|
-|Rev        |Revisionen          |
-|Lekmannarev|Lekmannarevisionen  |
+* vem som ska bereda en fråga
+* vem som har beslutanderätt
+* vem som ska genomföra beslutet
+* vem som ska följa upp
+* vem som ska granska
+* om ansvar behöver förtydligas i delegation, arbetsordning eller instruktion
+
+Matrisen är ett praktiskt stöd. Den ska inte skapa nya mandat som inte finns i stadgar, beslut eller styrande dokument.
+
+## Övergripande ansvarsmatris
+
+| Frågetyp | Bereda | Besluta | Verkställa | Följa upp | Granska |
+| --- | --- | --- | --- | --- | --- |
+| Stadgar och stadgeändringar | Distriktsstyrelsen, distriktschef, kansli | Årsmöte | Kansli | Distriktsstyrelsen | Revision och lekmannarevision |
+| Vision, mission och verksamhetsidé | Distriktsstyrelsen, distriktschef, kommittéer, kansli | Årsmöte eller annat behörigt demokratiskt organ enligt stadgar och beslut | Distriktschef och kansli | Distriktsstyrelsen | Lekmannarevision |
+| Strategiska inriktningar | Distriktsstyrelsen, distriktschef, kommittéer, kansli | Årsmöte eller distriktsstyrelse inom mandat | Distriktschef och kansli | Distriktsstyrelsen | Lekmannarevision |
+| Prioriteringar och mål | Distriktsstyrelsen, distriktschef, kommittéer, kansli | Distriktsstyrelsen eller årsmöte beroende på nivå | Distriktschef och kansli | Distriktsstyrelsen | Lekmannarevision |
+| Verksamhetsplan och budget | Distriktsstyrelsen, distriktschef, kommittéer, kansli | Årsmöte enligt stadgar och beslutad ordning | Distriktschef och kansli | Distriktsstyrelsen | Revision och lekmannarevision |
+| Arbetsordningar | Distriktsstyrelsen, distriktschef, berört organ | Distriktsstyrelsen, om inte annan nivå krävs | Berört organ och kansli | Distriktsstyrelsen | Lekmannarevision |
+| Delegationsordningar | Distriktsstyrelsen, distriktschef, kansli | Distriktsstyrelsen | Berörda delegater | Distriktsstyrelsen | Revision och lekmannarevision |
+| Policyer | Distriktsstyrelsen, distriktschef, berörd funktion | Distriktsstyrelsen, om inte frågan kräver årsmöte | Distriktschef och kansli | Distriktsstyrelsen | Lekmannarevision |
+| Instruktioner | Distriktsstyrelsen, distriktschef, berörd funktion | Distriktsstyrelsen eller distriktschef inom mandat | Berörd funktion | Beslutande nivå | Lekmannarevision vid behov |
+| Tävlingsregler | Tävlingskommitté, kansli, distriktsstyrelse | Representantskap inom sitt mandat | Kansli | Distriktsstyrelsen och representantskap inom respektive roll | Revision eller annan behörig granskning |
+| Seriesammansättning senior | Tävlingskommitté och kansli | Representantskap inom sitt mandat | Kansli | Distriktsstyrelsen och representantskap inom respektive roll | Behörig granskning enligt regelverk |
+| Löpande tävlingsärenden | Tävlingskommitté och kansli | Enligt delegation och tävlingsregler | Kansli | Tävlingskommitté och distriktsstyrelse inom respektive roll | Behörig granskning enligt regelverk |
+| Domarfrågor | Berörd kommitté och kansli | Enligt delegation | Kansli | Berörd kommitté och distriktsstyrelse | Lekmannarevision vid behov |
+| Utbildning och spelarutveckling | Berörd kommitté och kansli | Enligt delegation och beslutad plan | Kansli | Berörd kommitté och distriktsstyrelse | Lekmannarevision vid behov |
+| Föreningsstöd och föreningsutveckling | Berörd kommitté och kansli | Enligt delegation och beslutad plan | Kansli | Berörd kommitté och distriktsstyrelse | Lekmannarevision vid behov |
+| Kansliets organisation | Distriktschef | Distriktschef inom ram, distriktsstyrelse i principiella frågor | Distriktschef | Distriktsstyrelsen | Lekmannarevision vid behov |
+| Tillsättning av distriktschef | Distriktsstyrelsen | Distriktsstyrelsen | Distriktsstyrelsen | Distriktsstyrelsen | Revision och lekmannarevision vid behov |
+| Personalfrågor i kansliet | Distriktschef | Distriktschef inom mandat | Distriktschef | Distriktsstyrelsen | Revision och lekmannarevision vid behov |
+| Attest och ekonomiska transaktioner | Kansli och ansvarig funktion | Enligt attestordning | Kansli och distriktschef | Distriktsstyrelsen | Revision |
+| Intern kontroll | Distriktsstyrelsen, distriktschef, kansli | Distriktsstyrelsen | Distriktschef och kansli | Distriktsstyrelsen | Revision och lekmannarevision |
+| Val | Valberedning | Årsmöte | Kansli administrativt | Årsmöte | Lekmannarevision vid behov |
+| Ansvarsfrihet | Revision och lekmannarevision | Årsmöte | Inte tillämpligt | Årsmöte | Revision och lekmannarevision |
+| Disciplinärenden | Disciplinnämnd | Disciplinnämnd | Kansli administrativt | Disciplinnämnd | Prövning enligt gällande regelverk |
+| Hedersutnämnanden | Distriktsstyrelsen eller utsedd beredning | Årsmöte om stadgar eller beslut kräver det | Kansli administrativt | Beslutande nivå | Vid behov |
+
+## När matrisen inte räcker
+
+Om ansvarsmatrisen inte ger ett tillräckligt svar ska frågan prövas mot:
+
+* [Normordning](../grund-och-varden/normordning.md)
+* [Styrarkitektur](../organisationens-struktur/styrarkitektur.md)
+* [Ansvar och roller](../organisationens-struktur/ansvar-och-roller.md)
+* [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md)
+* berörd arbetsordning, delegationsordning eller instruktion i [dokumentarkivet](https://styrning.smaland.football/dokument)
+
+Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå för förtydligande.
+
+## Vägledande princip
+
+Ansvar ska gå att följa.
+
+Den som läser ska kunna se vem som bereder, vem som beslutar, vem som verkställer, vem som följer upp och vem som granskar. Då minskar risken för glapp, dubbelarbete och informella lösningar.
