@@ -1,47 +1,100 @@
 ---
 description: >-
-  Vad som gäller för alla möten; kallelse, framförhållning, jäv, per capsulam
-  och möteskultur.
+  Principer för hur möten ska planeras, genomföras, dokumenteras och följas upp.
 ---
 
 # Möteshantering
 
-Möten är det primära forumet för beredning, beslut och uppföljning i SmFF. Välskötta möten är en förutsättning för att organisationen ska fungera — de binder ihop nivåerna och skapar rytmen i styrningen.
+Möten binder ihop styrningen.
 
------
+De används för beredning, beslut, uppföljning, dialog och samordning. Ett välskött möte gör ansvar tydligare. Ett otydligt möte skapar lätt otydliga beslut.
 
-## Vad som gäller för alla möten
+Den här sidan beskriver principerna. Mallar, detaljerade rutiner och praktiska mötesunderlag ska finnas i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
-Oavsett om det gäller ett styrelsemöte, ett kommittémöte eller ett demokratiskt möte gäller samma grundprinciper: kallelse skickas i god tid med dagordning, underlag distribueras före mötet så att deltagarna är förberedda, mötet leds av ordföranden som säkerställer att alla kommer till tals och att beslut konfirmeras tydligt, och protokoll upprättas och justeras.
+## Olika typer av möten
 
------
+Alla möten har inte samma funktion.
 
-## Kallelse och framförhållning
+| Mötestyp | Funktion |
+| --- | --- |
+| **Årsmöte** | Demokratiskt beslutande möte |
+| **Representantskap** | Demokratiskt beslutande möte inom tävlingsmandat |
+| **Distriktsstyrelsens sammanträde** | Strategiskt besluts- och uppföljningsforum |
+| **Kommittésammanträde** | Taktiskt forum för beredning, uppföljning och beslut inom delegation |
+| **Arbetsgruppsmöte** | Arbete inom avgränsat uppdrag |
+| **Referensgruppsmöte** | Rådgivande inspel och perspektiv |
+| **Dialogmöte, forum eller rådslag** | Icke-beslutande mötesplats för dialog och förankring |
 
-**Distriktsstyrelsen** — kallelse minst två veckor före mötet.
+Ett möte är inte beslutande bara för att många deltar. Beslutanderätt kräver stöd i stadgar, delegation, arbetsordning eller annat behörigt beslut.
 
-**Demokratiska organ** — kallelse minst tre till fyra veckor före mötet. Handlingar senast två veckor före.
+## Före mötet
 
-**Kommittéer** — kallelse i god tid enligt årsplanering. En tydlig mötesplan för hela verksamhetsåret bör finnas från årets start.
+Ett möte bör ha ett tydligt syfte.
 
-God framförhållning är inte en formalitet — det är en förutsättning för att förtroendevalda ska kunna förbereda sig och delta aktivt.
+Inför mötet bör det framgå:
 
------
+* varför mötet hålls
+* vilka frågor som ska behandlas
+* vilka underlag som behövs
+* vilka frågor som är beslut, information, dialog eller beredning
+* vem som leder mötet
+* vem som dokumenterar
+* om någon särskild behörighet eller beslutsmässighet krävs
 
-## Jäv vid möten
+God framförhållning är en del av respekten för uppdraget.
 
-Ledamot med jäv i ett ärende ska anmäla det och lämna handläggningen för det ärendet — inte bara avstå från att rösta. Jäv ska hanteras öppet och dokumenteras i protokollet.
+## Under mötet
 
------
+Mötet ska ledas så att deltagarna förstår vad som behandlas och vad som ska hända med frågan.
 
-## Digitala möten och per capsulam
+Det ska vara tydligt när mötet:
 
-Brådskande ärenden får avgöras genom digital omröstning eller skriftligt förfarande. Sådana beslut ska anmälas och bekräftas vid nästkommande ordinarie möte. Per capsulam är ett undantag — inte ett normalt arbetssätt.
+* bereder
+* diskuterar
+* fattar beslut
+* fördelar uppdrag
+* följer upp tidigare beslut
 
------
+Om jäv uppstår ska det hanteras och dokumenteras.
+
+## Efter mötet
+
+Efter mötet ska det vara tydligt:
+
+* vad som beslutats
+* vem som ansvarar för nästa steg
+* vad som ska verkställas
+* vad som ska återrapporteras
+* när uppföljning ska ske
+
+Protokoll, minnesanteckningar eller annan dokumentation ska hanteras enligt mötets karaktär och beslutad ordning.
+
+## Kallelse och underlag
+
+Kallelse och underlag ska skickas i sådan tid att deltagarna kan förbereda sig.
+
+Exakta tidsfrister kan följa av stadgar, arbetsordning eller annat beslutat dokument. Styrmodellen ska inte dubblera alla sådana regler.
+
+Principen är enkel: den som förväntas ta ansvar i ett möte behöver få rimlig möjlighet att läsa, förstå och förbereda sig.
+
+## Digitala möten och skriftliga beslut
+
+Digitala möten kan användas när de stärker tillgänglighet och effektivitet.
+
+Skriftliga beslut eller digital omröstning kan användas när det är lämpligt och förenligt med gällande regler.
+
+Sådana arbetssätt får inte användas för att kringgå beredning, dialog eller rätt beslutsnivå.
 
 ## Möteskultur
 
-En god möteskultur är lika viktig som formellt korrekta möten. Det handlar om att förbereda sig, lyssna aktivt, hålla sig till ärenden och respektera beslutsordningen.
+Möteskultur är också styrning.
 
-Mallar för kallelse, dagordning och protokoll finns under [Dokument](https://dokument.smaland.football/mallar).
+En god möteskultur innebär att deltagarna kommer förberedda, håller sig till ärendet, lyssnar på varandra, hanterar oenighet sakligt och respekterar beslutsordningen.
+
+Det ska vara ordning på mötet utan att mötet tappar mänsklighet.
+
+## Vägledande princip
+
+Möten ska föra arbetet framåt.
+
+När ett möte är slut ska det vara tydligare än när det började: vad som gäller, vem som gör vad och vad nästa steg är.
