@@ -1,43 +1,79 @@
+---
+description: >-
+  Hur prioriteringar och mål ska användas för att samla kraft under en
+  strategiperiod.
+---
+
 # Prioriteringar och mål
 
-## Prioriteringar och mål
+Prioriteringar och mål visar vad Smålands Fotbollförbund ska rikta särskild kraft mot under en strategiperiod.
 
-Prioriteringarna är de fokusområden där SmFF riktar särskild kraft under en given strategiperiod. De konkretiserar de strategiska inriktningarna och ger organisationen ett gemensamt fokus.
+De konkretiserar [Strategiska inriktningar](strategiska-inriktningar.md) och gör det möjligt att följa upp om distriktet rör sig åt rätt håll.
 
-***
+Prioriteringar ska inte vara en lista över allt som är viktigt. De ska visa vad som kräver särskilt fokus.
 
-## Prioriteringar och mål
+## Prioriteringarnas funktion
 
-Prioriteringarna är de fokusområden där SmFF riktar särskild kraft under en given strategiperiod. De konkretiserar de strategiska inriktningarna och ger organisationen ett gemensamt fokus.
+Prioriteringar ska hjälpa distriktet att:
 
-***
+* samla kraft
+* välja bort sådant som inte ryms
+* koppla mål till ansvar och resurser
+* följa upp resultat
+* skapa en tydlig röd tråd mellan strategi och vardag
 
-### Prioriteringar 2024–2027
+När allt blir prioriterat blir inget prioriterat på riktigt.
 
-SmFF har fyra prioriteringar för perioden, fastställda av de demokratiska organen:
+## Prioriteringar 2024–2027
 
-**Starkare föreningar** — fler föreningar som genomför processen Kvalitetsklubb.
+Distriktet har fyra prioriteringar för perioden 2024–2027:
 
-**Jämställdhet, mångfald och inkludering** — fler flickor som spelar fotboll eller futsal, fler kvinnor som tränare och fler kvinnor som domare.
+* **Starkare föreningar**
+* **Jämställdhet, mångfald och inkludering**
+* **Spelarutbildning och talangutveckling**
+* **Trygga miljöer**
 
-**Världsledande spelarutbildning** — ökat antal deltagare i utbildningsverksamheten.
+De periodvisa målen ska konkretiseras i verksamhetsplan, budget och uppföljning.
 
-**Trygga miljöer** — färre disciplinärenden.
+## Från prioritering till mål
 
-***
+Varje prioritering bör kunna brytas ned i mål som går att följa upp.
 
-### Mål och uppföljning
+Ett mål bör svara på:
 
-Varje prioritering har konkreta mål som gör det möjligt att följa upp om vi rör oss i rätt riktning. Målen är en del av verksamhetsplanen och följs upp tre gånger per år — sista april, sista juli och sista oktober.
+* vilken förändring distriktet vill se
+* vad som ska vara uppnått vid en viss tidpunkt
+* vem som äger frågan
+* vilka resurser som krävs
+* vilken indikator som visar om arbetet går åt rätt håll
+* när och till vem uppföljning ska ske
 
-Hur uppföljningen kopplar till den löpande rytmen i verksamhetsåret beskrivs under [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
+Detta hör hemma i verksamhetsplan, uppföljning och eventuella processbeskrivningar i [dokumentarkivet](https://styrning.smaland.football/dokument), inte som detaljerad aktivitetslista i styrmodellen.
 
-***
+## Effekt, resultat och aktivitet
 
-Prioriteringar gäller en strategiperiod och ses över inför varje ny period. De kan och bör justeras när omvärld och behov förändras.
+Det är viktigt att hålla isär effekt, resultat och aktivitet.
 
-## Vidare tillägg (aktiviteter)
+| Del | Fråga |
+| --- | --- |
+| **Effekt** | Vilken förändring vill vi se? |
+| **Resultat** | Vad ska vara uppnått? |
+| **Aktivitet** | Vad ska göras? |
+| **Ansvar** | Vem äger frågan? |
+| **Resurs** | Vilken tid, budget eller kompetens krävs? |
+| **Indikator** | Hur vet vi att vi är på väg åt rätt håll? |
+| **Uppföljning** | När och till vem rapporteras det? |
 
-<table data-header-hidden><thead><tr><th valign="middle"></th><th valign="middle"></th></tr></thead><tbody><tr><td valign="middle">Del</td><td valign="middle">FrÃ¥ga</td></tr><tr><td valign="middle">EffektmÃ¥l</td><td valign="middle">Vilken fÃ¶rÃ¤ndring vill vi se?</td></tr><tr><td valign="middle">ResultatmÃ¥l</td><td valign="middle">Vad ska ha uppnÃ¥tts vid Ã¥rets slut?</td></tr><tr><td valign="middle">Aktivitet</td><td valign="middle">Vad ska gÃ¶ras?</td></tr><tr><td valign="middle">Ansvar</td><td valign="middle">Vem Ã¤ger frÃ¥gan?</td></tr><tr><td valign="middle">Resurs</td><td valign="middle">Vilken budget/tid krÃ¤vs?</td></tr><tr><td valign="middle">Indikator</td><td valign="middle">Hur vet vi att vi Ã¤r pÃ¥ vÃ¤g rÃ¤tt?</td></tr><tr><td valign="middle">UppfÃ¶ljning</td><td valign="middle">NÃ¤r och till vem rapporteras detta?</td></tr></tbody></table>
+Aktiviteter kan genomföras utan att effekten nås. Därför behöver uppföljningen se både till vad som gjorts och vad det lett till.
 
-<br>
+## Uppföljning
+
+Prioriteringar och mål ska följas upp i den ordinarie planerings- och uppföljningsrytmen.
+
+Hur detta sker beskrivs i [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
+
+## Vägledande princip
+
+Prioriteringar ska märkas.
+
+Om en prioritering inte påverkar beslut, resurser, uppföljning eller vardagligt arbete är den inte en verklig prioritering.
