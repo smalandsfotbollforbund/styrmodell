@@ -1,56 +1,84 @@
 ---
 description: >-
-  Bereder val på uppdrag av årsmötet. Oberoende, motiverade förslag och tydliga
-  tidsgränser från november till februari.
+  Valberedningens roll som årsmötets organ för att bereda val.
 ---
 
 # Valberedning
 
-Valberedningen är årsmötets organ. Den väljs av föreningarna, arbetar på deras uppdrag och bär ett eget ansvar inför dem. Uppgiften är enkel men tung: bereda val på ett sätt som stärker organisationens kompetens, legitimitet och förtroende.
+Valberedningen är årsmötets organ för att bereda val.
 
-***
+Den väljs av medlemsföreningarna och arbetar på deras uppdrag. Valberedningen ska bidra till att årsmötet får välgrundade förslag till de val som ska göras.
 
-## Oberoende är grunden
+Valberedningen ska vara självständig i sitt uppdrag. Den är inte ett organ under distriktsstyrelsen.
 
-Valberedningen ska arbeta fritt från sittande styrelses önskemål, informella påtryckningar och personliga lojaliteter. Styrelseledamöter är inte valbara till valberedningen. Tjänstepersoner anställda hos SvFF eller SmFF är inte valbara. Sekretess gäller för arbetet.
+## Valberedningens uppgift
 
-***
+Valberedningens uppgift är att bereda val på ett sätt som stärker distriktets kompetens, legitimitet och förtroende.
 
-## Sammansättning och beslutsmässighet
+Det innebär bland annat att valberedningen ska:
 
-Valberedningen ska bestå av ordförande och minst tre övriga ledamöter. Den utser vice ordförande inom sig och tillsätter sekreterare. Beslutsmässig när kallelse utgått två veckor i förväg och minst hälften är närvarande.
+* ta emot nomineringar och förslag
+* föra samtal med berörda personer
+* bedöma kompetens, erfarenhet och sammansättning
+* väga kontinuitet mot förnyelse
+* lämna motiverade förslag till årsmötet
+* beskriva sin arbetsprocess på ett begripligt sätt
 
-***
+Den konkreta valprocessen bör beskrivas i processbeskrivning eller annat dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
-## Valberedningens åligganden
+## Oberoende
 
-Valberedningen bereder val av distriktsordförande, övriga styrelseledamöter, disciplinnämnd, revisorer och sina egna efterträdare. Den föreslår arvode med ledning av de principer årsmötet beslutat.
+Valberedningens oberoende är centralt.
 
-**Senast 6 månader före mötet** — publicerar namnen på sina ledamöter och informerar om hur förslag kan lämnas.
+Den ska kunna arbeta utan styrning från distriktsstyrelsen, kansliet, enskilda intressen eller informella grupperingar.
 
-**Senast 1 november** — frågar dem vars mandattid utgår om de är villiga att kandidera igen.
+Det betyder inte att valberedningen ska arbeta isolerat. Den behöver lyssna brett, men den ska självständigt lägga fram sina förslag.
 
-**Senast 1 december** — informerar distriktet om vilka som avgår och namnen på dem som avböjt omval.
+## Vad valberedningen bör väga in
 
-**Senast 1 februari** — skickar sitt förslag med uppgifter om samtliga föreslagna till röstberättigade föreningar och styrelsen.
+Valberedningen bör väga in både formella krav och organisationens behov.
 
-***
+Det kan till exempel handla om:
 
-## Vad valberedningen väger in
+* stadgarnas krav
+* kompetens och erfarenhet
+* föreningsförankring
+* jämställdhet och mångfald
+* geografisk och verksamhetsmässig bredd
+* kontinuitet och förnyelse
+* förmåga att avsätta tid för uppdraget
+* förståelse för distriktets roll som folkrörelseorganisation
 
-Krav enligt stadgar inklusive könsfördelning, kompetens och erfarenhet, mångfald och bredd, balans mellan kontinuitet och förnyelse samt förmåga att avsätta tillräcklig tid.
+Detta ska göras med respekt för uppdragets integritet och för de personer som nomineras eller prövas.
 
-Processen beskrivs i detalj under [Dokument](https://dokument.smaland.football/processer/valprocessen).
+## Öppenhet och integritet
 
-## Vidare information
+Valberedningsarbete behöver både öppenhet och integritet.
 
-Valberedningens processbeskrivning bör kräva:
+Öppenhet behövs för att föreningarna ska veta hur de kan nominera, vilka val som ska göras och hur processen ser ut.
 
-* motiverat yttrande,
-* kompetensmatris,
-* oberoendebedömning,
-* beskrivning av valberedningens arbetsprocess,
-* presentation av vad varje föreslagen kandidat förväntas bidra med,
-* uppgift om nyval/omval och invalår.
+Integritet behövs för att samtal, bedömningar och personuppgifter ska hanteras på ett förtroendefullt sätt.
 
-<br>
+Valberedningen ska därför vara tydlig om processen, men varsam med personliga uppgifter och interna bedömningar.
+
+## Förslag till årsmötet
+
+Valberedningens förslag ska vara tillräckligt tydliga för att föreningarna ska kunna ta ställning.
+
+Förslagen bör normalt innehålla en motivering, relevant presentation av kandidaterna och en beskrivning av hur valberedningen har arbetat.
+
+Om det finns särskilda krav på form eller tidpunkt följer de av stadgar eller beslutade dokument.
+
+## Gräns mot distriktsstyrelsen
+
+Distriktsstyrelsen kan lämna information om organisationens behov, men ska inte styra valberedningens förslag.
+
+Valberedningen bereder val till årsmötet. Den granskar inte distriktsstyrelsen och leder inte verksamheten.
+
+Rätt gräns gör både valberedningen och distriktsstyrelsen starkare.
+
+## Vägledande princip
+
+Valberedningen ska hjälpa föreningarna att välja klokt.
+
+Det kräver självständighet, lyhördhet, tydlig process och mod att se till helheten.
