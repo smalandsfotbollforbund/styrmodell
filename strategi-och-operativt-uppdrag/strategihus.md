@@ -1,49 +1,71 @@
 ---
 description: >-
-  Modellen som håller ihop SmFF:s strategiska logik från vision till konkret
-  verksamhet. Styrverktyg, inte kommunikationsdokument.
+  Strategihuset som samlar riktning, prioritering, mål och operativt uppdrag i
+  Smålands Fotbollförbund.
 ---
 
 # Strategihus
 
-Strategihuset är SmFF:s modell för att hålla ihop den strategiska logiken — från vision till konkret verksamhet. Det är ett styrverktyg, inte ett kommunikationsdokument.
+Strategihuset är Smålands Fotbollförbunds modell för att hålla ihop strategin.
 
-Modellen är hämtad och anpassad från Svenska Golfförbundets upplägg och används för att skapa en gemensam förståelse för varför vi gör vad vi gör, och hur varje del av organisationens arbete bidrar till helheten.
+Det visar sambandet mellan långsiktig riktning, periodvisa prioriteringar, mål, verksamhetsområden och vardagligt genomförande.
 
------
+Strategihuset är ett styrverktyg. Det ska hjälpa distriktet att välja riktning, prioritera kraft och följa upp om arbetet rör sig åt rätt håll.
+
+## Strategihusets funktion
+
+Strategihuset ska ge ett gemensamt språk för strategisk styrning.
+
+Det ska hjälpa distriktsstyrelsen, kommittéer, distriktschef och kansli att förstå:
+
+* varför distriktet finns
+* vart verksamheten ska röra sig
+* vilka prioriteringar som gäller
+* hur mål ska följas upp
+* hur det operativa uppdraget hänger ihop med strategin
+
+Det är inte en samling formuleringar för kommunikation. Det är en modell för styrning.
 
 ## Strategihusets nivåer
 
-|Nivå                        |Frågan den svarar på                 |
-|----------------------------|-------------------------------------|
-|**Vision**                  |Vart vill vi?                        |
-|**Mission**                 |Varför finns vi?                     |
-|**Verksamhetsidé**          |Vad är vi och hur verkar vi?         |
-|**Strategiska inriktningar**|Vad ska vi åstadkomma strukturellt?  |
-|**Prioriteringar**          |Vad fokuserar vi på den här perioden?|
-|**Mål per prioritering**    |Hur vet vi att vi lyckas?            |
-|**Verksamhetsområden**      |Vad gör vi i det dagliga?            |
+| Nivå | Frågan nivån svarar på | Kärnkälla |
+| --- | --- | --- |
+| **Vision** | Vart vill vi? | [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) |
+| **Mission** | Varför finns vi? | [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) |
+| **Verksamhetsidé** | Vad är vi och hur verkar vi? | [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) |
+| **Strategiska inriktningar** | Vad ska vi åstadkomma strukturellt? | [Strategiska inriktningar](strategiska-inriktningar.md) |
+| **Prioriteringar och mål** | Vad fokuserar vi på och hur följer vi upp det? | [Prioriteringar och mål](prioriteringar-och-mal.md) |
+| **Verksamhetsområden och basuppgifter** | Vad gör vi i det dagliga uppdraget? | [Verksamhetsområden och basuppgifter](verksamhetsomraden-och-basuppgifter.md) |
+| **Planering och uppföljning** | Hur hålls arbetet ihop över året? | [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md) |
 
------
+Varje nivå ska ha sin plats. Strategihuset ska binda ihop nivåerna, inte upprepa allt innehåll från varje sida.
 
-## Hur strategihuset används i styrningen
+## Hur strategihuset används
 
-**Distriktsstyrelsen** håller strategihuset som styrningsverktyg — håller prioriteringarna levande, väger initiativ mot inriktningen och kopplar mål till resurser.
+Distriktsstyrelsen använder strategihuset för att hålla riktning, pröva prioriteringar och koppla mål till resurser.
 
-**Kommittéerna** planerar taktiskt utifrån strategihuset — vilka delar berör det egna området och hur bidrar vi till helheten?
+Kommittéerna använder strategihuset för att planera och bereda frågor inom sina verksamhetsområden.
 
-**Distriktschefen och kansliet** omsätter strategihuset i operativ planering, genomförande och uppföljning — i verksamhetsplan, budget och rapportering.
-
------
-
-## Beslutsmodellen
-
-Vision, mission och verksamhetsidé beslutas av de demokratiska organen och gäller långsiktigt. Prioriteringar beslutas för en period och gäller minst tre år. Verksamhetsplan och budget beslutas årligen.
-
------
+Distriktschef och kansli använder strategihuset för att omsätta riktning och prioriteringar i verksamhetsplanering, genomförande och uppföljning.
 
 ## Strategihuset som prioriteringsverktyg
 
-Strategihuset hjälper organisationen att välja vad som är viktigast. Det ger ett gemensamt språk för att diskutera prioriteringar — och ett verktyg för att tacka nej till sådant som inte passar in.
+Strategihuset ska hjälpa organisationen att säga ja till det som stärker riktningen och nej till det som splittrar kraften.
 
-Börja med [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
+Det är särskilt viktigt i en organisation med många behov, många föreningar och begränsade resurser.
+
+Allt kan inte prioriteras samtidigt. Det som prioriteras ska få kraft, ansvar och uppföljning.
+
+## Beslut och uppföljning
+
+Vision, mission och verksamhetsidé är långsiktiga och ska ha stark demokratisk förankring.
+
+Prioriteringar och mål gäller för en strategiperiod och konkretiseras i verksamhetsplan, budget och uppföljning.
+
+Planering och uppföljning beskrivs i [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
+
+## Vägledande princip
+
+Strategihuset ska hålla ihop helheten.
+
+Det ska göra det enklare att se sambandet mellan föreningarnas behov, distriktets uppdrag, strategiska vägval och arbetet i vardagen.
