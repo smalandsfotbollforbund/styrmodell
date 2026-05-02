@@ -1,59 +1,86 @@
 ---
 description: >-
-  Vad kommittéer är, varför de finns, hur de arbetar och hur gränsen mot
-  styrelse och kansli ska hanteras.
+  Kommittéernas roll som taktiska organ under distriktsstyrelsen.
 ---
 
 # Kommittéer
 
-Kommittéerna är organ under distriktsstyrelsen. De saknar ett självständigt mandat — de får sitt uppdrag, sina ramar och sin beslutanderätt genom styrelsens beslut.
+Kommittéerna är organ under distriktsstyrelsen.
 
------
+De finns för att ge distriktet sakkunskap, beredningskraft och utvecklingsförmåga inom viktiga verksamhetsområden. Kommittéer är en del av styrningen, men de har inte ett självständigt mandat vid sidan av distriktsstyrelsen.
 
-## Varför kommittéer finns
+Kommittéernas uppdrag, arbetsformer och eventuell delegation ska framgå av beslutade dokument i [dokumentarkivet](https://styrning.smaland.football/dokument). Den här sidan beskriver principerna.
 
-Kommittéerna gör det möjligt för distriktet att förena strategisk styrning med ämnesspecifik kompetens. De ger styrelsen bättre underlag och mer kvalificerad beredning — utan att styrelsen behöver hantera alla sakfrågor.
+## Kommittéernas plats i styrmodellen
 
-Kommittéerna verkar på den **taktiska nivån** med ändamålet att *utveckla* verksamheten inom sitt område — med lyhördhet som det bärande förhållningssättet. De är bryggan mellan styrelsens övergripande ledning och kansliets operativa genomförande.
+Kommittéerna verkar på den taktiska nivån.
 
------
+Det innebär att de ska bidra till att omsätta distriktsstyrelsens riktning och prioriteringar i sakkunnig beredning, planering, uppföljning och utveckling inom sina områden.
+
+Kommittéerna är en brygga mellan distriktsstyrelsens strategiska ansvar och kansliets operativa genomförande.
 
 ## Vad en kommitté gör
 
-En kommitté bereder frågor inom sitt ansvarsområde, fattar beslut i uttryckligen delegerade ärenden, följer upp mål och aktiviteter, återrapporterar till distriktsstyrelsen och samverkar med kansliet i genomförande.
+En kommitté kan, inom sitt uppdrag:
 
------
+* bereda frågor inför beslut
+* följa upp verksamhet inom sitt område
+* bidra med sakkunskap och prioriteringar
+* föreslå utvecklingsinsatser
+* samverka med kansliet i genomförande
+* fatta beslut i frågor som uttryckligen delegerats
+* återrapportera till distriktsstyrelsen enligt beslutad ordning
+
+Beredning och beslut ska hållas isär. En kommitté beslutar bara när den har fått tydlig delegation.
 
 ## Kommittéordföranden
 
-Utses av distriktsstyrelsen. Leder kommitténs arbete, ansvarar för att kallelse och protokoll upprättas, att verksamhetsplan och budget tas fram och att arbetet håller sig inom styrelsens ramar.
+Kommittéordföranden leder kommitténs arbete inom de ramar som distriktsstyrelsen beslutat.
 
-Kommittéordföranden är inte chef för kanslipersonalen — det är distriktschefen. Men ordföranden är en av de tre rollerna i treenigheten som håller ihop SmFF:s styrning, tillsammans med distriktsstyrelsen och distriktschefen. Se [Styrarkitektur](../organisationens-struktur/styrarkitektur.md).
+Rollen innebär att hålla ihop kommitténs planering, beredning, sammanträden, återrapportering och utvecklingsarbete.
 
------
+Kommittéordföranden är inte chef för kanslipersonalen. Distriktschefen leder kansliet. Samtidigt behöver kommittéordföranden och distriktschef samverka nära för att kommitténs arbete ska fungera i praktiken.
 
-## Kommittéledamöterna
+## Kommittéledamöter
 
-Utses av distriktsstyrelsen. Bidrar aktivt i beredning, prioritering och uppföljning. Inför varje nytt år bör varje ledamot ta ett aktivt beslut om de har tid och engagemang för uppdraget.
+Kommittéledamöter bidrar med kunskap, erfarenhet, föreningsperspektiv och engagemang inom kommitténs område.
 
-Sammansättningen ska sträva efter att spegla samhällets mångfald och jämställdhet. Det är önskvärt att ledamöternas föreningstillhörighet representerar bredden av verksamheten.
+Ledamöterna ska bidra aktivt i beredning, prioritering och uppföljning. Uppdraget är inte en passiv representation, utan ett aktivt ansvar inom en beslutad struktur.
 
------
+Kommitténs sammansättning bör sträva efter bredd, jämställdhet och relevant erfarenhet från distriktets verksamhet.
 
-## Ekonomiansvar
+## Gräns mot distriktsstyrelsen
 
-Kommittéordföranden ansvarar för att kommittén håller sig inom beslutad budget och flaggar för avvikelser. Det ekonomiska flödet — attest, utbetalningar, rapportering — hanteras av kansliet och distriktschefen enligt attestordningen.
+Distriktsstyrelsen beslutar om uppdrag, ramar och delegation.
 
------
+Kommittéerna verkar inom dessa ramar. De ska inte agera som egna styrelser och inte skapa egna strategiska prioriteringar vid sidan av distriktsstyrelsens beslut.
 
-## Arbetsformer
+Samtidigt ska distriktsstyrelsen värna kommittéernas sakkunniga roll och inte ta över taktisk beredning utan skäl.
 
-Kommittéer är beslutsmässiga när minst hälften av ledamöterna deltar. Beslut protokollförs. Jäv ska anmälas och berörd ledamot träder ur handläggningen. Vid lika röstetal har ordföranden utslagsröst — utom i bestraffningsärenden.
+## Gräns mot kansliet
 
-Kommittén ska sammanträda enligt fastställd sammanträdesplan. Sammanträden ska i möjligaste mån förläggas nära verksamheten hos medlemsföreningarna.
+Kansliet stödjer kommittéerna genom beredning, administration, genomförande och uppföljning.
 
------
+Kommittén kan ange behov och prioriteringar inom sitt område. Distriktschefen ansvarar för personalledning och operativ resursfördelning.
 
-## Delegationsordningen
+Det ska vara tydligt vem som leder arbetet i sak och vem som leder personalen.
 
-Varje kommittés arbetsordning och delegationsordning finns under [Dokument](https://dokument.smaland.football/arbetsordningar).
+## Delegation till kommitté
+
+En kommitté kan få beslutanderätt genom delegation.
+
+Sådan delegation ska vara skriftlig, avgränsad, spårbar och återrapporterad enligt beslutad ordning.
+
+Delegation beskrivs i [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md). Den konkreta delegationsordningen ska finnas i [dokumentarkivet](https://styrning.smaland.football/dokument).
+
+## Ekonomi och uppföljning
+
+Kommitténs arbete ska hålla sig inom beslutade ramar för verksamhet och ekonomi.
+
+Kommittéordföranden har ett ansvar att följa upp kommitténs planering och signalera avvikelser. Ekonomiska flöden, attest och utbetalningar hanteras enligt beslutad attestordning och övriga dokument i dokumentarkivet.
+
+## Vägledande princip
+
+Kommittéer ska ge distriktet kraft i sakfrågorna utan att göra ansvarsfördelningen otydlig.
+
+De ska vara kunniga, lyhörda och tydligt förankrade i distriktsstyrelsens uppdrag.
