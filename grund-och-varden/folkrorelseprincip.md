@@ -1,27 +1,69 @@
 ---
 description: >-
-  SmFF ägs av sina medlemsföreningar, styrs demokratiskt och drivs ideellt. Det
-  är folkrörelsens kärna och grunden för allt vi gör.
+  Folkrörelseprincipen som grund för Smålands Fotbollförbunds demokratiska
+  styrning.
 ---
 
 # Folkrörelseprincip
 
-Smålands Fotbollförbund är ingen myndighet, inget företag och ingen förening tillhörig en enda ägare. Det är en folkrörelse; en fri och frivillig sammanslutning av föreningar som delar gemensamma värden och arbetar mot ett gemensamt mål.
+Smålands Fotbollförbund är en del av den svenska idrottsrörelsen.
 
-Det är inte en juridisk detalj. Det är grunden för allt vi gör.
+Det betyder att distriktet vilar på en folkrörelseidé: människor organiserar sig frivilligt i föreningar, föreningarna samlas i förbund och gemensamma beslut fattas demokratiskt.
 
-## Vad en folkrörelse innebär
+Folkrörelseprincipen är inte en egen normnivå i [Normordning](normordning.md). Den är grunden som förklarar varför medlemsföreningarnas inflytande, tydliga mandat och ansvar på rätt nivå är så viktigt.
 
-{% include "../.gitbook/includes/untitled.md" %}
+## Vad principen innebär
 
-## Folkrörelse och professionalisering
+Folkrörelseprincipen innebär att distriktet inte bara är en administrativ funktion.
 
-SmFF är en professionaliserad idrottsorganisation med anställda, ekonomiska flöden och krav på rapportering. Det skapar en naturlig spänning med folkrörelseidealet.
+Distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom årsmöte, representantskap, motioner, ombud, val och granskning.
 
-Styrmodellen hanterar den spänningen genom en tydlig rolldelning: förtroendevalda bär det demokratiska ansvaret och den strategiska ledningen, anställda genomför och stödjer. Professionaliseringen ska stärka folkrörelsen och inte ersätta den.
+Det är föreningarnas gemensamma uppdrag som ger distriktet legitimitet.
 
-## Folkrörelseprincipen i normordningen
+## Föreningarnas roll
 
-Folkrörelseprincipen är inte en normnivå som väger tyngre eller lättare än stadgarna. Den är grundstenen som hela styrmodellen vilar på. RF:s stadgar slår fast att idrotten organiseras i självständiga föreningar och förbund som tillsammans utgör en fri och frivillig folkrörelse.
+Medlemsföreningarna är grunden för distriktets demokratiska liv.
 
-Läs mer om hur värden och normer samverkar under [Normordning](normordning.md) och [Idrottens värdegrund](vardegrund.md).
+De väljer, beslutar, väcker frågor, granskar och ger uppdrag genom de former som följer av stadgar och beslutade processer.
+
+Det betyder att frågor som hör hemma på demokratisk nivå inte ska flyttas till distriktsstyrelse, kommittéer, distriktschef eller kansli genom informell praxis.
+
+## Förtroendevalda och anställda
+
+En modern idrottsorganisation behöver både ideellt engagemang, förtroendevalda och anställda.
+
+Det skapar kraft, men också behov av tydlig rollfördelning.
+
+Förtroendevalda bär det demokratiska och strategiska ansvaret inom sina uppdrag. Anställda leder, stödjer och genomför den löpande verksamheten inom beslutade ramar.
+
+Professionalisering ska stärka folkrörelsen, inte ersätta den.
+
+## Demokrati i vardagen
+
+Folkrörelseprincipen syns inte bara på årsmötet.
+
+Den syns också i hur distriktet:
+
+* bereder frågor
+* ger föreningar möjlighet att förstå och påverka
+* följer upp beslut
+* dokumenterar ansvar
+* hanterar jäv och granskning
+* förklarar varför beslut fattas
+* håller isär formella beslut och dialog
+
+Demokrati är alltså både struktur och arbetssätt.
+
+## Relation till god demokratisk styrning
+
+Folkrörelseprincipen är grunden.
+
+God demokratisk styrning beskriver hur den grunden ska vårdas i praktiken genom tydliga processer, ansvar, transparens, uppföljning och granskning.
+
+Mer om detta finns i [God demokratisk styrning](god-demokratisk-styrning.md).
+
+## Vägledande princip
+
+Distriktets styrning ska alltid kunna spåras tillbaka till föreningarnas gemensamma mandat.
+
+När det är oklart var en fråga hör hemma ska styrmodellen hjälpa organisationen tillbaka till rätt nivå, rätt ansvar och rätt beslutsväg.
