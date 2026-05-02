@@ -1,43 +1,67 @@
 ---
 description: >-
-  Det operativa uppdraget från SvFF med basuppgiftsområden som definierar vad
-  SmFF faktiskt gör i vardagen.
+  Verksamhetsområden och basuppgifter som beskriver distriktets operativa
+  grunduppdrag.
 ---
 
 # Verksamhetsområden och basuppgifter
 
-Verksamhetsområdena är det operativa uppdraget — vad SmFF faktiskt gör i vardagen. De hämtas från basuppgifterna som SvFF och SDF gemensamt definierat och som utgör den miniminivå av arbete distriktet ska genomföra.
+Verksamhetsområdena beskriver vad Smålands Fotbollförbund gör i vardagen.
 
-Basuppgifternas syfte är att säkerställa att föreningar i hela landet får likvärdigt och kontinuerligt stöd, oavsett vilket SDF de tillhör.
+Basuppgifterna anger det grunduppdrag som distriktet ska bära som SDF inom svensk fotboll. De ska säkerställa att föreningar får ett likvärdigt och kontinuerligt stöd, samtidigt som distriktet kan utveckla en egen strategisk profil.
 
------
+Den här sidan beskriver sambandet mellan verksamhetsområden, basuppgifter och strategisk styrning. Detaljer i uppdrag, avtal eller externa beslut ska hanteras i [dokumentarkivet](https://styrning.smaland.football/dokument) eller i externa bärande dokument.
 
-## SmFF:s verksamhetsområden
+## Basuppgifter som grund
 
-**Våra föreningar** — föreningsstöd, demokrati, kvalitetsarbete (Kvalitetsklubb), projektstöd och regional samverkan.
+Basuppgifterna ska förstås som en grundnivå.
 
-**Våra spelare** — spelarutbildning, fotbollsskola, implementering av spelarutbildningsplaner och skolrelaterade uppdrag.
+De beskriver vad distriktet behöver klara av för att fullgöra sitt uppdrag inom svensk fotboll.
 
-**Tävling och trygga miljöer** — nationella spelformer, serier, tävlingsärenden, disciplinärenden, trygghetsfrågor och barnrättsperspektiv.
+Det betyder att basuppgifter inte är samma sak som strategiska prioriteringar. Basuppgifter är sådant som måste fungera. Prioriteringar är sådant distriktet riktar särskild kraft mot under en period.
 
-**Våra ledare** — tränarutbildning och domarverksamhet.
+## Verksamhetsområden
 
-**Våra resurser** — opinion, anläggningar, styrning, HR, ekonomi, digitalisering, IT och ekonomiska resurser.
+Distriktets verksamhetsområden kan förstås som återkommande delar av det operativa uppdraget.
 
------
+De omfattar bland annat:
 
-## Basuppgifter och strategisk profilering
+* föreningsstöd och föreningsutveckling
+* spelarutbildning och spelarutveckling
+* tävling och trygga miljöer
+* ledarutbildning och domarverksamhet
+* anläggningar, samverkan, ekonomi, administration, kommunikation och digital utveckling
 
-Basuppgifterna anger vad SmFF *måste* genomföra som grundservice. Utöver det kan distriktet prioritera strategiska initiativ i linje med strategihuset. Det är viktigt att hålla isär vad som är grundservice och vad som är egen profilering — annars riskerar grunduppdraget att inte bäras med tillräcklig kraft.
+Verksamhetsområdena ska hjälpa distriktet att organisera arbetet och se till att basuppgifter, strategi och resurser hänger ihop.
 
------
+## Grunduppdrag och strategisk profil
 
-## Kommittéerna och verksamhetsområdena
+Det är viktigt att hålla isär grunduppdrag och strategisk profil.
 
-Kommittéerna ansvarar för den taktiska planering och beredning som hör till sina respektive verksamhetsområden. Kopplingen specificeras i respektive kommittés arbets- och delegationsordning under [Dokument](https://dokument.smaland.football/arbetsordningar).
+Grunduppdraget är det distriktet behöver göra för att bära sin roll som SDF.
 
------
+Strategisk profil är det distriktet väljer att utveckla extra kraftfullt utifrån sina förutsättningar, behov och prioriteringar.
+
+Om dessa blandas ihop finns risk att grunduppdraget blir för svagt eller att strategiska initiativ tränger undan nödvändig vardagsverksamhet.
 
 ## Föreningen i centrum
 
-Allt operativt arbete kretsar kring föreningen. Tävling, utbildning och investering är de tre bärande dimensionerna som SmFF stödjer föreningarna i — och som tillsammans skapar förutsättningar för att fotbollen ska blomstra i hela Småland.
+Verksamhetsområden och basuppgifter ska ytterst förstås utifrån föreningarnas behov.
+
+Distriktets arbete ska stärka föreningarnas möjlighet att bedriva fotboll, futsal och andra berörda verksamheter med kvalitet, trygghet och långsiktighet.
+
+Det gäller oavsett om arbetet handlar om tävling, utbildning, domare, föreningsutveckling, anläggningar eller administration.
+
+## Koppling till kommittéer och kansli
+
+Kommittéer bidrar med taktisk beredning, sakkunskap och uppföljning inom sina områden.
+
+Kansliet ansvarar för operativt genomförande, administration och stöd inom beslutade ramar.
+
+Den konkreta kopplingen mellan verksamhetsområden, kommittéer, kansliroller och delegation ska beskrivas i arbetsordningar, instruktioner och andra dokument i dokumentarkivet.
+
+## Vägledande princip
+
+Basuppgifterna ska bäras stadigt. Prioriteringarna ska driva utveckling.
+
+Båda behövs. Det ena får inte äta upp det andra.
