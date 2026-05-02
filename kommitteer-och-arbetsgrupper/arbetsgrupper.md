@@ -1,33 +1,64 @@
 ---
 description: >-
-  Tillfälliga eller löpande grupper för specifika uppdrag som stödjande
-  strukturer, inte beslutande organ.
+  Arbetsgrupper som stödjande strukturer för avgränsade uppdrag.
 ---
 
 # Arbetsgrupper
 
-En arbetsgrupp är en tillfällig eller löpande grupp som tillsätts för att arbeta med en specifik fråga, ett projekt eller ett avgränsat uppdrag. Arbetsgrupper är stödjande strukturer — inte beslutande organ.
+En arbetsgrupp är en tillfällig eller löpande grupp som får ett avgränsat uppdrag.
 
-En arbetsgrupp kan inte fatta formella beslut om inte beslutanderätt uttryckligen delegerats till den.
+Arbetsgrupper används när distriktet behöver samla personer kring en särskild fråga, ett projekt, en beredning eller ett genomförande som inte kräver en egen kommitté.
 
-***
+En arbetsgrupp är normalt inte ett beslutsorgan.
 
-## Tillsättning och uppdrag
+## Uppdrag
 
-Arbetsgrupper tillsätts av det organ som ger gruppen dess uppdrag — vanligen distriktsstyrelsen eller en kommitté. Uppdraget ska vara tydligt formulerat med syfte, avgränsning, sammansättning och tidsram. Gruppen återrapporterar till det organ som tillsatt den.
+En arbetsgrupp ska ha ett tydligt uppdrag.
 
-***
+Uppdraget bör ange:
 
-## Delegering till arbetsgrupp
+* syfte
+* avgränsning
+* ansvarig nivå
+* sammansättning
+* tidsram
+* förväntad leverans
+* hur återrapportering ska ske
 
-En arbetsgrupp kan ges delegerad beslutanderätt i tydligt avgränsade frågor. Utmärkelsegruppen är ett exempel — den kan ha delegerad beslutanderätt i vissa utmärkelsekategorier. Sådan delegering ska vara skriftligt beslutad och förenad med återrapportering.
+Det ska vara tydligt vem arbetsgruppen arbetar på uppdrag av och vad som händer med gruppens resultat.
 
-***
+## Tillsättning
 
-## Stadgar och arbetsgrupper
+Arbetsgrupper kan tillsättas av distriktsstyrelsen, en kommitté eller annan behörig funktion inom sitt mandat.
 
-Stadgarna reglerar kommittéer som de stadgeenliga organen under styrelsen — inte arbetsgrupper. Arbetsgrupper verkar alltid under det organ som tillsatt dem och kan inte ges uppgifter som stadgarna lägger på ett formellt organ.
+Den som tillsätter arbetsgruppen ansvarar för att uppdraget är tydligt och att gruppens arbete följs upp.
 
-## Vidare inforamtion
+## Beslutanderätt
 
-Arbetsgrupper är beredande eller verkställande stödstrukturer. Om beslutanderätt behöver delegeras ska delegationen normalt ges till ett formellt organ, en kommitté, presidiet, distriktschefen eller en namngiven roll. En arbetsgrupp får endast fatta beslut om den i arbetsordning eller särskilt styrelsebeslut har definierats som ett formellt organ med tydligt mandat, sammansättning, beslutsförhet, protokollföring och återrapportering.
+En arbetsgrupp har inte beslutanderätt bara för att den har ett uppdrag.
+
+Om en arbetsgrupp ska fatta beslut krävs uttrycklig delegation eller ett särskilt beslut som anger mandat, omfattning, beslutsform, dokumentation och återrapportering.
+
+Som huvudregel bör beslutanderätt delegeras till formella organ eller tydligt utsedda funktioner, till exempel kommitté, presidium, distriktschef eller namngiven roll.
+
+## Gräns mot kommitté
+
+En kommitté är ett organ under distriktsstyrelsen med ett mer varaktigt uppdrag inom ett sakområde.
+
+En arbetsgrupp är mer avgränsad. Den ska normalt lösa eller bereda en särskild fråga.
+
+Om en arbetsgrupp blir permanent, får återkommande beslutsmandat eller börjar bära ett helt sakområde bör det prövas om den i stället ska organiseras som kommitté eller annan formell funktion.
+
+## Gräns mot referensgrupp
+
+En referensgrupp bidrar främst med inspel, erfarenheter och perspektiv.
+
+En arbetsgrupp kan arbeta mer aktivt med beredning, framtagande eller genomförande.
+
+Skillnaden ska vara tydlig för dem som deltar.
+
+## Vägledande princip
+
+Arbetsgrupper ska ge kraft åt avgränsade uppdrag utan att skapa nya informella beslutsvägar.
+
+Det ska vara lätt att se varför gruppen finns, vem den arbetar för och vad den får göra.
