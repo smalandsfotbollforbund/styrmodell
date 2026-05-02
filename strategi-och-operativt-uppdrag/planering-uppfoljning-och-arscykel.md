@@ -1,53 +1,88 @@
 ---
 description: >-
-  SmFF:s årsrytm med sex återkommande nyckelmoment, budget- och VP-processen och
-  hur uppföljning fungerar.
+  Hur planering, uppföljning och årscykel håller ihop styrningen över året.
 ---
 
 # Planering, uppföljning och årscykel
 
-En tydlig rytm i organisationens arbete är en förutsättning för god styrning. Den skapar framförhållning, minskar ad hoc-styrning och ger styrelse, kommittéer och kansli bättre förutsättningar att samspela.
+Planering och uppföljning är rytmen i styrningen.
 
------
+När den fungerar vet organisationen vad som ska göras, vem som ansvarar, när uppföljning sker och hur lärdomar tas vidare.
 
-## SmFF:s årsrytm
+Den här sidan beskriver principerna för årscykeln. Detaljerade datum, mallar och processflöden hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
-Organisationens år har sex återkommande nyckelmoment:
+## Årscykelns funktion
 
-**Januari–februari: Representantskap och konstituerande möte**
-Representantskapet håller sitt ordinarie sammanträde. Det nytillträdda styret håller konstituerande möte. Helårsbokslut färdigställs.
+Årscykeln ska hjälpa distriktet att undvika ad hoc-styrning.
 
-**Mars: Årsmöte**
-Ordinarie årsmöte. Verksamhetsberättelse, årsredovisning, revisionsberättelse, budget och arbetsplan. Val genomförs.
+Den ska skapa framförhållning för:
 
-**Maj–juni: Underlag och budgetstart**
-Underlag tas fram inför ordförandekonferenser. Budgetarbetet påbörjas. Halvårsbokslut färdigställs.
+* årsmöte och representantskap
+* verksamhetsplanering
+* budget
+* uppföljning
+* revision och granskning
+* kommittéernas planering
+* kansliets genomförande
+* rapportering till föreningar och andra berörda
 
-**Oktober: Aktivitetskonferens**
-Styrelse, distriktschef, kansli och kommittéordföranden samlas för verksamhetsplanering. Kommittéerna bearbetar aktiviteter och lämnar utkast. Ekonomisk uppföljning presenteras.
+Rytmen ska vara tydlig nog att skapa ordning, men inte så tung att den bromsar arbetet.
 
-**November: Götalandskonferens och SvFF:s representantskap**
-Deltagande i Götalandskonferensen och SvFF:s representantskaps ordinarie sammanträde. Taktiska aktiviteter i samverkansplan fastställs.
+## Planering
 
-**December: Styrelsens planeringsmöte**
-Styrelse, distriktschef och kansli samlas för organisation, arbetsformer och frågor inför våren. Det slutgiltiga förslaget till verksamhetsplan och budget fastställs av styrelsen.
+Planering ska knyta ihop strategi, verksamhetsområden, prioriteringar, resurser och ansvar.
 
------
+Distriktsstyrelsen anger riktning och ramar.
+
+Kommittéerna bidrar med taktisk planering och sakkunskap inom sina områden.
+
+Distriktschef och kansli samordnar operativ planering, budgetunderlag och genomförande.
+
+## Uppföljning
+
+Uppföljning ska visa om verksamhet, ekonomi, prioriteringar och beslut rör sig åt rätt håll.
+
+Uppföljning ska omfatta både:
+
+* vad som har genomförts
+* vad som inte har genomförts
+* vilka resultat som nåtts
+* vilka avvikelser som finns
+* vilka risker som behöver hanteras
+* vilka lärdomar som ska tas vidare
+
+Uppföljning är inte bara kontroll. Den ska också bidra till lärande.
 
 ## Ekonomisk uppföljning
 
-Ekonomisk uppföljning genomförs tre gånger per år: sista april, sista juli och sista oktober. Halvårsbokslut upprättas efter juni, helårsbokslut efter december.
+Ekonomisk uppföljning ska ske återkommande under året och ge distriktsstyrelsen tillräckligt underlag för att ta ansvar för ekonomi och styrning.
 
-Väsentliga avvikelser rapporteras till styrelsen omgående — inte vid nästa ordinarie uppföljningstillfälle.
+Väsentliga avvikelser ska rapporteras när de upptäcks. De ska inte vänta till nästa ordinarie uppföljning om de kräver åtgärd.
 
------
+## Verksamhetsplan och budget
 
-## Budget- och VP-processen
+Verksamhetsplan och budget ska hänga ihop.
 
-Direktiv från styrelsen i september, kommittéernas utkast i oktober, sammanställning i november och styrelsens fastställande i december — inför beslut på årsmötet i mars. Processen beskrivs i detalj under [Dokument](https://dokument.smaland.football/processer/budget-och-verksamhetsplanering).
+Verksamhetsplanen visar vad distriktet ska göra och varför.
 
------
+Budgeten visar vilka resurser som sätts bakom arbetet.
 
-## Uppföljning som lärande
+Om plan och budget pekar åt olika håll behöver styrningen rättas till. En prioritering utan resurser är inte en verklig prioritering.
 
-Uppföljning ska inte bara kontrollera om mål uppfyllts — den ska bidra till lärande. Vad fungerar? Vilka mål är realistiska? Var behöver vi starkare stöd eller tydligare ansvar?
+## Återrapportering
+
+Återrapportering ska ske till den nivå som har gett uppdrag, fattat beslut eller har uppföljningsansvar.
+
+Det innebär till exempel att:
+
+* distriktschef rapporterar till distriktsstyrelsen
+* kommittéer återrapporterar till distriktsstyrelsen enligt beslutad ordning
+* delegerade beslut återrapporteras enligt delegationsordning
+* granskande funktioner rapporterar enligt sitt uppdrag
+* verksamhet och ekonomi återrapporteras till medlemsföreningarna genom demokratiska processer
+
+## Vägledande princip
+
+Årscykeln ska göra arbetet lugnare och tydligare.
+
+Det ska finnas tid för beredning, beslut, genomförande, uppföljning och lärande. Då blir styrningen mindre ryckig och mer hållbar.
