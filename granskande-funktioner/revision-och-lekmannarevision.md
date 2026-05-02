@@ -1,37 +1,77 @@
 ---
 description: >-
-  Revisionen granskar räkenskaper. Lekmannarevisionen granskar ändamålsenlighet
-  och styrning. Båda väljs av och rapporterar till årsmötet.
+  Revisionens och lekmannarevisionens roller i Smålands Fotbollförbunds
+  granskande struktur.
 ---
 
 # Revision och lekmannarevision
 
-Revision och lekmannarevision väljs av årsmötet och verkar på dess uppdrag. De granskar — de styr inte. Deras oberoende är en förutsättning för att granskningen ska ha trovärdighet.
+Revision och lekmannarevision är granskande funktioner som väljs av årsmötet och verkar på dess uppdrag.
 
-Revisorer och lekmannarevisorer får inte vara anställda hos RF, DF, SvFF, SmFF, SISU eller deras distriktsförbund. Styrelseledamöter i SmFF är inte valbara.
+De granskar. De styr inte.
 
------
+Deras oberoende är en förutsättning för att granskningen ska ha trovärdighet och för att årsmötet ska kunna ta ställning till ansvar och förvaltning.
 
-## Revisionen
+## Revisionens roll
 
-Granskar räkenskaper och förvaltning i enlighet med lag, god revisionssed och tillämpliga regler. Minst en revisor ska vara ett av Revisorsinspektionen auktoriserat eller godkänt revisionsbolag. RF-SISU Småland (DF) har rätt att utse ytterligare en revisor.
+Revisionen granskar räkenskaper och förvaltning.
 
-Räkenskaperna ska överlämnas till revisorerna senast fyra veckor före årsmötet. Revisorernas berättelse ska vara styrelsen tillhanda senast två veckor före mötet.
+Det innebär att revisionen prövar om den ekonomiska redovisningen, bokslutet och förvaltningen är ordnad, tillförlitlig och hanterad enligt gällande krav.
 
-Revisionen granskar ekonomisk redovisning och bokslut, förvaltning och ekonomisk hantering, ordning och spårbarhet i ekonomiska processer samt om beslutsfattande skett inom tillåtna ramar.
+Revisionen ger årsmötet underlag för att bedöma ekonomiskt ansvar och förvaltning.
 
------
+## Lekmannarevisionens roll
 
-## Lekmannarevisionen
+Lekmannarevisionen granskar verksamheten ur ett ändamåls-, styrnings- och internkontrollperspektiv.
 
-Granskar verksamheten ur ett ändamåls- och styrningsperspektiv. Lekmannarevisionen ska bedöma om distriktet sköts ändamålsenligt, om ekonomin är tillfredsställande och om den interna kontrollen är tillräcklig.
+Det innebär att lekmannarevisionen kan granska om verksamheten bedrivs på ett ändamålsenligt sätt, om styrningen fungerar och om den interna kontrollen är tillräcklig.
 
-RF:s rekommendation ger lekmannarevisionen ett särskilt ansvar att granska arbetet med god demokratisk styrning — om styrmodellen tillämpas, om roller och mandat är tydliga.
+Lekmannarevisionen kan därmed bidra till att styrmodellen inte bara finns på papper, utan också används i praktiken.
 
------
+## Skillnaden mellan revision och lekmannarevision
 
-## Skillnaden
+Revision och lekmannarevision har olika tyngdpunkter.
 
-Revisionen fokuserar på räkenskaper och formell förvaltning. Lekmannarevisionen fokuserar på ändamålsenlighet och styrning. Tillsammans ger de en bredare grund för ansvarsfrihetsprövning.
+| Funktion | Tyngdpunkt |
+| --- | --- |
+| **Revision** | Räkenskaper, bokslut och förvaltning |
+| **Lekmannarevision** | Ändamålsenlighet, styrning och intern kontroll |
 
-Granskningens syfte är inte enbart att upptäcka fel — det är också att bidra till förbättring.
+Tillsammans ger de årsmötet en bredare bild av ansvar, ekonomi och styrning.
+
+## Oberoende
+
+Granskande funktioner ska vara självständiga i förhållande till det som granskas.
+
+Den som granskar ska inte samtidigt ha ansvar för att leda, bereda eller verkställa den verksamhet som granskas.
+
+Det är en grundläggande skyddsprincip i styrmodellen.
+
+## Granskning av styrmodellen
+
+Lekmannarevisionen kan ha en särskilt viktig roll i att granska om styrmodellen tillämpas.
+
+Det kan handla om att pröva om:
+
+* roller och mandat är tydliga
+* delegation följs och återrapporteras
+* beslut dokumenteras
+* intern kontroll fungerar
+* ansvarsfördelningen är möjlig att följa
+* styrande dokument används på rätt sätt
+
+Sådan granskning ska bidra till förbättring, inte bara till att upptäcka fel.
+
+## Relation till distriktsstyrelsen och kansliet
+
+Distriktsstyrelsen ansvarar för styrning, uppföljning och intern kontroll.
+
+Distriktschef och kansli ansvarar för att ge underlag och information som behövs för granskningen.
+
+Revision och lekmannarevision ska samtidigt stå fria i sin bedömning och rapportering till årsmötet.
+
+## Vägledande princip
+
+Granskning ska göra styrningen starkare.
+
+Den ska vara saklig, oberoende och tydlig nog för att årsmötet ska kunna ta ansvar för sina beslut.
