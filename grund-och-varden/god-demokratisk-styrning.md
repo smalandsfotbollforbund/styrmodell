@@ -1,43 +1,75 @@
 ---
 description: >-
-  RF:s rekommendation om god demokratisk styrning och vad den innebär konkret
-  för SmFF:s processer, organ och kultur.
+  RF:s rekommendation om god demokratisk styrning och hur den används som
+  vägledning i distriktets styrmodell.
 ---
 
 # God demokratisk styrning
 
-RF har tagit fram en rekommendation för god demokratisk styrning av idrottsförbund. Den är vägledande — inte tvingande som stadgarna — men SmFF ska aktivt sträva efter att leva upp till den. Det är inte ett minimikrav. Det är ett kvalitetskrav.
+God demokratisk styrning handlar om att distriktets beslut, ansvar, processer och granskning ska vara tydliga, legitima och möjliga att följa.
 
-***
+RF:s rekommendation för god demokratisk styrning är vägledande för Smålands Fotbollförbund. Den är inte en normnivå på samma sätt som stadgar, men den är en viktig kvalitetsram för hur distriktet ska utveckla sin styrning.
 
-## Vad det innebär
+Om frågan gäller vad som väger tyngst vid konflikt ska [Normordning](normordning.md) användas.
 
-God demokratisk styrning handlar om att organisationens processer för beslut, styrning och granskning är **tydliga, transparenta, legitima, ansvarsbärande och möjliga att granska** — och att de faktiskt fungerar i vardagen, inte bara på papper.
+## Vad god demokratisk styrning innebär
 
-Det handlar lika mycket om kultur som om struktur.
+I styrmodellen innebär god demokratisk styrning att:
 
-***
+* medlemsföreningarnas inflytande ska vara verkligt och begripligt
+* årsmöte och representantskap ska kunna fatta välgrundade beslut
+* valberedning, revision, lekmannarevision och disciplinnämnd ska ha tydliga och självständiga roller
+* distriktsstyrelsen ska arbeta strukturerat, kollektivt och uppföljningsbart
+* distriktschefens uppdrag ska vara tydligt
+* delegation ska vara skriftlig och spårbar
+* intern kontroll ska vara en del av ordinarie styrning
+* styrande dokument ska vara aktuella och möjliga att hitta
+* beslut ska dokumenteras och kunna följas i efterhand
 
-## Sju nyckelområden
+God demokratisk styrning är alltså både struktur och kultur.
 
-**Årsmötet** ska förberedas och genomföras så att föreningarna kan utöva sina rättigheter aktivt och välgrundat. Tydlig kallelse, tillgängliga handlingar i god tid, välmotiverade valberedningsförslag.
+## Centrala områden
 
-**Valberedningen** ska vara oberoende och lämna motiverade förslag. Namnen på valberedningens ledamöter ska publiceras senast sex månader före årsmötet.
+RF:s rekommendation berör flera områden som återkommer i styrmodellen.
 
-**Distriktsstyrelsen** ska ha en sammansättning präglad av mångfald och bredd. Majoriteten av ledamöterna bör vara oberoende i förhållande till verksamhetsledningen. Styrelsen ska utvärdera sitt arbete minst en gång per år.
+| Område | Var det hanteras i styrmodellen |
+| --- | --- |
+| Årsmöte och medlemsinflytande | [Årsmöte](../demokratisk-styrning/arsmote.md), [Demokratisk legitimitet och medlemsinflytande](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md) |
+| Valberedning | [Valberedning](../granskande-funktioner/valberedning.md) |
+| Distriktsstyrelsens arbete | [Distriktsstyrelse](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) |
+| Distriktschefens uppdrag | [Distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) |
+| Intern kontroll | [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md) |
+| Dokument och transparens | [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md), [Dokumentation och protokoll](../processer-och-arbetssatt/dokumentation-och-protokoll.md) |
+| Granskning | [Revision och lekmannarevision](../granskande-funktioner/revision-och-lekmannarevision.md) |
 
-**Distriktschefen** ska ha en skriftlig instruktion fastställd av styrelsen. Styrelsen ska utvärdera distriktschefens arbete minst en gång per år — utan att anställda är närvarande.
+Den här sidan ska inte upprepa hela innehållet från respektive område. Den visar hur frågorna hänger ihop.
 
-**Intern kontroll** — styrelsen ansvarar för att det finns fungerande system för uppföljning, kontroll och korrekt finansiell rapportering. Läs mer under [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+## Kultur och arbetssätt
 
-**Publicering av styrande dokument** — styrmodell, stadgar och styrande dokument ska vara tillgängliga och aktuella. Det är precis vad den här sidan och [dokument.smaland.football](https://dokument.smaland.football) syftar till.
+God demokratisk styrning avgörs inte bara av dokument.
 
-**Självutvärdering och granskning** — styrelsen ska granska sitt demokratiska arbete. Lekmannarevisionen har ett särskilt ansvar att bedöma om organisationen lever upp till principerna för god demokratisk styrning.
+Den syns i hur distriktet förbereder möten, låter föreningar förstå och påverka, hanterar jäv, följer upp beslut, respekterar granskande funktioner och vågar rätta till otydligheter.
 
-***
+Det är i vardagen styrningen prövas.
 
-## God styrning är ett pågående arbete
+## Självutvärdering och lärande
 
-Det är inte ett tillstånd som uppnås en gång. Det är ett löpande arbete att hålla strukturer, processer och kultur i linje med de demokratiska principerna.
+Distriktet bör regelbundet pröva om styrmodellen fungerar som tänkt.
 
-RF:s rekommendation anger att styrdokument för god demokratisk styrning bör ses över minst vart fjärde år. SmFF:s styrmodell bör granskas i sin helhet minst en gång per mandatperiod.
+Det kan handla om att granska:
+
+* om beslut fattas på rätt nivå
+* om delegation följs och återrapporteras
+* om handlingar är begripliga och tillgängliga
+* om distriktsstyrelsens arbete utvärderas
+* om distriktschefens uppdrag följs upp
+* om intern kontroll fungerar
+* om granskande funktioner får rätt förutsättningar
+
+Självutvärdering ska inte vara ett sidospår. Det är en del av att hålla folkrörelsen frisk.
+
+## Vägledande princip
+
+God demokratisk styrning ska göra distriktet lättare att förstå, lättare att följa och lättare att lita på.
+
+Det är inte pappersordning för sin egen skull. Det är ordning som stärker förtroendet.
