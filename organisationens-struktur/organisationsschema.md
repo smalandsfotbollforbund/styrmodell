@@ -1,49 +1,59 @@
 ---
 description: >-
-  Visuell och textuell översikt av SmFF:s organisation med mandat- och
-  rapporteringsvägar.
+  Översikt av organisationens delar och hur mandat, rapportering och samverkan
+  ska förstås.
 ---
 
 # Organisationsschema
 
-*[Organisationsschema infogas som bild. Schemat visar de fyra nivåerna med demokratiska organ, distriktsstyrelsen, presidiet, kommittéerna, distriktschefen, kansliet med avdelningar och funktioner, disciplinnämnden, valberedningen och revisionen — med pilar som visar mandat och rapporteringsvägar.]*
+Organisationsschemat ska ge en visuell överblick över Smålands Fotbollförbunds styrning.
 
------
+Schemat ska inte ersätta [Styrarkitektur](styrarkitektur.md), [Ansvar och roller](ansvar-och-roller.md) eller [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Det ska hjälpa läsaren att se helheten.
 
-## Organisationens delar
+## Bild som bör infogas
 
-### Demokratiska organ
+Här bör ett organisationsschema infogas som bild.
 
-**Årsmötet** — distriktets högsta beslutande organ.
-**Representantskapet** — beslutar om tävlingsregler och seriesammansättning.
+Bilden bör visa:
 
-### Strategisk nivå
+* den demokratiska nivån med årsmöte och representantskap
+* distriktsstyrelsen som strategisk nivå
+* presidiet som beredande funktion och eventuell delegat
+* kommittéer som taktiska organ under distriktsstyrelsen
+* distriktschef och kansli som operativ nivå
+* valberedning, revision, lekmannarevision och disciplinnämnd som granskande eller självständiga funktioner
+* mandat nedåt
+* återrapportering uppåt
+* samverkan i sidled
+* granskning som självständig relation
 
-**Distriktsstyrelsen** — väljs av årsmötet.
-**Presidiet** — inrättas av styrelsen vid behov.
+## Organisationens nivåer
 
-### Taktisk nivå
+Organisationens nivåer beskrivs i [Styrarkitektur](styrarkitektur.md). Här ges bara en kort orientering.
 
-Kommittéerna — organ under distriktsstyrelsen med delegerat mandat inom sina respektive verksamhetsområden.
+| Nivå | Exempel | Huvudfunktion |
+| --- | --- | --- |
+| **Demokratisk nivå** | Årsmöte och representantskap | Medlemsföreningarnas formella inflytande |
+| **Strategisk nivå** | Distriktsstyrelsen | Riktning, ansvar, delegation och uppföljning |
+| **Taktisk nivå** | Kommittéer | Sakkunskap, beredning och utveckling inom sakområden |
+| **Operativ nivå** | Distriktschef och kansli | Genomförande, administration och stöd |
+| **Granskande nivå** | Valberedning, revision, lekmannarevision och disciplinnämnd | Oberoende eller särskilt utsedd prövning, beredning och granskning |
 
-### Operativ nivå
+## Mandat, rapportering och samverkan
 
-**Distriktschefen** och **kansliet**, organiserat i avdelningar med roller och funktioner som matchdelegat, domarobservatör, distriktförbundskapten och instruktör.
+Ett organisationsschema behöver visa mer än vilka organ som finns.
 
-### Granskande funktioner
+Det behöver också visa skillnaden mellan:
 
-**Valberedningen**, **revisionen**, **lekmannarevisionen**, **disciplinnämnden**.
+* **mandat**, det vill säga vem som ger uppdrag eller beslutanderätt
+* **rapportering**, det vill säga vem som återrapporterar till vem
+* **samverkan**, det vill säga vilka som behöver arbeta tillsammans utan att vara över- eller underordnade
+* **granskning**, det vill säga vilka funktioner som ska kunna pröva eller bereda självständigt
 
------
+Om dessa relationer blandas ihop blir organisationen svår att förstå.
 
-## Mandat och rapportering
+## Vägledande princip
 
-**Nedåt (mandat)** — styrelsen ger kommittéerna uppdrag och ramar. Styrelsen tillsätter och instruerar distriktschefen.
+Organisationsschemat ska göra styrningen lättare att se.
 
-**Uppåt (rapportering)** — kommittéer och distriktschef återrapporterar till styrelsen. Styrelsen redovisar till de demokratiska organen.
-
-**Sidled (samverkan)** — distriktschefen och kommittéerna samverkar i genomförande. Granskande organ verkar oberoende av det de granskar.
-
------
-
-Mer om varje del finns i [Styrarkitektur](styrarkitektur.md) och [Ansvar och roller](ansvar-och-roller.md).
+Det ska inte visa varje praktisk roll i kansliet eller varje arbetsgrupp. Sådana detaljer hör hemma i dokumentarkivet eller i särskilda organisationsbilagor.
