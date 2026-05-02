@@ -19,39 +19,56 @@ layout:
 
 # Om Smålands Fotbollförbund
 
-Vi finns till för fotbollen i Småland och för de människor som bär den. Vi är en ideell organisation ägd och styrd av våra medlemsföreningar. Det är föreningarna som sätter spelreglerna, väljer ledning och bestämmer riktningen.
+Smålands Fotbollförbund finns till för fotbollen i Småland och för människorna som bär den.
 
-Smålands Fotbollförbund brukar förkortas SmFF, men kallas ofta för Smålandsfotbollen.
+Distriktet är en ideell organisation inom svensk fotboll, med medlemsföreningarna som demokratisk grund. Det betyder att föreningarna har formellt inflytande genom årsmöte, representantskap, ombud, motioner och val.
 
-## Vi samordnar, stödjer och utvecklar
+Samtidigt verkar distriktet inom ramar som följer av Riksidrottsförbundet, Svenska Fotbollförbundet, stadgar, tävlingsregler och andra överordnade beslut. Självständigheten finns alltså inom ett större idrottssystem.
 
-Vi samordnar, stödjer och utvecklar fotbollen i Jönköpings, Kalmar och Kronobergs län. I praktiken innebär det att vi:
+## Distriktets uppdrag
 
-* administrerar serier och tävlingar för seniorer och ungdomar
+Smålands Fotbollförbund är Svenska Fotbollförbundets regionala organ i Småland och Öland.
+
+Distriktets uppdrag är att främja, utveckla och administrera fotbollen i distriktet. I praktiken innebär det bland annat att distriktet:
+
+* administrerar tävlingar och serier
 * utbildar tränare, ledare och domare
-* stödjer föreningar som vill växa och utvecklas
-* fördelar ekonomiska resurser och bidrag
-* arbetar för att fotbollen ska vara jämställd, inkluderande och trygg
-* representerar småländsk fotboll nationellt och regionalt
+* stödjer föreningar i utveckling och föreningsarbete
+* bidrar till trygga och inkluderande fotbollsmiljöer
+* verkar för spelarutbildning och spelarutveckling
+* samverkar med föreningar, kommuner, Svenska Fotbollförbundet, distriktidrottsförbundet och andra aktörer
+* företräder småländsk fotboll i regionala och nationella sammanhang
 
-Vi är navet för föreningarna som gör jobbet på planen.
+Det konkreta operativa uppdraget beskrivs i [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
 
-## Vi omfattar tre län
+## Föreningarna i centrum
 
-Distriktet täcker tre län med stor geografisk spridning; från täta städer till gles landsbygd. Att fotbollen ska vara tillgänglig i hela Småland är en av våra viktigaste uppgifter.
+Distriktets arbete ska ytterst stärka föreningarnas möjlighet att bedriva fotboll med kvalitet, trygghet och långsiktighet.
 
-Kansliet finns i Jönköping. Kontaktuppgifter och mer om verksamheten hittar du på [smalandsfotbollen.se](https://www.smalandsfotbollen.se).
+Föreningarna är inte mottagare vid sidan av organisationen. De är grunden för distriktets demokratiska legitimitet.
 
-## Vår plats i svensk fotboll
+Det betyder att styrningen behöver vara begriplig, möjlig att följa och användbar i praktiken. Det ska gå att förstå var beslut fattas, vem som ansvarar och hur föreningarnas inflytande kommer till uttryck.
 
-SmFF är ett av flera specialidrottsdistriktsförbund (SDF) inom svensk fotboll. Vi verkar under [Svenska Fotbollförbundet](https://svenskfotboll.se) (SvFF), som i sin tur hör till [Riksidrottsförbundet](https://rf.se) (RF). Det innebär att RF:s och SvFF:s stadgar sätter ramarna för hur vi får och ska verka.
+## Tre län och många verkligheter
 
-Inom de ramarna har vi egna beslutsorgan, egna stadgar och ett eget demokratiskt liv. Mer om dessa relationer finns under [Förhållande i idrottens ekosystem](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
+Distriktet omfattar Jönköpings, Kalmar och Kronobergs län samt Öland.
 
-## Vår långsiktiga riktning
+Förutsättningarna varierar mellan större orter, mindre samhällen, landsbygd, kust, inland och ö. Det gör närhet, lyhördhet och praktiskt stöd särskilt viktigt.
 
-Vi arbetar utifrån en vision, mission och verksamhetsidé beslutad av föreningarna på årsmötet 2026:
+En styrmodell för Smålands Fotbollförbund behöver därför vara tillräckligt tydlig för att hålla ihop helheten och tillräckligt jordnära för att fungera i vardagen.
+
+## Plats i svensk idrott
+
+Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll.
+
+Distriktet verkar under Svenska Fotbollförbundet och inom Riksidrottsförbundets samlade idrottsrörelse. RF-SISU Småland, distriktidrottsförbundet, är en viktig regional samverkanspart men inte överordnat Smålands Fotbollförbund.
+
+Relationerna till Riksidrottsförbundet, Svenska Fotbollförbundet och RF-SISU Småland beskrivs i [Förhållande till RF, SvFF och RF-SISU](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
+
+## Långsiktig riktning
+
+Distriktets långsiktiga riktning beskrivs genom vision, mission och verksamhetsidé.
 
 {% include "../.gitbook/includes/vision-mission-och-verksamhetside.md" %}
 
-Mer om strategi och riktning finns under [Strategihuset](../strategi-och-operativt-uppdrag/strategihus.md).
+Hur riktningen kopplas till strategiska inriktningar, prioriteringar, mål och operativt uppdrag beskrivs i [Strategihus](../strategi-och-operativt-uppdrag/strategihus.md).
