@@ -1,43 +1,59 @@
 ---
 description: >-
-  Vart vi siktar, varför vi finns och hur vi verkar. Beslutade av föreningarna
-  och vägledande för hela organisationen.
+  Distriktets långsiktiga riktning: vision, mission och verksamhetsidé.
 ---
 
 # Vision, mission och verksamhetsidé
 
-Distriktets vision, mission och verksamhetsidé är beslutade av föreningarna vid årsmötet. De är grunden i strategihuset och ska genomsyra hur organisationen styrs, prioriterar och verkar.
+Vision, mission och verksamhetsidé anger den långsiktiga riktningen för Smålands Fotbollförbund.
 
-De är inte kommunikationsformuleringar. De är verklig riktning.
+De är grunden i [Strategihus](strategihus.md) och ska vägleda hur distriktet styr, prioriterar och utvecklar verksamheten.
 
------
+Det är inte bara kommunikationsformuleringar. De ska fungera som prövningsfrågor i styrningen.
 
-## Vision — vart vi siktar
+## Vision
 
 *Fotboll för alla – i hela Småland, hela livet, i takt med tiden.*
 
-Vi ser ett Småland där alla som vill får plats i fotbollen. Barn på landsbygden med samma möjligheter som ungdomar i staden. Tjejer och killar med samma chans att utvecklas. Fotboll som en kraft för hälsa, inkludering och sammanhållning — möjlig att utöva genom hela livet, som spelare, ledare, domare eller supporter.
+Visionen beskriver vart distriktet vill på lång sikt.
 
-Visionen är den långsiktiga riktning som är vägledande när SmFF prioriterar och väger beslut.
+Den pekar mot en fotboll där människor får plats oavsett var de bor, vilka förutsättningar de har eller vilken roll de vill ta i fotbollen.
 
------
+Visionen ska användas som riktning när distriktet prioriterar, utvecklar och följer upp verksamheten.
 
-## Mission — varför vi finns
+## Mission
 
 *Vi stärker föreningsliv och människors möjlighet att växa genom fotbollen.*
 
-Vi är till för föreningarna. För spelarna, ledarna och domarna — med rötter i gräsroten och blicken mot framtiden. Vi skapar förutsättningar för att de ska lyckas.
+Missionen beskriver varför distriktet finns.
 
-Missionen är prövningsfrågan för verksamhetens relevans: stärker detta föreningslivet? Stärker detta människors möjlighet att växa? Är det i linje med vårt egentliga uppdrag?
+Distriktet är till för föreningarna och för människorna i och runt fotbollen: spelare, ledare, domare, förtroendevalda och ideella krafter.
 
------
+Missionen kan användas som en enkel prövningsfråga: stärker detta föreningslivet och människors möjlighet att växa?
 
-## Verksamhetsidé — vad vi är
+## Verksamhetsidé
 
 *Smålands Fotbollförbund är en sammanhållande kraft för fotbollen i Småland – ett nav för stöd, samverkan och utveckling.*
 
-Vi är inte ett självändamål. Vi är en möjliggörande och sammanhållande organisation — ett nav, en stödjande struktur, en samverkansaktör och en utvecklingskraft för fotbollen i Småland.
+Verksamhetsidén beskriver vad distriktet är och hur distriktet verkar.
 
------
+Smålands Fotbollförbund är inte ett självändamål. Distriktet ska hålla ihop, stödja, samverka och utveckla fotbollen i Småland.
 
-Nästa nivå i strategihuset: [Strategiska inriktningar](strategiska-inriktningar.md).
+## Roll i styrningen
+
+Vision, mission och verksamhetsidé ska hjälpa organisationen att hålla rätt kurs.
+
+De ska användas när distriktet:
+
+* gör strategiska vägval
+* formulerar prioriteringar
+* planerar verksamhet
+* följer upp resultat
+* prövar nya initiativ
+* kommunicerar varför arbetet är viktigt
+
+## Vägledande princip
+
+Riktningen ska vara lätt att bära med sig.
+
+Om en fråga inte går att koppla till vision, mission eller verksamhetsidé behöver distriktet pröva om den hör hemma i styrningen, eller om den tar kraft från det som är viktigast.
