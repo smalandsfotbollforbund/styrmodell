@@ -1,42 +1,70 @@
 ---
 description: >-
-  RF:s, SvFF:s, RF-SISU:s och SmFF:s stadgar samt andra vägledande externa
-  dokument med länkar och lokala kopior.​​​​​​​​​​​​​​​​
+  Externa dokument som påverkar styrmodellen men beslutas eller ägs av annan
+  aktör.
 ---
 
 # Externa bärande dokument
 
-SmFF:s styrmodell vilar på externa dokument som organisationen inte själv beslutar om men är bunden av. Dessa administreras och länkas från styrmodellen enligt nedan.
+Smålands Fotbollförbunds styrmodell påverkas av dokument som distriktet inte själv beslutar om.
 
------
+Det kan vara stadgar, regelverk, idéprogram, rekommendationer, tävlingsbestämmelser eller andra dokument från Riksidrottsförbundet, Svenska Fotbollförbundet, RF-SISU Småland eller andra relevanta aktörer.
 
-## Stadgar
+Den här sidan beskriver principen för hur externa bärande dokument ska förstås i styrmodellen. Själva dokumenten, länkarna och lokala kopiorna ska hanteras i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
-|Dokument                |Organisation            |Officiell källa                                         |Lokal kopia                                                             |
-|------------------------|------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
-|RF:s stadgar            |Riksidrottsförbundet    |[rf.se](https://www.rf.se)                              |[PDF](https://dokument.smaland.football/externa-dokument/rf-stadgar)    |
-|SvFF:s stadgar          |Svenska Fotbollförbundet|[svenskfotboll.se](https://www.svenskfotboll.se)        |[PDF](https://dokument.smaland.football/externa-dokument/svff-stadgar)  |
-|RF-SISU Smålands stadgar|RF-SISU Småland         |[rfsisu.se](https://rfsisu.se)                          |[PDF](https://dokument.smaland.football/externa-dokument/rfsisu-stadgar)|
-|SmFF:s stadgar          |Smålands Fotbollförbund |[smalandsfotbollen.se](https://www.smalandsfotbollen.se)|[Markdown](https://dokument.smaland.football/stadgar/smff-stadgar)      |
+## Vad ett externt bärande dokument är
 
-SmFF:s egna stadgar är det enda externa bärande dokumentet som SmFF självt äger och beslutar om.
+Ett externt bärande dokument är ett dokument som påverkar distriktets styrning, men som helt eller delvis ägs, beslutas eller fastställs av någon annan än Smålands Fotbollförbund.
 
------
+Exempel kan vara:
 
-## Vägledande externa dokument
+* RF:s stadgar
+* Svenska Fotbollförbundets stadgar
+* RF-SISU Smålands stadgar
+* RF:s rekommendation för god demokratisk styrning
+* Idrotten Vill
+* Svenska Fotbollförbundets tävlingsbestämmelser och regelverk
+* basuppgifter och andra gemensamma uppdrag inom svensk fotboll
 
-|Dokument                                        |Organisation            |Källa                                           |Lokal kopia                                                                       |
-|------------------------------------------------|------------------------|------------------------------------------------|----------------------------------------------------------------------------------|
-|RF:s rekommendation för god demokratisk styrning|Riksidrottsförbundet    |[rf.se](https://www.rf.se)                      |[PDF](https://dokument.smaland.football/externa-dokument/god-demokratisk-styrning)|
-|Idrotten Vill — idrottsrörelsens idéprogram     |Riksidrottsförbundet    |[rf.se](https://www.rf.se)                      |[PDF](https://dokument.smaland.football/externa-dokument/idrotten-vill)           |
-|SvFF:s hållbarhetsstrategi                      |Svenska Fotbollförbundet|[svenskfotboll.se](https://www.svenskfotboll.se)|Länk till officiell källa                                                         |
+## Skillnad mellan extern källa och lokal kopia
 
------
+En officiell källa är den plats där dokumentägaren publicerar dokumentet.
 
-## Hanteringsprinciper
+En lokal kopia kan användas för spårbarhet, historik och tillgänglighet, men den ersätter inte den officiella källan om inte särskilda omständigheter kräver det.
 
-**Lokala kopior** märks alltid med version och datum och arkiveras när nya versioner publiceras. Om en officiell länk bryts används den lokala kopian som referens tills en ny officiell länk fastställs.
+När en lokal kopia används ska det framgå:
 
-**Uppdateringsintervall:** RF:s och SvFF:s stadgar uppdateras vid respektive stämma eller förbundsmöte. SmFF:s stadgar uppdateras vid beslut på ordinarie eller extra årsmöte och ska godkännas av SvFF för att äga giltighet.
+* vilken version den avser
+* när den hämtades eller fastställdes
+* vem som äger originaldokumentet
+* var den officiella källan finns
 
-**Ansvar:** Distriktschefen ansvarar för att lokala kopior hålls aktuella och att stadgeändringar speglas i styrmodellen.
+## Smålands Fotbollförbunds egna stadgar
+
+Smålands Fotbollförbunds stadgar är distriktets högsta interna normnivå.
+
+De beslutas av distriktets medlemsföreningar enligt stadgarna och inom de ramar som gäller i svensk fotboll.
+
+Även om stadgarna påverkas av överordnade regler är de inte ett externt dokument i samma mening som RF:s eller Svenska Fotbollförbundets stadgar. De ska därför hanteras som distriktets egna stadgar i dokumentarkivet.
+
+## Ansvar för bevakning
+
+Distriktet behöver bevaka när externa bärande dokument ändras.
+
+Det är viktigt eftersom förändringar i externa dokument kan påverka styrmodellen, stadgar, arbetsordningar, delegationsordningar, processer och andra dokument.
+
+Vem som ansvarar för bevakning och uppdatering bör framgå av dokumentarkitekturen, dokumentarkivet eller särskild instruktion.
+
+## Relation till normordning
+
+Externa dokument kan ha olika tyngd.
+
+Vissa är överordnade normer, till exempel RF:s stadgar och Svenska Fotbollförbundets stadgar. Andra är vägledande, till exempel rekommendationer och idéprogram.
+
+Vad som väger tyngst vid konflikt beskrivs i [Normordning](../grund-och-varden/normordning.md). Den här sidan ska inte skapa en parallell rangordning.
+
+## Vägledande princip
+
+Externa bärande dokument ska vara lätta att hitta och rätt förstådda.
+
+Det ska alltid framgå vad distriktet själv beslutar om, vad som kommer från annan aktör och vilken roll dokumentet har i styrningen.
