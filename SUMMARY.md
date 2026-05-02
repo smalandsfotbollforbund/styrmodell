@@ -66,8 +66,8 @@
 
 ## Processer och arbetssätt
 
-* [Beslutsfattande](processer-och-arbetssatt/beslutsfattande.md)
 * [Beredning](processer-och-arbetssatt/beredning.md)
+* [Beslutsfattande](processer-och-arbetssatt/beslutsfattande.md)
 * [Verkställighet](processer-och-arbetssatt/verkstallighet.md)
 * [Uppföljning och återrapportering](processer-och-arbetssatt/uppfoljning-och-aterrapportering.md)
 * [Dokumentation och protokoll](processer-och-arbetssatt/dokumentation-och-protokoll.md)
