@@ -1,43 +1,73 @@
 ---
 description: >-
-  Hur SmFF förhåller sig till Riksidrottsförbundet, Svenska Fotbollförbundet och
-  distriktidrottsförbundet RF-SISU Småland.
+  Hur Smålands Fotbollförbund förhåller sig till Riksidrottsförbundet, Svenska
+  Fotbollförbundet och RF-SISU Småland.
 ---
 
 # Förhållande till RF, SvFF och RF-SISU
 
-SmFF verkar inte isolerat. Distriktet är en del av ett system av organisationer som sätter ramar, ger uppdrag och samverkar. Att förstå dessa relationer är att förstå varför styrmodellen ser ut som den gör.
+Smålands Fotbollförbund verkar inte isolerat.
 
------
+Distriktet är en del av den svenska idrottsrörelsen och svensk fotboll. Det innebär att det finns ramar, uppdrag och samarbeten som påverkar hur distriktet styrs och verkar.
 
-## Riksidrottsförbundet (RF)
+Den här sidan beskriver relationerna översiktligt. Vad som väger tyngst vid konflikt beskrivs i [Normordning](../grund-och-varden/normordning.md).
 
-RF är den svenska idrottsrörelsens samlande organisation. SmFF är inte direkt underordnat RF — vi hör organisatoriskt till SvFF. Men RF:s stadgar och beslut gäller hela rörelsen, inklusive oss.
+## Riksidrottsförbundet
 
-RF påverkar SmFF genom stadgar som sätter de yttersta ramarna, rekommendationer för demokratisk styrning och god förvaltning samt bidragssystem som påverkar vår finansiering via SvFF och DF.
+Riksidrottsförbundet, RF, är den svenska idrottsrörelsens samlande organisation.
 
------
+Smålands Fotbollförbund är inte direkt underställt RF i den löpande fotbollsorganisationen, men RF:s stadgar, beslut och idéprogram sätter ramar för hela idrottsrörelsen.
 
-## Svenska Fotbollförbundet (SvFF)
+RF påverkar distriktet genom bland annat:
 
-SvFF är SmFF:s specialidrottsförbund — den organisation vi är direkt underordnade. Relationen är mer operativ och konkret.
+* stadgar och övergripande regler
+* idrottens värdegrund
+* rekommendationer om god demokratisk styrning
+* bidragssystem och idrottspolitiska ramar
+* gemensamma principer för föreningsdemokrati och folkrörelse
 
-SvFF påverkar SmFF genom stadgar som fastställer hur SDF ska vara organiserade, stadgemallen som SmFF:s egna stadgar ska följa och godkännas mot, basuppgifterna som definierar det gemensamma grunduppdraget (se [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md)), nationella tävlingsregler och regelverk samt löpande samverkan via ordförandekonferenser och Götalandskonferensen.
+## Svenska Fotbollförbundet
 
-SmFF är ett SDF inom svensk fotboll och är geografiskt tillhörigt Götalands Fotbollförbunds region.
+Svenska Fotbollförbundet, SvFF, är fotbollens nationella specialidrottsförbund.
 
------
+Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll och verkar inom de ramar som Svenska Fotbollförbundet beslutar.
 
-## RF-SISU Småland (DF)
+Svenska Fotbollförbundet påverkar distriktet genom bland annat:
 
-RF-SISU Småland är distriktidrottsförbundet — RF:s och SISU:s gemensamma regionala organisation. DF är **inte** SmFF:s överordnade. Det är en parallell organisation inom idrottsrörelsen.
+* stadgar och stadgemall för SDF
+* tävlingsregler och representationsbestämmelser
+* basuppgifter och gemensamma uppdrag
+* nationella riktlinjer och utbildningssystem
+* samverkan mellan Svenska Fotbollförbundet och distrikten
 
-Relationen präglas av samverkan: samverkansplanen reglerar det gemensamma arbetet under verksamhetsåret, DF är en viktig partner i utbildning och föreningsutveckling, DF administrerar delar av det statliga bidraget till föreningarna och DF har stadgeenlig rätt att utse ytterligare en revisor i SmFF.
+Basuppgifter och verksamhetsområden beskrivs i [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
 
------
+## RF-SISU Småland
 
-## Självständighet inom ramarna
+RF-SISU Småland är distriktidrottsförbundet i Småland.
 
-SmFF är en självständig ideell organisation med egna stadgar, egna demokratiska organ och ett eget demokratiskt liv — men alltid inom de ramar RF och SvFF sätter. Självständigheten ska värnas. Men den existerar inom ett system, inte utanför det.
+Distriktidrottsförbundet är inte överordnat Smålands Fotbollförbund. Det är en parallell regional organisation inom idrottsrörelsen och en viktig samverkanspart.
 
-Distriktsordföranden och distriktschefen är SmFF:s primära representanter mot SvFF och DF. Platsen i SvFF:s representantskap beslutas av årsmötet.
+Samverkan kan till exempel handla om:
+
+* utbildning och folkbildning
+* föreningsutveckling
+* projektstöd och statliga stödformer
+* anläggnings- och kommunfrågor
+* gemensamma utvecklingsinsatser
+
+RF-SISU Småland kan också ha uppgifter enligt stadgar och överordnade regler som påverkar distriktet.
+
+## Självständighet inom ramar
+
+Smålands Fotbollförbund är en självständig ideell organisation med egna stadgar, egna demokratiska organ och eget ansvar.
+
+Självständigheten gäller inom de ramar som följer av Riksidrottsförbundet, Svenska Fotbollförbundet, distriktets egna stadgar och demokratiska beslut.
+
+Det är därför styrmodellen behöver hålla två saker samtidigt: distriktets eget demokratiska ansvar och de ramar som följer av idrottens och fotbollens gemensamma system.
+
+## Vägledande princip
+
+Distriktet ska vara självständigt, men inte frikopplat.
+
+Det ska företräda småländsk fotboll tydligt och samtidigt verka lojalt inom svensk fotbolls och idrottsrörelsens gemensamma ramar.
