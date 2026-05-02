@@ -1,33 +1,86 @@
 ---
 description: >-
-  Vem som genomför fattade beslut, hur uppföljning av verkställighet fungerar
-  och vad som gäller vid brådska.
+  Principer för hur fattade beslut genomförs i verksamheten.
 ---
 
 # Verkställighet
 
-Ett fattat beslut är inte genomfört förrän det är verkställt. Verkställighet innebär att genomföra det som beslutats — inom den tid, med de resurser och på det sätt som beslutet anger.
+Verkställighet innebär att genomföra fattade beslut.
 
------
+Ett beslut är inte färdigt bara för att det är fattat. Det behöver omsättas i handling, inom de ramar, resurser och tidsgränser som beslutet anger.
+
+## Verkställighet och beslut är olika saker
+
+Verkställighet är genomförande av ett beslut som redan är fattat.
+
+Om genomförandet kräver ett nytt självständigt vägval kan det vara ett nytt beslut, inte bara verkställighet.
+
+Den gränsen är viktig. Annars finns risk att beslut flyttas från rätt nivå till den som genomför arbetet.
 
 ## Vem verkställer
 
-**Distriktschefen** ansvarar för att styrelsens beslut verkställs. Det operativa genomförandet sker via kansliet.
+Som huvudprincip gäller:
 
-**Kommittéordföranden** ansvarar för att beslut i kommittén verkställs med stöd av kansliet.
+* distriktschef och kansli verkställer distriktsstyrelsens beslut
+* kansliet stödjer verkställighet av kommittéers beslut inom beslutad delegation
+* kommittéordföranden följer upp att kommitténs beslut och uppdrag förs vidare enligt beslutad ordning
+* den som fått ett särskilt uppdrag ansvarar för att uppdraget återrapporteras
 
-Förtroendevalda beslutar och styr — anställda genomför. Det är en grundläggande rolldelning.
+Den konkreta ansvarsfördelningen beskrivs i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
------
+## Verkställighet inom ram
+
+Den som verkställer ska hålla sig inom beslutets ram.
+
+Det innebär att genomförandet ska följa:
+
+* beslutets syfte
+* beslutad budget
+* beslutad tidsram
+* gällande delegation
+* relevanta styrande dokument
+* krav på dokumentation och uppföljning
+
+Om förutsättningarna ändras väsentligt ska frågan lyftas tillbaka till rätt nivå.
+
+## Avvikelser och hinder
+
+Om ett beslut inte kan verkställas som planerat ska det rapporteras.
+
+Det kan till exempel handla om att:
+
+* resurser saknas
+* tidsplanen inte håller
+* beslutet behöver förtydligas
+* risken blivit större än förväntat
+* nya omständigheter kräver nytt ställningstagande
+
+Avvikelser ska inte döljas till nästa ordinarie rapport om de kräver åtgärd.
 
 ## Uppföljning av verkställighet
 
-Fattade beslut som inte verkställts ska noteras aktivt och hanteras. Det är styrelsens ansvar att följa upp att beslut genomförs — inte bara att de fattas.
+Verkställighet ska följas upp av den nivå som har gett uppdraget eller fattat beslutet.
 
-Beslut bör normalt följas upp vid nästkommande ordinarie sammanträde. Väsentliga avvikelser eller hinder för verkställighet ska rapporteras omgående.
+Det ska gå att se om beslutet:
 
------
+* har genomförts
+* är pågående
+* är försenat
+* behöver ändras
+* har fått avsedd effekt
+
+Uppföljning och återrapportering beskrivs i [Uppföljning och återrapportering](uppfoljning-och-aterrapportering.md).
 
 ## Brådskande verkställighet
 
-I vissa situationer behöver ett beslut verkställas snabbt. Principerna för brådskande beslut — inklusive per capsulam — beskrivs under [Beslutsfattande](beslutsfattande.md). Det brådskande läget ändrar inte krav på dokumentation och återrapportering.
+Ibland behöver ett beslut verkställas snabbt.
+
+Det ändrar inte kravet på dokumentation, mandat eller återrapportering.
+
+Brådska ska inte användas som skäl för att gå förbi rätt beslutsnivå.
+
+## Vägledande princip
+
+Verkställighet ska göra beslut verkliga utan att skapa nya beslut i skymundan.
+
+Det ska vara tydligt vad som beslutats, vem som genomför och när återrapportering sker.
