@@ -30,7 +30,7 @@ Förtroendeuppdrag utförs av fri vilja och inte för pengar. Det innebär att v
 
 <summary><strong>Verksamheten är ideell</strong></summary>
 
-SmFF drivs inte i vinstsyfte. Överskott återinvesteras i fotbollen och föreningarna.
+Organisationen drivs inte i vinstsyfte. Överskott återinvesteras i fotbollen och föreningarna.
 
 </details>
 

@@ -6,9 +6,7 @@ description: >-
 
 # Värdegrund
 
-Värdegrunden beskriver hur fotbollen ska bedrivas och vilket förhållningssätt som ska prägla distriktets beslut, verksamhet och möten med föreningarna.
-
-Den är inte ett fristående policydokument vid sidan av verksamheten. Den är en grund för hur Smålands Fotbollförbund verkar som del av idrottsrörelsen.
+Värdegrunden beskriver hur fotbollen ska bedrivas och vilket förhållningssätt som ska prägla distriktets beslut, verksamhet och möten med föreningarna. Den är inte en fristående policy vid sidan av verksamheten. Den är en grund för hur Smålands Fotbollförbund verkar som del av idrottsrörelsen.
 
 ## Idrottens och fotbollens värdegrund
 
@@ -17,6 +15,16 @@ Smålands Fotbollförbund omfattas av idrottens gemensamma värdegrund och fotbo
 Idrottens kärnvärden, fotbollens värdegrund och relevanta externa dokument beskrivs i [Externa bärande dokument](../styrande-dokument/externa-barande-dokument.md) och i de dokument som länkas från [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 Den här sidan beskriver hur värdegrunden ska förstås i styrmodellen.
+
+Idrottens fyra kärnvärden
+
+{% include "../.gitbook/includes/idrottens-karnvarden.md" %}
+
+Fotbollens värdegrund
+
+{% include "../.gitbook/includes/fotbollens-vardegrund.md" %}
+
+
 
 ## Värdegrund i styrningen
 
