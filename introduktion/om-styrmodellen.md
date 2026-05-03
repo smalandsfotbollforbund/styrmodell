@@ -35,13 +35,13 @@ Smålands Fotbollförbunds styrning består av två delar som hänger ihop. Styr
 {% column %}
 **Styrmodellen** beskriver principerna. Den förklarar hur organisationen fungerar, vilka nivåer som finns, hur ansvar fördelas och hur [beslut](../processer-och-arbetssatt/beslutsfattande.md), [beredning](../processer-och-arbetssatt/beredning.md), [verkställighet](../processer-och-arbetssatt/verkstallighet.md), [uppföljning](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md) och [granskning](/broken/pages/7rivoXlmTHzwmm0HLzcn) ska förstås.
 
-<a href="https://styrning.smaland.football" class="button secondary">https://styrning.smaland.football</a>
+<a href="https://styrning.smaland.football" class="button secondary" data-icon="up-right-from-square">https://styrning.smaland.football</a>
 {% endcolumn %}
 
 {% column %}
 **Dokumentarkivet** innehåller de konkreta dokumenten. Där finns [stadgar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar), [reglemente](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/reglemente), [policyer](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/policyer), [arbetsordningar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/arbetsordningar), [delegationsordningar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/delegationsordningar), [instruktioner](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/instruktioner), [riktlinjer](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/riktlinjer), [processbeskrivningar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/processbeskrivningar), [bilagor](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/bilagor) och [externa dokument](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument).
 
-<a href="https://styrning.smaland.football/dokument" class="button secondary">styrning.smaland.football/dokument</a>
+<a href="https://styrning.smaland.football/dokument" class="button secondary" data-icon="up-right-from-square">styrning.smaland.football/dokument</a>
 {% endcolumn %}
 {% endcolumns %}
 
