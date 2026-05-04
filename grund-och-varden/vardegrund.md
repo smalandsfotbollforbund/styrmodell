@@ -8,11 +8,17 @@ description: >-
 
 Värdegrunden beskriver hur fotbollen ska bedrivas och vilket förhållningssätt som ska prägla distriktets beslut, verksamhet och möten med föreningarna. Den är inte en fristående policy vid sidan av verksamheten. Den är en grund för hur Smålands Fotbollförbund verkar som del av idrottsrörelsen.
 
+Värdegrunden är alltså inte bara något som kommuniceras. Den ska märkas i arbetssätt och beslut.
+
 ## Idrottens fyra kärnvärden
 
 {% include "../.gitbook/includes/idrottens-karnvarden.md" %}
 
-Finns att läsa i sin helhet på….
+
+
+{% embed url="https://www.rf.se/om-riksidrottsforbundet/idrottsrorelsens-styrande-dokument/idrotten-vill---idrottsrorelsens-ideprogram" %}
+
+
 
 ## Fotbollens gemensamma värdegrund
 
@@ -31,20 +37,6 @@ Barnkonventionen tillämpas på varje individ under 18 år och binder juridiskt 
 
 2020 blev barnkonventionen svensk lag, vilket innebär att konventionen fått en starkare juridisk ställning.
 {% endhint %}
-
-## Värdegrund i styrningen
-
-Värdegrunden ska påverka hur distriktet:
-
-* fattar beslut
-* bemöter föreningar och människor
-* hanterar konflikter
-* organiserar tävling och utbildning
-* arbetar med trygghet, jämställdhet och inkludering
-* bereder frågor som rör barn och unga
-* följer upp verksamhet och ansvar
-
-Värdegrunden är alltså inte bara något som kommuniceras. Den ska märkas i arbetssätt och beslut.
 
 ## När värdegrunden utmanas
 
