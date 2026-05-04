@@ -14,17 +14,13 @@ Värdegrunden är alltså inte bara något som kommuniceras. Den ska märkas i a
 
 {% include "../.gitbook/includes/idrottens-karnvarden.md" %}
 
-
-
-{% embed url="https://www.rf.se/om-riksidrottsforbundet/idrottsrorelsens-styrande-dokument/idrotten-vill---idrottsrorelsens-ideprogram" %}
-
-
+<a href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#idrotten-vill-idrottsrorelsens-ideprogram" class="button secondary" data-icon="file-lines">Finns att läsa i sin helhet i externa dokument: Idrotten Vill</a>
 
 ## Fotbollens gemensamma värdegrund
 
 {% include "../.gitbook/includes/fotbollens-vardegrund.md" %}
 
-Finns att läsa i sin helhet på…
+<a href="https://svff.svenskfotboll.se/strategi/" class="button secondary" data-icon="file-lines">Finns att läsa i sin helhet i externa dokument: Strategi för svensk fotboll</a>
 
 ## Barnrättsperspektivet
 
@@ -38,18 +34,14 @@ Barnkonventionen tillämpas på varje individ under 18 år och binder juridiskt 
 2020 blev barnkonventionen svensk lag, vilket innebär att konventionen fått en starkare juridisk ställning.
 {% endhint %}
 
+<a href="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#unicef-barnkonventionen" class="button secondary" data-icon="file-lines">Finns att läsa i sin helhet i externa dokument: Barnkonventionen</a>
+
 ## När värdegrunden utmanas
 
-Frågor som rör värdegrund kan behöva hanteras på olika sätt beroende på vad frågan gäller.
-
-Vissa frågor kan vara disciplinära och hanteras enligt gällande regelverk. Andra kan handla om föreningsstöd, utbildning, dialog, arbetsmiljö, trygghetsarbete, ledning eller intern kontroll.
+Frågor som rör värdegrund kan behöva hanteras på olika sätt beroende på vad frågan gäller. Vissa frågor kan vara disciplinära och hanteras enligt gällande regelverk. Andra kan handla om föreningsstöd, utbildning, dialog, arbetsmiljö, trygghetsarbete, ledning eller intern kontroll.
 
 Det viktiga är att frågan hamnar på rätt nivå och hanteras genom rätt väg.
 
-Om det är oklart vilken väg som gäller ska frågan prövas mot [Normordning](normordning.md), [Styrande principer](styrande-principer.md) och berörda dokument i dokumentarkivet.
-
 ## Fördjupat material
-
-{% embed url="https://unicef.se/barnkonventionen" %}
 
 {% embed url="https://www.barnombudsmannen.se/stod-och-verktyg/Kunskap-om-barnkonventionen/webbutbildning-om-barnkonventionen/" %}
