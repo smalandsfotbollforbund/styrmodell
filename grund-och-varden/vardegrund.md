@@ -1,7 +1,7 @@
 ---
 description: >-
-  Idrottens och fotbollens värdegrund och hur den ska märkas i distriktets beslut,
-  bemötande och vardag.
+  Idrottens och fotbollens värdegrund och hur den ska märkas i distriktets
+  beslut, bemötande och vardag.
 ---
 
 # Värdegrund
@@ -14,7 +14,7 @@ Värdegrunden är inte ett fristående ord på en vägg. Den ska märkas i styrn
 
 Smålands Fotbollförbund är en del av idrottsrörelsen och omfattas därför av idrottens gemensamma värdegrund.
 
-RF beskriver idrottsrörelsens värdegrund genom fyra grundläggande delar: **glädje och gemenskap**, **demokrati och delaktighet**, **allas rätt att vara med** och **rent spel**. Tillsammans säger de något enkelt men viktigt: idrott ska ge människor möjlighet att delta, växa, påverka, känna tillhörighet och möta varandra på schyssta villkor.
+Riksidrottsförbundet beskriver [idrottsrörelsens värdegrund](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#idrotten-vill-idrottsrorelsens-ideprogram) genom fyra grundläggande delar: **glädje och gemenskap**, **demokrati och delaktighet**, **allas rätt att vara med** och **rent spel**. Tillsammans säger de något enkelt men viktigt: idrott ska ge människor möjlighet att delta, växa, påverka, känna tillhörighet och möta varandra på schyssta villkor.
 
 {% hint style="info" %}
 Idrottens värdegrund är en gemensam grund för svensk idrott. För distriktet är den både en fråga om verksamhet och om styrning: hur vi fattar beslut, hur vi behandlar människor och hur vi följer upp det ansvar vi har.
@@ -32,11 +32,7 @@ Det är fotbollens sätt att säga att spelet ska vara öppet nog för många, t
 
 ## Värdegrund är också styrning
 
-För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den ska också märkas i hur vi styr.
-
-Den påverkar hur frågor bereds, hur tävlingar organiseras, hur utbildning planeras, hur föreningar bemöts, hur konflikter hanteras och hur ansvar följs upp.
-
-Det betyder att värdegrunden behöver finnas med när distriktet arbetar med trygghet, jämställdhet, inkludering, barn- och ungdomsverksamhet, ledarskap, domarfrågor och föreningsutveckling.
+För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den ska också märkas i hur vi styr. Den påverkar hur frågor bereds, hur tävlingar organiseras, hur utbildning planeras, hur föreningar bemöts, hur konflikter hanteras och hur ansvar följs upp.
 
 ## Barn och unga kräver särskild omsorg
 
@@ -44,20 +40,16 @@ En stor del av fotbollen berör barn och unga. Då behöver värdegrunden pröva
 
 Barn och unga ska möta en fotboll där deras bästa beaktas, där de får möjlighet att komma till tals och där verksamheten är trygg, utvecklande och inkluderande. Det gäller inte bara i föreningarnas vardag, utan också i distriktets beslut, utbildningar, tävlingsformer och uppföljning.
 
-När frågor rör barn och unga ska värdegrund, barnrättsperspektiv och tillämpliga regler hållas ihop. Det konkreta stödet finns i de dokument och processer som hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+När frågor rör barn och unga ska värdegrund, [barnrättsperspektiv](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#unicef-barnkonventionen) och tillämpliga regler hållas ihop.
+
+{% hint style="info" %}
+Från och med 1 januari 2020 är Förenta Nationernas barnkonvention lag i Sverige och det står i Riksidrottsförbundets stadgar att all idrott för barn ska utgå från just barnkonventionen.
+{% endhint %}
 
 ## När värdegrunden prövas
 
-Värdegrunden blir särskilt viktig när något skaver.
-
-Det kan handla om oschysst beteende, otrygga miljöer, diskriminering, bristande delaktighet, svåra tävlingsfrågor eller konflikter mellan föreningar, ledare, spelare, domare och andra aktörer.
+Värdegrunden blir särskilt viktig när något skaver. Det kan handla om oschysst beteende, otrygga miljöer, diskriminering, bristande delaktighet, svåra tävlingsfrågor eller konflikter mellan föreningar, ledare, spelare, domare och andra aktörer.
 
 Alla sådana frågor ska inte hanteras på samma sätt. Vissa hör hemma i disciplinära processer. Andra kräver föreningsstöd, utbildning, dialog, arbetsmiljöarbete, trygghetsarbete eller intern uppföljning.
 
-När vägen är oklar ska frågan prövas mot [Normordning](normordning.md), [Styrande principer](styrande-principer.md) och berörda dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
-
-## Från ord till vardag
-
-Värdegrunden ska göra fotbollen tryggare, öppnare och mer hållbar.
-
-Den ska inte stanna i ord. Den ska synas i beslut, bemötande, utbildning, tävling och vardagligt ansvar. Det är där värdegrunden gör nytta, och det är där den behöver hållas levande.
+När vägen är oklar ska frågan prövas mot [normordningen](normordning.md), [de styrande principerna](styrande-principer.md) och berörda [dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/) som är gällande.
