@@ -16,37 +16,37 @@ Varje nivå i normordningen väger tyngre än nivån under. Ett dokument eller b
 
 {% stepper %}
 {% step %}
-**RF:s stadgar**  
+**RF:s stadgar**\
 De yttersta ramarna för idrottsrörelsen. De gäller för förbund, distrikt och föreningar inom idrotten.
 {% endstep %}
 
 {% step %}
-**Svenska Fotbollförbundets stadgar och överordnade regelverk**  
-Fotbollens nationella stadgar och regler. De anger bland annat ramarna för SDF och distriktsförbund inom svensk fotboll.
+**Svenska Fotbollförbundets stadgar och överordnade regelverk**\
+Fotbollens nationella stadgar och regler. De anger bland annat ramarna för distriktsförbund inom svensk fotboll.
 {% endstep %}
 
 {% step %}
-**Smålands Fotbollförbunds stadgar**  
+**Smålands Fotbollförbunds stadgar**\
 Distriktets högsta interna normnivå. Stadgarna beslutas av medlemsföreningarna på årsmötet och kan inte ändras av distriktsstyrelsen ensam.
 {% endstep %}
 
 {% step %}
-**Beslut av årsmöte och representantskap**  
+**Beslut av årsmöte och representantskap**\
 Beslut från medlemsorganen inom respektive mandat. Årsmötet är distriktets högsta beslutande organ. Representantskapet har ett särskilt avgränsat mandat i tävlingsfrågor.
 {% endstep %}
 
 {% step %}
-**Distriktsstyrelsens beslut och styrdokument**  
+**Distriktsstyrelsens beslut och styrdokument**\
 Beslut och styrdokument som distriktsstyrelsen fastställer inom sitt mandat, till exempel policyer, arbetsordningar, delegationsordningar och instruktioner.
 {% endstep %}
 
 {% step %}
-**Organ- och funktionsspecifika dokument**  
+**Organ- och funktionsspecifika dokument**\
 Dokument som gäller för kommittéer, funktioner eller roller inom de ramar som följer av stadgar, demokratiska beslut och distriktsstyrelsens beslut.
 {% endstep %}
 
 {% step %}
-**Operativa tillämpningsdokument och stödmaterial**  
+**Operativa tillämpningsdokument och stödmaterial**\
 Processbeskrivningar, rutiner, mallar, checklistor, bilagor och annat stödmaterial som används i det praktiska arbetet. De får inte skapa ny beslutsordning eller ändra mandat.
 {% endstep %}
 {% endstepper %}
