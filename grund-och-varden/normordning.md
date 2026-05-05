@@ -1,28 +1,28 @@
 ---
 description: >-
-  Vilka dokument och beslut som väger tyngst när det uppstår oklarheter eller
-  konflikter.
+  Vilka regler, beslut och dokument som väger tyngst när något behöver tolkas
+  eller när styrningen pekar åt olika håll.
 ---
 
 # Normordning
 
-Normordningen beskriver vilka regler, beslut och dokument som väger tyngst när de pekar åt olika håll.
+I en folkrörelse behövs både engagemang och ordning. När beslut, dokument eller regler pekar åt olika håll behöver distriktet veta vad som väger tyngst.
 
-Det är kärnkällan för dokumenthierarki och normkonflikter i styrmodellen. Andra sidor ska därför hänvisa hit när frågan gäller vad som gäller framför något annat.
+Normordningen är den ordningen. Den hjälper Smålands Fotbollförbund att tolka frågor rätt, hålla isär olika nivåer och undvika att praxis, vana eller god vilja går före det som faktiskt är beslutat.
 
-## Rangordning
+## Det som står högre går före
 
-Varje nivå väger tyngre än nivån under. Inget beslut eller dokument i distriktet kan strida mot nivåerna ovanför.
+Varje nivå i normordningen väger tyngre än nivån under. Ett dokument eller beslut i distriktet kan därför inte ändra, begränsa eller gå emot något som ligger högre upp.
 
 {% stepper %}
 {% step %}
 **RF:s stadgar**  
-De yttersta ramarna för hela idrottsrörelsen. Gäller för förbund, distrikt och föreningar inom idrottsrörelsen.
+De yttersta ramarna för idrottsrörelsen. De gäller för förbund, distrikt och föreningar inom idrotten.
 {% endstep %}
 
 {% step %}
 **Svenska Fotbollförbundets stadgar och överordnade regelverk**  
-Fotbollens nationella stadgar och regler. De anger bland annat hur SDF ska organiseras och vilka ramar som gäller för distriktsförbund inom svensk fotboll.
+Fotbollens nationella stadgar och regler. De anger bland annat ramarna för SDF och distriktsförbund inom svensk fotboll.
 {% endstep %}
 
 {% step %}
@@ -47,30 +47,28 @@ Dokument som gäller för kommittéer, funktioner eller roller inom de ramar som
 
 {% step %}
 **Operativa tillämpningsdokument och stödmaterial**  
-Processbeskrivningar, rutiner, mallar, checklistor, bilagor och andra stöd som används i det praktiska arbetet. De får inte skapa ny beslutsordning eller ändra mandat.
+Processbeskrivningar, rutiner, mallar, checklistor, bilagor och annat stödmaterial som används i det praktiska arbetet. De får inte skapa ny beslutsordning eller ändra mandat.
 {% endstep %}
 {% endstepper %}
 
-## Vägledande dokument
+## Vägledning är inte alltid norm
 
-Alla viktiga dokument är inte normer på samma sätt som stadgar och beslut.
+Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. Vissa dokument hjälper distriktet att tolka, utveckla och förbättra styrningen, utan att vara en egen normnivå.
 
-RF:s rekommendation för god demokratisk styrning är inte tvingande på samma sätt som stadgar, men är en central vägledning för hur distriktet ska förstå och utveckla sin demokratiska styrning.
+{% hint style="info" %}
+RF:s rekommendation för god demokratisk styrning är vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning.
+{% endhint %}
 
-Läs mer under [God demokratisk styrning](god-demokratisk-styrning.md).
+Mer om hur rekommendationen används finns i [god demokratisk styrning](god-demokratisk-styrning.md).
 
-## Tolkning av normordningen
+## När något skaver
 
-Om två dokument verkar säga olika saker gäller dokumentet eller beslutet som ligger högre i normordningen.
+Om två dokument verkar säga olika saker gäller det dokument eller beslut som ligger högre i normordningen. Om frågan gäller vilken dokumenttyp som ska användas, hur dokument ska förvaltas eller var ett dokument hör hemma, ska den prövas mot [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md).
 
-Om det är oklart var en fråga hör hemma ska frågan lyftas till rätt ansvarig nivå. Den ska inte lösas genom vana, personligt omdöme eller informell praxis.
+Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå. Den ska inte lösas genom tradition, personligt omdöme eller informella genvägar.
 
-Normordningen ska användas tillsammans med [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md), som beskriver dokumenttyper och dokumentarkiv.
+## Folkrörelsen är grunden under ordningen
 
-## Folkrörelseprincipen
+[Folkrörelseprincipen](folkrorelseprincip.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
 
-Folkrörelseprincipen är inte en egen normnivå i rangordningen.
-
-Den är grunden som förklarar varför distriktet är demokratiskt uppbyggt, varför medlemsföreningarnas beslut har särskild tyngd och varför ansvar och mandat måste vara tydliga.
-
-Läs mer under [Folkrörelseprincip](folkrorelseprincip.md).
+När medlemsföreningarnas mandat, distriktsstyrelsens ansvar, kommittéernas uppdrag och kansliets verkställighet hålls isär blir styrningen både tydligare och mer demokratisk. Det är enkel ordning, men den gör stor skillnad i vardagen.
