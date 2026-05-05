@@ -1,129 +1,104 @@
 ---
 description: >-
-  En visuell och praktisk översikt över hur distriktets organ, funktioner och
-  relationer hänger ihop.
+  En visuell översikt över hur distriktets organ och funktioner hänger ihop,
+  med särskild vikt på mandat, rapportering och självständighet.
 ---
 
 # Organisationsschema
 
-Organisationsschemat ska göra styrningen lättare att se.
+Organisationsschemat ska visa hur distriktets delar hänger ihop på en bild.
 
-Det är inte en fullständig beskrivning av ansvar, roller eller delegation. Det är en karta över helheten: vilka delar som finns, hur de hänger ihop och vilka relationer som behöver hållas isär för att styrningen ska bli tydlig.
+Det ska inte förklara hela styrmodellen en gång till. Den övergripande logiken finns i [styrarkitekturen](styrarkitektur.md), rollerna beskrivs i [ansvar och roller](ansvar-och-roller.md) och konkret ansvarsfördelning hör hemma i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 {% hint style="info" %}
-Ett organisationsschema visar inte all makt och allt ansvar. Det visar strukturen. För att förstå vad som gäller i en viss fråga behöver schemat läsas tillsammans med [styrarkitekturen](styrarkitektur.md), [ansvar och roller](ansvar-och-roller.md), [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Schemat ska visa struktur, inte skapa mandat. Om bilden och ett beslutat dokument pekar åt olika håll gäller det beslutade dokumentet enligt [normordningen](../grund-och-varden/normordning.md).
 {% endhint %}
 
-## En bild av helheten
+## Bilden ska visa relationerna
 
-Schemat ska visa Smålands Fotbollförbund som en folkrörelseorganisation, inte som ett vanligt företag.
+Ett bra organisationsschema visar inte bara rutor. Det visar relationer.
 
-Det betyder att medlemsföreningarna och de demokratiska organen behöver synas tydligt. Distriktsstyrelsen ska framgå som strategisk nivå, kommittéerna som taktiska organ, distriktschef och kansli som operativ nivå och de granskande funktionerna som självständiga eller särskilt utsedda funktioner.
+För Smålands Fotbollförbund är fyra relationer särskilt viktiga: mandat, rapportering, samverkan och granskning. De bör visas med olika linjer eller annan tydlig markering, så att läsaren ser skillnad på vem som ger uppdrag, vem som rapporterar, vem som samverkar och vem som granskar.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Demokratisk nivå</strong><br>Årsmöte och representantskap. Här finns föreningarnas formella inflytande.</td></tr><tr><td><strong>Strategisk nivå</strong><br>Distriktsstyrelsen och, inom givna ramar, presidiet. Här hålls riktning, ansvar och uppföljning ihop.</td></tr><tr><td><strong>Taktisk nivå</strong><br>Kommittéer, arbetsgrupper och referensgrupper. Här finns sakkunskap, beredning och utveckling inom sakområden.</td></tr><tr><td><strong>Operativ nivå</strong><br>Distriktschef och kansli. Här genomförs, administreras och stöds verksamheten i vardagen.</td></tr><tr><td><strong>Granskande nivå</strong><br>Valberedning, revision, lekmannarevision och disciplinnämnd. Här finns prövning, granskning och valberedning.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Mandat</strong><br>Vem som ger uppdrag eller beslutanderätt.</td></tr><tr><td><strong>Rapportering</strong><br>Vem som återrapporterar till vem.</td></tr><tr><td><strong>Samverkan</strong><br>Vilka som behöver arbeta tillsammans utan att vara över- eller underordnade.</td></tr><tr><td><strong>Granskning</strong><br>Vilka funktioner som ska kunna pröva, granska eller bereda självständigt.</td></tr></tbody></table>
 
-## Pilarna är lika viktiga som rutorna
+## Grundstrukturen i bilden
 
-Ett organisationsschema blir lätt en samling rutor. Men i styrningen är pilarna minst lika viktiga.
-
-De ska visa vilken relation som finns mellan delarna. En pil kan betyda mandat, rapportering, samverkan eller granskning. De sakerna får inte blandas ihop.
+Bilden bör vara enkel nog att förstå snabbt. Den behöver samtidigt vara korrekt nog för att inte skapa fel förväntningar.
 
 {% columns %}
 {% column %}
-### Relationer som ska synas
+### Det ska synas
 
-**Mandat** visar vem som ger uppdrag eller beslutanderätt.
+Medlemsföreningarnas demokratiska mandat.
 
-**Rapportering** visar vem som återrapporterar till vem.
+Årsmötet som högsta beslutande organ.
 
-**Samverkan** visar vilka som behöver arbeta tillsammans utan att vara över- eller underordnade.
+Representantskapet som medlemsorgan för tävlingsfrågor.
 
-**Granskning** visar vilka funktioner som ska kunna pröva, granska eller bereda självständigt.
+Distriktsstyrelsen som strategisk ledning mellan de demokratiska mötena.
+
+Distriktschef och kansli som operativ ledning och genomförande.
 {% endcolumn %}
 
 {% column %}
-### Det schemat inte ska göra
+### Det ska hållas isär
 
-Schemat ska inte visa varje praktisk roll i kansliet.
+Granskande funktioner rapporterar till årsmötet.
 
-Det ska inte visa varje arbetsgrupp, projekt eller tillfälligt uppdrag.
+Arbetsgrupper rapporterar till distriktsstyrelsen om inte annat beslutats.
 
-Det ska inte skapa nya mandat.
+Referensgrupper rapporterar till kansliet om inte annat beslutats.
 
-Det ska inte ersätta arbetsordningar, delegationsordningar eller instruktioner i [dokumentarkivet](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/).
+Kommittéer är inte egna styrelser.
+
+Presidiet är inte ett parallellt beslutsorgan.
 {% endcolumn %}
 {% endcolumns %}
 
-## Så ska schemat läsas
-
-<details>
-<summary><strong>Börja i medlemsföreningarna</strong></summary>
-
-I en folkrörelse börjar mandatet hos medlemsföreningarna. Därför ska årsmöte och representantskap ligga tydligt i schemat och inte uppfattas som sidofunktioner.
-
-</details>
-
-<details>
-<summary><strong>Se distriktsstyrelsen som navet för strategisk ledning</strong></summary>
-
-Distriktsstyrelsen leder distriktet mellan de demokratiska mötena. Den håller ihop riktning, delegation, uppföljning och intern kontroll, men ska inte driva den operativa vardagen.
-
-</details>
-
-<details>
-<summary><strong>Läs kommittéerna som taktiska organ</strong></summary>
-
-Kommittéerna bidrar med sakkunskap, beredning och utveckling inom sina områden. De kan fatta beslut när de har delegation, men de är inte egna styrelser.
-
-</details>
-
-<details>
-<summary><strong>Håll isär kommittéledning och personalledning</strong></summary>
-
-Kommittéordföranden leder kommitténs arbete. Distriktschefen leder kansliet och dess personal. Det behöver synas i schemat, eftersom just den gränsen annars lätt blir otydlig.
-
-</details>
-
-<details>
-<summary><strong>Låt granskningen stå fri nog</strong></summary>
-
-Valberedning, revision, lekmannarevision och disciplinnämnd behöver synas på ett sätt som visar deras särskilda uppdrag. De ska inte ritas in som vanliga delar av den operativa linjen.
-
-</details>
-
-## När schemat tas fram som bild
-
-När organisationsschemat görs som bild bör det vara enkelt nog att förstå på en minut och tydligt nog att tåla en granskning.
-
-{% hint style="warning" %}
-Om bilden blir så detaljerad att den kräver en lång förklaring har den blivit för tung. Då bör detaljer flyttas till [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md), arbetsordningar, instruktioner eller andra dokument i dokumentarkivet.
-{% endhint %}
-
-Bilden bör visa mandat nedåt, återrapportering uppåt, samverkan i sidled och granskning som självständig relation. Den bör också använda samma begrepp som [begreppslistan](../introduktion/begreppslista.md), så att läsaren känner igen orden i hela styrmodellen.
-
-## En enkel skiss att utgå från
+## En skiss för hur det kan ritas
 
 ```text
 Medlemsföreningar
         │
         ▼
-Årsmöte ── Representantskap
-        │
-        ▼
+Årsmöte
+   │        ▲
+   │        │ rapportering / granskning
+   │        │
+   │   Valberedning
+   │   Revision
+   │   Lekmannarevision
+   │   Disciplinnämnd
+   │
+   ├── Representantskap
+   │
+   ▼
 Distriktsstyrelse ── Presidium
         │
         ├── Kommittéer
-        │       ├── Arbetsgrupper
-        │       └── Referensgrupper
+        │
+        ├── Arbetsgrupper
+        │       └── rapporterar till distriktsstyrelsen
         │
         ▼
 Distriktschef
         │
         ▼
 Kansli
-
-Valberedning, revision, lekmannarevision och disciplinnämnd visas vid sidan av
-linjen, med tydlig koppling till sitt uppdrag och sin självständighet.
+        │
+        └── Referensgrupper
+                └── rapporterar till kansliet
 ```
 
-Skissen är inte ett färdigt schema. Den visar logiken: demokratin överst, ledningen i mitten, genomförandet i vardagen och granskningen tydligt åtskild.
+Skissen är inte färdig formgivning. Den visar huvudlogiken: medlemsföreningarna bär mandatet, årsmötet är den högsta demokratiska nivån, distriktsstyrelsen leder mellan de demokratiska mötena, kansliet genomför i vardagen och granskande funktioner står vid sidan av den operativa linjen.
+
+## Rita inte in mer än bilden klarar
+
+Organisationsschemat ska inte bära all information. Om varje projekt, roll, kontaktperson och arbetsflöde ritas in blir bilden svår att använda.
+
+{% hint style="warning" %}
+Om schemat kräver långa förklaringar har det blivit för detaljerat. Flytta då detaljer till arbetsordningar, instruktioner, processer, bilagor eller andra dokument i [dokumentarkivet](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/).
+{% endhint %}
+
+Ett bra schema ska hjälpa läsaren att hitta rätt nästa steg. Inte svara på varje fråga själv.
