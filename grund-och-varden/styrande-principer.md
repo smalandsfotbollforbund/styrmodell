@@ -56,7 +56,7 @@ När de rollerna blandas ihop blir ansvaret otydligt. Distriktsstyrelsen ska int
 
 [Beredning](../processer-och-arbetssatt/beredning.md) är arbetet som gör beslut möjliga att fatta på god grund.
 
-[Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), presidium, [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) kan bereda frågor. Men den som bereder äger inte automatiskt beslutet. Beslutet hör hemma hos det organ eller den funktion som har mandat.
+[Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [presidium](../distriktsstyrelsen-och-ledningen/presidium.md), [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) kan bereda frågor. Men den som bereder äger inte automatiskt beslutet. Beslutet hör hemma hos det organ eller den funktion som har mandat.
 
 God beredning ska göra alternativen tydligare, konsekvenserna synligare och beslutet bättre förankrat.
 
