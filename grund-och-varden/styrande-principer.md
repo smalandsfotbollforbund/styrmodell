@@ -1,99 +1,97 @@
 ---
 description: >-
-  De grundprinciper som ska vägleda beslut, ansvarsfördelning och arbetssätt i
-  Smålands Fotbollförbund.
+  Principerna som hjälper distriktet att tolka ansvar, mandat, beslut och
+  arbetssätt när styrningen behöver bli tydlig i praktiken.
 ---
 
 # Styrande principer
 
-De styrande principerna beskriver hur Smålands Fotbollförbund ska tänka när ansvar, mandat, beslut och arbetssätt behöver tolkas.
+Styrande principer behövs när stadgar, beslut och dokument inte ensamma räcker för att avgöra hur en fråga bör hanteras i praktiken.
 
-Principerna är mer konkreta än folkrörelseprincipen, men mer övergripande än enskilda regler, rutiner och dokument. De ska hjälpa distriktet att hålla rätt nivå, rätt ansvar och rätt ordning.
+De hjälper Smålands Fotbollförbund att hålla rätt nivå, rätt ansvar och rätt väg genom organisationen. De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md) eller beslutade dokument. De ska hjälpa distriktet att använda dem klokt.
 
-Om frågan gäller vilket dokument eller beslut som väger tyngst ska [Normordning](normordning.md) användas. Om frågan gäller dokumenttyp eller dokumentarkiv ska [Dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md) användas.
+{% hint style="info" %}
+Principerna är stöd för bedömning. Om två dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller vilken dokumenttyp som ska användas eller var ett dokument hör hemma används [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md).
+{% endhint %}
 
-## Rätt fråga på rätt nivå
+## Rätt fråga ska hamna på rätt nivå
 
-Frågor ska hanteras av den nivå som har mandat för dem.
+En fråga ska hanteras där mandatet finns.
 
-Demokratiska organ beslutar i demokratiska frågor. Distriktsstyrelsen beslutar i strategiska frågor. Kommittéer verkar inom de ramar och delegationer som distriktsstyrelsen beslutat. Distriktschef och kansli ansvarar för operativ ledning och verkställighet inom givna ramar.
+Det låter enkelt, men är ofta det som avgör om styrningen blir tydlig. Frågor som hör till medlemsföreningarna ska inte lösas som styrelsefrågor. Frågor som kräver strategisk ledning ska inte glida över till kansliet. Frågor som är operativa ska inte göras större än de behöver vara.
 
-Att hantera frågor på fel nivå försvagar tydligheten, även när avsikten är god.
+När nivån blir rätt blir också ansvaret tydligare.
 
-## Demokratisk legitimitet ska skyddas
+## Mandatet börjar hos föreningarna
 
-Frågor som stadgarna lägger på årsmötet eller representantskapet ska avgöras där.
+Smålands Fotbollförbund är en folkrörelseorganisation. Det betyder att mandatet ytterst kommer från medlemsföreningarna.
 
-De ska inte flyttas till distriktsstyrelsen, kommittéer, distriktschef eller kansli genom informell praxis, delegation eller tidsbrist.
+Frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md) eller [representantskapet](../demokratisk-styrning/representantskap.md) ska därför avgöras där. De ska inte flyttas till distriktsstyrelsen, kommittéer, distriktschef eller kansli genom informell praxis, tidsbrist eller vana.
 
-Det är grunden i en folkrörelse: mandatet börjar hos medlemsföreningarna.
+Det är ett sätt att skydda föreningarnas roll, även när vardagen trycker på.
 
-## Strategisk och operativ ledning ska hållas isär
+## Styrelse och kansli ska bära olika delar
 
-Distriktsstyrelsen ansvarar för riktning, prioritering, delegation, uppföljning och intern kontroll.
+[Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) ansvarar för riktning, prioritering, delegation, uppföljning och intern kontroll.
 
-Distriktschef och kansli ansvarar för att leda och genomföra den löpande verksamheten inom beslutade ramar.
+[Distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) ansvarar för att leda och genomföra den löpande verksamheten inom beslutade ramar.
 
-Distriktsstyrelsen ska inte detaljstyra kansliets vardag. Kansliet ska inte ta över distriktsstyrelsens strategiska ansvar.
+När de rollerna blandas ihop blir ansvaret otydligt. Distriktsstyrelsen ska inte bli operativ chef i vardagen, och kansliet ska inte ta över distriktsstyrelsens strategiska ansvar.
 
-## Beredning och beslut ska skiljas åt
+## Beredning gör beslut bättre
 
-Att bereda ett ärende är inte samma sak som att besluta.
+Beredning är arbetet som gör beslut möjliga att fatta på god grund.
 
-Kommittéer, presidium, distriktschef och kansli kan bereda ärenden. Beslut fattas av det organ eller den funktion som har mandat.
+Kommittéer, presidium, distriktschef och kansli kan bereda frågor. Men den som bereder äger inte automatiskt beslutet. Beslutet hör hemma hos det organ eller den funktion som har mandat.
 
-God beredning stärker beslutet, men äger inte beslutet.
+God beredning ska göra alternativen tydligare, konsekvenserna synligare och beslutet bättre förankrat.
 
-## Delegation ska vara skriftlig och spårbar
+## Delegation ska korta vägen, inte sudda ut ansvaret
 
-Delegation av beslutanderätt ska dokumenteras.
+[Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) kan göra arbetet snabbare och mer ändamålsenligt. Men delegation ska vara skriftlig, avgränsad och möjlig att följa upp.
 
-Det ska gå att förstå:
+Det ska gå att se vem som delegerat, vad som delegerats, till vem och hur återrapportering ska ske. Den som delegerar behåller det övergripande ansvaret för att delegationen är tydlig och används rätt.
 
-* vem som delegerat
-* vad som delegerats
-* till vem delegation skett
-* vilka begränsningar som gäller
-* hur beslut ska återrapporteras
+Muntlig vana är inte delegation.
 
-Den som delegerar behåller det övergripande ansvaret. Mer om delegation finns i [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+## Ansvar ska gå att följa
 
-## Ansvar ska kunna följas
+I en fungerande styrning ska det gå att följa vem som bereder, beslutar, verkställer, följer upp och granskar.
 
-Det ska gå att följa vem som bereder, beslutar, verkställer, följer upp och granskar.
+Samma person eller funktion bör normalt inte bära hela kedjan ensam. Det gäller särskilt när frågan rör ekonomi, myndighetsliknande bedömningar, jäv, disciplinära frågor eller granskning.
 
-Samma funktion bör normalt inte ensam bära hela kedjan i en fråga. Särskilt viktigt är att skilja mellan beslut och granskning, samt mellan initiering, sakattest, slutattest och verkställighet.
+Ansvarsfördelningen i konkreta frågetyper beskrivs vidare i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
-Den samlade ansvarsfördelningen beskrivs i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+## Gråzoner ska redas ut, inte vänjas in
 
-## Gråzoner ska hanteras aktivt
+Gråzoner uppstår när uppdrag, mandat eller arbetssätt är oklara.
 
-Gråzoner uppstår när ansvar, mandat eller arbetssätt är oklara.
+Ibland fungerar det ändå en tid, eftersom människor hjälps åt och löser saker. Det är gott. Men om gråzonen blir ett arbetssätt riskerar organisationen att bli personberoende och svår att granska.
 
-De ska inte bli permanenta lösningar genom vana, personliga relationer eller praktiskt behov. De ska hanteras genom tydligare uppdrag, dokument, delegationer, instruktioner eller processer.
+Därför ska återkommande gråzoner hanteras genom tydligare uppdrag, arbetsordning, delegation, instruktion, process eller beslut på rätt nivå.
 
-Det är bättre att reda ut gränsen en gång än att leva med otydlighet länge.
+## Dokumentation ska räcka för ansvar
 
-## Dokumentation ska vara tillräcklig
+Allt behöver inte dokumenteras tungt. Men det som påverkar ansvar, mandat, ekonomi, uppdrag eller uppföljning ska gå att följa i efterhand.
 
-Beslut, uppdrag, delegationer och viktiga ställningstaganden ska dokumenteras på ett sätt som gör dem möjliga att följa.
+Protokoll, beslut, delegationer, uppdrag och viktiga ställningstaganden ska dokumenteras så att nästa person kan förstå vad som beslutades och varför. Mer om detta finns i [dokumentation och protokoll](../processer-och-arbetssatt/dokumentation-och-protokoll.md).
 
-Dokumentation ska inte göras tyngre än nödvändigt, men den ska vara tillräcklig för ansvar, uppföljning och granskning.
+## Öppenhet behöver vara begriplig
 
-Mer om detta finns i [Dokumentation och protokoll](../processer-och-arbetssatt/dokumentation-och-protokoll.md).
+Öppenhet handlar inte bara om att handlingar finns. De behöver också gå att förstå.
 
-## Transparens ska vara utgångspunkt
+Föreningar, förtroendevalda, tjänstepersoner och granskande funktioner ska kunna följa hur beslut har kommit till, vad som gäller och var ansvar ligger. Det stärker både förtroende och lärande.
 
-Styrningen ska vara begriplig och möjlig att följa för dem som berörs.
+## Kontroll är omsorg om förtroendet
 
-Handlingar, beslut och styrande dokument ska vara tillgängliga i den utsträckning rättssäkerhet, integritet och sekretess inte hindrar det.
+[Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md) är inte ett sidospår. Det är en del av styrningen.
 
-Öppenhet är inte bara kommunikation. Det är en del av förtroendet.
+När risker identifieras, beslut följs upp och ekonomiska flöden kontrolleras skyddas både föreningarnas förtroende och de personer som bär ansvar i organisationen.
 
-## Intern kontroll är en del av styrningen
+Det ska vara tillräckligt stadigt för att tåla granskning och tillräckligt enkelt för att användas i vardagen.
 
-Risker ska identifieras, bedömas, hanteras och följas upp.
+## När principerna pekar åt olika håll
 
-Intern kontroll är inte ett parallellt system vid sidan av verksamheten. Det är en del av ordinarie styrning och ansvar.
+Ibland kan flera principer vara relevanta samtidigt. En fråga kan behöva både snabb hantering och bred förankring. Ett beslut kan behöva både tydlig delegation och politisk känslighet. Ett dokument kan behöva vara både kort och tillräckligt precist.
 
-Mer om detta finns i [Intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+Då ska organisationen inte välja den enklaste vägen av gammal vana. Frågan ska prövas mot rätt nivå, rätt ansvar och rätt dokument. Det är där styrmodellen gör sitt jobb: den hjälper distriktet att hålla ordning när verkligheten inte är helt rak.
