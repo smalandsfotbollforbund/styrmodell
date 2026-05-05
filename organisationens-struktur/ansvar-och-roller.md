@@ -1,101 +1,110 @@
 ---
 description: >-
-  Hur ansvar och roller ska förstås i Smålands Fotbollförbund.
+  Hur ansvar och roller ska förstås mellan medlemsföreningar, förtroendevalda,
+  anställda, kommittéer och granskande funktioner.
 ---
 
 # Ansvar och roller
 
-Smålands Fotbollförbund bärs av medlemsföreningar, förtroendevalda och anställda.
+Smålands Fotbollförbund bärs av medlemsföreningar, förtroendevalda och anställda. Det är en styrka, men det kräver reda.
 
-Den här sidan beskriver de övergripande rollerna och skillnaden mellan olika typer av ansvar. Den är inte en komplett ansvarsmatris. Den samlade ansvarsfördelningen i konkreta frågetyper finns i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Den här sidan hjälper till att skilja på rollerna. Den beskriver inte varje uppdrag i detalj och ersätter inte [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md), arbetsordningar, instruktioner eller delegationsordningar. Den visar hur ansvaret ska förstås så att rätt fråga hamnar hos rätt funktion.
 
-Organisationens nivåer beskrivs i [Styrarkitektur](styrarkitektur.md). Begrepp och förkortningar beskrivs i [Begreppslista](../introduktion/begreppslista.md).
+{% hint style="info" %}
+En person kan bära flera roller i fotbollen. I styrningen behöver rollerna ändå hållas isär. Den som är föreningsperson, kommittéledamot, förtroendevald eller anställd behöver veta vilket uppdrag hen agerar i för stunden.
+{% endhint %}
 
-## Förtroendevalda och anställda
+## Två slags uppdrag som behöver varandra
 
-Distriktets styrning bygger på en tydlig skillnad mellan förtroendevalda och anställda.
+Distriktets styrning bygger på samspelet mellan förtroendevalda och anställda.
 
-**Förtroendevalda** har uppdrag genom val eller beslut. De verkar inom medlemsdemokratins och distriktsstyrelsens mandat.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Förtroendevalda</strong><br>Har uppdrag genom val eller beslut. De bär demokratiskt, strategiskt, taktiskt eller granskande ansvar inom beslutade ramar.</td></tr><tr><td><strong>Anställda</strong><br>Har uppdrag genom sin anställning. De leder, bereder, verkställer, administrerar och följer upp den löpande verksamheten inom beslutade ramar.</td></tr></tbody></table>
 
-**Anställda** har uppdrag genom sin anställning och leder eller genomför den löpande verksamheten inom beslutade ramar.
+Båda behövs. Förtroendevalda ger demokratisk riktning och sakkunskap. Anställda ger kontinuitet, genomförandekraft och stöd i vardagen. När rollerna blandas ihop blir ansvaret otydligt.
 
-Båda behövs. Men rollerna ska inte blandas ihop.
+## Mandatet börjar hos föreningarna
 
-Förtroendevalda ska inte detaljstyra kansliets vardag. Anställda ska inte ta över förtroendevaldas beslutanderätt.
+Medlemsföreningarna är grunden för distriktets demokratiska legitimitet. Genom [årsmöte](../demokratisk-styrning/arsmote.md) och [representantskap](../demokratisk-styrning/representantskap.md) utövar föreningarna sitt formella inflytande.
 
-## Medlemsföreningarna
+Det är föreningarna som väljer, beslutar, ger uppdrag och tar ställning i frågor som hör till den demokratiska nivån. Det är här mandatet börjar.
 
-Medlemsföreningarna är grunden för distriktets demokratiska legitimitet.
+## Roller i styrningen
 
-Genom årsmöte och representantskap utövar föreningarna sitt formella inflytande. De väljer, beslutar, ger uppdrag och tar ställning i frågor som hör till den demokratiska nivån.
+<details>
+<summary><strong>Distriktsstyrelsen håller ihop helheten</strong></summary>
 
-Det är här mandatet börjar.
-
-## Distriktsstyrelsen
-
-Distriktsstyrelsen leder distriktet mellan de demokratiska mötena.
-
-Distriktsstyrelsen ansvarar för riktning, prioritering, organisation, delegation, uppföljning och intern kontroll inom sitt mandat.
+[Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) leder distriktet mellan de demokratiska mötena. Den ansvarar för riktning, prioritering, organisation, delegation, uppföljning och intern kontroll inom sitt mandat.
 
 Distriktsstyrelsen ska hålla ihop helheten. Den ska inte bli operativ chef i vardagen.
 
-## Distriktsordföranden
+</details>
 
-Distriktsordföranden leder distriktsstyrelsens arbete.
+<details>
+<summary><strong>Distriktsordföranden leder styrelsearbetet</strong></summary>
 
-Rollen innebär att hålla samman styrelsearbetet, bidra till tydlig beredning och vara en central kontaktpunkt i styrningen.
+Distriktsordföranden leder distriktsstyrelsens arbete, håller samman styrelseprocessen och är en central kontaktpunkt i styrningen.
 
 Distriktsordföranden ersätter inte distriktsstyrelsens kollektiva beslutanderätt, om inte särskild delegation finns.
 
-## Presidiet
+</details>
 
-Presidiet kan ha beredande uppgifter eller särskilt delegerade uppgifter.
+<details>
+<summary><strong>Presidiet förbereder och samordnar</strong></summary>
 
-Presidiet är inte ett parallellt beslutsorgan vid sidan av distriktsstyrelsen.
+[Presidiet](../distriktsstyrelsen-och-ledningen/presidium.md) kan ha beredande uppgifter eller särskilt delegerade uppgifter.
 
-Om presidiet ska fatta beslut krävs tydlig delegation.
+Presidiet är inte ett parallellt beslutsorgan vid sidan av distriktsstyrelsen. Om presidiet ska fatta beslut krävs tydlig delegation.
 
-## Distriktschef
+</details>
 
-Distriktschefen leder den löpande verksamheten.
+<details>
+<summary><strong>Distriktschefen leder den löpande verksamheten</strong></summary>
 
-Rollen innebär att omsätta distriktsstyrelsens beslut och riktning i fungerande verksamhet, leda kansliet och säkerställa att beredning, verkställighet och uppföljning fungerar i praktiken.
+[Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschef.md) leder den löpande verksamheten inom de ramar distriktsstyrelsen beslutat.
 
-Distriktschefen ska ha utrymme att leda den operativa verksamheten, men inte ta över distriktsstyrelsens strategiska ansvar.
+Rollen innebär att omsätta beslut och riktning i fungerande verksamhet, leda kansliet och säkerställa att beredning, verkställighet och uppföljning fungerar i praktiken.
 
-## Kansli
+</details>
 
-Kansliet är distriktets tjänstepersonsorganisation.
+<details>
+<summary><strong>Kansliet gör arbetet möjligt i vardagen</strong></summary>
 
-Kansliet bereder, verkställer, administrerar och stödjer verksamheten inom beslutade ramar.
+[Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) är distriktets tjänstepersonsorganisation. Kansliet bereder, verkställer, administrerar och stödjer verksamheten inom beslutade ramar.
 
 Kansliet ska bidra med sakkunskap och praktisk förmåga, men inte skapa egna mandat vid sidan av beslutade uppdrag och delegationer.
 
-## Kommittéordföranden
+</details>
+
+<details>
+<summary><strong>Kommittéordföranden håller ihop sakområdet</strong></summary>
 
 Kommittéordföranden leder kommitténs arbete inom det uppdrag och de ramar som distriktsstyrelsen beslutat.
 
-Rollen handlar om att hålla ihop sakområdet, bidra till beredning och prioritering samt säkerställa att kommitténs arbete återrapporteras.
+Rollen handlar om att hålla ihop sakområdet, bidra till beredning och prioritering samt säkerställa att kommitténs arbete återrapporteras. Kommittéordföranden företräder inte ett eget beslutsmandat utöver det som framgår av beslut, arbetsordning eller delegation.
 
-Kommittéordföranden företräder inte ett eget beslutsmandat utöver det som framgår av beslut, arbetsordning eller delegation.
+</details>
 
-## Kommittéledamöter
+<details>
+<summary><strong>Kommittéledamöter bidrar med sakkunskap</strong></summary>
 
-Kommittéledamöter bidrar med sakkunskap, erfarenhet, beredning och uppföljning inom kommitténs område.
+Kommittéledamöter bidrar med erfarenhet, sakkunskap, beredning och uppföljning inom kommitténs område.
 
-Ledamotskapet är ett uppdrag inom en beslutad struktur. Det ger inte ett eget självständigt mandat vid sidan av kommitténs uppdrag.
+Ledamotskapet är ett uppdrag inom en beslutad struktur. Det ger inte ett självständigt mandat vid sidan av kommitténs uppdrag.
 
-## Granskande funktioner
+</details>
+
+<details>
+<summary><strong>Granskande funktioner ska stå fria nog att göra sitt jobb</strong></summary>
 
 Valberedning, revision, lekmannarevision och disciplinnämnd har särskilda roller i styrmodellen.
 
-De ska bidra till insyn, prövning, rättssäkerhet, valberedning och demokratisk kvalitet.
+De ska bidra till insyn, prövning, rättssäkerhet, valberedning och demokratisk kvalitet. De behöver vara tydligt åtskilda från den verksamhet de granskar, prövar eller bereder inför.
 
-Granskande funktioner ska vara tydligt åtskilda från den verksamhet de granskar eller prövar.
+</details>
 
-## Fem ansvarstyper
+## Fem ansvar som återkommer
 
-Fem ansvarstyper används genomgående i styrmodellen:
+I styrmodellen används fem ansvarstyper för att göra skillnad på olika delar av arbetet.
 
 | Ansvarstyp | Innebörd |
 | --- | --- |
@@ -105,19 +114,12 @@ Fem ansvarstyper används genomgående i styrmodellen:
 | **Följa upp** | Mäta, analysera och återrapportera |
 | **Granska** | Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning eller verksamhet |
 
-En roll kan ha flera typer av ansvar, men inte utan gränser.
+En roll kan bära flera ansvarstyper, men inte utan gränser. Samma roll bör normalt inte ensam bereda, besluta, verkställa, följa upp och granska samma fråga. Det är inte misstro. Det är ordning.
 
-Samma roll bör normalt inte ensam bereda, besluta, verkställa, följa upp och granska samma fråga. Det är inte misstro. Det är ordning.
-
-## Rätt ansvar på rätt plats
+## När ansvaret börjar glida
 
 När ansvar är oklart ska frågan inte lösas genom tradition, personberoende eller praktisk genväg.
 
-Då ska organisationen gå tillbaka till styrmodellen:
-
-* nivåer och sammanhang finns i [Styrarkitektur](styrarkitektur.md)
-* begrepp finns i [Begreppslista](../introduktion/begreppslista.md)
-* delegation beskrivs i [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md)
-* konkret ansvarsfördelning finns i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md)
+Gå då tillbaka till styrmodellen. Organisationens nivåer finns i [styrarkitekturen](styrarkitektur.md), begrepp finns i [begreppslistan](../introduktion/begreppslista.md), delegation beskrivs i [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och den konkreta ansvarsfördelningen finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 Rätt ansvar på rätt plats gör arbetet lugnare, tydligare och mer hållbart.
