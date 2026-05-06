@@ -17,6 +17,105 @@ Schemat ska visa struktur, inte skapa mandat. Om bilden och ett beslutat dokumen
 ```mermaid
 graph TD
   Mermaid --> Diagram
+
+flowchart TB
+
+%% =========================
+%% Schematisk organisation
+%% =========================
+
+subgraph Demokratisk["Demokratiskt"]
+    direction LR
+
+    Valberedning["Valberedning"]
+    Revision["Revision"]
+    Disciplinnamnd["Disciplinnämnd"]
+
+    Arsmote["Årsmöte"]
+    Representantskap["Representantskap"]
+
+    Valberedning --- Arsmote
+    Revision --- Arsmote
+    Disciplinnamnd --- Arsmote
+    Arsmote --- Representantskap
+end
+
+subgraph Strategisk["Strategiskt"]
+    direction TB
+
+    Arbetsgrupper["Arbetsgrupper"]
+    Distriktsstyrelse["Distriktsstyrelse"]
+    Presidium["Presidium"]
+
+    Distriktsstyrelse --- Presidium
+    Arbetsgrupper -.-> Distriktsstyrelse
+end
+
+subgraph Taktisk["Taktiskt"]
+    direction LR
+
+    Tvarfunktionellt["Tvärfunktionella<br/>och övergripande<br/>utvecklingsområden<br/>och arbetssätt"]
+
+    Kommitte1["Kommitté"]
+    Kommitte2["Kommitté"]
+    Kommitte3["Kommitté"]
+    Kommitte4["Kommitté"]
+
+    Tvarfunktionellt -.-> Kommitte1
+    Tvarfunktionellt -.-> Kommitte2
+    Tvarfunktionellt -.-> Kommitte3
+    Tvarfunktionellt -.-> Kommitte4
+end
+
+subgraph Operationell["Operationellt"]
+    direction TB
+
+    Referensgrupper["Referensgrupper"]
+
+    Ledning["Ledning"]
+
+    Avdelning1["Avdelning"]
+    Avdelning2["Avdelning"]
+
+    Roll1["Roll/funktion"]
+    Roll2["Roll/funktion"]
+    Roll3["Roll/funktion"]
+    Roll4["Roll/funktion"]
+
+    Ledning --> Avdelning1
+    Ledning --> Avdelning2
+
+    Avdelning1 --> Roll1
+    Avdelning1 --> Roll2
+
+    Avdelning2 --> Roll3
+    Avdelning2 --> Roll4
+
+    Referensgrupper -.-> Ledning
+end
+
+%% Huvudlinje
+Arsmote --> Distriktsstyrelse
+Distriktsstyrelse --> Kommitte1
+Distriktsstyrelse --> Kommitte2
+Distriktsstyrelse --> Kommitte3
+Distriktsstyrelse --> Kommitte4
+Distriktsstyrelse --> Ledning
+
+%% Styling
+classDef demokratisk fill:#dcefd6,stroke:#b4d3aa,color:#111;
+classDef strategisk fill:#b51620,stroke:#8f1118,color:#fff;
+classDef presidium fill:#d96f73,stroke:#b51620,color:#fff;
+classDef taktisk fill:#efe3d2,stroke:#d4c4ad,color:#111;
+classDef operationell fill:#f2f2f2,stroke:#d9d9d9,color:#111;
+classDef dashed fill:#fff,stroke:#111,stroke-dasharray: 6 6,color:#111;
+
+class Valberedning,Revision,Disciplinnamnd,Arsmote,Representantskap demokratisk;
+class Distriktsstyrelse strategisk;
+class Presidium presidium;
+class Kommitte1,Kommitte2,Kommitte3,Kommitte4 taktisk;
+class Ledning,Avdelning1,Avdelning2,Roll1,Roll2,Roll3,Roll4 operationell;
+class Arbetsgrupper,Referensgrupper,Tvarfunktionellt dashed;
 ```
 
 ## Bilden ska visa relationerna
