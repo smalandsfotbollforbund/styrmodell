@@ -22,19 +22,19 @@ Smålands Fotbollförbunds styrning kan förstås genom fem nivåer. De är inte
 
 Styrningen fungerar när nivåerna drar åt samma håll utan att ta över varandras mandat.
 
-## Mandatet börjar i föreningarna
+### Mandatet börjar i föreningarna
 
 Den demokratiska nivån är grunden. Här utövar medlemsföreningarna sitt formella inflytande genom [årsmöte](../demokratisk-styrning/arsmote.md) och [representantskap](../demokratisk-styrning/representantskap.md).
 
 Alla andra uppdrag i distriktet behöver kunna spåras tillbaka till [stadgar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar), demokratiska beslut eller beslutade [delegationer](../distriktsstyrelsen-och-ledningen/delegation.md). Det är därför [folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md) är så viktig i styrmodellen.
 
-## Distriktsstyrelsen håller riktningen
+### Distriktsstyrelsen håller riktningen
 
 Den strategiska nivån bärs av [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) som ska hålla riktning, ram och ansvar tydliga. Den beslutar, prioriterar, delegerar och följer upp, men ska inte bli operativ chef i vardagen.
 
 [Presidiet](../distriktsstyrelsen-och-ledningen/presidium.md) kan stödja styrelsearbetet genom beredning, samordning och särskilt delegerade uppgifter. Det ska inte bli en parallell styrelse.
 
-## Kommittéerna utvecklar inom givna ramar
+### Kommittéerna utvecklar inom givna ramar
 
 Den taktiska nivån består främst av [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) och andra organ under distriktsstyrelsen.
 
@@ -42,7 +42,7 @@ Kommittéerna bidrar med sakkunskap, beredning, prioritering och uppföljning. D
 
 [Arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md) och [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md) kan förstärka arbetet, men är inte beslutsorgan om det inte uttryckligen framgår av uppdraget.
 
-## Kansliet gör besluten möjliga
+### Kansliet gör besluten möjliga
 
 Den operativa nivån består av [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md).
 
@@ -50,7 +50,7 @@ Distriktschefen leder den löpande verksamheten inom de ramar [distriktsstyrelse
 
 Den operativa nivån ska göra besluten möjliga i vardagen, utan att ta över distriktsstyrelsens strategiska ansvar.
 
-## Granskningen ska stå stadigt vid sidan av
+### Granskningen ska stå stadigt vid sidan av
 
 Den granskande nivån bidrar till förtroende, kontroll och demokratisk kvalitet. Här finns [valberedning](../granskande-funktioner/valberedning.md), [revision och lekmannarevision](../granskande-funktioner/revision-och-lekmannarevision.md) samt [disciplinnämnd](../granskande-funktioner/disciplinnamnd.md).
 
