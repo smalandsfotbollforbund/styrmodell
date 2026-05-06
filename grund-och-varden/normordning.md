@@ -59,7 +59,7 @@ Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. 
 Riksidrottsförbundets [rekommendation för god demokratisk styrning](god-demokratisk-styrning.md) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning.
 {% endhint %}
 
-## Folkrörelsen är grunden under ordningen
+### Folkrörelsen är grunden under ordningen
 
 [Folkrörelseprincipen](folkrorelseprincip.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
 
