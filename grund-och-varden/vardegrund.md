@@ -8,7 +8,7 @@ description: >-
 
 Värdegrunden beskriver vilket slags fotboll Smålands Fotbollförbund ska bidra till. Den handlar om hur människor möts, hur beslut fattas, hur barn och unga skyddas och hur föreningar får stöd att bedriva verksamhet på ett tryggt, öppet och hållbart sätt.
 
-Värdegrunden är inte ett fristående ord på en vägg. Den ska märkas i styrningen.
+För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den är inte ett fristående ord på en vägg, utan ska också märkas i hur vi styr.
 
 ## Idrottens värdegrund sätter grunden
 
@@ -29,10 +29,6 @@ Fotbollen har sin egen tillämpning av idrottens värdegrund. Svenska Fotbollfö
 Där betonas fem riktlinjer: **fotboll för alla**, **barns och ungdomars villkor**, **fokus på glädje, ansträngning och lärande**, **hållbart idrottande** och **Fair Play**.
 
 Det är fotbollens sätt att säga att spelet ska vara öppet nog för många, tryggt nog för barn och unga, utmanande nog för utveckling och schysst nog för att människor ska vilja vara kvar.
-
-## Värdegrund är också styrning
-
-För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den ska också märkas i hur vi styr. Den påverkar hur frågor bereds, hur tävlingar organiseras, hur utbildning planeras, hur föreningar bemöts, hur konflikter hanteras och hur ansvar följs upp.
 
 ## Barn och unga kräver särskild omsorg
 

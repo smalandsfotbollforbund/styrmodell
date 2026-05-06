@@ -18,7 +18,9 @@ Det är inte personens erfarenhet, titel eller engagemang som avgör mandatet i 
 En person kan bära flera roller i fotbollen. I styrningen behöver rollen ändå vara tydlig i varje situation. Samma person kan vara föreningsmänniska, kommittéledamot, förtroendevald eller anställd, men uppdraget avgör vilket ansvar personen har just då.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><i class="fa-children">:children:</i></td><td><strong>Föreningens hatt</strong><br>Företräder medlemsföreningens intresse och röst i demokratiska sammanhang.</td></tr><tr><td><i class="fa-poll-people">:poll-people:</i></td><td><strong>Förtroendevald hatt</strong><br>Bär ett valt eller beslutat uppdrag inom distriktets styrning.</td></tr><tr><td><i class="fa-person-walking">:person-walking:</i></td><td><strong>Tjänstepersonens hatt</strong><br>Leder, bereder, verkställer eller administrerar inom anställning och beslutade ramar.</td></tr><tr><td><i class="fa-magnifying-glass-waveform">:magnifying-glass-waveform:</i></td><td><strong>Granskande hatt</strong><br>Prövar, granskar eller bereder val med särskild självständighet.</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2><i class="fa-cubes-stacked">:cubes-stacked:</i></h2></td><td><sup>Demokratisk nivå</sup></td><td><strong>Föreningens hatt</strong><br>Företräder medlemsföreningens intresse och röst i demokratiska sammanhang.</td></tr><tr><td><h2><i class="fa-user-hat-tie">:user-hat-tie:</i></h2></td><td><sup>Strategisk nivå, taktisk nivå</sup></td><td><strong>Förtroendevald hatt</strong><br>Bär ett valt eller beslutat uppdrag inom distriktets styrning.</td></tr><tr><td><h2><i class="fa-user-helmet-safety">:user-helmet-safety:</i></h2></td><td><sup>Operativ nivå</sup></td><td><strong>Tjänstepersonens hatt</strong><br>Leder, bereder, verkställer eller administrerar inom anställning och beslutade ramar.</td></tr><tr><td><h2><i class="fa-user-hat-tie-magnifying-glass">:user-hat-tie-magnifying-glass:</i></h2></td><td><sup>Granskande nivå</sup></td><td><strong>Granskande hatt</strong><br>Prövar, granskar eller bereder val med särskild självständighet.</td></tr></tbody></table>
+
+
 
 ### Förtroendevalda och anställda bär olika ansvar
 
@@ -66,27 +68,14 @@ Den som ska granska, pröva eller bereda val behöver stå fri nog att göra det
 
 När ansvaret är oklart är det ofta bättre att ställa några enkla frågor än att försöka lösa allt på känsla.
 
-{% stepper %}
-{% step %}
-**Vilken roll agerar personen eller organet i just nu?**\
-Förening, förtroendevald, tjänsteperson, kommitté, granskande funktion eller något annat.
-{% endstep %}
-
-{% step %}
-**Vilken ansvarstyp gäller frågan?**\
-Handlar det om att bereda, besluta, verkställa, följa upp eller granska?
-{% endstep %}
-
-{% step %}
-**Var finns mandatet?**\
-I stadgar, årsmötesbeslut, distriktsstyrelsens beslut, arbetsordning, delegationsordning, instruktion eller annat beslutat dokument.
-{% endstep %}
-
-{% step %}
-**Vem ska frågan tillbaka till?**\
-Beslut, uppdrag och delegation behöver kunna återrapporteras till rätt nivå.
-{% endstep %}
-{% endstepper %}
+* **Vilken roll agerar personen eller organet i just nu?**\
+  Förening, förtroendevald, tjänsteperson, kommitté, granskande funktion eller något annat.
+* **Vilken ansvarstyp gäller frågan?**\
+  Handlar det om att bereda, besluta, verkställa, följa upp eller granska?
+* **Var finns mandatet?**\
+  I stadgar, årsmötesbeslut, distriktsstyrelsens beslut, arbetsordning, delegationsordning, instruktion eller annat beslutat dokument.
+* **Vem ska frågan tillbaka till?**\
+  Beslut, uppdrag och delegation behöver kunna återrapporteras till rätt nivå.
 
 ## När det inte räcker med god vilja
 

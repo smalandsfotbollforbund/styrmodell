@@ -1,7 +1,7 @@
 ---
 description: >-
-  En visuell översikt över hur distriktets organ och funktioner hänger ihop,
-  med särskild vikt på mandat, rapportering och självständighet.
+  En visuell översikt över hur distriktets organ och funktioner hänger ihop, med
+  särskild vikt på mandat, rapportering och självständighet.
 ---
 
 # Organisationsschema
@@ -13,6 +13,11 @@ Det ska inte förklara hela styrmodellen en gång till. Den övergripande logike
 {% hint style="info" %}
 Schemat ska visa struktur, inte skapa mandat. Om bilden och ett beslutat dokument pekar åt olika håll gäller det beslutade dokumentet enligt [normordningen](../grund-och-varden/normordning.md).
 {% endhint %}
+
+```mermaid
+graph TD
+  Mermaid --> Diagram
+```
 
 ## Bilden ska visa relationerna
 
@@ -28,7 +33,7 @@ Bilden bör vara enkel nog att förstå snabbt. Den behöver samtidigt vara korr
 
 {% columns %}
 {% column %}
-### Det ska synas
+#### Det ska synas
 
 Medlemsföreningarnas demokratiska mandat.
 
@@ -42,7 +47,7 @@ Distriktschef och kansli som operativ ledning och genomförande.
 {% endcolumn %}
 
 {% column %}
-### Det ska hållas isär
+#### Det ska hållas isär
 
 Granskande funktioner rapporterar till årsmötet.
 
@@ -58,7 +63,7 @@ Presidiet är inte ett parallellt beslutsorgan.
 
 ## En skiss för hur det kan ritas
 
-```text
+```
 Medlemsföreningar
         │
         ▼
