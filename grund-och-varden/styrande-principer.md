@@ -130,8 +130,6 @@ Det ska vara tillräckligt stadigt för att tåla granskning och tillräckligt e
 
 </details>
 
-## När principerna pekar åt olika håll
-
 Ibland kan flera principer vara relevanta samtidigt. En fråga kan behöva både snabb hantering och bred förankring. Ett beslut kan behöva både tydlig delegation och politisk känslighet. Ett dokument kan behöva vara både kort och tillräckligt precist.
 
 Då ska organisationen inte välja den enklaste vägen av gammal vana. Frågan ska prövas mot rätt nivå, rätt ansvar och rätt dokument. Det är där styrmodellen gör sitt jobb: den hjälper distriktet att hålla ordning när verkligheten inte är helt rak.
