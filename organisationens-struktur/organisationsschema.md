@@ -15,107 +15,183 @@ Schemat ska visa struktur, inte skapa mandat. Om bilden och ett beslutat dokumen
 {% endhint %}
 
 ```mermaid
-graph TD
-  Mermaid --> Diagram
-
 flowchart TB
 
 %% =========================
-%% Schematisk organisation
+%% ORGANISATIONSSTRUKTUR
+%% Layout styrd efter originalets ordning
 %% =========================
 
-subgraph Demokratisk["Demokratiskt"]
+%% --- ÖVERSTA RADEN ---
+subgraph DemokratiskRad[" "]
     direction LR
 
-    Valberedning["Valberedning"]
-    Revision["Revision"]
-    Disciplinnamnd["Disciplinnämnd"]
+    subgraph GranskandeFunktioner[" "]
+        direction TB
+        Valberedning["Valberedning"]
+        Revision["Revision"]
+        Disciplinnamnd["Disciplinnämnd"]
+    end
 
     Arsmote["Årsmöte"]
     Representantskap["Representantskap"]
-
-    Valberedning --- Arsmote
-    Revision --- Arsmote
-    Disciplinnamnd --- Arsmote
-    Arsmote --- Representantskap
 end
 
-subgraph Strategisk["Strategiskt"]
-    direction TB
 
-    Arbetsgrupper["Arbetsgrupper"]
-    Distriktsstyrelse["Distriktsstyrelse"]
-    Presidium["Presidium"]
-
-    Distriktsstyrelse --- Presidium
-    Arbetsgrupper -.-> Distriktsstyrelse
-end
-
-subgraph Taktisk["Taktiskt"]
+%% --- STRATEGISK RAD ---
+subgraph StrategiskRad[" "]
     direction LR
 
-    Tvarfunktionellt["Tvärfunktionella<br/>och övergripande<br/>utvecklingsområden<br/>och arbetssätt"]
+    Arbetsgrupper["Arbetsgrupper"]
 
-    Kommitte1["Kommitté"]
-    Kommitte2["Kommitté"]
-    Kommitte3["Kommitté"]
-    Kommitte4["Kommitté"]
+    subgraph Styrelseblock[" "]
+        direction LR
+        Distriktsstyrelse["Distriktsstyrelse"]
+        Presidium["Presidium"]
+    end
 
-    Tvarfunktionellt -.-> Kommitte1
-    Tvarfunktionellt -.-> Kommitte2
-    Tvarfunktionellt -.-> Kommitte3
-    Tvarfunktionellt -.-> Kommitte4
+    StrategiskSlut[" "]
 end
 
-subgraph Operationell["Operationellt"]
-    direction TB
+
+%% --- TAKTISK RAD ---
+subgraph TaktiskRad[" "]
+    direction LR
+
+    Tvarfunktionella["Tvärfunktionella<br/>och övergripande<br/>utvecklingsområden<br/>och arbetssätt"]
+
+    subgraph Kommitteblock[" "]
+        direction LR
+        Kommitte1["Kommitté"]
+        Kommitte2["Kommitté"]
+        Kommitte3["Kommitté"]
+        Kommitte4["Kommitté"]
+    end
+
+    TaktiskSlut[" "]
+end
+
+
+%% --- OPERATIONELL RAD ---
+subgraph OperationellRad[" "]
+    direction LR
 
     Referensgrupper["Referensgrupper"]
 
-    Ledning["Ledning"]
+    subgraph Kansliblock[" "]
+        direction TB
 
-    Avdelning1["Avdelning"]
-    Avdelning2["Avdelning"]
+        Ledning["Ledning"]
 
-    Roll1["Roll/funktion"]
-    Roll2["Roll/funktion"]
-    Roll3["Roll/funktion"]
-    Roll4["Roll/funktion"]
+        subgraph Avdelningsrad[" "]
+            direction LR
+            Avdelning1["Avdelning"]
+            Avdelning2["Avdelning"]
+        end
 
-    Ledning --> Avdelning1
-    Ledning --> Avdelning2
+        subgraph Rollrad[" "]
+            direction LR
+            Roll1["Roll/funktion"]
+            Roll2["Roll/funktion"]
+            Roll3["Roll/funktion"]
+            Roll4["Roll/funktion"]
+        end
+    end
 
-    Avdelning1 --> Roll1
-    Avdelning1 --> Roll2
-
-    Avdelning2 --> Roll3
-    Avdelning2 --> Roll4
-
-    Referensgrupper -.-> Ledning
+    OperationellSlut[" "]
 end
 
-%% Huvudlinje
+
+%% =========================
+%% FORMELLA LINJER
+%% =========================
+
+Valberedning --- Arsmote
+Revision --- Arsmote
+Disciplinnamnd --- Arsmote
+
+Arsmote --- Representantskap
 Arsmote --> Distriktsstyrelse
+
+Distriktsstyrelse --- Presidium
+
 Distriktsstyrelse --> Kommitte1
 Distriktsstyrelse --> Kommitte2
 Distriktsstyrelse --> Kommitte3
 Distriktsstyrelse --> Kommitte4
+
 Distriktsstyrelse --> Ledning
 
-%% Styling
-classDef demokratisk fill:#dcefd6,stroke:#b4d3aa,color:#111;
-classDef strategisk fill:#b51620,stroke:#8f1118,color:#fff;
-classDef presidium fill:#d96f73,stroke:#b51620,color:#fff;
-classDef taktisk fill:#efe3d2,stroke:#d4c4ad,color:#111;
-classDef operationell fill:#f2f2f2,stroke:#d9d9d9,color:#111;
-classDef dashed fill:#fff,stroke:#111,stroke-dasharray: 6 6,color:#111;
+Ledning --> Avdelning1
+Ledning --> Avdelning2
 
-class Valberedning,Revision,Disciplinnamnd,Arsmote,Representantskap demokratisk;
-class Distriktsstyrelse strategisk;
-class Presidium presidium;
-class Kommitte1,Kommitte2,Kommitte3,Kommitte4 taktisk;
-class Ledning,Avdelning1,Avdelning2,Roll1,Roll2,Roll3,Roll4 operationell;
-class Arbetsgrupper,Referensgrupper,Tvarfunktionellt dashed;
+Avdelning1 --> Roll1
+Avdelning1 --> Roll2
+
+Avdelning2 --> Roll3
+Avdelning2 --> Roll4
+
+
+%% =========================
+%% STÖDJANDE / TVÄRFUNKTIONELLA LINJER
+%% =========================
+
+Arbetsgrupper -.-> Distriktsstyrelse
+
+Tvarfunktionella -.-> Kommitte1
+Tvarfunktionella -.-> Kommitte2
+Tvarfunktionella -.-> Kommitte3
+Tvarfunktionella -.-> Kommitte4
+
+Referensgrupper -.-> Ledning
+
+
+%% =========================
+%% OSYNLIGA LAYOUT-LÄNKAR
+%% De hjälper Mermaid att hålla ordningen
+%% =========================
+
+Arbetsgrupper ~~~ Styrelseblock
+Styrelseblock ~~~ StrategiskSlut
+
+Tvarfunktionella ~~~ Kommitteblock
+Kommitteblock ~~~ TaktiskSlut
+
+Referensgrupper ~~~ Kansliblock
+Kansliblock ~~~ OperationellSlut
+
+
+%% =========================
+%% STYLING
+%% =========================
+
+classDef green fill:#b9d7ae,stroke:#b9d7ae,color:#111;
+classDef red fill:#b51620,stroke:#b51620,color:#fff;
+classDef lightred fill:#da7073,stroke:#da7073,color:#fff;
+classDef beige fill:#efe3d2,stroke:#efe3d2,color:#111;
+classDef white fill:#f7f7f7,stroke:#f7f7f7,color:#111;
+classDef dashed fill:#ffffff,stroke:#111,stroke-dasharray: 6 6,color:#111;
+classDef invisible fill:transparent,stroke:transparent,color:transparent;
+
+class Valberedning,Revision,Disciplinnamnd,Arsmote,Representantskap green;
+class Distriktsstyrelse red;
+class Presidium lightred;
+class Kommitte1,Kommitte2,Kommitte3,Kommitte4 beige;
+class Ledning,Avdelning1,Avdelning2,Roll1,Roll2,Roll3,Roll4 white;
+class Arbetsgrupper,Tvarfunktionella,Referensgrupper dashed;
+class StrategiskSlut,TaktiskSlut,OperationellSlut invisible;
+
+style DemokratiskRad fill:#dcefd6,stroke:#dcefd6
+style StrategiskRad fill:#efb8b8,stroke:#efb8b8
+style TaktiskRad fill:#f3eee8,stroke:#f3eee8
+style OperationellRad fill:#f4f4f4,stroke:#f4f4f4
+
+style GranskandeFunktioner fill:transparent,stroke:transparent
+style Styrelseblock fill:#b51620,stroke:#b51620
+style Kommitteblock fill:#e8dcc9,stroke:#e8dcc9
+style Kansliblock fill:#eeeeee,stroke:#eeeeee
+style Avdelningsrad fill:transparent,stroke:transparent
+style Rollrad fill:transparent,stroke:transparent
 ```
 
 ## Bilden ska visa relationerna
@@ -132,7 +208,7 @@ Bilden bör vara enkel nog att förstå snabbt. Den behöver samtidigt vara korr
 
 {% columns %}
 {% column %}
-#### Det ska synas
+**Det ska synas**
 
 Medlemsföreningarnas demokratiska mandat.
 
@@ -146,7 +222,7 @@ Distriktschef och kansli som operativ ledning och genomförande.
 {% endcolumn %}
 
 {% column %}
-#### Det ska hållas isär
+**Det ska hållas isär**
 
 Granskande funktioner rapporterar till årsmötet.
 
