@@ -70,7 +70,7 @@ Orden ersätter inte formella uppdrag eller beslutsmandat. De ger ett gemensamt 
 
 Distriktsstyrelsen ska främja fotbollens utveckling i Småland genom närvarande styrning. Kommittéer och andra taktiska funktioner ska utveckla verksamheten genom lyhördhet mot föreningar och andra berörda. Distriktschef och kansli ska administrera, stödja och genomföra på ett sätt som är relevant för föreningarnas vardag.
 
-## Ett samband som måste hållas levande
+### Ett samband som måste hållas levande
 
 I den löpande styrningen finns ett särskilt viktigt samband mellan distriktsstyrelsen, kommittéordförandena och distriktschefen.
 
