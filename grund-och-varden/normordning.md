@@ -51,24 +51,22 @@ Processbeskrivningar, rutiner, mallar, checklistor, bilagor och annat stödmater
 {% endstep %}
 {% endstepper %}
 
-## Vägledning är inte alltid norm
+### Vägledning är inte alltid norm
 
 Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. Vissa dokument hjälper distriktet att tolka, utveckla och förbättra styrningen, utan att vara en egen normnivå.
 
 {% hint style="info" %}
-RF:s rekommendation för god demokratisk styrning är vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning.
+Riksidrottsförbundets [rekommendation för god demokratisk styrning](god-demokratisk-styrning.md) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning.
 {% endhint %}
 
-Mer om hur rekommendationen används finns i [god demokratisk styrning](god-demokratisk-styrning.md).
+## Folkrörelsen är grunden under ordningen
+
+[Folkrörelseprincipen](folkrorelseprincip.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
 
 ## När något skaver
 
 Om två dokument verkar säga olika saker gäller det dokument eller beslut som ligger högre i normordningen. Om frågan gäller vilken dokumenttyp som ska användas, hur dokument ska förvaltas eller var ett dokument hör hemma, ska den prövas mot [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md).
 
 Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå. Den ska inte lösas genom tradition, personligt omdöme eller informella genvägar.
-
-## Folkrörelsen är grunden under ordningen
-
-[Folkrörelseprincipen](folkrorelseprincip.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
 
 När medlemsföreningarnas mandat, distriktsstyrelsens ansvar, kommittéernas uppdrag och kansliets verkställighet hålls isär blir styrningen både tydligare och mer demokratisk. Det är enkel ordning, men den gör stor skillnad i vardagen.
