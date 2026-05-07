@@ -1,72 +1,92 @@
 ---
 description: >-
-  Disciplinnämndens roll som självständigt organ för disciplinära ärenden.
+  Disciplinnämndens självständiga och rättssäkra prövning av disciplinära ärenden
+  inom sitt mandat.
 ---
 
 # Disciplinnämnd
 
-Disciplinnämnden är ett självständigt organ valt av årsmötet.
+Disciplinnämnden ska hantera svåra ärenden med lugn, ordning och respekt.
 
-Den prövar disciplinära ärenden inom sitt mandat och ska göra det sakligt, opartiskt och rättssäkert.
+Den är ett självständigt organ valt av årsmötet och prövar disciplinära ärenden inom sitt mandat. Uppdraget är att tillämpa gällande regler sakligt, opartiskt och rättssäkert, inte att driva verksamhet eller göra politiska bedömningar.
 
-Disciplinnämnden är en del av distriktets granskande och rättstillämpande struktur, men den ska inte blandas ihop med distriktsstyrelsens löpande styrning.
+{% hint style="info" %}
+Disciplinnämnden prövar ärenden enligt gällande stadgar, tävlingsbestämmelser, reglementen och andra tillämpliga regler. Styrmodellen beskriver nämndens roll och självständighet, inte hela regelverket för disciplinärenden.
+{% endhint %}
 
-## Självständig ställning
+## Självständigheten skyddar prövningen
 
-Disciplinnämndens självständighet är central.
+Disciplinnämndens självständighet är central. [Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) ansvarar för övergripande organisation och ramar, men ska inte påverka nämndens bedömning i enskilda ärenden.
 
-Distriktsstyrelsen ansvarar för övergripande organisation och ramar, men ska inte påverka disciplinnämndens bedömning i enskilda ärenden.
+[Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) kan ge administrativt stöd, men stödet ska vara neutralt. Det får inte påverka den sakliga prövningen.
 
-Kansliet kan ge administrativt stöd, men ska inte påverka den sakliga prövningen.
+{% hint style="warning" %}
+Ingen funktion i distriktet ska försöka påverka disciplinnämndens bedömning i ett enskilt ärende. Självständigheten är en del av rättssäkerheten.
+{% endhint %}
 
-## Uppdrag
+## Rättssäkerhet i praktiken
 
-Disciplinnämnden prövar disciplinära ärenden enligt gällande stadgar, tävlingsbestämmelser, reglementen och andra tillämpliga regler.
+Rättssäkerhet handlar om att de som berörs ska kunna förstå processen, bli behandlade sakligt och få ett beslut som går att följa.
 
-Styrmodellen ska inte återge hela regelverket för disciplinärenden. Den ska tydliggöra nämndens roll, självständighet och ansvar i organisationens styrning.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Saklighet</strong><br>Ärenden ska bedömas utifrån regler, underlag och omständigheter i ärendet.</td></tr><tr><td><strong>Opartiskhet</strong><br>Personliga relationer, föreningstillhörighet eller yttre tryck ska inte påverka bedömningen.</td></tr><tr><td><strong>Dokumentation</strong><br>Det ska gå att förstå vad som har prövats, vad som beslutats och på vilken grund.</td></tr><tr><td><strong>Integritet</strong><br>Personuppgifter och känsliga uppgifter ska hanteras varsamt och enligt gällande regler.</td></tr></tbody></table>
 
-## Rättssäkerhet
-
-Ärenden som rör föreningar, ledare, spelare, domare eller andra personer ska hanteras med hög rättssäkerhet.
-
-Det innebär bland annat:
-
-* saklig och opartisk handläggning
-* tydlig dokumentation
-* respekt för partsinsyn enligt gällande regler
-* hantering av jäv
-* skydd för integritet
-* tydliga beslut
-* möjlighet till prövning enligt gällande regelverk
-
-Det är viktigt både för den enskilde och för förtroendet för distriktet.
-
-## Jäv
+## Jäv ska hanteras utan krusiduller
 
 Ledamot som är jävig ska inte delta i handläggning eller beslut i ärendet.
 
-Jäv ska hanteras öppet, dokumenteras och leda till att berörd person träder åt sidan i den del där jäv föreligger.
+Jäv ska hanteras öppet, dokumenteras och leda till att berörd person träder åt sidan i den del där jäv finns. Det är inte ett misstroende mot personen. Det är ett sätt att skydda beslutet.
 
-## Dokumentation och överklagande
+## Från ärende till beslut
 
-Disciplinnämndens beslut ska dokumenteras på ett sätt som gör det möjligt att förstå vad som beslutats, på vilken grund och hur beslutet kan prövas vidare enligt gällande regler.
+Disciplinnämndens arbete behöver vara ordnat hela vägen.
 
-Överklagandevägar och formella processer ska följa tillämpliga stadgar, tävlingsbestämmelser och reglementen.
+{% stepper %}
+{% step %}
+**Ärendet tas emot**  
+Underlag, behörighet och tillämpliga regler behöver klarläggas.
+{% endstep %}
 
-## Gräns mot distriktsstyrelsen
+{% step %}
+**Jäv och handläggning prövas**  
+Det ska vara tydligt vilka som kan delta i ärendet och hur det ska handläggas.
+{% endstep %}
 
-Distriktsstyrelsen ska inte styra disciplinnämndens bedömning i enskilda ärenden.
+{% step %}
+**Saken bedöms**  
+Nämnden prövar ärendet utifrån gällande regler och det underlag som finns.
+{% endstep %}
 
-Om distriktsstyrelsen behöver hantera frågor om organisation, resurser eller arbetsformer för disciplinnämnden ska det ske utan att påverka pågående eller enskilda ärenden.
+{% step %}
+**Beslut dokumenteras**  
+Beslutet ska ange vad som beslutats, grunden för beslutet och hur beslutet kan prövas vidare om sådan möjlighet finns.
+{% endstep %}
+{% endstepper %}
 
-## Gräns mot kansliet
+## Gränsen mot andra delar av distriktet
 
-Kansliet kan stödja disciplinnämnden med administration, underlag, kallelser, diarieföring och dokumenthantering.
+<details>
+<summary><strong>Mot distriktsstyrelsen</strong></summary>
 
-Det administrativa stödet ska vara neutralt och får inte påverka den sakliga bedömningen.
+Distriktsstyrelsen ska inte styra disciplinnämndens bedömning i enskilda ärenden. Om styrelsen hanterar frågor om organisation, resurser eller arbetsformer ska det ske utan att påverka pågående eller enskilda ärenden.
 
-## Vägledande princip
+</details>
 
-Disciplinnämnden ska bidra till att distriktets regler tillämpas ordnat, förutsägbart och rättssäkert.
+<details>
+<summary><strong>Mot kansliet</strong></summary>
 
-Det ska märkas att även svåra ärenden hanteras med lugn, ordning och respekt.
+Kansliet kan stödja med administration, underlag, kallelser, diarieföring och dokumenthantering. Stödet ska vara neutralt och får inte bli saklig styrning.
+
+</details>
+
+<details>
+<summary><strong>Mot tävlingsverksamheten</strong></summary>
+
+Tävlingsfrågor, administration och disciplinär prövning kan ligga nära varandra i vardagen. Därför behöver rollerna hållas isär så att disciplinära beslut inte uppfattas som operativ tävlingsstyrning.
+
+</details>
+
+## Beslut som tål att läsas
+
+Disciplinnämndens beslut ska vara tydliga nog för den som berörs och för organisationen att förstå. Det ska framgå vad som prövats, vad som beslutats och vilken ordning som gäller för eventuell fortsatt prövning.
+
+När disciplinnämnden gör sitt arbete väl stärks förtroendet för hela distriktet. Det ska märkas att även svåra frågor hanteras sakligt, rättssäkert och småländskt stadigt.
