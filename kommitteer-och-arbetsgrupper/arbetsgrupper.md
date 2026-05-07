@@ -1,64 +1,111 @@
 ---
 description: >-
-  Arbetsgrupper som stödjande strukturer för avgränsade uppdrag.
+  Hur arbetsgrupper kan användas för avgränsade uppdrag utan att skapa nya
+  informella beslutsvägar.
 ---
 
 # Arbetsgrupper
 
-En arbetsgrupp är en tillfällig eller löpande grupp som får ett avgränsat uppdrag.
+Arbetsgrupper används när distriktet behöver samla kraft kring en avgränsad fråga.
 
-Arbetsgrupper används när distriktet behöver samla personer kring en särskild fråga, ett projekt, en beredning eller ett genomförande som inte kräver en egen kommitté.
+Det kan handla om att ta fram ett underlag, driva ett projekt, bereda en fråga eller genomföra en särskild insats. En arbetsgrupp ska göra arbetet mer fokuserat, inte göra ansvarsfördelningen otydligare.
 
-En arbetsgrupp är normalt inte ett beslutsorgan.
+{% hint style="info" %}
+En arbetsgrupp är normalt inte ett beslutsorgan. Om gruppen ska fatta beslut krävs tydligt stöd i uppdrag, delegation eller särskilt beslut.
+{% endhint %}
 
-## Uppdrag
+## Ett uppdrag med början och slut
 
-En arbetsgrupp ska ha ett tydligt uppdrag.
+En arbetsgrupp ska ha ett tydligt uppdrag. Det ska gå att förstå varför gruppen finns, vem den arbetar på uppdrag av och vad som ska levereras.
 
-Uppdraget bör ange:
+{% stepper %}
+{% step %}
+**Syfte**  
+Varför behövs arbetsgruppen?
+{% endstep %}
 
-* syfte
-* avgränsning
-* ansvarig nivå
-* sammansättning
-* tidsram
-* förväntad leverans
-* hur återrapportering ska ske
+{% step %}
+**Avgränsning**  
+Vilken fråga, vilket projekt eller vilken leverans gäller uppdraget?
+{% endstep %}
 
-Det ska vara tydligt vem arbetsgruppen arbetar på uppdrag av och vad som händer med gruppens resultat.
+{% step %}
+**Ansvarig nivå**  
+Vem tillsätter gruppen och vem tar emot resultatet?
+{% endstep %}
 
-## Tillsättning
+{% step %}
+**Tidsram**  
+När ska arbetet vara klart eller prövas på nytt?
+{% endstep %}
 
-Arbetsgrupper kan tillsättas av distriktsstyrelsen, en kommitté eller annan behörig funktion inom sitt mandat.
+{% step %}
+**Återrapportering**  
+Hur ska gruppen rapportera, och till vem?
+{% endstep %}
+{% endstepper %}
 
-Den som tillsätter arbetsgruppen ansvarar för att uppdraget är tydligt och att gruppens arbete följs upp.
+Om de frågorna inte går att svara på är arbetsgruppen förmodligen inte tillräckligt tydligt uppdragen.
 
-## Beslutanderätt
+## Arbetsgruppen rapporterar till den som gett uppdraget
 
-En arbetsgrupp har inte beslutanderätt bara för att den har ett uppdrag.
+En arbetsgrupp ska normalt rapportera till distriktsstyrelsen om den tillsatts av distriktsstyrelsen. Om en arbetsgrupp tillsätts av annan behörig funktion inom sitt mandat ska återrapporteringen framgå av uppdraget.
 
-Om en arbetsgrupp ska fatta beslut krävs uttrycklig delegation eller ett särskilt beslut som anger mandat, omfattning, beslutsform, dokumentation och återrapportering.
+Det viktiga är att gruppens arbete kommer tillbaka till rätt nivå. Annars riskerar arbetsgruppen att bli en fristående struktur utan tydligt ansvar.
 
-Som huvudregel bör beslutanderätt delegeras till formella organ eller tydligt utsedda funktioner, till exempel kommitté, presidium, distriktschef eller namngiven roll.
+## Skillnaden mot kommitté och referensgrupp
 
-## Gräns mot kommitté
+{% columns %}
+{% column %}
+### Kommitté
 
-En kommitté är ett organ under distriktsstyrelsen med ett mer varaktigt uppdrag inom ett sakområde.
+En [kommitté](kommitteer.md) är ett mer varaktigt organ under distriktsstyrelsen med ansvar inom ett sakområde.
 
-En arbetsgrupp är mer avgränsad. Den ska normalt lösa eller bereda en särskild fråga.
+Om en arbetsgrupp börjar bära ett helt område eller får återkommande beslutsmandat bör formen prövas på nytt.
+{% endcolumn %}
 
-Om en arbetsgrupp blir permanent, får återkommande beslutsmandat eller börjar bära ett helt sakområde bör det prövas om den i stället ska organiseras som kommitté eller annan formell funktion.
+{% column %}
+### Referensgrupp
 
-## Gräns mot referensgrupp
+En [referensgrupp](referensgrupper.md) ger råd, perspektiv och erfarenhet.
 
-En referensgrupp bidrar främst med inspel, erfarenheter och perspektiv.
+Om gruppen förväntas ta fram, driva eller genomföra något är den snarare en arbetsgrupp än en referensgrupp.
+{% endcolumn %}
+{% endcolumns %}
 
-En arbetsgrupp kan arbeta mer aktivt med beredning, framtagande eller genomförande.
+## Beslut kräver särskilt mandat
 
-Skillnaden ska vara tydlig för dem som deltar.
+Att få ett uppdrag är inte samma sak som att få beslutanderätt.
 
-## Vägledande princip
+<details>
+<summary><strong>Om arbetsgruppen ska bereda</strong></summary>
 
-Arbetsgrupper ska ge kraft åt avgränsade uppdrag utan att skapa nya informella beslutsvägar.
+Då tar gruppen fram underlag, förslag eller vägval. Beslutet fattas av det organ eller den funktion som har mandat.
 
-Det ska vara lätt att se varför gruppen finns, vem den arbetar för och vad den får göra.
+</details>
+
+<details>
+<summary><strong>Om arbetsgruppen ska genomföra</strong></summary>
+
+Då behöver uppdrag, resurser, ansvarig funktion och återrapportering vara tydliga.
+
+</details>
+
+<details>
+<summary><strong>Om arbetsgruppen ska besluta</strong></summary>
+
+Då krävs uttrycklig [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller ett särskilt beslut som anger mandat, omfattning, dokumentation och återrapportering.
+
+</details>
+
+## När arbetsgruppen har gjort sitt
+
+En arbetsgrupp ska inte leva vidare av gammal vana.
+
+När uppdraget är slutfört bör resultatet tas emot av rätt nivå, dokumenteras tillräckligt och gruppen avslutas eller ges ett nytt tydligt uppdrag.
+
+{% hint style="warning" %}
+Om en arbetsgrupp blir permanent, börjar fatta återkommande beslut eller uppfattas som ansvarig för ett helt sakområde, behöver formen prövas. Då kan den ha vuxit ur sitt uppdrag.
+{% endhint %}
+
+En bra arbetsgrupp gör en avgränsad sak ordentligt. Sedan lämnar den tillbaka resultatet till rätt ansvarig nivå.
