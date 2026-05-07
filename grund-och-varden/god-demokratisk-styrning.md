@@ -10,6 +10,8 @@ God demokratisk styrning handlar om att folkrörelsen ska fungera också när fr
 
 För Smålands Fotbollförbund är det ett sätt att vårda det som [folkrörelseprincipen](folkrorelseprincip.md) bygger på: föreningarnas mandat, tydliga roller, rätt nivå för beslut och en styrning som går att förstå och följa.
 
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Tydliga roller</strong><br>Beslut fattas där mandatet finns – inte där det råkar vara bekvämt.</td></tr><tr><td><strong>Öppenhet</strong><br>Handlingar, beslut och uppdrag ska vara möjliga att förstå – inte bara tillgängliga.</td></tr><tr><td><strong>Ansvar som följs</strong><br>Ansvarskedjan ska gå att spåra hela vägen från beredning till uppföljning.</td></tr><tr><td><strong>Oberoende granskning</strong><br>Revision och valberedning behöver stå fria från det de granskar.</td></tr><tr><td><strong>Möjlighet att pröva</strong><br>Styrmodellen ska hjälpa tillbaka till rätt nivå när något skevar.</td></tr></tbody></table>
+
 ## Från föreningsdemokrati till arbetssätt
 
 Demokrati stannar inte vid [stadgar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar), [årsmöten](../demokratisk-styrning/arsmote.md) och val. Den behöver också synas i hur frågor förbereds, hur beslut dokumenteras, hur ansvar följs upp och hur granskning får göra sitt jobb.
@@ -24,7 +26,7 @@ Rekommendationen är vägledande. Den ersätter inte stadgar, beslut eller andra
 
 När roller och ansvar är otydliga blir demokratin svårare att använda.
 
-Föreningarna behöver veta vilka frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md), vilka som hör till [representantskapet](../demokratisk-styrning/representantskap.md), vad [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) ansvarar för och vad som ska hanteras av [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md), [kansli](../distriktsstyrelsen-och-ledningen/kansli.md), [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) eller [granskande funktioner](/broken/pages/7rivoXlmTHzwmm0HLzcn).
+Föreningarna behöver veta vilka frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md), vilka som hör till [representantskapet](../demokratisk-styrning/representantskap.md), vad [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) ansvarar för och vad som ska hanteras av [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md), [kansli](../distriktsstyrelsen-och-ledningen/kansli.md), [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) eller [granskande funktioner](../granskande-funktioner/revision-och-lekmannarevision.md).
 
 Det är inte byråkrati för byråkratins skull. Det är ett sätt att se till att beslut fattas där mandatet finns.
 

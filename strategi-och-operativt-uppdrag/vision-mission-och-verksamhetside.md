@@ -34,7 +34,7 @@ En enkel prövningsfråga är därför: stärker detta föreningslivet och männ
 
 {% hint style="success" %}
 **Verksamhetsidé**  
-Smålands Fotbollförbund är en sammanhållande kraft för fotbollen i Småland – ett nav för stöd, samverkan och utveckling.
+Smålands Fotbollförbund är en sammanhållande kraft för fotbollen i Småland – ett nav för stöd, samverkan och utveckling som främjar, utvecklar och administrerar fotbollens alla former.
 {% endhint %}
 
 Verksamhetsidén beskriver distriktets roll. Distriktet ska hålla ihop, stödja, samverka och utveckla fotbollen i Småland.

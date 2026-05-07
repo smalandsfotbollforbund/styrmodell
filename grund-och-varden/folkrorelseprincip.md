@@ -28,7 +28,7 @@ När styrmodellen talar om ansvar, mandat, beslut, beredning, uppföljning och g
 
 ## Den grundläggande innebörden
 
-Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokratisk-styrning/arsmote.md), [representantskap](../demokratisk-styrning/representantskap.md), [motioner](../demokratisk-styrning/motioner-och-initiativratt.md), [val](../demokratisk-styrning/val-ombud-och-rostratt.md) och [granskning](/broken/pages/7rivoXlmTHzwmm0HLzcn).
+Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokratisk-styrning/arsmote.md), [representantskap](../demokratisk-styrning/representantskap.md), [motioner](../demokratisk-styrning/motioner-och-initiativratt.md), [val](../demokratisk-styrning/val-ombud-och-rostratt.md) och [granskning](../granskande-funktioner/revision-och-lekmannarevision.md).
 
 Det är föreningarnas gemensamma uppdrag som ger distriktet [legitimitet](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md). Medlemsföreningarna väljer, beslutar, väcker frågor, granskar och ger uppdrag genom de former som följer av stadgar och beslutade processer.
 

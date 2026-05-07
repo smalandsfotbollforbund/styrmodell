@@ -14,7 +14,7 @@ Inte av styrelsen, inte av kansliet, inte av enskilda personer. Föreningarna ä
 
 <summary><strong>Beslut fattas demokratiskt</strong></summary>
 
-Ingen kan ensam bestämma hur distriktet styrs utan ett mandat från demokratiska val och beslut. Det är fotrörelsens kärna.
+Ingen kan ensam bestämma hur distriktet styrs utan ett mandat från demokratiska val och beslut. Det är folkrörelsens kärna.
 
 </details>
 

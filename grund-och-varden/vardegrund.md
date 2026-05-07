@@ -20,6 +20,8 @@ Riksidrottsförbundet beskriver [idrottsrörelsens värdegrund](https://app.gitb
 Idrottens värdegrund är en gemensam grund för svensk idrott. För distriktet är den både en fråga om verksamhet och om styrning: hur vi fattar beslut, hur vi behandlar människor och hur vi följer upp det ansvar vi har.
 {% endhint %}
 
+{% include "../.gitbook/includes/idrottens-karnvarden.md" %}
+
 För Smålands Fotbollförbund betyder det att beslut inte bara ska vara formellt riktiga. De ska också bära idrottens idé om gemenskap, delaktighet, öppenhet och rent spel.
 
 ## Fotbollens värdegrund gör det konkret på planen
@@ -29,6 +31,8 @@ Fotbollen har sin egen tillämpning av idrottens värdegrund. Svenska Fotbollfö
 Där betonas fem riktlinjer: **fotboll för alla**, **barns och ungdomars villkor**, **fokus på glädje, ansträngning och lärande**, **hållbart idrottande** och **Fair Play**.
 
 Det är fotbollens sätt att säga att spelet ska vara öppet nog för många, tryggt nog för barn och unga, utmanande nog för utveckling och schysst nog för att människor ska vilja vara kvar.
+
+{% include "../.gitbook/includes/fotbollens-vardegrund.md" %}
 
 ## Barn och unga kräver särskild omsorg
 

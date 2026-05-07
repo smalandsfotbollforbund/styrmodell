@@ -228,4 +228,6 @@ Dokumenttyperna definieras samlat i [dokumentarkitekturen](../styrande-dokument/
 | **Sammanträde** | När distriktsstyrelsen, kommitté, disciplinnämnd, valberedning eller annat organ samlas för beredning, ställningstagande eller beslut |
 | **Dialogmöte, forum eller rådslag** | Icke-beslutande mötesplatser |
 
+{% hint style="warning" %}
 Ett möte är inte beslutande bara för att många deltar. Beslutanderätt kräver stöd i stadgar, arbetsordning, delegationsordning eller annat behörigt beslut.
+{% endhint %}
