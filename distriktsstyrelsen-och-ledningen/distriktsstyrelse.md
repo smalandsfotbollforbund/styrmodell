@@ -1,91 +1,103 @@
 ---
 description: >-
-  Distriktsstyrelsens roll, ansvar och gränser i Smålands Fotbollförbunds
-  styrning.
+  Distriktsstyrelsens strategiska ansvar mellan de demokratiska mötena och hur
+  styrelsen leder utan att ta över det operativa arbetet.
 ---
 
 # Distriktsstyrelse
 
-Distriktsstyrelsen leder Smålands Fotbollförbund mellan de demokratiska mötena.
+Distriktsstyrelsen leder Smålands Fotbollförbund mellan de demokratiska mötena. Den får sitt mandat från föreningarna och ska använda det inom de ramar som följer av stadgar, demokratiska beslut och gällande dokument.
 
-Mandatet kommer från medlemsföreningarna och utövas inom de ramar som följer av stadgar, årsmötesbeslut, representantskapsbeslut och andra överordnade beslut. Distriktsstyrelsen har ett stort ansvar, men inte ett fritt mandat.
+Styrelsen ska hålla ihop riktning, ansvar och uppföljning. Den ska inte bli ett extra kansli, en kommitté över kommittéerna eller en genväg för frågor som hör hemma hos årsmöte eller representantskap.
 
-När det är oklart vad som väger tyngst ska [Normordning](../grund-och-varden/normordning.md) användas.
+{% hint style="info" %}
+När det är oklart vad som väger tyngst används [normordningen](../grund-och-varden/normordning.md). När frågan gäller vilken nivå eller roll som ska hantera en fråga används [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md).
+{% endhint %}
 
-## Distriktsstyrelsens uppgift i styrmodellen
+## Styrelsen ska hålla riktningen
 
-Distriktsstyrelsen verkar på den strategiska nivån i styrmodellen.
+Distriktsstyrelsens viktigaste uppgift är att se till att distriktet vet vart det ska, varför det ska dit och hur ansvaret följs upp längs vägen.
 
-Det innebär att distriktsstyrelsen framför allt ska:
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Riktning</strong><br>Styrelsen beslutar om prioriteringar, ramar och uppdrag inom sitt mandat.</td></tr><tr><td><strong>Organisation</strong><br>Styrelsen skapar ordning genom arbetsformer, delegationer, uppdrag och uppföljning.</td></tr><tr><td><strong>Ansvar</strong><br>Styrelsen bär det övergripande ansvaret för verksamhet, ekonomi och intern kontroll.</td></tr><tr><td><strong>Förtroende</strong><br>Styrelsen ska vårda föreningarnas mandat genom tydliga beslut, begriplig styrning och uppföljning.</td></tr></tbody></table>
 
-* ange riktning
-* besluta om prioriteringar och ramar
-* organisera arbetet
-* besluta om delegation
-* följa upp verksamhet och ekonomi
-* säkerställa intern kontroll
-* vårda distriktets demokratiska legitimitet
+## Beslut fattas som styrelse
 
-Distriktsstyrelsen ska hålla ihop helheten. Den ska inte bli kansliets dagliga arbetsledning.
+Distriktsstyrelsen är ett kollegialt organ. Det betyder att styrelsen fattar beslut tillsammans.
 
-## Kollektivt ansvar
+Enskilda ledamöter, även distriktsordföranden, ersätter inte distriktsstyrelsens beslutanderätt om det inte finns ett särskilt beslut eller en tydlig [delegation](delegation.md). Det skyddar både helheten och de personer som bär uppdraget.
 
-Distriktsstyrelsen fattar beslut som organ.
+## Det strategiska ansvaret har gränser
 
-Enskilda ledamöter, inklusive distriktsordföranden, ersätter inte distriktsstyrelsens kollektiva beslutanderätt om inte särskild delegation finns.
+Distriktsstyrelsen behöver vara tydlig med vad den ska göra och vad den inte ska ta över.
 
-Det kollektiva ansvaret är viktigt. Det skyddar både organisationen och de enskilda ledamöterna.
+{% columns %}
+{% column %}
+### Styrelsen ska
 
-## Fem huvudfunktioner
+Fatta beslut inom sitt mandat.
 
-Distriktsstyrelsens arbete kan förstås genom fem huvudfunktioner.
+Ge uppdrag och ramar.
 
-| Funktion | Innebörd |
-| --- | --- |
-| **Strategisk ledning** | Ange riktning och skapa förutsättningar för utveckling i linje med stadgar, strategi och demokratiska beslut |
-| **Samordning** | Hålla ihop organisationens delar och säkerställa att ansvar och mandat hänger ihop |
-| **Ansvarsbärande** | Bära det övergripande ansvaret för verksamhet, ekonomi, arbetsformer och intern kontroll |
-| **Delegation** | Fördela beslutanderätt inom tydliga, skriftliga och uppföljningsbara ramar |
-| **Uppföljning** | Följa upp verksamhet, ekonomi, måluppfyllelse, delegation och intern kontroll |
+Följa upp verksamhet och ekonomi.
 
-Mer om delegation finns i [Delegation](delegation.md). Mer om intern kontroll finns i [Intern kontroll och attest](intern-kontroll-och-attest.md).
+Besluta om delegation.
 
-## Gräns mot den demokratiska nivån
+Säkerställa [intern kontroll och attest](intern-kontroll-och-attest.md).
+{% endcolumn %}
 
-Distriktsstyrelsen ska verkställa och följa de beslut som fattas av årsmöte och representantskap inom respektive mandat.
+{% column %}
+### Styrelsen ska inte
 
-Frågor som stadgarna lägger på årsmötet eller representantskapet ska inte avgöras av distriktsstyrelsen, även om de är praktiskt viktiga eller brådskande.
+Ta över kansliets dagliga arbetsledning.
 
-## Gräns mot distriktschef och kansli
+Avgöra frågor som hör till årsmöte eller representantskap.
 
-Distriktsstyrelsen beslutar om riktning, ramar, uppdrag och uppföljning.
+Bli ett parallellt presidium.
 
-Distriktschef och kansli ansvarar för att leda och genomföra den löpande verksamheten inom dessa ramar.
+Göra kommittéernas sakkunniga beredning i onödan.
 
-Distriktsstyrelsen ska inte detaljstyra den operativa vardagen. Om den gör det blir ansvaret otydligt och distriktschefens uppdrag försvagas.
+Skapa muntliga mandat som inte går att följa.
+{% endcolumn %}
+{% endcolumns %}
 
-## Gräns mot kommittéer
+## Relationerna runt styrelsen behöver vara raka
 
-Kommittéerna verkar inom uppdrag och delegation från distriktsstyrelsen.
+<details>
+<summary><strong>Mot årsmöte och representantskap</strong></summary>
 
-Distriktsstyrelsen ska ge tydliga ramar, följa upp arbetet och säkerställa att kommittéerna verkar i linje med helheten.
+Distriktsstyrelsen ska följa och verkställa beslut från [årsmötet](../demokratisk-styrning/arsmote.md) och [representantskapet](../demokratisk-styrning/representantskap.md) inom respektive mandat. Frågor som stadgarna lägger på medlemsorganen ska inte flyttas till styrelsen av praktiska skäl.
 
-Samtidigt ska distriktsstyrelsen inte ta över kommittéernas sakkunniga beredning eller taktiska arbete utan skäl.
+</details>
 
-## Presidium
+<details>
+<summary><strong>Mot distriktschef och kansli</strong></summary>
 
-Distriktsstyrelsen kan använda presidiet för beredning, samordning och särskilt delegerade uppgifter.
+Styrelsen beslutar om riktning, ramar och uppföljning. [Distriktschefen](distriktschef.md) leder den löpande verksamheten och [kansliet](kansli.md) genomför, administrerar och stödjer inom beslutade ramar.
 
-Presidiet är inte ett parallellt beslutsorgan. Dess roll beskrivs i [Presidium](presidium.md).
+</details>
 
-## Arbetsordning och utvärdering
+<details>
+<summary><strong>Mot kommittéerna</strong></summary>
 
-Distriktsstyrelsens konkreta arbetsformer ska regleras i arbetsordning och andra beslutade dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Kommittéerna verkar inom uppdrag och delegation från distriktsstyrelsen. Styrelsen ska ge tydliga ramar och följa upp arbetet, men inte ta över den taktiska beredningen utan skäl.
 
-Distriktsstyrelsen bör regelbundet utvärdera sitt eget arbete och distriktschefens uppdrag. Sådana utvärderingar bör hanteras som en del av styrningens årscykel och kan konkretiseras genom processbeskrivningar, mallar eller bilagor i dokumentarkivet.
+</details>
 
-## Vägledande princip
+<details>
+<summary><strong>Mot presidiet</strong></summary>
 
-Distriktsstyrelsen ska vara tydlig i riktning, varsam med mandat och noggrann i uppföljning.
+[Presidiet](presidium.md) kan förbereda, samordna och hantera särskilt delegerade uppgifter. Det är inte ett parallellt beslutsorgan vid sidan av distriktsstyrelsen.
 
-Det är så styrelsen främjar fotbollen i distriktet utan att ta över sådant som hör hemma på annan nivå.
+</details>
+
+## Arbetsordningen gör styrelsearbetet praktiskt
+
+Den konkreta arbetsformen hör hemma i styrelsens arbetsordning och andra gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+
+Där bör det framgå hur sammanträden planeras, hur ärenden bereds, hur beslut dokumenteras, hur uppdrag följs upp och hur styrelsen utvärderar sitt eget arbete och distriktschefens uppdrag.
+
+## När styrelsen gör sitt jobb märks det i vardagen
+
+En bra distriktsstyrelse syns inte genom att vara inne i varje detalj. Den märks genom att organisationen vet vad som gäller, vart den är på väg och vem som ansvarar för nästa steg.
+
+Det är styrelsens småländska uppgift: hålla riktningen stadig, mandatet rent och uppföljningen tillräckligt nära.
