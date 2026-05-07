@@ -1,105 +1,103 @@
 ---
 description: >-
-  Hur beslutanderätt får delegeras och följas upp i Smålands Fotbollförbund.
+  Hur beslutanderätt kan flyttas till rätt nivå utan att ansvar, spårbarhet och
+  återrapportering går förlorade.
 ---
 
 # Delegation
 
-Delegation innebär att ett organ med beslutanderätt överlåter rätten att fatta beslut i vissa avgränsade frågor till ett annat organ, en funktion eller en tjänsteperson.
+Delegation gör att beslut kan fattas närmare den plats där frågan hör hemma. Rätt använd ger den handlingskraft. Fel använd skapar otydlig makt.
 
-Rätt använd gör delegation styrningen tydligare och vardagen smidigare. Fel använd skapar gråzoner, informell makt och otydligt ansvar.
+Delegation betyder att ett organ med beslutanderätt överlåter rätten att fatta beslut i vissa avgränsade frågor till ett annat organ, en funktion eller en tjänsteperson. Det övergripande ansvaret försvinner inte.
 
-Den konkreta delegationsordningen ska finnas i [dokumentarkivet](https://styrning.smaland.football/dokument). Den här sidan beskriver principerna.
+{% hint style="info" %}
+Den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument). Den här sidan beskriver principerna som ska göra delegation tydlig, spårbar och möjlig att följa upp.
+{% endhint %}
 
-## Vad delegation inte innebär
-
-Delegation innebär inte att det övergripande ansvaret försvinner.
+## Ansvar kan inte delegeras bort
 
 Den som delegerar ansvarar fortfarande för att delegationen är tydlig, rimlig, känd och följs upp.
 
-Man kan delegera beslutanderätt inom en fråga. Man kan inte delegera bort sitt yttersta ansvar för att styrningen fungerar.
+Man kan delegera beslutanderätt inom en avgränsad fråga. Man kan inte delegera bort det yttersta ansvaret för att styrningen fungerar.
 
-## Grundprinciper
+## Delegation behöver tåla granskning
 
-Delegation ska vara:
+En delegation ska vara lätt att förstå också i efterhand. Det ska gå att se vem som delegerat, vad som delegerats, till vem, inom vilken ram och hur beslutet ska återrapporteras.
 
-| Princip | Innebörd |
-| --- | --- |
-| **Skriftlig** | Delegation ska framgå av delegationsordning, arbetsordning, instruktion eller protokollfört beslut |
-| **Tydlig** | Det ska framgå vilken ärendetyp eller situation delegationen gäller |
-| **Avgränsad** | Delegationen ska ha gränser för omfattning, belopp, tid eller sakområde när det behövs |
-| **Spårbar** | Det ska gå att se vem som delegerat vad, till vem och på vilken grund |
-| **Återrapporterad** | Delegerade beslut ska återrapporteras enligt beslutad ordning |
-| **Möjlig att återkalla** | Den som delegerat ska kunna ändra eller återkalla delegationen |
+{% stepper %}
+{% step %}
+**Skriv ned delegationen**  
+Delegation ska framgå av delegationsordning, arbetsordning, instruktion eller protokollfört beslut.
+{% endstep %}
 
-Muntlig delegation ska inte användas som beslutsgrund.
+{% step %}
+**Avgränsa uppdraget**  
+Det ska framgå vilken ärendetyp, situation, beloppsgräns, tidsram eller vilket sakområde delegationen gäller.
+{% endstep %}
 
-## Vad som normalt inte delegeras
+{% step %}
+**Gör beslutet spårbart**  
+Det ska gå att följa vilket beslut som fattats och med stöd av vilken delegation.
+{% endstep %}
 
-Vissa frågor ska normalt inte delegeras.
+{% step %}
+**Återrapportera till rätt nivå**  
+Den som delegerat behöver kunna följa hur delegationen används och om den behöver ändras.
+{% endstep %}
+{% endstepper %}
 
-Det gäller särskilt:
+{% hint style="warning" %}
+Muntlig vana är inte delegation. Om en beslutsväg används återkommande behöver den dokumenteras eller avslutas.
+{% endhint %}
 
-* frågor som stadgarna lägger på årsmöte eller representantskap
-* övergripande strategiska prioriteringar
-* beslut av principiell betydelse
-* beslut av större ekonomisk betydelse
-* fastställande av centrala styrande dokument
-* ansvarsfrihetsfrågor
-* frågor där oberoende granskning krävs
+## Allt ska inte delegeras
 
-Om det är oklart om en fråga får delegeras ska frågan prövas mot [Normordning](../grund-och-varden/normordning.md), [Styrande principer](../grund-och-varden/styrande-principer.md) och berörd arbetsordning eller delegationsordning.
+Vissa frågor ska normalt stanna hos det organ som bär mandatet. Det gäller särskilt frågor som stadgarna lägger på [årsmöte](../demokratisk-styrning/arsmote.md) eller [representantskap](../demokratisk-styrning/representantskap.md), beslut av större principiell eller ekonomisk betydelse, fastställande av centrala styrande dokument och frågor där oberoende granskning krävs.
 
-## Delegation från distriktsstyrelsen
+Om det är oklart om en fråga får delegeras ska frågan prövas mot [normordningen](../grund-och-varden/normordning.md), [de styrande principerna](../grund-och-varden/styrande-principer.md) och berörd arbetsordning eller delegationsordning.
 
-Distriktsstyrelsen kan delegera beslutanderätt inom sitt mandat.
+## Delegation kan gå till olika funktioner
 
-Det kan till exempel ske till:
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Presidium</strong><br>Kan få delegation i tydligt avgränsade frågor mellan styrelsesammanträden.</td></tr><tr><td><strong>Kommitté</strong><br>Kan få delegation inom sitt sakområde och inom de ramar distriktsstyrelsen beslutat.</td></tr><tr><td><strong>Distriktschef</strong><br>Kan få delegation för löpande förvaltning, operativ ledning och genomförande.</td></tr><tr><td><strong>Särskild funktion</strong><br>Kan få delegation om uppdraget är tydligt, avgränsat och möjligt att följa upp.</td></tr></tbody></table>
 
-* presidium
-* kommitté
-* distriktschef
-* särskild funktion
+Delegation ska ge kraft åt den nivå som är närmast frågan, men aldrig göra mandatet oklart.
 
-Delegationen ska vara tydlig nog för att både delegaten och distriktsstyrelsen ska kunna förstå vad som gäller.
+## Brådska får inte bli genväg
 
-## Delegation till kommittéer
+Brådskande beslut kan behöva fattas mellan sammanträden. Det ska vara undantag, inte ett normalt arbetssätt.
 
-Kommittéer kan få delegation inom sitt sakområde.
+Ett brådskande beslut ska dokumenteras, motiveras och återrapporteras enligt beslutad ordning. Det får inte användas för att kringgå frågor som borde hanteras av distriktsstyrelsen eller ett demokratiskt organ.
 
-Delegationen ska vara kopplad till kommitténs uppdrag och ska inte göra kommittén till ett självständigt organ vid sidan av distriktsstyrelsen.
+## När delegation behöver ses över
 
-Kommittén ska återrapportera beslut enligt beslutad ordning.
+Delegation ska inte ligga kvar av gammal vana. Den behöver följas upp.
 
-## Delegation till distriktschef
+<details>
+<summary><strong>Om besluten ofta hamnar fel</strong></summary>
 
-Distriktschefen kan få delegation för frågor som rör löpande förvaltning, operativ ledning och genomförande.
+Då kan delegationen vara för bred, för smal eller otydligt formulerad.
 
-Sådan delegation ska stödja effektiv verkställighet utan att flytta över distriktsstyrelsens strategiska ansvar.
+</details>
 
-## Brådskande beslut
+<details>
+<summary><strong>Om återrapportering saknas</strong></summary>
 
-Brådskande beslut kan ibland behöva fattas mellan sammanträden.
+Då kan den som delegerat inte ta sitt ansvar. Delegationen behöver skärpas.
 
-Det ska vara undantag, inte normalt arbetssätt.
+</details>
 
-Sådana beslut ska dokumenteras och anmälas enligt beslutad ordning. De får inte användas för att kringgå frågor som borde hanteras av distriktsstyrelsen eller ett demokratiskt organ.
+<details>
+<summary><strong>Om samma gråzon återkommer</strong></summary>
 
-## Återrapportering och uppföljning
+Då ska den inte lösas informellt. Den ska hanteras genom tydligare beslut, instruktion eller delegationsordning.
 
-Återrapportering är en del av delegationen.
+</details>
 
-Den som har delegerat behöver kunna följa:
+<details>
+<summary><strong>Om förutsättningarna ändras</strong></summary>
 
-* vilka beslut som har fattats
-* inom vilken delegation beslutet fattats
-* om beslutet håller sig inom ramen
-* om delegationen behöver ändras
+När organisation, ekonomi, risker eller arbetssätt förändras kan delegation behöva ändras eller återkallas.
 
-Utan återrapportering blir delegation svår att kontrollera.
+</details>
 
-## Vägledande princip
-
-Delegation ska göra beslutsvägarna kortare, inte otydligare.
-
-Den ska ge handlingskraft där frågan hör hemma, men alltid med skriftlighet, spårbarhet och ansvar kvar i rätt nivå.
+Delegation ska korta vägen till beslut, inte göra ansvarsvägen svårare att följa.
