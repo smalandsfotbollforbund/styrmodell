@@ -1,67 +1,94 @@
 ---
 description: >-
-  Verksamhetsområden och basuppgifter som beskriver distriktets operativa
-  grunduppdrag.
+  Hur distriktets grunduppdrag, verksamhetsområden och basuppgifter hänger ihop
+  med strategi, resurser och föreningarnas behov.
 ---
 
 # Verksamhetsområden och basuppgifter
 
-Verksamhetsområdena beskriver vad Smålands Fotbollförbund gör i vardagen.
+Verksamhetsområdena beskriver vad distriktet behöver få att fungera i vardagen.
 
-Basuppgifterna anger det grunduppdrag som distriktet ska bära som SDF inom svensk fotboll. De ska säkerställa att föreningar får ett likvärdigt och kontinuerligt stöd, samtidigt som distriktet kan utveckla en egen strategisk profil.
+Basuppgifterna anger det grunduppdrag som Smålands Fotbollförbund bär som SDF inom svensk fotboll. De ska hålla över tid, även när strategiska prioriteringar förändras.
 
-Den här sidan beskriver sambandet mellan verksamhetsområden, basuppgifter och strategisk styrning. Detaljer i uppdrag, avtal eller externa beslut ska hanteras i [dokumentarkivet](https://styrning.smaland.football/dokument) eller i externa bärande dokument.
+{% hint style="info" %}
+Basuppgifter är grunduppdrag. Prioriteringar är särskilda fokus under en strategiperiod. Båda behövs, men de gör olika jobb i styrningen.
+{% endhint %}
 
-## Basuppgifter som grund
+## Basuppgifterna ska bära vardagen
 
-Basuppgifterna ska förstås som en grundnivå.
+Basuppgifter är sådant som måste fungera för att distriktet ska kunna fullgöra sitt uppdrag gentemot föreningar och svensk fotboll.
 
-De beskriver vad distriktet behöver klara av för att fullgöra sitt uppdrag inom svensk fotboll.
+De är inte mindre viktiga för att de är grunduppgifter. Tvärtom. Om grunduppdraget svajar spelar det mindre roll hur ambitiösa strategiska satsningar distriktet har.
 
-Det betyder att basuppgifter inte är samma sak som strategiska prioriteringar. Basuppgifter är sådant som måste fungera. Prioriteringar är sådant distriktet riktar särskild kraft mot under en period.
+## Verksamhetsområden samlar arbetet
 
-## Verksamhetsområden
+Verksamhetsområden hjälper distriktet att organisera grunduppdraget och se hur arbete, ansvar och resurser hänger ihop.
 
-Distriktets verksamhetsområden kan förstås som återkommande delar av det operativa uppdraget.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Föreningsstöd och föreningsutveckling</strong><br>Stöd som stärker föreningarnas förmåga att bedriva och utveckla sin verksamhet.</td></tr><tr><td><strong>Tävling och matchmiljö</strong><br>Administration, regelverk, tävlingsstruktur och arbete för trygga och fungerande matcher.</td></tr><tr><td><strong>Utbildning och spelarutveckling</strong><br>Insatser för ledare, spelare och andra roller som utvecklar fotbollen över tid.</td></tr><tr><td><strong>Domarverksamhet</strong><br>Rekrytering, utbildning, stöd och utveckling av domare.</td></tr><tr><td><strong>Samverkan, administration och utveckling</strong><br>Ekonomi, kommunikation, digital utveckling, anläggningsfrågor och samverkan med andra aktörer.</td></tr></tbody></table>
 
-De omfattar bland annat:
+Den exakta indelningen kan utvecklas över tid. Styrmodellen ska visa sambandet, inte låsa varje intern arbetsfördelning.
 
-* föreningsstöd och föreningsutveckling
-* spelarutbildning och spelarutveckling
-* tävling och trygga miljöer
-* ledarutbildning och domarverksamhet
-* anläggningar, samverkan, ekonomi, administration, kommunikation och digital utveckling
+## Grunduppdrag och strategisk profil ska inte blandas ihop
 
-Verksamhetsområdena ska hjälpa distriktet att organisera arbetet och se till att basuppgifter, strategi och resurser hänger ihop.
+Det är viktigt att hålla isär vad distriktet måste bära och vad distriktet väljer att driva extra kraftfullt.
 
-## Grunduppdrag och strategisk profil
+{% columns %}
+{% column %}
+### Grunduppdrag
 
-Det är viktigt att hålla isär grunduppdrag och strategisk profil.
+Det som behöver fungera för att distriktet ska vara ett fungerande SDF inom svensk fotboll.
 
-Grunduppdraget är det distriktet behöver göra för att bära sin roll som SDF.
+Här finns kontinuitet, likvärdighet och ansvar gentemot föreningarna.
+{% endcolumn %}
 
-Strategisk profil är det distriktet väljer att utveckla extra kraftfullt utifrån sina förutsättningar, behov och prioriteringar.
+{% column %}
+### Strategisk profil
 
-Om dessa blandas ihop finns risk att grunduppdraget blir för svagt eller att strategiska initiativ tränger undan nödvändig vardagsverksamhet.
+Det distriktet väljer att utveckla särskilt utifrån behov, förutsättningar och politisk riktning.
 
-## Föreningen i centrum
+Här finns förflyttning, prioritering och särskild kraft under en period.
+{% endcolumn %}
+{% endcolumns %}
 
-Verksamhetsområden och basuppgifter ska ytterst förstås utifrån föreningarnas behov.
+Om dessa blandas ihop riskerar grunduppdraget att trängas undan, eller så blir strategin bara en beskrivning av det distriktet redan måste göra.
 
-Distriktets arbete ska stärka föreningarnas möjlighet att bedriva fotboll, futsal och andra berörda verksamheter med kvalitet, trygghet och långsiktighet.
+## Föreningarnas behov är utgångspunkten
 
-Det gäller oavsett om arbetet handlar om tävling, utbildning, domare, föreningsutveckling, anläggningar eller administration.
+Verksamhetsområden och basuppgifter ska ytterst förstås utifrån föreningarnas verklighet.
 
-## Koppling till kommittéer och kansli
+Distriktets arbete ska stärka föreningarnas möjlighet att bedriva fotboll, futsal och annan berörd verksamhet med kvalitet, trygghet och långsiktighet. Det gäller oavsett om frågan handlar om tävling, utbildning, domare, föreningsutveckling, anläggningar, administration eller digitala lösningar.
 
-Kommittéer bidrar med taktisk beredning, sakkunskap och uppföljning inom sina områden.
+## När uppdraget möter resurserna
 
-Kansliet ansvarar för operativt genomförande, administration och stöd inom beslutade ramar.
+Grunduppdraget behöver matchas mot tid, ekonomi och kompetens. Om basuppgifter, prioriteringar och resurser inte går ihop ska det inte lösas genom tyst övertid, otydliga förväntningar eller informella omprioriteringar.
 
-Den konkreta kopplingen mellan verksamhetsområden, kommittéer, kansliroller och delegation ska beskrivas i arbetsordningar, instruktioner och andra dokument i dokumentarkivet.
+Då behöver frågan tillbaka till rätt nivå i styrningen.
 
-## Vägledande princip
+<details>
+<summary><strong>Om grunduppdraget inte ryms</strong></summary>
 
-Basuppgifterna ska bäras stadigt. Prioriteringarna ska driva utveckling.
+Då behöver distriktsstyrelsen få underlag om konsekvenser, risker och möjliga vägval.
 
-Båda behövs. Det ena får inte äta upp det andra.
+</details>
+
+<details>
+<summary><strong>Om prioriteringar tränger undan basuppgifter</strong></summary>
+
+Då behöver planering och budget prövas igen. En satsning ska inte göra grunduppdraget osäkert utan medvetet beslut.
+
+</details>
+
+<details>
+<summary><strong>Om föreningarnas behov förändras</strong></summary>
+
+Då behöver verksamhetsområden och arbetssätt kunna utvecklas utan att styrmodellen behöver skrivas om i detalj.
+
+</details>
+
+## Kopplingen till kommittéer och kansli
+
+[Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) bidrar med taktisk beredning, sakkunskap och uppföljning inom sina områden. [Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) ansvarar för operativt genomförande, administration och stöd inom beslutade ramar.
+
+Den konkreta kopplingen mellan verksamhetsområden, kommittéer, kansliroller, uppdrag och delegation ska beskrivas i arbetsordningar, instruktioner och andra dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+
+Basuppgifterna ska bäras stadigt. Prioriteringarna ska driva utveckling. Det ena får inte äta upp det andra.
