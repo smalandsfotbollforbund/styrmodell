@@ -46,7 +46,7 @@ Finns stöd i stadgar, beslut, delegation, arbetsordning eller instruktion?
 **Förtydliga vid behov**  
 Om matrisen inte räcker ska frågan lyftas till rätt ansvarig nivå.
 {% endstep %}
-{% endsteper %}
+{% endstepper %}
 
 ## Övergripande ansvarsmatris
 
