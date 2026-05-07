@@ -14,6 +14,8 @@ Det ska inte förklara hela styrmodellen en gång till. Den övergripande logike
 Schemat ska visa struktur, inte skapa mandat. Om bilden och ett beslutat dokument pekar åt olika håll gäller det beslutade dokumentet enligt [normordningen](../grund-och-varden/normordning.md).
 {% endhint %}
 
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+
 ```mermaid
 graph TD
     %% Define Node Styles
