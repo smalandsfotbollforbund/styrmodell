@@ -1,86 +1,103 @@
 ---
 description: >-
-  Principer för hur fattade beslut genomförs i verksamheten.
+  Hur fattade beslut genomförs inom beslutade ramar, med tydligt ansvar,
+  återrapportering och respekt för rätt beslutsnivå.
 ---
 
 # Verkställighet
 
-Verkställighet innebär att genomföra fattade beslut.
+Verkställighet är när beslut blir arbete.
 
-Ett beslut är inte färdigt bara för att det är fattat. Det behöver omsättas i handling, inom de ramar, resurser och tidsgränser som beslutet anger.
+Ett beslut är inte färdigt bara för att det är fattat. Det behöver genomföras inom de ramar, resurser och tidsgränser som beslutet anger. Verkställigheten ska göra beslutet verkligt, inte skapa nya beslut i skymundan.
 
-## Verkställighet och beslut är olika saker
+{% hint style="info" %}
+Verkställighet betyder att genomföra ett beslut som redan är fattat. Om genomförandet kräver ett nytt självständigt vägval kan frågan behöva tillbaka till rätt beslutsnivå.
+{% endhint %}
 
-Verkställighet är genomförande av ett beslut som redan är fattat.
+## Det beslutade sätter ramen
 
-Om genomförandet kräver ett nytt självständigt vägval kan det vara ett nytt beslut, inte bara verkställighet.
+Den som verkställer ska hålla sig inom beslutets syfte och ramar.
 
-Den gränsen är viktig. Annars finns risk att beslut flyttas från rätt nivå till den som genomför arbetet.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Syfte</strong><br>Vad skulle beslutet uppnå?</td></tr><tr><td><strong>Budget</strong><br>Vilka ekonomiska ramar gäller?</td></tr><tr><td><strong>Tidsram</strong><br>När ska arbetet vara genomfört eller återrapporterat?</td></tr><tr><td><strong>Mandat</strong><br>Vilka vägval ryms inom beslutet och vilka behöver lyftas?</td></tr><tr><td><strong>Uppföljning</strong><br>Hur ska genomförandet följas och återrapporteras?</td></tr></tbody></table>
 
-## Vem verkställer
+När ramen är tydlig blir verkställigheten både friare och tryggare.
 
-Som huvudprincip gäller:
+## Vem som genomför beror på beslutet
 
-* distriktschef och kansli verkställer distriktsstyrelsens beslut
-* kansliet stödjer verkställighet av kommittéers beslut inom beslutad delegation
-* kommittéordföranden följer upp att kommitténs beslut och uppdrag förs vidare enligt beslutad ordning
-* den som fått ett särskilt uppdrag ansvarar för att uppdraget återrapporteras
+Ofta är det [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) som verkställer beslut från distriktsstyrelsen och andra organ. Kommittéer kan följa upp eller bidra inom sina sakområden, särskilt när de har fått uppdrag eller delegation.
 
-Den konkreta ansvarsfördelningen beskrivs i [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Den konkreta ansvarsfördelningen beskrivs i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) och i berörda dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
-## Verkställighet inom ram
+## När genomförandet kräver nytt beslut
 
-Den som verkställer ska hålla sig inom beslutets ram.
+Ibland visar det sig under arbetets gång att beslutet inte räcker. Då ska frågan inte lösas informellt.
 
-Det innebär att genomförandet ska följa:
+{% stepper %}
+{% step %}
+**Ramen håller**  
+Genomför arbetet enligt beslut, budget, delegation och tidsplan.
+{% endstep %}
 
-* beslutets syfte
-* beslutad budget
-* beslutad tidsram
-* gällande delegation
-* relevanta styrande dokument
-* krav på dokumentation och uppföljning
+{% step %}
+**Ramen är oklar**  
+Be om förtydligande från rätt nivå innan arbetet går vidare.
+{% endstep %}
 
-Om förutsättningarna ändras väsentligt ska frågan lyftas tillbaka till rätt nivå.
+{% step %}
+**Ramen behöver ändras**  
+Lyft frågan tillbaka till det organ eller den funktion som har mandat att fatta nytt beslut.
+{% endstep %}
 
-## Avvikelser och hinder
+{% step %}
+**Risken har ökat**  
+Rapportera avvikelsen och föreslå åtgärd innan problemet växer.
+{% endstep %}
+{% endstepper %}
 
-Om ett beslut inte kan verkställas som planerat ska det rapporteras.
+## Avvikelser ska upp i ljuset
 
-Det kan till exempel handla om att:
+Om ett beslut inte kan genomföras som planerat ska det återrapporteras. Det kan handla om att resurser saknas, tidsplanen inte håller, beslutet behöver förtydligas eller att nya omständigheter kräver nytt ställningstagande.
 
-* resurser saknas
-* tidsplanen inte håller
-* beslutet behöver förtydligas
-* risken blivit större än förväntat
-* nya omständigheter kräver nytt ställningstagande
+{% hint style="warning" %}
+En avvikelse blir inte mindre för att den väntar. Om den kräver åtgärd ska den rapporteras när den upptäcks, inte först vid nästa ordinarie punkt.
+{% endhint %}
 
-Avvikelser ska inte döljas till nästa ordinarie rapport om de kräver åtgärd.
+## Verkställighet ska kunna följas
 
-## Uppföljning av verkställighet
+Den nivå som har gett uppdraget eller fattat beslutet behöver kunna följa vad som händer efter beslutet.
 
-Verkställighet ska följas upp av den nivå som har gett uppdraget eller fattat beslutet.
+{% columns %}
+{% column %}
+### Det ska gå att se
 
-Det ska gå att se om beslutet:
+vem som ansvarar,
 
-* har genomförts
-* är pågående
-* är försenat
-* behöver ändras
-* har fått avsedd effekt
+vad som är gjort,
 
-Uppföljning och återrapportering beskrivs i [Uppföljning och återrapportering](uppfoljning-och-aterrapportering.md).
+vad som återstår,
 
-## Brådskande verkställighet
+vilka hinder som finns,
 
-Ibland behöver ett beslut verkställas snabbt.
+och om nytt beslut krävs.
+{% endcolumn %}
 
-Det ändrar inte kravet på dokumentation, mandat eller återrapportering.
+{% column %}
+### Det ska inte bli
 
-Brådska ska inte användas som skäl för att gå förbi rätt beslutsnivå.
+personberoende,
 
-## Vägledande princip
+osynligt,
 
-Verkställighet ska göra beslut verkliga utan att skapa nya beslut i skymundan.
+frikopplat från beslutet,
 
-Det ska vara tydligt vad som beslutats, vem som genomför och när återrapportering sker.
+eller beroende av att någon minns vad som sades.
+{% endcolumn %}
+{% endcolumns %}
+
+Mer om detta finns i [uppföljning och återrapportering](uppfoljning-och-aterrapportering.md).
+
+## När verkställigheten fungerar
+
+Då blir beslut omsatta utan att ansvar flyter iväg. Den som genomför vet vad som gäller, den som beslutat får återrapportering och organisationen kan se om arbetet leder dit det var tänkt.
+
+Det är inte mer krångligt än så. Men det kräver ordning.
