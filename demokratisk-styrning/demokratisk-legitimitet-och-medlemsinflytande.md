@@ -1,6 +1,7 @@
 ---
 description: >-
-  Hur demokratisk legitimitet och medlemsinflytande ska förstås i styrmodellen.
+  Hur föreningarnas möjlighet att förstå, påverka och följa beslut stärker
+  distriktets demokratiska legitimitet.
 ---
 
 # Demokratisk legitimitet och medlemsinflytande
@@ -9,60 +10,93 @@ Smålands Fotbollförbunds legitimitet bygger på att medlemsföreningarna kan f
 
 Det räcker inte att beslut är formellt korrekta. De behöver också vara begripliga, möjliga att följa och fattade på rätt nivå.
 
-## Formellt inflytande
+{% hint style="info" %}
+Demokratisk legitimitet är både form och förtroende. Formen finns i stadgar, ombud, rösträtt, val, motioner, årsmöte och representantskap. Förtroendet byggs i hur besluten bereds, förklaras, följs upp och återkopplas.
+{% endhint %}
 
-Det formella medlemsinflytandet utövas genom stadgar, ombud, rösträtt, val, motioner, årsmöte och representantskap.
+## Det formella inflytandet kan inte ersättas
 
-Det är grunden. Den kan inte ersättas av dialogmöten, samråd eller informella samtal.
+Det formella medlemsinflytandet utövas genom stadgar, ombud, rösträtt, val, motioner, [årsmöte](arsmote.md) och [representantskap](representantskap.md).
 
-Årsmötets roll beskrivs i [Årsmöte](arsmote.md). Representantskapets roll beskrivs i [Representantskap](representantskap.md). Ombud och rösträtt beskrivs i [Val, ombud och rösträtt](val-ombud-och-rostratt.md).
+Dialogmöten, samråd och informella samtal kan göra styrningen bättre, men de ersätter inte formella beslut. När en fråga hör hemma på demokratisk nivå ska den också behandlas där.
 
-## Levande inflytande
+## Inflytande behöver leva mellan mötena
 
-Medlemsinflytande behöver också leva mellan de formella mötena.
+Medlemsinflytande finns inte bara när klubban slår. Det behöver också leva mellan de formella mötena.
 
-Det kan ske genom dialog, tydlig information, remisser, rådslag, föreningsbesök, beredningsprocesser och återkoppling.
+Det kan ske genom föreningsdialog, remisser, rådslag, besök, utbildning, återkoppling och tydliga beslutsunderlag. Sådana former ger inte egna beslut, men de kan göra besluten bättre förankrade och lättare att förstå.
 
-Sådana former ersätter inte formella beslut, men de kan göra besluten bättre och mer förankrade.
+## Rätt nivå ger starkare förtroende
 
-## Rätt nivå stärker legitimiteten
+Legitimiteten stärks när frågor hanteras där mandatet finns.
 
-Demokratisk legitimitet kräver att frågor hanteras på rätt nivå.
+En fråga som hör till årsmötet ska inte lösas som en styrelsefråga. En fråga som hör till representantskapets tävlingsmandat ska inte flyttas till en kommitté. En fråga som ligger inom distriktsstyrelsens ansvar ska inte hanteras som om den bara vore en kanslifråga.
 
-Frågor som hör till årsmötet ska inte avgöras i distriktsstyrelsen. Frågor som hör till representantskapet ska inte flyttas till kommitté. Frågor som ligger inom distriktsstyrelsens ansvar ska inte hanteras som om de vore kanslifrågor.
+När nivån är oklar används [normordningen](../grund-och-varden/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
-När ansvar eller nivå är oklar ska styrmodellen användas. [Normordning](../grund-och-varden/normordning.md), [Styrarkitektur](../organisationens-struktur/styrarkitektur.md) och [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md) är viktiga kärnkällor.
-
-## Begriplighet är en demokratifråga
+## Begriplighet är också demokrati
 
 Föreningarna ska kunna förstå vad som beslutas, varför det beslutas och vad beslutet innebär.
 
-Handlingar, beslutsunderlag och protokoll ska därför vara tydliga nog för att kunna följas av dem som berörs.
+Det betyder inte att alla frågor måste förenklas. Men handlingar, beslutsunderlag och protokoll ska vara tillräckligt tydliga för att föreningarna ska kunna ta ansvar i demokratin.
 
-Det betyder inte att allt måste förenklas. Men det ska vara begripligt, sakligt och möjligt att hitta.
+{% columns %}
+{% column %}
+### Beslut behöver kunna följas
 
-## Risker mot legitimiteten
+Det ska gå att se vad som beslutats, av vem, på vilken nivå och med vilket uppdrag vidare.
+{% endcolumn %}
 
-Demokratisk legitimitet kan försvagas även när formella regler följs.
+{% column %}
+### Beslut behöver kunna förstås
 
-Det kan till exempel ske när:
+Det ska gå att förstå varför frågan behandlats och vilka följder beslutet kan få.
+{% endcolumn %}
+{% endcolumns %}
 
-* frågor hanteras på fel nivå
-* informella arbetssätt ersätter beslutade vägar
-* handlingar kommer för sent eller är svåra att förstå
-* valprocesser upplevs slutna
-* återkoppling till föreningarna uteblir
-* samma fråga beskrivs olika på olika platser
-* beslut inte går att följa i efterhand
+## När legitimiteten börjar skava
 
-Sådana risker ska tas på allvar och hanteras som styrningsfrågor.
+Demokratisk legitimitet kan försvagas även när de formella reglerna följs.
 
-## Vägledande fråga
+<details>
+<summary><strong>När frågor hamnar på fel nivå</strong></summary>
 
-En enkel fråga bör följa med i styrningen:
+Föreningarna kan tappa förtroende om viktiga frågor avgörs av fel organ eller om demokratiska beslut rundas av praktiska skäl.
+
+</details>
+
+<details>
+<summary><strong>När informella arbetssätt blir starkare än beslutade vägar</strong></summary>
+
+Dialog är bra, men återkommande informella lösningar kan skapa otydlig makt och svår granskning.
+
+</details>
+
+<details>
+<summary><strong>När handlingar kommer för sent eller är svåra att förstå</strong></summary>
+
+Föreningarna behöver rimlig möjlighet att läsa, diskutera och ta ställning innan beslut fattas.
+
+</details>
+
+<details>
+<summary><strong>När återkopplingen uteblir</strong></summary>
+
+Om föreningarna bidrar med synpunkter men aldrig får veta vad som hände med frågan, försvagas viljan att delta nästa gång.
+
+</details>
+
+<details>
+<summary><strong>När samma sak beskrivs olika på olika platser</strong></summary>
+
+Motstridiga texter skapar osäkerhet. Därför ska styrmodellen bygga på rätt information på rätt plats och länka vidare i stället för att dubblera.
+
+</details>
+
+## En fråga att bära med sig
+
+När distriktet väljer väg i en demokratisk fråga är en enkel fråga ofta användbar:
 
 **Stärker detta föreningarnas möjlighet att förstå, delta och påverka?**
 
-Om svaret är nej behöver arbetssättet, informationen eller beslutsvägen prövas igen.
-
-Det är så demokratin hålls nära. Inte med stora ord, utan med ordning, tydlighet och respekt för föreningarnas roll.
+Om svaret är nej behöver arbetssättet, informationen eller beslutsvägen prövas igen. Inte för att göra allt större, utan för att hålla demokratin nära där den hör hemma.
