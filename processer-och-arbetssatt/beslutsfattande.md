@@ -1,93 +1,109 @@
 ---
 description: >-
-  Principer för hur beslut fattas på rätt nivå, med rätt mandat och spårbar
-  dokumentation.
+  Hur beslut ska fattas på rätt nivå, med rätt mandat, tydlig dokumentation och
+  en ansvarskedja som går att följa.
 ---
 
 # Beslutsfattande
 
-Beslut ska fattas på rätt nivå, av rätt organ eller funktion och med rätt mandat.
+Beslut ska fattas där mandatet finns.
 
-Det är en grundprincip i Smålands Fotbollförbunds styrmodell. Ett beslut blir inte bättre av att fattas snabbt om det fattas på fel nivå.
+Det är en enkel princip, men den behöver hållas levande. Ett beslut blir inte bättre av att fattas snabbt om det fattas på fel nivå. Och ett beslut blir inte tydligare av att alla är överens informellt om det aldrig dokumenteras.
 
-Om det är oklart vem som får besluta ska frågan prövas mot [Normordning](../grund-och-varden/normordning.md), [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+{% hint style="info" %}
+Om det är oklart vem som får besluta ska frågan prövas mot [normordningen](../grund-och-varden/normordning.md), [delegationen](../distriktsstyrelsen-och-ledningen/delegation.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+{% endhint %}
 
-## Vad ett beslut kräver
+## Ett beslut behöver bära sin egen tyngd
 
-För att ett beslut ska vara legitimt krävs normalt att:
+För att ett beslut ska vara legitimt behöver det vila på rätt nivå, rätt mandat och tillräcklig [beredning](beredning.md).
 
-* frågan hör hemma hos den nivå som beslutar
-* organet eller funktionen har mandat
-* ärendet är tillräckligt berett
-* eventuellt jäv är hanterat
-* beslutet dokumenteras
-* beslutet kan följas upp
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Rätt nivå</strong><br>Frågan hör hemma hos det organ eller den funktion som beslutar.</td></tr><tr><td><strong>Rätt mandat</strong><br>Beslutet har stöd i stadgar, demokratiskt beslut, delegation eller annat gällande dokument.</td></tr><tr><td><strong>Rätt underlag</strong><br>Ärendet är berett i den omfattning frågan kräver.</td></tr><tr><td><strong>Rätt hantering</strong><br>Jäv, dokumentation, verkställighet och uppföljning är beaktade.</td></tr></tbody></table>
 
-Det gäller oavsett om beslutet fattas av årsmöte, representantskap, distriktsstyrelse, kommitté, presidium, distriktschef eller annan delegat.
+## Beslut kan se olika ut
 
-## Olika typer av beslut
+Alla beslut är inte av samma slag. Därför behöver organisationen skilja på vilken typ av beslut det handlar om.
 
-Beslut kan ha olika karaktär.
+{% columns %}
+{% column %}
+### Medlemsbeslut
 
-| Beslutstyp | Beskrivning |
-| --- | --- |
-| **Demokratiska beslut** | Beslut som fattas av årsmöte eller representantskap inom respektive mandat |
-| **Distriktsstyrelsebeslut** | Beslut som fattas av distriktsstyrelsen inom dess mandat |
-| **Delegerade beslut** | Beslut som fattas av organ, funktion eller person med skriftlig delegation |
-| **Operativa beslut** | Beslut inom löpande verksamhet och verkställighet, inom beslutade ramar |
-| **Rättstillämpande beslut** | Beslut som fattas av exempelvis disciplinnämnd enligt gällande regelverk |
+Fattas av [årsmöte](../demokratisk-styrning/arsmote.md) eller [representantskap](../demokratisk-styrning/representantskap.md) inom respektive mandat.
 
-Det är viktigt att skilja mellan beslut och verkställighet. Om en fråga kräver ett självständigt vägval är den normalt ett beslut, inte bara verkställighet.
+Här ligger föreningarnas formella demokratiska inflytande.
+{% endcolumn %}
 
-## Beredning före beslut
+{% column %}
+### Styrelsebeslut
 
-Ärenden ska beredas i den omfattning som frågan kräver.
+Fattas av [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) inom dess strategiska och organisatoriska ansvar.
 
-Enkla frågor behöver enkel beredning. Frågor av principiell, ekonomisk eller demokratisk betydelse kräver mer noggrann beredning.
+Här hålls riktning, ramar, delegation och uppföljning ihop.
+{% endcolumn %}
+{% endcolumns %}
 
-Beredning beskrivs i [Beredning](beredning.md).
+{% columns %}
+{% column %}
+### Delegerade beslut
 
-## Delegerade beslut
+Fattas av organ, funktion eller person som fått tydlig delegation.
 
-Delegerade beslut ska hålla sig inom den delegation som beslutats.
+Beslutet ska hålla sig inom delegationen och återrapporteras enligt beslutad ordning.
+{% endcolumn %}
 
-Det ska gå att se:
+{% column %}
+### Operativa beslut
 
-* vilken delegation beslutet bygger på
-* vem som fattat beslutet
-* vad beslutet gäller
-* om det finns begränsningar
-* hur beslutet återrapporteras
+Fattas inom löpande verksamhet och verkställighet, inom beslutade ramar.
 
-Delegerade beslut får inte användas för att flytta frågor från årsmöte, representantskap eller distriktsstyrelse när frågan hör hemma där.
+Om frågan kräver ett nytt självständigt vägval kan den behöva lyftas till rätt beslutsnivå.
+{% endcolumn %}
+{% endcolumns %}
 
-## Brådskande beslut
+## Verkställighet får inte bli nya beslut i skymundan
 
-Brådskande beslut kan behöva fattas mellan ordinarie sammanträden.
+Det är viktigt att skilja mellan beslut och [verkställighet](verkstallighet.md).
 
-Det ska vara undantag, inte normalt arbetssätt.
+Verkställighet innebär att genomföra något som redan är beslutat. Om genomförandet kräver ett nytt vägval, ändrad inriktning, ny kostnad, ny risk eller förändrat mandat kan det vara ett nytt beslut.
 
-Brådska får inte användas för att kringgå rätt beslutsnivå, beredning eller dokumentation.
+Då ska frågan tillbaka till rätt nivå.
+
+## Brådska ändrar inte mandatet
+
+Brådskande beslut kan behöva fattas mellan ordinarie sammanträden. Det ska vara undantag, inte normalt arbetssätt.
+
+{% hint style="warning" %}
+Brådska får inte användas för att kringgå rätt beslutsnivå, beredning, jävshantering eller dokumentation.
+{% endhint %}
 
 Beslut som fattas genom skriftligt förfarande, digital omröstning eller annan motsvarande ordning ska dokumenteras och anmälas enligt beslutad ordning.
 
-## Dokumentation
+## Ett beslut ska gå att hitta och följa
 
-Beslut ska dokumenteras så att de går att följa i efterhand.
+Beslut ska dokumenteras så att de går att förstå i efterhand.
 
-Dokumentationen ska visa:
+{% stepper %}
+{% step %}
+**Vad beslutades?**  
+Beslutet ska vara formulerat så att det går att verkställa.
+{% endstep %}
 
-* vad som beslutats
-* vem som fattat beslutet
-* när beslutet fattades
-* vilket underlag som låg till grund
-* eventuell reservation, jäv eller avvikande mening när det är relevant
-* hur beslutet ska verkställas eller följas upp
+{% step %}
+**Vem beslutade?**  
+Organ, funktion eller delegat ska framgå.
+{% endstep %}
 
-Dokumentation och protokoll beskrivs i [Dokumentation och protokoll](dokumentation-och-protokoll.md).
+{% step %}
+**På vilken grund?**  
+Underlag, mandat och eventuell delegation ska kunna följas.
+{% endstep %}
 
-## Vägledande princip
+{% step %}
+**Vem gör nästa steg?**  
+Ansvar för verkställighet och återrapportering behöver vara tydligt.
+{% endstep %}
+{% endstepper %}
 
-Ett beslut ska vara lätt att hitta, lätt att förstå och möjligt att följa upp.
+Mer om dokumentation finns i [dokumentation och protokoll](dokumentation-och-protokoll.md).
 
-Det är så beslut blir mer än ord på papper.
+När beslut går att hitta, förstå och följa upp blir styrningen mindre personberoende och mer hållbar.
