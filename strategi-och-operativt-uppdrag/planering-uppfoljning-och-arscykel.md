@@ -8,7 +8,7 @@ description: >-
 
 Planering och uppföljning är rytmen i styrningen.
 
-När rytmen fungerar vet organisationen vad som ska göras, vem som ansvarar, när uppföljning sker och hur lärdomar tas vidare. Då blir arbetet mindre ryckigt och mer hållbart.
+Den här sidan beskriver årscykeln: hur riktning, plan, budget, genomförande, uppföljning och demokratiska processer ska få plats i rätt ordning. Principerna för återrapportering och avvikelser beskrivs i [uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md). Risk, kontroll och attest beskrivs i [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
 
 {% hint style="info" %}
 Den här sidan beskriver principerna för årscykeln. Datum, mallar, mötesplaner och detaljerade processflöden hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
@@ -35,13 +35,13 @@ Distriktschef, kansli, kommittéer och andra berörda genomför arbetet inom bes
 {% endstep %}
 
 {% step %}
-**Uppföljning och återrapportering**  
-Verksamhet, ekonomi, risker, prioriteringar och avvikelser följs upp och återrapporteras till rätt nivå.
+**Uppföljning och lärande**  
+Verksamhet, ekonomi, prioriteringar och avvikelser följs upp och används för nästa planering.
 {% endstep %}
 
 {% step %}
-**Lärande och justering**  
-Lärdomar används inför nästa planering, budget och eventuell revidering av arbetssätt.
+**Demokratisk återrapportering**  
+Årsmöte, representantskap, revision, lekmannarevision och valberedning får den tid och ordning som krävs.
 {% endstep %}
 {% endstepper %}
 
@@ -51,55 +51,15 @@ Verksamhetsplanen visar vad distriktet ska göra och varför. Budgeten visar vil
 
 Om plan och budget pekar åt olika håll behöver styrningen rättas till. En prioritering utan resurser är inte en verklig prioritering, och en budget utan tydlig plan blir svår att följa upp.
 
-## Uppföljningen ska visa mer än aktivitet
+## Uppföljningen ska in i årstakten
 
-Uppföljning ska visa om verksamhet, ekonomi, prioriteringar och beslut rör sig åt rätt håll.
+Årscykeln ska göra uppföljningen förutsägbar. Organisationen ska veta när verksamhet, ekonomi, prioriteringar och beslut ska följas upp och till vilken nivå återrapportering ska ske.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Genomförande</strong><br>Vad har gjorts och vad har inte gjorts?</td></tr><tr><td><strong>Resultat</strong><br>Vad har arbetet lett till?</td></tr><tr><td><strong>Ekonomi</strong><br>Hur används resurserna och finns avvikelser?</td></tr><tr><td><strong>Risker</strong><br>Vilka risker behöver hanteras eller lyftas?</td></tr><tr><td><strong>Lärande</strong><br>Vad behöver organisationen justera framåt?</td></tr></tbody></table>
-
-Uppföljning är inte bara kontroll. Den ska också hjälpa distriktet att lära och prioritera bättre nästa gång.
-
-## Återrapportering ska gå tillbaka till rätt nivå
-
-Återrapportering ska ske till den nivå som gett uppdrag, fattat beslut eller har uppföljningsansvar.
-
-{% columns %}
-{% column %}
-### Exempel på återrapportering
-
-Distriktschef rapporterar till distriktsstyrelsen.
-
-Kommittéer återrapporterar enligt beslutad ordning.
-
-Delegerade beslut återrapporteras enligt delegationsordning.
-
-Granskande funktioner rapporterar enligt sina uppdrag.
-{% endcolumn %}
-
-{% column %}
-### Varför det spelar roll
-
-Utan återrapportering blir ansvar svårt att följa.
-
-Utan uppföljning blir prioriteringar svåra att lära av.
-
-Utan rätt mottagare riskerar viktig information att stanna på fel nivå.
-{% endcolumn %}
-{% endcolumns %}
-
-## Ekonomiska avvikelser ska inte vänta
-
-Ekonomisk uppföljning ska ske återkommande under året och ge distriktsstyrelsen tillräckligt underlag för att ta ansvar för ekonomi och styrning.
-
-Väsentliga avvikelser ska rapporteras när de upptäcks. De ska inte vänta till nästa ordinarie uppföljning om de kräver åtgärd.
-
-{% hint style="warning" %}
-En avvikelse är inte farlig för att den rapporteras. Den blir farlig om den tystnar, växer eller saknar ansvarig åtgärd.
-{% endhint %}
+Den närmare principen för vad en återrapportering ska innehålla finns i [uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md). Om uppföljningen visar risker eller brister i kontrollen används [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
 
 ## Demokratin behöver också en rytm
 
-Årscykeln ska också ge plats för årsmöte, representantskap, motioner, valberedning, revision och lekmannarevision.
+Årscykeln ska ge plats för årsmöte, representantskap, motioner, valberedning, revision och lekmannarevision.
 
 Det demokratiska arbetet kräver tid för beredning, handlingar, dialog, beslut och granskning. Om allt kommer sent blir föreningarnas inflytande svårare att använda.
 
