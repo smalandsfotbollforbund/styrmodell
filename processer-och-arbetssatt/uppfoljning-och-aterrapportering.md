@@ -1,98 +1,99 @@
 ---
 description: >-
-  Principer för hur verksamhet, ekonomi, beslut och ansvar följs upp och
-  återrapporteras.
+  Hur verksamhet, ekonomi, beslut och ansvar följs upp och återrapporteras så att
+  rätt nivå kan ta ansvar och organisationen kan lära.
 ---
 
 # Uppföljning och återrapportering
 
-Uppföljning visar om beslut, uppdrag, mål och arbetssätt fungerar som avsett.
+Uppföljning visar hur det går. Återrapportering ser till att rätt nivå får veta det.
 
-Återrapportering gör att rätt nivå får den information som behövs för att ta ansvar.
+Det är en del av styrningen, inte ett administrativt efterarbete. Utan uppföljning blir prioriteringar svåra att lära av, beslut svåra att kontrollera och ansvar svårt att bära.
 
-Uppföljning är därför inte en formalitet. Det är en del av styrningen.
+{% hint style="info" %}
+Återrapportering ska ske till den nivå som gett uppdraget, fattat beslutet eller har uppföljningsansvar. Det är så ansvarskedjan hålls ihop.
+{% endhint %}
 
-## Vad som ska följas upp
+## Det som följs upp blir möjligt att styra
 
-Smålands Fotbollförbund behöver följa upp flera delar av verksamheten.
+Smålands Fotbollförbund behöver följa upp både verksamhet, ekonomi, beslut, delegation, risker och effekter för föreningarna.
 
-Det gäller bland annat:
-
-* verksamhetsplan och budget
-* strategiska prioriteringar och mål
-* fattade beslut
-* delegerade beslut
-* uppdrag till kommittéer, arbetsgrupper och funktioner
-* ekonomi och avvikelser
-* risker och intern kontroll
-* efterlevnad av styrande dokument
-* effekter för föreningar och verksamhet
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Verksamhet</strong><br>Vad har genomförts, vad har inte genomförts och varför?</td></tr><tr><td><strong>Ekonomi</strong><br>Hur ser utfall, prognos, avvikelser och risker ut?</td></tr><tr><td><strong>Beslut</strong><br>Har fattade beslut verkställts, försenats eller behövt ändras?</td></tr><tr><td><strong>Mål</strong><br>Vilken rörelse syns i prioriteringar, resultat och effekter?</td></tr><tr><td><strong>Ansvar</strong><br>Vem behöver agera, justera eller återkomma med nytt underlag?</td></tr></tbody></table>
 
 All uppföljning behöver inte vara lika omfattande. Men den ska vara tillräcklig för att ansvar ska kunna tas.
 
-## Vem som återrapporterar
+## Återrapportering ska tillbaka till rätt nivå
 
-Återrapportering ska ske till den nivå som har gett uppdraget, fattat beslutet eller har uppföljningsansvar.
+Återrapportering ska inte bara skickas vidare. Den ska hamna där någon kan ta ansvar för informationen.
 
-Som huvudprincip gäller:
+{% columns %}
+{% column %}
+### Vanliga vägar tillbaka
 
-* distriktschef återrapporterar till distriktsstyrelsen
-* kommittéer återrapporterar till distriktsstyrelsen enligt beslutad ordning
-* presidium återrapporterar delegerade beslut till distriktsstyrelsen
-* kansliet återrapporterar genom distriktschef eller enligt beslutad ordning
-* arbetsgrupper återrapporterar till den som gett uppdraget
-* granskande funktioner rapporterar enligt sitt uppdrag
+[Distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) rapporterar till [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md).
 
-## Ekonomisk uppföljning
+[Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) återrapporterar enligt beslutad ordning.
+
+Delegerade beslut återrapporteras enligt [delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+
+Arbetsgrupper återrapporterar till den som gett uppdraget.
+{% endcolumn %}
+
+{% column %}
+### När det blir fel
+
+Om återrapportering hamnar för lågt kan viktiga frågor stanna i vardagen.
+
+Om den hamnar för högt kan styrelsen dras in i detaljer.
+
+Om den uteblir blir ansvar svårt att följa.
+{% endcolumn %}
+{% endcolumns %}
+
+## Ekonomiska avvikelser ska inte vänta
 
 Ekonomisk uppföljning ska ge distriktsstyrelsen underlag för att ta ansvar för distriktets ekonomi.
 
-Uppföljningen bör visa:
+Uppföljningen bör visa utfall mot budget, prognos, större avvikelser, risker och behov av åtgärder. Väsentliga avvikelser ska rapporteras när de upptäcks om åtgärd behövs.
 
-* utfall mot budget
-* prognos
-* större avvikelser
-* risker
-* behov av åtgärder
+{% hint style="warning" %}
+En avvikelse är inte ett misslyckande för att den rapporteras. Den blir ett styrningsproblem när den tystnar, växer eller saknar ansvarig åtgärd.
+{% endhint %}
 
-Väsentliga avvikelser ska rapporteras när de upptäcks. De ska inte vänta till nästa ordinarie uppföljning om åtgärd behövs.
+## Beslut ska följas tills de är avslutade
 
-## Uppföljning av beslut
+Ett beslut behöver kunna följas från protokoll till genomförande.
 
-Fattade beslut ska kunna följas tills de är genomförda eller avslutade.
+{% stepper %}
+{% step %}
+**Beslutet fattas**  
+Det ska framgå vad som beslutats och vem som ansvarar för nästa steg.
+{% endstep %}
 
-Det ska gå att se:
+{% step %}
+**Beslutet verkställs**  
+Ansvarig funktion genomför beslutet inom beslutad ram.
+{% endstep %}
 
-* vem som ansvarar för genomförandet
-* vilken tidsram som gäller
-* om beslutet är genomfört
-* om hinder eller avvikelser finns
-* om nytt beslut krävs
+{% step %}
+**Beslutet återrapporteras**  
+Rätt nivå får veta om beslutet är genomfört, försenat eller behöver ändras.
+{% endstep %}
 
-Beslut som inte följs upp riskerar att bli liggande. Då försvagas styrningen.
+{% step %}
+**Beslutet avslutas eller prövas igen**  
+När frågan är färdig avslutas den. Om förutsättningarna ändrats kan nytt beslut krävas.
+{% endstep %}
+{% endstepper %}
 
-## Uppföljning av mål
+## Uppföljning ska också ge lärande
 
-Mål ska följas upp på ett sätt som visar både aktivitet och effekt.
+Uppföljning ska inte bara leta fel. Den ska hjälpa organisationen att förstå vad som fungerar och vad som behöver ändras.
 
-Det räcker inte alltid att veta vad som har gjorts. Distriktet behöver också förstå vad arbetet har lett till.
+Det gäller särskilt [prioriteringar och mål](../strategi-och-operativt-uppdrag/prioriteringar-och-mal.md). Det räcker inte alltid att veta vad som har gjorts. Distriktet behöver också förstå vad arbetet har lett till.
 
-Prioriteringar och mål beskrivs i [Prioriteringar och mål](../strategi-och-operativt-uppdrag/prioriteringar-och-mal.md).
+## Bra återrapportering är ärlig och användbar
 
-## Uppföljning som lärande
+En återrapportering ska vara tillräckligt tydlig för att mottagaren ska kunna agera.
 
-Uppföljning ska inte bara leta fel.
-
-Den ska också hjälpa organisationen att lära:
-
-* vad fungerar?
-* vad behöver ändras?
-* vilka mål är realistiska?
-* var behöver ansvaret bli tydligare?
-* var behöver stödet till föreningarna stärkas?
-
-## Vägledande princip
-
-Återrapportering ska vara ärlig, begriplig och användbar.
-
-Det ska gå att se hur det går, vad som behöver göras och vem som ansvarar för nästa steg.
+Den ska visa hur det går, vad som skaver, vilka risker som finns, vad som behöver beslutas och vem som ansvarar för nästa steg. Det är så uppföljning blir ett verktyg för styrning, inte bara en punkt på dagordningen.
