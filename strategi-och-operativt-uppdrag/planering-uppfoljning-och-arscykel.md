@@ -1,88 +1,106 @@
 ---
 description: >-
-  Hur planering, uppföljning och årscykel håller ihop styrningen över året.
+  Hur distriktets årscykel skapar rytm för planering, budget, genomförande,
+  uppföljning, lärande och demokratisk återrapportering.
 ---
 
 # Planering, uppföljning och årscykel
 
 Planering och uppföljning är rytmen i styrningen.
 
-När den fungerar vet organisationen vad som ska göras, vem som ansvarar, när uppföljning sker och hur lärdomar tas vidare.
+När rytmen fungerar vet organisationen vad som ska göras, vem som ansvarar, när uppföljning sker och hur lärdomar tas vidare. Då blir arbetet mindre ryckigt och mer hållbart.
 
-Den här sidan beskriver principerna för årscykeln. Detaljerade datum, mallar och processflöden hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% hint style="info" %}
+Den här sidan beskriver principerna för årscykeln. Datum, mallar, mötesplaner och detaljerade processflöden hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% endhint %}
 
-## Årscykelns funktion
+## Året behöver ha en tydlig takt
 
-Årscykeln ska hjälpa distriktet att undvika ad hoc-styrning.
+Årscykeln ska skapa framförhållning. Den ska hjälpa distriktet att undvika ad hoc-styrning och se till att beredning, beslut, genomförande och uppföljning får plats i rätt ordning.
 
-Den ska skapa framförhållning för:
+{% stepper %}
+{% step %}
+**Riktning och ramar**  
+Distriktsstyrelsen håller ihop strategi, ekonomiska ramar och uppdrag inför kommande planering.
+{% endstep %}
 
-* årsmöte och representantskap
-* verksamhetsplanering
-* budget
-* uppföljning
-* revision och granskning
-* kommittéernas planering
-* kansliets genomförande
-* rapportering till föreningar och andra berörda
+{% step %}
+**Planering och budget**  
+Verksamhetsplan och budget kopplas till prioriteringar, basuppgifter, ansvar och resurser.
+{% endstep %}
 
-Rytmen ska vara tydlig nog att skapa ordning, men inte så tung att den bromsar arbetet.
+{% step %}
+**Genomförande**  
+Distriktschef, kansli, kommittéer och andra berörda genomför arbetet inom beslutade ramar.
+{% endstep %}
 
-## Planering
+{% step %}
+**Uppföljning och återrapportering**  
+Verksamhet, ekonomi, risker, prioriteringar och avvikelser följs upp och återrapporteras till rätt nivå.
+{% endstep %}
 
-Planering ska knyta ihop strategi, verksamhetsområden, prioriteringar, resurser och ansvar.
+{% step %}
+**Lärande och justering**  
+Lärdomar används inför nästa planering, budget och eventuell revidering av arbetssätt.
+{% endstep %}
+{% endstepper %}
 
-Distriktsstyrelsen anger riktning och ramar.
+## Plan och budget ska dra åt samma håll
 
-Kommittéerna bidrar med taktisk planering och sakkunskap inom sina områden.
+Verksamhetsplanen visar vad distriktet ska göra och varför. Budgeten visar vilka resurser som sätts bakom arbetet.
 
-Distriktschef och kansli samordnar operativ planering, budgetunderlag och genomförande.
+Om plan och budget pekar åt olika håll behöver styrningen rättas till. En prioritering utan resurser är inte en verklig prioritering, och en budget utan tydlig plan blir svår att följa upp.
 
-## Uppföljning
+## Uppföljningen ska visa mer än aktivitet
 
 Uppföljning ska visa om verksamhet, ekonomi, prioriteringar och beslut rör sig åt rätt håll.
 
-Uppföljning ska omfatta både:
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Genomförande</strong><br>Vad har gjorts och vad har inte gjorts?</td></tr><tr><td><strong>Resultat</strong><br>Vad har arbetet lett till?</td></tr><tr><td><strong>Ekonomi</strong><br>Hur används resurserna och finns avvikelser?</td></tr><tr><td><strong>Risker</strong><br>Vilka risker behöver hanteras eller lyftas?</td></tr><tr><td><strong>Lärande</strong><br>Vad behöver organisationen justera framåt?</td></tr></tbody></table>
 
-* vad som har genomförts
-* vad som inte har genomförts
-* vilka resultat som nåtts
-* vilka avvikelser som finns
-* vilka risker som behöver hanteras
-* vilka lärdomar som ska tas vidare
+Uppföljning är inte bara kontroll. Den ska också hjälpa distriktet att lära och prioritera bättre nästa gång.
 
-Uppföljning är inte bara kontroll. Den ska också bidra till lärande.
+## Återrapportering ska gå tillbaka till rätt nivå
 
-## Ekonomisk uppföljning
+Återrapportering ska ske till den nivå som gett uppdrag, fattat beslut eller har uppföljningsansvar.
+
+{% columns %}
+{% column %}
+### Exempel på återrapportering
+
+Distriktschef rapporterar till distriktsstyrelsen.
+
+Kommittéer återrapporterar enligt beslutad ordning.
+
+Delegerade beslut återrapporteras enligt delegationsordning.
+
+Granskande funktioner rapporterar enligt sina uppdrag.
+{% endcolumn %}
+
+{% column %}
+### Varför det spelar roll
+
+Utan återrapportering blir ansvar svårt att följa.
+
+Utan uppföljning blir prioriteringar svåra att lära av.
+
+Utan rätt mottagare riskerar viktig information att stanna på fel nivå.
+{% endcolumn %}
+{% endcolumns %}
+
+## Ekonomiska avvikelser ska inte vänta
 
 Ekonomisk uppföljning ska ske återkommande under året och ge distriktsstyrelsen tillräckligt underlag för att ta ansvar för ekonomi och styrning.
 
 Väsentliga avvikelser ska rapporteras när de upptäcks. De ska inte vänta till nästa ordinarie uppföljning om de kräver åtgärd.
 
-## Verksamhetsplan och budget
+{% hint style="warning" %}
+En avvikelse är inte farlig för att den rapporteras. Den blir farlig om den tystnar, växer eller saknar ansvarig åtgärd.
+{% endhint %}
 
-Verksamhetsplan och budget ska hänga ihop.
+## Demokratin behöver också en rytm
 
-Verksamhetsplanen visar vad distriktet ska göra och varför.
+Årscykeln ska också ge plats för årsmöte, representantskap, motioner, valberedning, revision och lekmannarevision.
 
-Budgeten visar vilka resurser som sätts bakom arbetet.
+Det demokratiska arbetet kräver tid för beredning, handlingar, dialog, beslut och granskning. Om allt kommer sent blir föreningarnas inflytande svårare att använda.
 
-Om plan och budget pekar åt olika håll behöver styrningen rättas till. En prioritering utan resurser är inte en verklig prioritering.
-
-## Återrapportering
-
-Återrapportering ska ske till den nivå som har gett uppdrag, fattat beslut eller har uppföljningsansvar.
-
-Det innebär till exempel att:
-
-* distriktschef rapporterar till distriktsstyrelsen
-* kommittéer återrapporterar till distriktsstyrelsen enligt beslutad ordning
-* delegerade beslut återrapporteras enligt delegationsordning
-* granskande funktioner rapporterar enligt sitt uppdrag
-* verksamhet och ekonomi återrapporteras till medlemsföreningarna genom demokratiska processer
-
-## Vägledande princip
-
-Årscykeln ska göra arbetet lugnare och tydligare.
-
-Det ska finnas tid för beredning, beslut, genomförande, uppföljning och lärande. Då blir styrningen mindre ryckig och mer hållbar.
+En bra årscykel är därför inte bara intern planering. Den är en del av den demokratiska kvaliteten.
