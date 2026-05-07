@@ -1,73 +1,67 @@
 ---
 description: >-
-  Presidiets roll som beredande funktion och eventuell delegat under
-  distriktsstyrelsen.
+  Presidiet som styrelsens beredande och samordnande funktion, utan att bli ett
+  parallellt beslutsorgan.
 ---
 
 # Presidium
 
-Presidiet är en mindre grupp inom distriktsstyrelsen.
+Presidiet ska göra distriktsstyrelsens arbete bättre förberett och lättare att hålla ihop. Det ska inte göra beslutsvägarna smalare eller mer informella.
 
-Det är ett sätt för distriktsstyrelsen att organisera sitt arbete, inte ett parallellt beslutsorgan vid sidan av distriktsstyrelsen.
+Presidiet är en del av styrelsens arbetssätt. Det finns till för att stödja styrelsen, inte för att ersätta den.
 
-Presidiets uppdrag ska alltid förstås inom distriktsstyrelsens ansvar och mandat.
+{% hint style="warning" %}
+Presidiet får inte bli en parallell styrelse. Om presidiet ska fatta beslut krävs tydlig [delegation](delegation.md) eller annat uttryckligt beslut.
+{% endhint %}
 
-## Presidiets grundfunktion
+## En liten funktion med tydlig gräns
 
-Presidiet kan användas för att förbereda, samordna och följa upp frågor inför distriktsstyrelsens sammanträden.
+Presidiet kan användas för beredning, samordning och löpande avstämning. Det kan vara praktiskt, särskilt när styrelsen behöver hålla ihop ärenden mellan sammanträden.
 
-Det kan till exempel handla om att:
+Men praktisk nytta skapar inte mandat i sig. Presidiets mandat måste komma från distriktsstyrelsen och kunna följas i beslut, arbetsordning eller delegationsordning.
 
-* planera styrelsens arbete
-* samordna ärenden inför sammanträden
-* hålla löpande dialog med distriktschef
-* följa upp beslutade uppdrag
-* säkerställa att beslutsunderlag är tillräckligt beredda
+## Presidiet kan hjälpa styrelsen på flera sätt
 
-Beredning är inte samma sak som beslut. Beslut fattas av distriktsstyrelsen, om inte presidiet fått en tydlig delegation.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Förbereda</strong><br>Hjälpa till att planera styrelsens arbete och se till att ärenden är tillräckligt beredda.</td></tr><tr><td><strong>Samordna</strong><br>Hålla ihop frågor som behöver hanteras mellan styrelsens sammanträden.</td></tr><tr><td><strong>Följa upp</strong><br>Stödja styrelsen i att följa upp uppdrag, beslut och återrapportering.</td></tr><tr><td><strong>Avstämma</strong><br>Ha löpande dialog med distriktschef inom de ramar styrelsen beslutat.</td></tr></tbody></table>
 
-## Delegation till presidiet
+## Det presidiet inte ska vara
 
-Distriktsstyrelsen kan delegera beslutanderätt till presidiet i tydligt avgränsade frågor.
+<details>
+<summary><strong>Inte ett extra styrelsemöte</strong></summary>
 
-Sådan delegation ska vara:
+Frågor som ska avgöras av distriktsstyrelsen ska inte flyttas till presidiet för att det går snabbare.
 
-* skriftlig
-* beslutad av distriktsstyrelsen
-* avgränsad till ärendetyp eller situation
-* möjlig att följa upp
-* återrapporterad enligt beslutad ordning
+</details>
 
-Presidiet kan inte skapa eget mandat genom praxis eller praktiskt behov.
+<details>
+<summary><strong>Inte en operativ ledningsgrupp</strong></summary>
 
-## Vad presidiet inte är
+Presidiet ska inte ta över distriktschefens ansvar att leda den löpande verksamheten.
 
-Presidiet är inte:
+</details>
 
-* ett extra styrelsemöte
-* en genväg för frågor som borde avgöras av distriktsstyrelsen
-* ett organ som kan överpröva distriktsstyrelsens beslut
-* en operativ ledningsgrupp för kansliet
-* en ersättning för distriktschefens uppdrag
+<details>
+<summary><strong>Inte en informell beslutsväg</strong></summary>
 
-Om presidiet börjar ta över frågor som hör till distriktsstyrelsen som helhet försvagas det kollektiva styrelseansvaret.
+Löpande dialog får inte bli nya direktiv om det saknas beslut eller delegation.
 
-## Relation till distriktsordföranden och distriktschef
+</details>
 
-Distriktsordföranden kan ha en löpande dialog med distriktschef inom ramen för sitt uppdrag att leda distriktsstyrelsens arbete.
+<details>
+<summary><strong>Inte en genväg runt styrelsens kollektiva ansvar</strong></summary>
 
-Den dialogen ska inte förväxlas med nya beslut eller direktiv från presidiet, om inte det finns stöd i beslut eller delegation.
+Styrelsen fattar beslut som organ. Presidiet får inte försvaga det gemensamma styrelseansvaret.
 
-Distriktschefen rapporterar till distriktsstyrelsen som organ, även om löpande avstämning sker med distriktsordföranden eller presidiet.
+</details>
 
-## Återrapportering
+## Dialogen med distriktschef behöver vara tydlig
 
-Beslut eller uppdrag som presidiet hanterar genom delegation ska återrapporteras till distriktsstyrelsen.
+Distriktsordföranden eller presidiet kan ha löpande avstämning med [distriktschef](distriktschef.md). Det är ofta nödvändigt för att styrelsens arbete och den operativa ledningen ska hänga ihop.
 
-Återrapporteringen ska vara tillräcklig för att distriktsstyrelsen ska kunna ta sitt övergripande ansvar.
+Men distriktschefen rapporterar till distriktsstyrelsen som organ. Avstämningen ska därför hållas inom de ramar som styrelsen beslutat och inte skapa egna uppdrag vid sidan av beslutad styrning.
 
-## Vägledande princip
+## Delegerade beslut ska tillbaka till styrelsen
 
-Presidiet ska göra distriktsstyrelsens arbete tydligare och bättre förberett.
+Om presidiet hanterar en fråga genom delegation ska beslutet dokumenteras och återrapporteras till distriktsstyrelsen enligt beslutad ordning.
 
-Det ska inte göra beslutsvägarna smalare, mer informella eller svårare att följa.
+Återrapporteringen behöver vara tillräcklig för att styrelsen ska kunna bära sitt ansvar. Annars blir delegation svår att kontrollera.
