@@ -1,83 +1,83 @@
 ---
 description: >-
-  Principer för hur ärenden bereds innan beslut.
+  Hur frågor ska förberedas så att beslut kan fattas på rätt nivå, med rätt
+  underlag och utan att beredningen blir ett eget beslutsmandat.
 ---
 
 # Beredning
 
-Beredning innebär att ta fram det underlag som behövs för att ett beslut ska kunna fattas på rätt nivå och med tillräcklig kvalitet.
+Beredning är arbetet som gör ett beslut möjligt att fatta med gott omdöme.
 
-Ett beslut blir stadigare när beredningen är tydlig. Det gäller särskilt frågor som är principiella, ekonomiska, strategiska eller demokratiskt viktiga.
+Det handlar om att förstå frågan, pröva nivån, ta fram underlag, synliggöra konsekvenser och förbereda ett beslut utan att själv ta över beslutanderätten.
 
-## Beredning och beslut är olika saker
+{% hint style="info" %}
+Den som bereder hjälper beslutet fram. Den som har mandat fattar beslutet. Gränsen mellan beredning och beslut behöver vara tydlig, särskilt i frågor som rör ekonomi, strategi, tävling, organisation eller föreningarnas demokratiska inflytande.
+{% endhint %}
 
-Att bereda ett ärende är inte samma sak som att besluta.
+## Ett ärende ska mogna på rätt plats
 
-Kommittéer, presidium, distriktschef, kansli, arbetsgrupper och referensgrupper kan bidra i beredning.
+Beredning ska börja med frågan: var hör ärendet hemma?
 
-Beslutet fattas av det organ eller den funktion som har mandat.
+En fråga som hör till [årsmötet](../demokratisk-styrning/arsmote.md) ska inte beredas som om den vore en kanslifråga. En fråga som hör till [representantskapet](../demokratisk-styrning/representantskap.md) ska inte tappas bort i en kommitté. En fråga som ligger inom [distriktsstyrelsens](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) ansvar ska beredas så att styrelsen kan ta ansvar för beslutet.
 
-Beredning får därför inte bli ett sätt att flytta beslut från rätt nivå till en annan plats.
+När nivån är oklar används [normordningen](../grund-och-varden/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
-## Vad god beredning innehåller
+## Vad god beredning ska ge
 
-God beredning bör normalt klargöra:
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Klar fråga</strong><br>Vad ska avgöras, varför behöver det avgöras och vad händer om inget beslut fattas?</td></tr><tr><td><strong>Rätt mandat</strong><br>Vilken nivå får besluta och vilket regelverk, beslut eller delegation ger stöd?</td></tr><tr><td><strong>Synliga vägval</strong><br>Vilka alternativ finns och vilka konsekvenser får de?</td></tr><tr><td><strong>Genomförbarhet</strong><br>Vem ska verkställa, vilka resurser krävs och när ska återrapportering ske?</td></tr><tr><td><strong>Risk och jäv</strong><br>Vilka risker behöver hanteras och finns jäv som påverkar beredningen?</td></tr></tbody></table>
 
-* vad frågan gäller
-* varför frågan behöver hanteras
-* vilken nivå som ska besluta
-* vilket mandat som finns
-* vilka alternativ som finns
-* vilka konsekvenser alternativen får
-* vilka risker som behöver beaktas
-* vem som ansvarar för verkställighet
-* hur frågan ska följas upp
+Alla frågor behöver inte ett långt underlag. Men varje fråga behöver ett underlag som är tillräckligt för beslutets tyngd.
 
-All beredning behöver inte vara omfattande. Men den ska vara tillräcklig för frågans tyngd.
+## Lagom tungt är ofta bäst
 
-## Proportionerlig beredning
+Beredning ska vara proportionerlig. En enkel fråga ska inte göras onödigt tung. En svår fråga ska inte göras för lätt.
 
-Beredning ska vara proportionerlig.
+{% columns %}
+{% column %}
+### Enklare beredning kan räcka när
 
-En enkel fråga kräver inte ett tungt beslutsunderlag.
+frågan är avgränsad,
 
-En fråga med stor ekonomisk betydelse, principiell betydelse eller påverkan på medlemsföreningarna kräver däremot tydligare analys, konsekvensbedömning och förankring.
+mandatet är tydligt,
 
-Det är varken smidigt eller klokt att göra allt lika tungt. Men det är heller inte hållbart att göra svåra frågor för lätt.
+konsekvenserna är små,
 
-## Beredningsansvar
+och beslutet ryms inom gällande plan, budget och delegation.
+{% endcolumn %}
 
-Beredningsansvar ska vara tydligt.
+{% column %}
+### Tyngre beredning behövs när
 
-Som huvudprincip gäller:
+frågan är principiell,
 
-* distriktschef och kansli bereder ofta ärenden inför distriktsstyrelsen
-* kommittéer bereder frågor inom sina sakområden
-* valberedningen bereder val
-* disciplinnämnden bereder sina egna ärenden inom sitt mandat
-* arbetsgrupper kan bereda avgränsade uppdrag
-* referensgrupper kan bidra med inspel och perspektiv
+påverkar många föreningar,
 
-Den konkreta ansvarsfördelningen framgår av [Ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md) och berörda dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+har större ekonomisk betydelse,
 
-## Jäv i beredning
+rör stadgar, ansvar eller organisation,
 
-Jäv ska hanteras redan i beredningen, inte bara vid beslut.
+eller innebär tydliga risker.
+{% endcolumn %}
+{% endcolumns %}
 
-Den som är jävig ska anmäla det och inte delta i handläggning av frågan på ett sätt som kan påverka ärendet.
+Det är småländsk ordning: inte mer krångel än nödvändigt, men tillräckligt med reda för att beslutet ska hålla.
 
-Jäv ska dokumenteras när det är relevant för ärendets spårbarhet.
+## Flera kan bereda, men mandatet ska vara klart
 
-## Underlag i tid
+Beredning kan göras av olika delar av organisationen. [Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) bereder ofta underlag inför distriktsstyrelsen. [Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) bereder inom sina sakområden. [Arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md) kan bereda avgränsade uppdrag och [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md) kan bidra med perspektiv.
 
-Beslutsunderlag ska finnas tillgängliga i sådan tid att berörda kan läsa, förstå och ta ställning.
+[Valberedningen](../granskande-funktioner/valberedning.md) bereder val. [Disciplinnämnden](../granskande-funktioner/disciplinnamnd.md) hanterar sina ärenden inom sitt eget mandat.
 
-Kort framförhållning kan ibland vara nödvändig, men ska inte bli normalt arbetssätt.
+Det viktiga är att den som bereder vet vem som ska fatta beslut, vilket underlag som behövs och hur frågan ska tillbaka till rätt nivå.
 
-Bra beredning är också respekt för dem som ska fatta beslutet.
+## Jäv ska fångas tidigt
 
-## Vägledande princip
+Jäv ska hanteras redan i beredningen, inte först när beslut ska fattas.
 
-Beredning ska göra beslutet klokare, inte beslutsvägen otydligare.
+Den som är jävig ska anmäla det och inte delta i handläggning på ett sätt som kan påverka ärendet. När jäv är relevant för spårbarheten ska det dokumenteras.
 
-Den som bereder hjälper beslutet fram. Den som har mandat fattar beslutet.
+## Underlag i tid är respekt för uppdraget
+
+Beslutsunderlag ska finnas tillgängliga i sådan tid att de som ska ta ansvar kan läsa, förstå och ställa frågor.
+
+Kort framförhållning kan ibland vara nödvändig, men ska inte bli normalt arbetssätt. Bra beredning är också respekt för dem som ska fatta beslutet.
