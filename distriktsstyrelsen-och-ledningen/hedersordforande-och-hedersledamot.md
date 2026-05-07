@@ -1,49 +1,33 @@
 ---
 description: >-
-  Hedersordförande och hedersledamot som hedersbetygelser och deras roll i
-  distriktets demokratiska sammanhang.
+  Hur hedersordförande och hedersledamot hedrar betydelsefulla insatser utan att
+  skapa otydliga beslutsmandat.
 ---
 
 # Hedersordförande och hedersledamot
 
-Hedersordförande och hedersledamot är Smålands Fotbollförbunds högsta hedersbetygelser.
+Hedersordförande och hedersledamot är Smålands Fotbollförbunds högsta hedersbetygelser. De ska vårda historien, visa tacksamhet och lyfta personer som gjort särskilt betydelsefulla insatser för den småländska fotbollen.
 
-De är uttryck för stor uppskattning för långvariga och särskilt betydelsefulla insatser för den småländska fotbollen.
+Hedersrollen är viktig just för att den är förtroendefull och symbolisk. Därför behöver den också hållas isär från formella beslutsmandat.
 
-Den här sidan beskriver rollens plats i styrmodellen. Kriterier, process och beslutade regler ska finnas i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% hint style="info" %}
+Kriterier, beredning och beslutsordning för hedersutnämningar hör hemma i gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument). Den här sidan beskriver hedersrollens plats i styrmodellen.
+{% endhint %}
 
-## Beslut om hedersutnämning
+## En hedersroll är inte en styrelseroll
 
-Beslut om hedersordförande eller hedersledamot fattas av årsmötet om stadgar eller beslutade regler anger det.
+En hedersutnämning gör inte personen till ledamot i distriktsstyrelsen och ger inte i sig beslutanderätt.
 
-Beredning och förslag ska ske enligt gällande stadgar, policy eller process i dokumentarkivet.
+Om hedersordförande eller hedersledamot har yttranderätt vid årsmöte, representantskap eller annat sammanhang följer det av stadgar eller särskilt beslut. Yttranderätt är inte samma sak som rösträtt, förslagsrätt eller beslutanderätt.
 
-En hedersutnämning ska vara väl förankrad, tydligt motiverad och hanteras med respekt för både personen och distriktets historia.
+## Erfarenhet utan informell makt
 
-## Formell ställning
+Hedersordförande och hedersledamöter kan bidra med erfarenhet, sammanhang och historiskt perspektiv. Det kan vara värdefullt vid högtider, årsmöten, jubileer och andra sammanhang där distriktets historia och värden ska hållas levande.
 
-Hedersordförande och hedersledamöter kan ha särskilda rättigheter enligt stadgarna, till exempel yttranderätt vid årsmöte eller representantskap.
+Samtidigt ska delaktigheten inte skapa informella beslutsvägar. Råd och erfarenhet kan tas emot med respekt, men beslut ska fattas av rätt organ.
 
-Yttranderätt innebär rätt att yttra sig. Det är inte samma sak som rösträtt, beslutanderätt eller förslagsrätt om inte stadgar eller särskilt beslut anger det.
+## När historien bjuds in
 
-Hedersordförande och hedersledamöter är inte ledamöter i distriktsstyrelsen genom sin hedersutnämning.
+Distriktet kan bjuda in hedersordförande och hedersledamöter när deras närvaro stärker gemenskap, kontinuitet och tacksamhet.
 
-## Roll i organisationen
-
-Hedersordförande och hedersledamöter kan bidra med erfarenhet, sammanhang och historiskt perspektiv.
-
-Deras värde ligger i förtroendet, erfarenheten och den symboliska betydelsen som bärare av distriktets historia och värderingar.
-
-Samtidigt ska deras roll hållas isär från formella beslutsmandat.
-
-## Inbjudningar och delaktighet
-
-Distriktet kan bjuda in hedersordförande och hedersledamöter till årsmöte, representantskap och andra sammanhang där deras närvaro stärker kontinuitet och gemenskap.
-
-Sådan delaktighet ska ske på ett sätt som respekterar både hedersrollen och de formella beslutsvägarna.
-
-## Vägledande princip
-
-Hedersroller ska vårda historien utan att skapa otydlighet i styrningen.
-
-De ska ge värdighet, sammanhang och tacksamhet, men inte informella beslutsvägar.
+Det ska göras värdigt och tydligt: hedersrollen ska ge sammanhang, inte oklarhet. På så sätt kan distriktet både hedra dem som byggt och hålla styrningen rak för dem som ska bära arbetet vidare.
