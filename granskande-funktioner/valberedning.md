@@ -1,84 +1,82 @@
 ---
 description: >-
-  Valberedningens roll som årsmötets organ för att bereda val.
+  Valberedningens självständiga uppdrag att bereda val så att föreningarna kan
+  välja med kunskap, förtroende och helhetssyn.
 ---
 
 # Valberedning
 
-Valberedningen är årsmötets organ för att bereda val.
+Valberedningen hjälper föreningarna att välja klokt.
 
-Den väljs av medlemsföreningarna och arbetar på deras uppdrag. Valberedningen ska bidra till att årsmötet får välgrundade förslag till de val som ska göras.
+Den är årsmötets organ för att bereda val och ska arbeta självständigt från distriktsstyrelsen, kansliet och enskilda intressen. Uppdraget är inte att spegla den som hörs mest, utan att lägga fram genomtänkta förslag till de val som årsmötet ska göra.
 
-Valberedningen ska vara självständig i sitt uppdrag. Den är inte ett organ under distriktsstyrelsen.
+{% hint style="info" %}
+Valberedningen bereder val. Den granskar inte distriktsstyrelsen och leder inte verksamheten. Det är självständigheten i valberedningsarbetet som gör förslagen trovärdiga.
+{% endhint %}
 
-## Valberedningens uppgift
+## Ett förtroendeuppdrag för helheten
 
-Valberedningens uppgift är att bereda val på ett sätt som stärker distriktets kompetens, legitimitet och förtroende.
+Valberedningens arbete påverkar distriktets kompetens, kontinuitet och legitimitet över tid.
 
-Det innebär bland annat att valberedningen ska:
+Ett bra förslag handlar därför inte bara om att fylla platser. Det handlar om att se vilket ansvar som ska bäras, vilken kompetens som behövs och hur gruppen som helhet kan fungera.
 
-* ta emot nomineringar och förslag
-* föra samtal med berörda personer
-* bedöma kompetens, erfarenhet och sammansättning
-* väga kontinuitet mot förnyelse
-* lämna motiverade förslag till årsmötet
-* beskriva sin arbetsprocess på ett begripligt sätt
+## Det valberedningen behöver väga samman
 
-Den konkreta valprocessen bör beskrivas i processbeskrivning eller annat dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Stadgar och formella krav</strong><br>Valberedningen ska hålla sig inom de regler och val som gäller.</td></tr><tr><td><strong>Kompetens och erfarenhet</strong><br>Förslagen ska bidra till att uppdragen kan bäras på ett klokt sätt.</td></tr><tr><td><strong>Bredd och förankring</strong><br>Distriktets geografi, föreningsliv och verksamhet behöver kunna kännas igen.</td></tr><tr><td><strong>Kontinuitet och förnyelse</strong><br>Organisationen behöver både minne och ny kraft.</td></tr></tbody></table>
 
-## Oberoende
+Jämställdhet, mångfald, föreningsförståelse, tid för uppdraget och förmåga att arbeta i en folkrörelseorganisation är viktiga delar i den samlade bedömningen.
 
-Valberedningens oberoende är centralt.
+## Processen behöver vara öppen utan att bli offentlig i allt
 
-Den ska kunna arbeta utan styrning från distriktsstyrelsen, kansliet, enskilda intressen eller informella grupperingar.
+Valberedningsarbete kräver både öppenhet och integritet.
 
-Det betyder inte att valberedningen ska arbeta isolerat. Den behöver lyssna brett, men den ska självständigt lägga fram sina förslag.
+{% columns %}
+{% column %}
+### Föreningarna behöver insyn
 
-## Vad valberedningen bör väga in
+Det ska vara tydligt hur nomineringar lämnas, vilka val som ska göras och hur processen i huvudsak går till.
+{% endcolumn %}
 
-Valberedningen bör väga in både formella krav och organisationens behov.
+{% column %}
+### Kandidaterna behöver trygghet
 
-Det kan till exempel handla om:
+Samtal, personliga uppgifter och interna bedömningar ska hanteras varsamt och förtroendefullt.
+{% endcolumn %}
+{% endcolumns %}
 
-* stadgarnas krav
-* kompetens och erfarenhet
-* föreningsförankring
-* jämställdhet och mångfald
-* geografisk och verksamhetsmässig bredd
-* kontinuitet och förnyelse
-* förmåga att avsätta tid för uppdraget
-* förståelse för distriktets roll som folkrörelseorganisation
+Balansen är viktig. För sluten process skapar avstånd. För öppen hantering av personfrågor kan skada både människor och förtroende.
 
-Detta ska göras med respekt för uppdragets integritet och för de personer som nomineras eller prövas.
+## Förslaget ska hjälpa årsmötet att ta ställning
 
-## Öppenhet och integritet
+Valberedningens förslag bör vara tillräckligt tydliga för att föreningarna ska kunna förstå varför personerna föreslås.
 
-Valberedningsarbete behöver både öppenhet och integritet.
+Det kan handla om presentation av kandidater, motivering av förslag och en kort beskrivning av hur valberedningen har arbetat. Exakta former och tidpunkter följer av stadgar och gällande dokument.
 
-Öppenhet behövs för att föreningarna ska veta hur de kan nominera, vilka val som ska göras och hur processen ser ut.
+## Där gränsen mot distriktsstyrelsen går
 
-Integritet behövs för att samtal, bedömningar och personuppgifter ska hanteras på ett förtroendefullt sätt.
+<details>
+<summary><strong>Distriktsstyrelsen kan beskriva behov</strong></summary>
 
-Valberedningen ska därför vara tydlig om processen, men varsam med personliga uppgifter och interna bedömningar.
+Distriktsstyrelsen kan ge valberedningen saklig information om organisationens behov, uppdragets krav och erfarenheter från arbetet.
 
-## Förslag till årsmötet
+</details>
 
-Valberedningens förslag ska vara tillräckligt tydliga för att föreningarna ska kunna ta ställning.
+<details>
+<summary><strong>Distriktsstyrelsen ska inte styra förslaget</strong></summary>
 
-Förslagen bör normalt innehålla en motivering, relevant presentation av kandidaterna och en beskrivning av hur valberedningen har arbetat.
+Valberedningen ska självständigt bedöma nomineringar, föra samtal och lägga fram förslag till årsmötet.
 
-Om det finns särskilda krav på form eller tidpunkt följer de av stadgar eller beslutade dokument.
+</details>
 
-## Gräns mot distriktsstyrelsen
+<details>
+<summary><strong>Kansliet kan stödja praktiskt</strong></summary>
 
-Distriktsstyrelsen kan lämna information om organisationens behov, men ska inte styra valberedningens förslag.
+Administrativt stöd kan behövas, men stödet får inte påverka valberedningens bedömning.
 
-Valberedningen bereder val till årsmötet. Den granskar inte distriktsstyrelsen och leder inte verksamheten.
+</details>
 
-Rätt gräns gör både valberedningen och distriktsstyrelsen starkare.
+## När valberedningen fungerar väl
 
-## Vägledande princip
+Då vet föreningarna hur de kan nominera. Kandidater behandlas med respekt. Förslagen är begripliga. Processen är tydlig nog att skapa förtroende och varsam nog att människor ska vilja ställa upp.
 
-Valberedningen ska hjälpa föreningarna att välja klokt.
-
-Det kräver självständighet, lyhördhet, tydlig process och mod att se till helheten.
+Det är ett lågmält arbete, men ett av de viktigaste för att distriktets demokrati ska hålla över tid.
