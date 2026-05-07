@@ -1,70 +1,123 @@
 ---
 description: >-
-  Externa dokument som påverkar styrmodellen men beslutas eller ägs av annan
-  aktör.
+  Hur externa dokument som ägs av RF, Svenska Fotbollförbundet, RF-SISU eller
+  andra aktörer påverkar distriktets styrning.
 ---
 
 # Externa bärande dokument
 
-Smålands Fotbollförbunds styrmodell påverkas av dokument som distriktet inte själv beslutar om.
+Smålands Fotbollförbund påverkas av dokument som distriktet inte själv beslutar om.
 
-Det kan vara stadgar, regelverk, idéprogram, rekommendationer, tävlingsbestämmelser eller andra dokument från Riksidrottsförbundet, Svenska Fotbollförbundet, RF-SISU Småland eller andra relevanta aktörer.
+Det kan vara stadgar, regelverk, idéprogram, rekommendationer, tävlingsbestämmelser, basuppgifter eller andra dokument från Riksidrottsförbundet, Svenska Fotbollförbundet, RF-SISU Småland eller andra relevanta aktörer.
 
-Den här sidan beskriver principen för hur externa bärande dokument ska förstås i styrmodellen. Själva dokumenten, länkarna och lokala kopiorna ska hanteras i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% hint style="info" %}
+Den här sidan beskriver hur externa dokument ska förstås i styrmodellen. Själva dokumenten, länkarna och eventuella lokala kopior ska hanteras i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% endhint %}
 
-## Vad ett externt bärande dokument är
+## Dokumentet är externt när någon annan äger det
 
 Ett externt bärande dokument är ett dokument som påverkar distriktets styrning, men som helt eller delvis ägs, beslutas eller fastställs av någon annan än Smålands Fotbollförbund.
 
-Exempel kan vara:
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>RF</strong><br>Stadgar, idéprogram, värdegrund och rekommendationer som påverkar idrottsrörelsen.</td></tr><tr><td><strong>Svenska Fotbollförbundet</strong><br>Stadgar, tävlingsbestämmelser, utbildningssystem, basuppgifter och andra gemensamma uppdrag inom svensk fotboll.</td></tr><tr><td><strong>RF-SISU Småland</strong><br>Stadgar, uppdrag och regionala dokument som kan påverka samverkan, folkbildning och idrottsutveckling.</td></tr><tr><td><strong>Andra aktörer</strong><br>Dokument från andra organisationer när de påverkar distriktets arbete.</td></tr></tbody></table>
 
-* RF:s stadgar
-* Svenska Fotbollförbundets stadgar
-* RF-SISU Smålands stadgar
-* RF:s rekommendation för god demokratisk styrning
-* Idrotten Vill
-* Svenska Fotbollförbundets tävlingsbestämmelser och regelverk
-* basuppgifter och andra gemensamma uppdrag inom svensk fotboll
+## Externa dokument har olika tyngd
 
-## Skillnad mellan extern källa och lokal kopia
+Alla externa dokument väger inte lika tungt.
 
-En officiell källa är den plats där dokumentägaren publicerar dokumentet.
+Vissa är överordnade normer, till exempel RF:s stadgar och Svenska Fotbollförbundets stadgar. Andra är vägledande, till exempel rekommendationer, idéprogram eller stödmaterial.
 
-En lokal kopia kan användas för spårbarhet, historik och tillgänglighet, men den ersätter inte den officiella källan om inte särskilda omständigheter kräver det.
+Vad som väger tyngst vid konflikt beskrivs i [normordningen](../grund-och-varden/normordning.md). Den här sidan ska inte skapa en parallell rangordning.
 
-När en lokal kopia används ska det framgå:
+## Officiell källa och lokal kopia är inte samma sak
 
-* vilken version den avser
-* när den hämtades eller fastställdes
-* vem som äger originaldokumentet
-* var den officiella källan finns
+En officiell källa är den plats där dokumentägaren publicerar dokumentet. En lokal kopia kan vara praktisk för spårbarhet, historik och tillgänglighet, men den ersätter normalt inte originalet.
 
-## Smålands Fotbollförbunds egna stadgar
+{% columns %}
+{% column %}
+### Officiell källa
 
-Smålands Fotbollförbunds stadgar är distriktets högsta interna normnivå.
+Ägs och uppdateras av den aktör som beslutar dokumentet.
 
-De beslutas av distriktets medlemsföreningar enligt stadgarna och inom de ramar som gäller i svensk fotboll.
+Ska användas när aktuell lydelse behöver kontrolleras.
+{% endcolumn %}
 
-Även om stadgarna påverkas av överordnade regler är de inte ett externt dokument i samma mening som RF:s eller Svenska Fotbollförbundets stadgar. De ska därför hanteras som distriktets egna stadgar i dokumentarkivet.
+{% column %}
+### Lokal kopia
 
-## Ansvar för bevakning
+Kan användas för intern ordning, historik eller tillgänglighet.
 
-Distriktet behöver bevaka när externa bärande dokument ändras.
+Ska tydligt ange version, källa och när kopian hämtades eller fastställdes.
+{% endcolumn %}
+{% endcolumns %}
 
-Det är viktigt eftersom förändringar i externa dokument kan påverka styrmodellen, stadgar, arbetsordningar, delegationsordningar, processer och andra dokument.
+## Smålands Fotbollförbunds egna stadgar är inte externa
 
-Vem som ansvarar för bevakning och uppdatering bör framgå av dokumentarkitekturen, dokumentarkivet eller särskild instruktion.
+Distriktets egna stadgar påverkas av överordnade regler inom idrotten och fotbollen, men de är inte ett externt dokument i dokumentarkitekturen.
 
-## Relation till normordning
+De beslutas av medlemsföreningarna genom årsmötet och är distriktets högsta interna normnivå. Därför ska de hanteras som egna stadgar i dokumentarkivet.
 
-Externa dokument kan ha olika tyngd.
+## Förändringar behöver fångas i tid
 
-Vissa är överordnade normer, till exempel RF:s stadgar och Svenska Fotbollförbundets stadgar. Andra är vägledande, till exempel rekommendationer och idéprogram.
+När externa dokument ändras kan det påverka distriktets stadgar, arbetsordningar, delegationsordningar, processer, tävlingsdokument och andra styrande dokument.
 
-Vad som väger tyngst vid konflikt beskrivs i [Normordning](../grund-och-varden/normordning.md). Den här sidan ska inte skapa en parallell rangordning.
+Därför behöver distriktet ha en tydlig bevakning.
 
-## Vägledande princip
+{% stepper %}
+{% step %}
+**Identifiera dokumentägaren**  
+Vem beslutar och uppdaterar originaldokumentet?
+{% endstep %}
 
-Externa bärande dokument ska vara lätta att hitta och rätt förstådda.
+{% step %}
+**Bevaka ändringar**  
+Vem i distriktet ansvarar för att uppmärksamma när dokumentet ändras?
+{% endstep %}
 
-Det ska alltid framgå vad distriktet själv beslutar om, vad som kommer från annan aktör och vilken roll dokumentet har i styrningen.
+{% step %}
+**Bedöm påverkan**  
+Vilka delar av styrmodellen, dokumentarkivet eller verksamheten påverkas?
+{% endstep %}
+
+{% step %}
+**Uppdatera rätt dokument**  
+Ändra inte på flera ställen i onödan. Uppdatera rätt kärnkälla och länka vidare därifrån.
+{% endstep %}
+{% endstepper %}
+
+## När externa dokument används i styrningen
+
+När ett externt dokument används som grund för lokal styrning ska det vara tydligt vilken roll dokumentet har.
+
+<details>
+<summary><strong>Är dokumentet bindande?</strong></summary>
+
+Då behöver distriktets egna dokument och arbetssätt hålla sig inom den ramen.
+
+</details>
+
+<details>
+<summary><strong>Är dokumentet vägledande?</strong></summary>
+
+Då behöver distriktet förklara hur vägledningen används, utan att göra den till en egen normnivå om den inte är det.
+
+</details>
+
+<details>
+<summary><strong>Är dokumentet stödmaterial?</strong></summary>
+
+Då kan det hjälpa arbetet, men ska inte blandas ihop med beslutade mandat eller bindande regler.
+
+</details>
+
+<details>
+<summary><strong>Finns lokal tillämpning?</strong></summary>
+
+Då ska den lokala tillämpningen beskrivas i rätt dokumenttyp, till exempel policy, riktlinje, instruktion eller processbeskrivning.
+
+</details>
+
+## Externa dokument ska vara lätta att förstå rätt
+
+Det ska alltid framgå vad Smålands Fotbollförbund själv beslutar om, vad som kommer från annan aktör och vilken roll dokumentet har i styrningen.
+
+Det är särskilt viktigt när dokumentet påverkar föreningarnas ansvar, tävlingsverksamheten, demokratiska processer, ekonomi, utbildning eller trygghetsarbete. Då behöver hänvisningen vara tydlig nog för att ingen ska behöva gissa vad som gäller.
