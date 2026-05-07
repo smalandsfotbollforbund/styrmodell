@@ -1,61 +1,58 @@
 ---
 description: >-
-  Kansliets roll som operativ och stödjande tjänstepersonsorganisation.
+  Kansliets roll som tjänstepersonsorganisation för beredning, genomförande,
+  administration och stöd till föreningar och organ.
 ---
 
 # Kansli
 
-Kansliet är Smålands Fotbollförbunds tjänstepersonsorganisation.
+Kansliet är distriktets tjänstepersonsorganisation. Det är här mycket av det dagliga arbetet blir gjort: tävling administreras, utbildningar genomförs, föreningar får stöd, beslut verkställs och underlag tas fram.
 
-Det leds av distriktschefen och verkar på den operativa nivån i styrmodellen. Kansliet gör att beslut, uppdrag och stöd till föreningarna fungerar i vardagen.
+Kansliet leds av [distriktschefen](distriktschef.md) och verkar inom de ramar som distriktsstyrelsen beslutat. Det är en operativ och stödjande funktion, inte ett eget demokratiskt eller strategiskt beslutsorgan.
 
-Kansliet är en stödjande, beredande och verkställande funktion. Det är inte ett eget demokratiskt eller strategiskt beslutsorgan.
+{% hint style="info" %}
+Kansliet kan bereda, föreslå och verkställa. Men beslutanderätt kräver stöd i stadgar, beslut, delegation eller annat gällande dokument.
+{% endhint %}
 
-## Kansliets uppgift
+## Stödet ska märkas där fotbollen finns
 
-Kansliet ska stödja distriktets verksamhet inom beslutade ramar.
+Kansliets arbete ska vara relevant för föreningarnas verklighet. Det ska inte bara märkas i system och dokument, utan i att föreningar, ledare, domare och andra aktörer får rätt stöd i rätt tid.
 
-Det innebär bland annat att:
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Bereda</strong><br>Ta fram underlag inför beslut, uppdrag och prioriteringar.</td></tr><tr><td><strong>Verkställa</strong><br>Genomföra beslut och uppdrag inom beslutade ramar.</td></tr><tr><td><strong>Administrera</strong><br>Hålla ordning på tävling, utbildning, ekonomi, dokumentation och rapportering.</td></tr><tr><td><strong>Stödja</strong><br>Ge service, rådgivning och praktiskt stöd till föreningar och organ.</td></tr></tbody></table>
 
-* bereda ärenden inför distriktsstyrelse, kommittéer och andra organ
-* verkställa fattade beslut
-* administrera tävling, utbildning, föreningsstöd och andra verksamhetsområden
-* ge service och stöd till föreningar, ledare, domare, spelare och andra aktörer
-* hantera ekonomi, rapportering och dokumentation enligt beslutade rutiner
-* bidra till kontinuitet, kvalitet och lärande i organisationen
+## Kansliet arbetar nära flera nivåer
 
-Kansliets arbete ska vara relevant för föreningarnas verklighet. Det ska märkas att stödet finns till för dem.
+Kansliet behöver ofta arbeta nära både distriktsstyrelse, kommittéer, föreningar och externa parter. Det gör rollen viktig, men också känslig.
 
-## Gräns mot distriktsstyrelsen
+<details>
+<summary><strong>Mot distriktsstyrelsen</strong></summary>
 
-Distriktsstyrelsen beslutar om riktning, ramar, uppdrag, delegation och uppföljning.
+Distriktsstyrelsen beslutar om riktning, ramar, uppdrag och uppföljning. Kansliet genomför arbetet inom dessa ramar och bidrar med underlag när styrelsen behöver fatta beslut.
 
-Kansliet genomför arbetet inom dessa ramar.
+</details>
 
-Kansliet ska inte ta över distriktsstyrelsens strategiska ansvar. Samtidigt ska distriktsstyrelsen inte detaljstyra kansliets vardag på ett sätt som gör distriktschefens ledningsuppdrag otydligt.
+<details>
+<summary><strong>Mot kommittéer</strong></summary>
 
-## Gräns mot kommittéer
+Kansliet stödjer kommittéernas arbete genom beredning, administration, genomförande och uppföljning. Kommittéordföranden leder kommitténs arbete, medan distriktschefen leder kanslipersonalen.
 
-Kansliet stödjer kommittéernas arbete genom beredning, administration, genomförande och uppföljning.
+</details>
 
-Kommittéordföranden leder kommitténs arbete. Distriktschefen leder kanslipersonalen.
+<details>
+<summary><strong>Mot föreningarna</strong></summary>
 
-Det betyder att kommittéordföranden kan bidra till prioritering och uppdrag inom kommitténs område, men inte ge personaldirektiv eller fatta beslut i personalfrågor.
+Kansliet är ofta föreningarnas första kontakt med distriktet. Därför behöver bemötandet vara tydligt, kunnigt och hjälpsamt, även när svaret är att en fråga måste hanteras av en annan nivå.
 
-## Organisation och roller
+</details>
 
-Kansliets organisation ska utgå från distriktets uppdrag, resurser och prioriteringar.
+## Organisationen kan ändras, uppdraget består
 
-Avdelningar, funktioner och roller kan förändras över tid. Den konkreta organisationen bör därför beskrivas i organisationsschema, instruktioner eller andra dokument i [dokumentarkivet](https://styrning.smaland.football/dokument), inte upprepas i detalj i styrmodellen.
+Kansliets interna organisation kan behöva förändras över tid. Roller, funktioner och arbetssätt ska kunna anpassas efter uppdrag, resurser och föreningarnas behov.
 
-## Basuppgifter och kapacitet
+Därför ska detaljer om bemanning, funktioner och interna arbetsflöden beskrivas i instruktioner, processer eller andra dokument i [dokumentarkivet](https://styrning.smaland.football/dokument), inte låsas fast i styrmodellen.
 
-Kansliets arbete behöver hänga ihop med de basuppgifter och verksamhetsområden som distriktet ansvarar för.
+## Basuppgifter sätter en viktig ram
 
-Basuppgifter och verksamhetsområden beskrivs i [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+Kansliets arbete behöver hänga ihop med de uppgifter som distriktet ansvarar för inom svensk fotboll. De beskrivs under [verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
 
-## Vägledande princip
-
-Kansliet ska vara nära verksamheten, tydligt i uppdraget och praktiskt i genomförandet.
-
-En bra kanslifunktion syns inte alltid mest, men den märks när föreningarna får rätt stöd, i rätt tid och på rätt sätt.
+När uppdrag, resurser och ambitioner inte går ihop behöver det lyftas tillbaka till rätt nivå. Kansliet ska inte bära otydliga prioriteringar ensam.
