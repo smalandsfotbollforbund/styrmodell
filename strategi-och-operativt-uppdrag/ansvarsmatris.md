@@ -1,42 +1,52 @@
 ---
 description: >-
-  Hur ansvarsfördelning ska förstås och användas i olika typer av frågor.
+  Ett praktiskt stöd för att se vem som normalt bereder, beslutar, verkställer,
+  följer upp och granskar olika typer av frågor.
 ---
 
 # Ansvarsmatris
 
-Ansvarsmatrisen är ett stöd för att förstå vem som normalt bereder, beslutar, verkställer, följer upp och granskar olika typer av frågor.
+Ansvarsmatrisen hjälper distriktet att se ansvarskedjan i olika typer av frågor.
 
-Den ersätter inte stadgar, delegationsordning, arbetsordningar eller andra beslutade dokument. Om det finns konflikt gäller [Normordning](../grund-och-varden/normordning.md).
+Den ska användas när det är oklart vem som normalt bereder, beslutar, verkställer, följer upp eller granskar. Den skapar inte nya mandat. Om matrisen krockar med stadgar, beslut, delegation eller annat styrande dokument gäller [normordningen](../grund-och-varden/normordning.md).
 
-Ansvarsmatrisen ska hjälpa organisationen att tillämpa styrmodellen konsekvent.
+{% hint style="info" %}
+Matrisen är ett stöd för tillämpning. Den ersätter inte stadgar, arbetsordningar, delegationsordningar eller instruktioner i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% endhint %}
 
-## Ansvarstyper
+## Fem ansvar i samma kedja
 
-Fem ansvarstyper används genomgående i styrmodellen.
+Ansvarsmatrisen bygger på fem återkommande ansvarstyper.
 
-| Ansvarstyp | Innebörd |
-| --- | --- |
-| **Bereda** | Ta fram underlag och förslag inför beslut |
-| **Besluta** | Fatta formellt beslut inom mandat |
-| **Verkställa** | Genomföra fattade beslut |
-| **Följa upp** | Mäta, analysera och återrapportera |
-| **Granska** | Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning eller verksamhet |
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Bereda</strong><br>Ta fram underlag och förslag inför beslut.</td></tr><tr><td><strong>Besluta</strong><br>Fatta formellt beslut inom mandat.</td></tr><tr><td><strong>Verkställa</strong><br>Genomföra fattade beslut.</td></tr><tr><td><strong>Följa upp</strong><br>Mäta, analysera och återrapportera.</td></tr><tr><td><strong>Granska</strong><br>Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning eller verksamhet.</td></tr></tbody></table>
 
-En funktion kan ha flera ansvar i samma fråga, men hela kedjan bör normalt inte ligga hos en och samma person eller funktion.
+En funktion kan ha flera ansvar i samma fråga, men hela kedjan bör normalt inte ligga hos en och samma person eller funktion. Det gäller särskilt när frågan rör ekonomi, jäv, granskning, disciplinära ärenden eller principiella beslut.
 
-## Hur matrisen ska användas
+## När matrisen ska användas
 
-Ansvarsmatrisen ska användas när det är oklart:
+Matrisen är särskilt användbar när en fråga hamnar mellan nivåer eller när det är oklart om ansvar behöver förtydligas i delegation, arbetsordning eller instruktion.
 
-* vem som ska bereda en fråga
-* vem som har beslutanderätt
-* vem som ska genomföra beslutet
-* vem som ska följa upp
-* vem som ska granska
-* om ansvar behöver förtydligas i delegation, arbetsordning eller instruktion
+{% stepper %}
+{% step %}
+**Identifiera frågetypen**  
+Handlar det om stadgar, strategi, ekonomi, tävling, personal, dokument, disciplin eller något annat?
+{% endstep %}
 
-Matrisen är ett praktiskt stöd. Den ska inte skapa nya mandat som inte finns i stadgar, beslut eller styrande dokument.
+{% step %}
+**Följ ansvarskedjan**  
+Vem bör bereda, besluta, verkställa, följa upp och granska?
+{% endstep %}
+
+{% step %}
+**Kontrollera mandatet**  
+Finns stöd i stadgar, beslut, delegation, arbetsordning eller instruktion?
+{% endstep %}
+
+{% step %}
+**Förtydliga vid behov**  
+Om matrisen inte räcker ska frågan lyftas till rätt ansvarig nivå.
+{% endstep %}
+{% endsteper %}
 
 ## Övergripande ansvarsmatris
 
@@ -67,20 +77,10 @@ Matrisen är ett praktiskt stöd. Den ska inte skapa nya mandat som inte finns i
 | Disciplinärenden | Disciplinnämnd | Disciplinnämnd | Kansli administrativt | Disciplinnämnd | Prövning enligt gällande regelverk |
 | Hedersutnämnanden | Distriktsstyrelsen eller utsedd beredning | Årsmöte om stadgar eller beslut kräver det | Kansli administrativt | Beslutande nivå | Vid behov |
 
-## När matrisen inte räcker
+## När svaret ändå inte är givet
 
-Om ansvarsmatrisen inte ger ett tillräckligt svar ska frågan prövas mot:
+Alla frågor passar inte perfekt i en matris. Då ska organisationen inte tvinga in frågan i närmaste ruta.
 
-* [Normordning](../grund-och-varden/normordning.md)
-* [Styrarkitektur](../organisationens-struktur/styrarkitektur.md)
-* [Ansvar och roller](../organisationens-struktur/ansvar-och-roller.md)
-* [Delegation](../distriktsstyrelsen-och-ledningen/delegation.md)
-* berörd arbetsordning, delegationsordning eller instruktion i [dokumentarkivet](https://styrning.smaland.football/dokument)
+Pröva i stället frågan mot [styrarkitekturen](../organisationens-struktur/styrarkitektur.md), [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md), [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och berörd arbetsordning eller instruktion i dokumentarkivet.
 
-Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå för förtydligande.
-
-## Vägledande princip
-
-Ansvar ska gå att följa.
-
-Den som läser ska kunna se vem som bereder, vem som beslutar, vem som verkställer, vem som följer upp och vem som granskar. Då minskar risken för glapp, dubbelarbete och informella lösningar.
+Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå för förtydligande. Målet är enkelt: ansvar ska gå att följa.
