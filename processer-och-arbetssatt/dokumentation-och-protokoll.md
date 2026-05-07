@@ -1,14 +1,14 @@
 ---
 description: >-
-  Hur dokumentation, protokoll, spårbarhet, publicering och arkivering gör beslut,
-  ansvar och ändringar möjliga att följa.
+  Hur dokumentation och protokoll gör beslut, ansvar och uppdrag möjliga att
+  hitta, förstå, verkställa och granska.
 ---
 
 # Dokumentation och protokoll
 
 Dokumentation är organisationens minne.
 
-Den gör det möjligt att förstå vad som beslutats, varför det beslutats, vem som ansvarar och hur beslut kan följas upp eller granskas. Utan dokumentation blir styrningen personberoende. Med rätt dokumentation blir den möjlig att följa.
+Den här sidan handlar om hur beslut, uppdrag och protokoll ska dokumenteras så att de går att följa. Dokumenttyper, metadata, versioner, dokumentägarskap och dokumentförvaltning beskrivs i [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md).
 
 {% hint style="info" %}
 Dokumentation ska vara tillräcklig för ansvar och granskning, men inte tyngre än nödvändigt. Målet är reda, inte pappersberg.
@@ -18,9 +18,7 @@ Dokumentation ska vara tillräcklig för ansvar och granskning, men inte tyngre 
 
 Dokumentation behövs för att beslut, ansvar och ändringar ska kunna följas över tid.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Beslut</strong><br>Vad beslutades, av vem och när?</td></tr><tr><td><strong>Ansvar</strong><br>Vem fick uppdraget och vad skulle göras?</td></tr><tr><td><strong>Mandat</strong><br>Vilken nivå, delegation eller vilket dokument gav stöd?</td></tr><tr><td><strong>Uppföljning</strong><br>När och hur skulle frågan återrapporteras?</td></tr><tr><td><strong>Granskning</strong><br>Vilket underlag behöver finnas för revision, lekmannarevision eller annan prövning?</td></tr></tbody></table>
-
-När det går att hitta tillbaka blir det också lättare för nya förtroendevalda, tjänstepersoner och granskande funktioner att förstå vad som gäller.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Beslut</strong><br>Vad beslutades, av vem och när?</td></tr><tr><td><strong>Ansvar</strong><br>Vem fick uppdraget och vad skulle göras?</td></tr><tr><td><strong>Mandat</strong><br>Vilken nivå, delegation eller vilket dokument gav stöd?</td></tr><tr><td><strong>Återrapportering</strong><br>När och hur skulle frågan återrapporteras?</td></tr><tr><td><strong>Granskning</strong><br>Vilket underlag behöver finnas för revision, lekmannarevision eller annan prövning?</td></tr></tbody></table>
 
 ## Protokoll ska visa beslut, inte skriva roman
 
@@ -64,54 +62,12 @@ Beslut som fattas genom skriftligt förfarande, digital omröstning eller motsva
 
 Det ska gå att följa vilka som deltagit, vad som beslutats, när beslutet fattades och hur beslutet förs in i den ordinarie dokumentationen.
 
-Skriftliga beslut kan vara praktiska, men ska vara undantag. De får inte bli ett sätt att kringgå beredning, samtal eller rätt beslutsnivå.
-
-## GitHub och GitBook visar versioner, inte beslut i sig
-
-Styrmodellen och andra styrande dokument kan förvaltas i GitHub och publiceras via GitBook.
-
-GitHub ger teknisk versionshistorik. Det är värdefullt, men det ersätter inte behovet av tydliga beslut, dokumentägarskap och ändringslogik. Det behöver fortfarande gå att se varför en ändring gjorts och vilken nivå som beslutat eller godkänt den.
-
-Hur dokumenttyper och dokumentarkiv ska förstås beskrivs i [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md).
-
-## Allt ska inte publiceras öppet
-
-Som huvudprincip ska styrmodellen och gällande styrande dokument vara lätta att hitta. Men öppenhet behöver vägas mot integritet, rättssäkerhet och arbetsro.
-
-{% columns %}
-{% column %}
-### Kan ofta vara öppet
-
-Styrmodell.
-
-Stadgar och beslutade styrdokument.
-
-Reglementen och andra dokument som föreningar behöver kunna hitta.
-
-Beslutad information om processer och ansvar.
-{% endcolumn %}
-
-{% column %}
-### Kräver prövning
-
-Arbetsmaterial och utkast.
-
-Personuppgifter.
-
-Personalärenden.
-
-Disciplinära ärenden.
-
-Valberedningens interna bedömningar.
-{% endcolumn %}
-{% endcolumns %}
-
-Den konkreta ordningen för publicering, arkivering och versioner bör beskrivas i dokumentarkivet.
+Skriftliga beslut kan vara praktiska, men ska vara undantag. De får inte bli ett sätt att kringgå [beredning](beredning.md), samtal eller rätt beslutsnivå.
 
 ## Integritet är också en del av god dokumentation
 
 Dokumentation ska hantera personuppgifter och känsliga uppgifter varsamt.
 
-Det gäller särskilt i valberedningsarbete, disciplinärenden, personalfrågor, incidenter och ärenden som rör enskilda föreningar eller personer. Öppenhet ska inte slarva bort integritet eller rättssäkerhet.
+Det gäller särskilt i valberedningsarbete, disciplinärenden, personalfrågor, incidenter och ärenden som rör enskilda föreningar eller personer. Publicering, arkivering, arbetsmaterial och versionshantering ska hanteras enligt [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md) och gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 Bra dokumentation gör styrningen tydligare utan att göra organisationen tung. Det är där balansen ligger.
