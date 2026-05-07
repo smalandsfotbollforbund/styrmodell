@@ -1,73 +1,79 @@
 ---
 description: >-
-  Hur Smålands Fotbollförbund förhåller sig till Riksidrottsförbundet, Svenska
-  Fotbollförbundet och RF-SISU Småland.
+  Hur distriktet verkar som del av svensk idrott, svensk fotboll och den
+  regionala idrottsrörelsen i Småland.
 ---
 
-# Förhållande till RF, SvFF och RF-SISU
+# Förhållande i idrottens ekosystem
 
-Smålands Fotbollförbund verkar inte isolerat.
+Smålands Fotbollförbund verkar i ett större sammanhang. Distriktet är en självständig ideell organisation, men inte frikopplad från svensk fotboll eller svensk idrott.
 
-Distriktet är en del av den svenska idrottsrörelsen och svensk fotboll. Det innebär att det finns ramar, uppdrag och samarbeten som påverkar hur distriktet styrs och verkar.
+Det är just därför styrningen behöver förstå både det egna ansvaret och de gemensamma ramarna. Smålands Fotbollförbund ska företräda den småländska fotbollen tydligt, samtidigt som distriktet verkar inom de beslut, stadgar och uppdrag som följer av idrottsrörelsen och Svenska Fotbollförbundet.
 
-Den här sidan beskriver relationerna översiktligt. Vad som väger tyngst vid konflikt beskrivs i [Normordning](../grund-och-varden/normordning.md).
+{% hint style="info" %}
+Om regler, beslut eller dokument pekar åt olika håll används [normordningen](../grund-och-varden/normordning.md). Den här sidan beskriver relationerna. Den avgör inte vad som väger tyngst vid konflikt.
+{% endhint %}
 
-## Riksidrottsförbundet
+## Tre relationer att hålla isär
 
-Riksidrottsförbundet, RF, är den svenska idrottsrörelsens samlande organisation.
+Det är lätt att blanda ihop nivåerna i idrottens organisation. Därför behöver relationerna beskrivas enkelt.
 
-Smålands Fotbollförbund är inte direkt underställt RF i den löpande fotbollsorganisationen, men RF:s stadgar, beslut och idéprogram sätter ramar för hela idrottsrörelsen.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Riksidrottsförbundet</strong><br>Den svenska idrottsrörelsens gemensamma ram genom stadgar, värdegrund, idéprogram och övergripande beslut.</td></tr><tr><td><strong>Svenska Fotbollförbundet</strong><br>Fotbollens nationella specialidrottsförbund och den organisation som distriktet verkar inom som SDF.</td></tr><tr><td><strong>RF-SISU Småland</strong><br>Distriktidrottsförbundet i Småland och en viktig regional samverkanspart, men inte en överordnad fotbollsorganisation.</td></tr></tbody></table>
 
-RF påverkar distriktet genom bland annat:
+## Riksidrottsförbundet ger idrottens gemensamma ram
 
-* stadgar och övergripande regler
-* idrottens värdegrund
-* rekommendationer om god demokratisk styrning
-* bidragssystem och idrottspolitiska ramar
-* gemensamma principer för föreningsdemokrati och folkrörelse
+Riksidrottsförbundet samlar den svenska idrottsrörelsen. RF:s stadgar, idrottens värdegrund och idrottens gemensamma beslut påverkar därför också Smålands Fotbollförbund.
 
-## Svenska Fotbollförbundet
+För distriktet märks detta särskilt i frågor som rör [folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md), [värdegrunden](../grund-och-varden/vardegrund.md), god demokratisk styrning, barnrätt, föreningsdemokrati och idrottens gemensamma förhållningssätt.
 
-Svenska Fotbollförbundet, SvFF, är fotbollens nationella specialidrottsförbund.
+RF är däremot inte den organisation som leder distriktets löpande fotbollsverksamhet. Den relationen går genom Svenska Fotbollförbundet och distriktets egna demokratiska organ.
 
-Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll och verkar inom de ramar som Svenska Fotbollförbundet beslutar.
+## Svenska Fotbollförbundet är fotbollens gemensamma struktur
 
-Svenska Fotbollförbundet påverkar distriktet genom bland annat:
+Svenska Fotbollförbundet är fotbollens nationella specialidrottsförbund. Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll och verkar inom de ramar som Svenska Fotbollförbundet beslutar.
 
-* stadgar och stadgemall för SDF
-* tävlingsregler och representationsbestämmelser
-* basuppgifter och gemensamma uppdrag
-* nationella riktlinjer och utbildningssystem
-* samverkan mellan Svenska Fotbollförbundet och distrikten
+Det handlar bland annat om stadgar, tävlingsregler, representationsbestämmelser, utbildningssystem, riktlinjer, basuppgifter och gemensamma uppdrag.
 
-Basuppgifter och verksamhetsområden beskrivs i [Verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+Det betyder inte att distriktet bara är en utförare. Smålands Fotbollförbund har egna stadgar, egna demokratiska organ och eget ansvar. Men uppdraget utförs inom svensk fotbolls gemensamma system.
 
-## RF-SISU Småland
+Basuppgifter och verksamhetsområden beskrivs i [verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
 
-RF-SISU Småland är distriktidrottsförbundet i Småland.
+## RF-SISU Småland är samverkanspart, inte överordnad nivå
 
-Distriktidrottsförbundet är inte överordnat Smålands Fotbollförbund. Det är en parallell regional organisation inom idrottsrörelsen och en viktig samverkanspart.
+RF-SISU Småland är distriktidrottsförbundet i Småland. Det är en regional del av idrottsrörelsen och en viktig samverkanspart för distriktet.
 
-Samverkan kan till exempel handla om:
+Samverkan kan till exempel handla om föreningsutveckling, folkbildning, utbildning, projektstöd, anläggningsfrågor, kommunrelationer och gemensamma utvecklingsinsatser.
 
-* utbildning och folkbildning
-* föreningsutveckling
-* projektstöd och statliga stödformer
-* anläggnings- och kommunfrågor
-* gemensamma utvecklingsinsatser
+{% hint style="warning" %}
+RF-SISU Småland är inte överordnat Smålands Fotbollförbund i fotbollens organisation. Relationen ska därför förstås som samverkan inom idrottsrörelsen, inte som styrning av distriktets fotbollsuppdrag.
+{% endhint %}
 
-RF-SISU Småland kan också ha uppgifter enligt stadgar och överordnade regler som påverkar distriktet.
+## Självständigt, men inte ensamt
 
-## Självständighet inom ramar
+Smålands Fotbollförbund behöver hålla två saker samtidigt.
 
-Smålands Fotbollförbund är en självständig ideell organisation med egna stadgar, egna demokratiska organ och eget ansvar.
+{% columns %}
+{% column %}
+### Det egna ansvaret
 
-Självständigheten gäller inom de ramar som följer av Riksidrottsförbundet, Svenska Fotbollförbundet, distriktets egna stadgar och demokratiska beslut.
+Distriktet har egna stadgar, egna demokratiska organ, egen distriktsstyrelse, egna beslut och eget ansvar för den småländska fotbollen.
 
-Det är därför styrmodellen behöver hålla två saker samtidigt: distriktets eget demokratiska ansvar och de ramar som följer av idrottens och fotbollens gemensamma system.
+Det betyder att distriktet ska företräda föreningarna i Småland, fatta beslut inom sitt mandat och ta ansvar för styrning, verksamhet och uppföljning.
+{% endcolumn %}
 
-## Vägledande princip
+{% column %}
+### De gemensamma ramarna
 
-Distriktet ska vara självständigt, men inte frikopplat.
+Distriktet verkar inom svensk idrott och svensk fotboll. RF:s och Svenska Fotbollförbundets stadgar, beslut och regelverk sätter ramar som distriktet behöver följa.
 
-Det ska företräda småländsk fotboll tydligt och samtidigt verka lojalt inom svensk fotbolls och idrottsrörelsens gemensamma ramar.
+Det betyder att självständigheten alltid finns inom ett större sammanhang.
+{% endcolumn %}
+{% endcolumns %}
+
+## Där relationerna blir praktiska
+
+Relationerna i idrottens ekosystem blir särskilt viktiga när distriktet arbetar med tävling, utbildning, föreningsutveckling, barn- och ungdomsfrågor, trygghet, bidrag, anläggningar och strategiska prioriteringar.
+
+Då behöver distriktet både förstå vad som är ett eget ansvar, vad som följer av Svenska Fotbollförbundets uppdrag och vad som kan eller bör göras i samverkan med RF-SISU Småland.
+
+Det är där ekosystemet blir praktiskt. Inte som ett organisationsschema på avstånd, utan som en vardag där rätt fråga behöver hamna hos rätt aktör.
