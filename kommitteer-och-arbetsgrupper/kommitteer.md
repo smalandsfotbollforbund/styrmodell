@@ -24,68 +24,42 @@ Men sakkunskap är inte samma sak som fritt mandat. Kommitténs arbete behöver 
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Beredning</strong><br>Tar fram underlag, vägval och förslag inför beslut.</td></tr><tr><td><strong>Utveckling</strong><br>Driver sakområdet framåt inom beslutad riktning.</td></tr><tr><td><strong>Uppföljning</strong><br>Följer hur arbetet utvecklas och när något behöver lyftas.</td></tr><tr><td><strong>Förankring</strong><br>Bidrar med föreningsnära perspektiv och sakkunskap från fotbollens vardag.</td></tr></tbody></table>
 
-En kommitté kan också fatta beslut, men bara när den fått tydlig [delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+Om en kommitté ska fatta beslut krävs delegation. Principerna finns i [delegation](../distriktsstyrelsen-och-ledningen/delegation.md), medan den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 ## Tre gränser som gör arbetet tydligt
 
 <details>
 <summary><strong>Mot distriktsstyrelsen</strong></summary>
 
-Distriktsstyrelsen beslutar om kommitténs uppdrag, ramar och delegation. Kommittén bidrar med sakkunnig beredning och utveckling, men ska inte skapa egen strategisk riktning vid sidan av styrelsens beslut.
+Distriktsstyrelsen beslutar om kommitténs uppdrag, ramar och eventuell delegation. Kommittén ska inte skapa egen strategisk riktning vid sidan av styrelsens beslut.
 
 </details>
 
 <details>
 <summary><strong>Mot kansliet</strong></summary>
 
-[Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) stödjer kommitténs arbete genom beredning, administration, genomförande och uppföljning. Kommittéordföranden leder kommitténs arbete. [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschef.md) leder kanslipersonalen.
+[Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) stödjer kommitténs arbete. Kommittéordföranden leder kommitténs arbete. [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschef.md) leder kanslipersonalen.
 
 </details>
 
 <details>
 <summary><strong>Mot arbetsgrupper och referensgrupper</strong></summary>
 
-En kommitté kan behöva stöd av arbetsgrupper eller referensgrupper, men sådana grupper ska ha tydliga uppdrag och ska inte skapa egna beslutsvägar.
+[Arbetsgrupper](arbetsgrupper.md) och [referensgrupper](referensgrupper.md) kan förstärka arbetet, men ska inte skapa egna beslutsvägar.
 
 </details>
 
 ## Kommittéordföranden håller ihop sakområdet
 
-Kommittéordföranden leder kommitténs arbete inom det uppdrag som beslutats. Det handlar om att hålla ihop planering, beredning, sammanträden, prioriteringar och återrapportering.
+Kommittéordföranden leder kommitténs arbete inom det uppdrag som beslutats. Rollen kräver nära samverkan med distriktschef och kansli, men den innebär inte personalledning.
 
-Rollen kräver nära samverkan med distriktschef och kansli, men den innebär inte personalledning. Den gränsen behöver vara tydlig, särskilt när kommitténs ambitioner kräver kansliresurser.
+Den mer konkreta beskrivningen av uppdrag, sammansättning, mötesformer, delegation och återrapportering ska finnas i respektive kommittés arbetsordning i dokumentarkivet.
 
 ## Ledamöterna ska bidra aktivt
 
 Kommittéledamöter bidrar med kunskap, erfarenhet, föreningsperspektiv och engagemang. Uppdraget är inte passiv representation.
 
 Kommitténs sammansättning bör ge bredd, jämställdhet och relevant erfarenhet från distriktets verksamhet. Det stärker både beslutsunderlag och förtroende.
-
-## När kommittén får delegation
-
-Delegation till en kommitté ska vara skriftlig, avgränsad och möjlig att följa upp.
-
-{% stepper %}
-{% step %}
-**Vad får kommittén besluta om?**  
-Ärendetypen ska vara tydligt angiven.
-{% endstep %}
-
-{% step %}
-**Vilka gränser gäller?**  
-Sakområde, belopp, tid, principfrågor och återrapportering behöver vara klara.
-{% endstep %}
-
-{% step %}
-**Hur dokumenteras beslut?**  
-Beslut ska kunna följas i efterhand.
-{% endstep %}
-
-{% step %}
-**Hur återrapporteras beslut?**  
-Distriktsstyrelsen behöver kunna följa hur delegationen används.
-{% endstep %}
-{% endstepper %}
 
 ## När kommittéarbetet fungerar
 
