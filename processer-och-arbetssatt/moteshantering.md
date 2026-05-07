@@ -1,100 +1,144 @@
 ---
 description: >-
-  Principer för hur möten ska planeras, genomföras, dokumenteras och följas upp.
+  Hur möten planeras, genomförs, dokumenteras och följs upp så att de stärker
+  beredning, beslut, dialog och ansvar.
 ---
 
 # Möteshantering
 
-Möten binder ihop styrningen.
+Möten ska föra arbetet framåt.
 
-De används för beredning, beslut, uppföljning, dialog och samordning. Ett välskött möte gör ansvar tydligare. Ett otydligt möte skapar lätt otydliga beslut.
+De används för beredning, beslut, uppföljning, dialog och samordning. Ett välskött möte gör ansvar tydligare. Ett otydligt möte skapar lätt otydliga beslut, oklara uppdrag och mer arbete efteråt.
 
-Den här sidan beskriver principerna. Mallar, detaljerade rutiner och praktiska mötesunderlag ska finnas i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% hint style="info" %}
+Den här sidan beskriver principerna. Mallar, detaljerade rutiner, kallelser, dagordningar och praktiska mötesunderlag hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% endhint %}
 
-## Olika typer av möten
-
-Alla möten har inte samma funktion.
-
-| Mötestyp | Funktion |
-| --- | --- |
-| **Årsmöte** | Demokratiskt beslutande möte |
-| **Representantskap** | Demokratiskt beslutande möte inom tävlingsmandat |
-| **Distriktsstyrelsens sammanträde** | Strategiskt besluts- och uppföljningsforum |
-| **Kommittésammanträde** | Taktiskt forum för beredning, uppföljning och beslut inom delegation |
-| **Arbetsgruppsmöte** | Arbete inom avgränsat uppdrag |
-| **Referensgruppsmöte** | Rådgivande inspel och perspektiv |
-| **Dialogmöte, forum eller rådslag** | Icke-beslutande mötesplats för dialog och förankring |
+## Alla möten gör inte samma jobb
 
 Ett möte är inte beslutande bara för att många deltar. Beslutanderätt kräver stöd i stadgar, delegation, arbetsordning eller annat behörigt beslut.
 
-## Före mötet
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Demokratiska möten</strong><br>Årsmöte och representantskap fattar medlemsbeslut inom sina mandat.</td></tr><tr><td><strong>Beslutsmöten</strong><br>Distriktsstyrelse, kommittéer eller delegater fattar beslut där mandat finns.</td></tr><tr><td><strong>Beredningsmöten</strong><br>Frågor förbereds, underlag prövas och förslag arbetas fram.</td></tr><tr><td><strong>Dialogmöten</strong><br>Föreningar eller andra aktörer ger inspel, men beslut fattas inte där om mandat saknas.</td></tr><tr><td><strong>Arbetsmöten</strong><br>En grupp driver ett avgränsat uppdrag, projekt eller genomförande.</td></tr></tbody></table>
 
-Ett möte bör ha ett tydligt syfte.
+När mötestypen är tydlig blir också förväntningarna tydligare.
 
-Inför mötet bör det framgå:
+## Före mötet läggs grunden
 
-* varför mötet hålls
-* vilka frågor som ska behandlas
-* vilka underlag som behövs
-* vilka frågor som är beslut, information, dialog eller beredning
-* vem som leder mötet
-* vem som dokumenterar
-* om någon särskild behörighet eller beslutsmässighet krävs
+Ett möte bör ha ett tydligt syfte. Den som kallas ska förstå varför mötet hålls, vilka frågor som ska behandlas och om frågorna gäller information, dialog, beredning, beslut eller uppföljning.
+
+{% stepper %}
+{% step %}
+**Syfte**  
+Varför hålls mötet?
+{% endstep %}
+
+{% step %}
+**Ärenden**  
+Vilka frågor ska behandlas och vad ska hända med dem?
+{% endstep %}
+
+{% step %}
+**Underlag**  
+Vilka handlingar behövs för att deltagarna ska kunna ta ansvar?
+{% endstep %}
+
+{% step %}
+**Roller**  
+Vem leder mötet, vem dokumenterar och vilka har beslutsrätt?
+{% endstep %}
+
+{% step %}
+**Formkrav**  
+Finns krav på kallelsetid, beslutsmässighet, justering eller särskild behörighet?
+{% endstep %}
+{% endstepper %}
 
 God framförhållning är en del av respekten för uppdraget.
 
-## Under mötet
+## Under mötet ska frågans status vara tydlig
 
-Mötet ska ledas så att deltagarna förstår vad som behandlas och vad som ska hända med frågan.
+Mötet ska ledas så att deltagarna förstår vad som händer med varje fråga.
 
-Det ska vara tydligt när mötet:
+{% columns %}
+{% column %}
+### Säg vad punkten är
 
-* bereder
-* diskuterar
-* fattar beslut
-* fördelar uppdrag
-* följer upp tidigare beslut
+Är det information?
 
-Om jäv uppstår ska det hanteras och dokumenteras.
+Är det dialog?
 
-## Efter mötet
+Är det beredning?
 
-Efter mötet ska det vara tydligt:
+Är det beslut?
 
-* vad som beslutats
-* vem som ansvarar för nästa steg
-* vad som ska verkställas
-* vad som ska återrapporteras
-* när uppföljning ska ske
+Är det uppföljning?
+{% endcolumn %}
 
-Protokoll, minnesanteckningar eller annan dokumentation ska hanteras enligt mötets karaktär och beslutad ordning.
+{% column %}
+### Säg vad nästa steg är
 
-## Kallelse och underlag
+Vem gör vad?
 
-Kallelse och underlag ska skickas i sådan tid att deltagarna kan förbereda sig.
+När ska det vara klart?
 
-Exakta tidsfrister kan följa av stadgar, arbetsordning eller annat beslutat dokument. Styrmodellen ska inte dubblera alla sådana regler.
+Behövs nytt underlag?
 
-Principen är enkel: den som förväntas ta ansvar i ett möte behöver få rimlig möjlighet att läsa, förstå och förbereda sig.
+Ska frågan tillbaka till samma möte?
 
-## Digitala möten och skriftliga beslut
+Ska den vidare till annan nivå?
+{% endcolumn %}
+{% endcolumns %}
 
-Digitala möten kan användas när de stärker tillgänglighet och effektivitet.
+Om jäv uppstår ska det hanteras och dokumenteras enligt frågans karaktär.
 
-Skriftliga beslut eller digital omröstning kan användas när det är lämpligt och förenligt med gällande regler.
+## Efter mötet börjar ansvaret
 
-Sådana arbetssätt får inte användas för att kringgå beredning, dialog eller rätt beslutsnivå.
+Ett möte är inte färdigt när deltagarna lämnar rummet eller stänger den digitala länken.
 
-## Möteskultur
+Efter mötet ska det vara tydligt vad som beslutats, vad som ska verkställas, vem som ansvarar, vad som ska återrapporteras och när uppföljning ska ske.
 
-Möteskultur är också styrning.
+Mer om detta finns i [dokumentation och protokoll](dokumentation-och-protokoll.md), [verkställighet](verkstallighet.md) och [uppföljning och återrapportering](uppfoljning-och-aterrapportering.md).
 
-En god möteskultur innebär att deltagarna kommer förberedda, håller sig till ärendet, lyssnar på varandra, hanterar oenighet sakligt och respekterar beslutsordningen.
+## Digitalt, skriftligt och fysiskt kräver samma ordning
 
-Det ska vara ordning på mötet utan att mötet tappar mänsklighet.
+Digitala möten kan stärka tillgänglighet och effektivitet. Skriftliga beslut eller digital omröstning kan användas när det är lämpligt och förenligt med gällande regler.
 
-## Vägledande princip
+{% hint style="warning" %}
+Digital form eller skriftligt förfarande får inte användas för att kringgå beredning, dialog, jävshantering, dokumentation eller rätt beslutsnivå.
+{% endhint %}
 
-Möten ska föra arbetet framåt.
+Oavsett form ska det gå att förstå vem som deltog, vad som behandlades, vad som beslutades och vad nästa steg är.
+
+## Möteskultur är också styrning
+
+Möteskultur handlar om mer än stämning. Den påverkar kvaliteten i beredning, beslut och uppföljning.
+
+<details>
+<summary><strong>Förberedelse visar respekt</strong></summary>
+
+Deltagare som har läst underlag och förstått sin roll bidrar till bättre möten och tydligare beslut.
+
+</details>
+
+<details>
+<summary><strong>Oenighet ska hanteras sakligt</strong></summary>
+
+Olika uppfattningar är en del av demokratin. De ska behandlas med respekt och leda till tydligare vägval, inte otydligare processer.
+
+</details>
+
+<details>
+<summary><strong>Beslutsordningen ska respekteras</strong></summary>
+
+Mötet ska inte skapa mandat som inte finns. Om frågan hör hemma någon annanstans ska den skickas dit.
+
+</details>
+
+<details>
+<summary><strong>Det ska vara mänskligt men ordnat</strong></summary>
+
+Bra möten har både struktur och värme. Det ska finnas reda utan att samtalet blir stelt.
+
+</details>
 
 När ett möte är slut ska det vara tydligare än när det började: vad som gäller, vem som gör vad och vad nästa steg är.
