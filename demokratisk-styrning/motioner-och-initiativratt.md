@@ -22,9 +22,7 @@ Det är inte alltid frågans tyngd som avgör. Det är mandatet. En viktig tävl
 
 ## Beredningen ska hjälpa mötet att förstå
 
-En motion ska beredas så att det demokratiska mötet kan förstå förslaget, konsekvenserna och möjliga vägval.
-
-Det betyder inte att distriktsstyrelsen måste hålla med motionären. Men motionen ska hanteras sakligt, tydligt och i rätt tid. Även när förslaget är att avslå en motion ska föreningarna kunna se varför.
+En motion ska beredas så att det demokratiska mötet kan förstå förslaget, konsekvenserna och möjliga vägval. Det betyder inte att distriktsstyrelsen måste hålla med motionären. Men motionen ska hanteras sakligt, tydligt och i rätt tid. Även när förslaget är att avslå en motion ska föreningarna kunna se varför.
 
 ## Distriktsstyrelsen kan också väcka frågor
 
@@ -34,7 +32,7 @@ Det kan behövas när en fråga kräver medlemsförankring, ligger utanför dist
 
 {% columns %}
 {% column %}
-### Motion
+#### Motion
 
 Kommer från förening eller annan behörig part enligt gällande ordning.
 
@@ -42,7 +40,7 @@ Bär föreningens initiativ in i den demokratiska processen.
 {% endcolumn %}
 
 {% column %}
-### Distriktsstyrelsens förslag
+#### Distriktsstyrelsens förslag
 
 Kommer från distriktsstyrelsen.
 
@@ -56,22 +54,22 @@ Det händer att ett förslag är viktigt, men ändå ligger på fel nivå. Då b
 
 {% stepper %}
 {% step %}
-**Pröva frågans innehåll**  
+**Pröva frågans innehåll**\
 Handlar den om tävling, stadgar, ekonomi, organisation, val, strategi eller operativt genomförande?
 {% endstep %}
 
 {% step %}
-**Pröva mandatet**  
+**Pröva mandatet**\
 Vilket organ har rätt att fatta beslut enligt stadgar, beslut eller delegation?
 {% endstep %}
 
 {% step %}
-**Pröva beredningen**  
+**Pröva beredningen**\
 Finns tillräckligt underlag för att föreningarna ska kunna förstå konsekvenserna?
 {% endstep %}
 
 {% step %}
-**Hänvisa rätt om frågan ligger fel**  
+**Hänvisa rätt om frågan ligger fel**\
 En fråga som hör hemma någon annanstans bör lotsas rätt, inte bara avslås på formell grund om den kan hanteras bättre på annan nivå.
 {% endstep %}
 {% endstepper %}

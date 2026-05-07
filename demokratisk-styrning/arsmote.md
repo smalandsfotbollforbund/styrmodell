@@ -1,7 +1,7 @@
 ---
 description: >-
-  Årsmötets roll som föreningarnas högsta beslutspunkt och den demokratiska grund
-  som distriktets övriga mandat vilar på.
+  Årsmötets roll som föreningarnas högsta beslutspunkt och den demokratiska
+  grund som distriktets övriga mandat vilar på.
 ---
 
 # Årsmöte
@@ -10,25 +10,19 @@ description: >-
 
 Årsmötet ska därför inte förstås som en formalitet. Det är föreningarnas gemensamma verktyg för att styra distriktet.
 
-{% hint style="info" %}
-Den här sidan beskriver årsmötets funktion i styrmodellen. Exakta regler om kallelse, dagordning, rösträtt, val och ärendehantering finns i stadgarna och i andra gällande dokument.
-{% endhint %}
-
 ## Där föreningarnas mandat samlas
 
 I en folkrörelse börjar mandatet hos medlemmarna. För Smålands Fotbollförbund betyder det att medlemsföreningarna bär den demokratiska grunden.
 
-Genom sina ombud kan föreningarna påverka riktning, ansvar och val. Det gör årsmötet till mer än ett möte en gång om året. Det är platsen där distriktets styrning får sin legitimitet.
+Genom sina [ombud](val-ombud-och-rostratt.md) kan föreningarna påverka riktning, ansvar och val. Det gör årsmötet till mer än ett möte en gång om året. Det är platsen där distriktets styrning får sin legitimitet.
 
 ## Fyra uppgifter som bär årsmötet
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Ge riktning</strong><br>Årsmötet beslutar i frågor som hör till den högsta demokratiska nivån och anger ramar för distriktets fortsatta arbete.</td></tr><tr><td><strong>Välja företrädare</strong><br>Årsmötet väljer personer till de uppdrag som enligt stadgarna ska utses av medlemsföreningarna.</td></tr><tr><td><strong>Pröva ansvar</strong><br>Årsmötet tar del av granskning och prövar ansvar enligt den ordning som gäller.</td></tr><tr><td><strong>Ge legitimitet</strong><br>Årsmötet ger distriktsstyrelsen och andra årsmötesvalda organ demokratisk grund.</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Ge riktning</strong><br>Årsmötet beslutar i frågor som hör till den högsta demokratiska nivån och anger ramar för distriktets fortsatta arbete.</td></tr><tr><td><strong>Välja företrädare</strong><br>Årsmötet väljer personer till de uppdrag som enligt stadgarna ska utses av medlemsföreningarna.</td></tr><tr><td><strong>Pröva ansvar</strong><br>Årsmötet tar del av granskning och prövar ansvar enligt den ordning som gäller.</td></tr><tr><td><strong>Ge legitimitet</strong><br>Årsmötet ger distriktsstyrelsen och andra årsmötesvalda organ demokratisk grund.</td></tr></tbody></table>
 
 ## Allt ska inte upp på årsmötet
 
-Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där.
-
-Vissa frågor hör till distriktsstyrelsens strategiska ansvar. Andra hör till representantskapets tävlingsmandat, kommittéernas beredning, distriktschefens operativa ledning eller kansliets genomförande.
+Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där. Vissa frågor hör till distriktsstyrelsens strategiska ansvar. Andra hör till representantskapets tävlingsmandat, kommittéernas beredning, distriktschefens operativa ledning eller kansliets genomförande.
 
 Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund-och-varden/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [de styrande principerna](../grund-och-varden/styrande-principer.md).
 
@@ -44,9 +38,7 @@ Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor 
 
 ## Föreningarnas väg in
 
-Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning.
-
-Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande-funktioner/valberedning.md).
+Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning. Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande-funktioner/valberedning.md).
 
 ## Ett årsmöte kräver begriplighet
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Representantskapet som föreningarnas avgränsade medlemsorgan för tävlingsfrågor
-  mellan årsmötena.
+  Representantskapet som föreningarnas avgränsade medlemsorgan för
+  tävlingsfrågor mellan årsmötena.
 ---
 
 # Representantskap
@@ -9,10 +9,6 @@ description: >-
 Representantskapet ger föreningarna direkt inflytande i viktiga tävlingsfrågor mellan årsmötena.
 
 Det är ett medlemsorgan med tyngd, men med ett avgränsat uppdrag. Det ska inte blandas ihop med ett allmänt extra årsmöte eller ett informellt samrådsforum.
-
-{% hint style="info" %}
-Representantskapet kan förstås som ett mini-årsmöte för tävlingsfrågor. Tyngden ligger i medlemsmandatet. Avgränsningen ligger i att frågorna ska höra till representantskapets tävlingsmandat.
-{% endhint %}
 
 ## Tungt där mandatet finns
 
@@ -40,7 +36,7 @@ Men det är representantskapet som bär medlemsmandatet i de tävlingsfrågor so
 
 Representantskapet behöver ha ordning på ombud, kallelse, handlingar, förslag och beslut. Det är inte bara formalia. Det är det som gör att besluten kan förstås, följas och accepteras.
 
-Exakta tidsfrister och formkrav följer av stadgar och gällande dokument. Styrmodellen ska inte återge varje detalj, men principen är tydlig: föreningarna ska få tillräckligt underlag i rätt tid för att kunna ta ställning.
+Exakta tidsfrister och formkrav följer av stadgar och gällande dokument.
 
 ## Så prövas en fråga
 
@@ -48,28 +44,22 @@ När det är oklart om en fråga hör hemma på representantskapet kan den pröv
 
 {% stepper %}
 {% step %}
-**Är det en tävlingsfråga?**  
+**Är det en tävlingsfråga?**\
 Frågan ska ha tydlig koppling till tävlingsregler, seriesammansättning eller annat område som hör till representantskapets mandat.
 {% endstep %}
 
 {% step %}
-**Är det medlemsbeslut som krävs?**  
+**Är det medlemsbeslut som krävs?**\
 Frågan ska vara av den karaktär att föreningarnas direkta inflytande behövs inom tävlingsområdet.
 {% endstep %}
 
 {% step %}
-**Ligger frågan utanför årsmötets bredare roll?**  
+**Ligger frågan utanför årsmötets bredare roll?**\
 Om frågan rör stadgar, ekonomi, val, organisation eller övergripande ansvar hör den normalt inte hemma på representantskapet.
 {% endstep %}
 
 {% step %}
-**Finns rätt beredning?**  
+**Finns rätt beredning?**\
 Tävlingsfrågor behöver beredas så att föreningarna förstår förslaget, alternativen och följderna.
 {% endstep %}
 {% endstepper %}
-
-## Rätt tyngd på rätt plats
-
-Representantskapet ska vara tungt där det har mandat och återhållsamt där det inte har mandat.
-
-Det är så föreningsdemokratin hålls stark utan att ansvarsfördelningen blir oklar.
