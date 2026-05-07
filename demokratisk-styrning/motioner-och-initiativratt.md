@@ -1,60 +1,83 @@
 ---
 description: >-
-  Motioner och initiativrätt som formella vägar för föreningarnas inflytande.
+  Hur motioner och initiativrätt ger föreningarna en formell väg att väcka
+  frågor till demokratisk prövning.
 ---
 
 # Motioner och initiativrätt
 
-Motioner är ett av medlemsföreningarnas viktigaste verktyg för att påverka distriktet.
+Motioner är föreningarnas formella väg att väcka frågor till demokratisk prövning. Det är ett viktigt verktyg i en folkrörelse, eftersom initiativ inte bara ska kunna komma uppifrån eller från den löpande organisationen.
 
-En motion är inte ett klagomålssystem. Det är ett formellt förslag till beslut på demokratisk nivå.
+En motion är inte ett klagomålssystem. Det är ett förslag till beslut på rätt demokratisk nivå.
 
-Den här sidan beskriver motioner och initiativrätt som del av styrmodellen. Exakta tidsgränser, formkrav och behörigheter följer av stadgarna och beslutade dokument.
+{% hint style="info" %}
+Exakta tidsgränser, formkrav och behörigheter följer av stadgarna och andra gällande dokument. Den här sidan beskriver principen: rätt fråga, rätt organ, rätt beredning.
+{% endhint %}
 
-## Motionens roll
+## En fråga ska hitta rätt demokratisk väg
 
-Motioner gör det möjligt för föreningar, och i vissa fall medlemmar genom sin förening, att lyfta frågor till årsmöte eller representantskap.
+Motioner och förslag behöver riktas till rätt organ. Frågor som hör till årsmötets mandat ska hanteras av [årsmötet](arsmote.md). Frågor som hör till representantskapets tävlingsmandat ska hanteras av [representantskapet](representantskap.md).
 
-Det stärker medlemsinflytandet och gör det möjligt för frågor att komma under demokratisk prövning även när de inte väcks av distriktsstyrelsen.
+Det är inte alltid frågans tyngd som avgör. Det är mandatet. En viktig tävlingsfråga kan höra till representantskapet, medan en principiell organisationsfråga normalt hör hemma på årsmötet.
 
-## Rätt fråga till rätt organ
+## Beredningen ska hjälpa mötet att förstå
 
-Motioner och förslag ska riktas till rätt demokratisk nivå.
+En motion ska beredas så att det demokratiska mötet kan förstå förslaget, konsekvenserna och möjliga vägval.
 
-Frågor som hör till årsmötets mandat ska hanteras av årsmötet.
+Det betyder inte att distriktsstyrelsen måste hålla med motionären. Men motionen ska hanteras sakligt, tydligt och i rätt tid. Även när förslaget är att avslå en motion ska föreningarna kunna se varför.
 
-Frågor som hör till representantskapets tävlingsmandat ska hanteras av representantskapet.
+## Distriktsstyrelsen kan också väcka frågor
 
-Gränsdragningen mellan årsmöte och representantskap beskrivs i [Årsmöte](arsmote.md) och [Representantskap](representantskap.md).
+Distriktsstyrelsen kan lämna egna förslag till årsmöte eller representantskap inom respektive organs mandat.
 
-## Tidsgränser och formkrav
+Det kan behövas när en fråga kräver medlemsförankring, ligger utanför distriktsstyrelsens eget mandat eller bör prövas av föreningarna av demokratiska skäl.
 
-Tidsgränser och formkrav ska följas.
+{% columns %}
+{% column %}
+### Motion
 
-De finns för att föreningar, distriktsstyrelse och andra berörda ska hinna läsa, bereda och ta ställning till förslagen på ett ordnat sätt.
+Kommer från förening eller annan behörig part enligt gällande ordning.
 
-Styrmodellen ska inte dubblera varje detalj i stadgar eller processbeskrivningar. Den ska klargöra principen: motioner ska hanteras öppet, korrekt och i rätt tid.
+Bär föreningens initiativ in i den demokratiska processen.
+{% endcolumn %}
 
-## Beredning av motioner
+{% column %}
+### Distriktsstyrelsens förslag
 
-Motioner ska beredas inför beslut.
+Kommer från distriktsstyrelsen.
 
-Beredningen ska hjälpa det demokratiska mötet att förstå förslaget, konsekvenserna och möjliga vägval.
+Bär styrelsens beredning eller initiativ till ett demokratiskt organ.
+{% endcolumn %}
+{% endcolumns %}
 
-En motion ska inte tystas ned genom utebliven beredning. Även när distriktsstyrelsen föreslår avslag ska frågan hanteras så att mötet kan fatta beslut.
+## När ett förslag riskerar att hamna fel
 
-## Distriktsstyrelsens initiativrätt
+Det händer att ett förslag är viktigt, men ändå ligger på fel nivå. Då bör frågan inte tvingas in där den först dök upp.
 
-Distriktsstyrelsen kan väcka egna förslag till årsmöte eller representantskap inom respektive organs mandat.
+{% stepper %}
+{% step %}
+**Pröva frågans innehåll**  
+Handlar den om tävling, stadgar, ekonomi, organisation, val, strategi eller operativt genomförande?
+{% endstep %}
 
-Sådana förslag bör användas när en fråga behöver demokratisk förankring eller när frågan ligger utanför distriktsstyrelsens eget mandat.
+{% step %}
+**Pröva mandatet**  
+Vilket organ har rätt att fatta beslut enligt stadgar, beslut eller delegation?
+{% endstep %}
 
-Det ska vara tydligt om ett förslag kommer från distriktsstyrelsen eller från en förening.
+{% step %}
+**Pröva beredningen**  
+Finns tillräckligt underlag för att föreningarna ska kunna förstå konsekvenserna?
+{% endstep %}
 
-## Vägledande princip
+{% step %}
+**Hänvisa rätt om frågan ligger fel**  
+En fråga som hör hemma någon annanstans bör lotsas rätt, inte bara avslås på formell grund om den kan hanteras bättre på annan nivå.
+{% endstep %}
+{% endstepper %}
 
-Motioner och initiativrätt ska göra medlemsinflytandet verkligt.
+## Föreningarnas initiativ ska tas på allvar
 
-Det kräver att rätt fråga hamnar på rätt nivå, att underlag tas fram i tid och att föreningarna kan förstå vad de ska ta ställning till.
+Motioner och initiativrätt gör medlemsinflytandet verkligt. De kräver ordning, men också respekt för att föreningar kan se frågor som organisationen själv har missat.
 
 Det är bättre med en rak och välberedd motion än en fråga som vandrar runt i organisationen utan tydlig hemvist.
