@@ -11,16 +11,8 @@ Ansvarsmatrisen hjälper distriktet att se ansvarskedjan i olika typer av frågo
 Den ska användas när det är oklart vem som normalt bereder, beslutar, verkställer, följer upp eller granskar. Den skapar inte nya mandat. Om matrisen krockar med stadgar, beslut, delegation eller annat styrande dokument gäller [normordningen](../grund-och-varden/normordning.md).
 
 {% hint style="info" %}
-Matrisen är ett stöd för tillämpning. Den ersätter inte stadgar, arbetsordningar, delegationsordningar eller instruktioner i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Matrisen är ett stöd för tillämpning. Den ersätter inte stadgar, arbetsordningar, delegationsordningar eller instruktioner i [dokumentarkivet](https://styrning.smaland.football/dokument). Begreppen bereda, besluta, verkställa, följa upp och granska definieras i [begreppslistan](../introduktion/begreppslista.md).
 {% endhint %}
-
-## Fem ansvar i samma kedja
-
-Ansvarsmatrisen bygger på fem återkommande ansvarstyper.
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Bereda</strong><br>Ta fram underlag och förslag inför beslut.</td></tr><tr><td><strong>Besluta</strong><br>Fatta formellt beslut inom mandat.</td></tr><tr><td><strong>Verkställa</strong><br>Genomföra fattade beslut.</td></tr><tr><td><strong>Följa upp</strong><br>Mäta, analysera och återrapportera.</td></tr><tr><td><strong>Granska</strong><br>Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning eller verksamhet.</td></tr></tbody></table>
-
-En funktion kan ha flera ansvar i samma fråga, men hela kedjan bör normalt inte ligga hos en och samma person eller funktion. Det gäller särskilt när frågan rör ekonomi, jäv, granskning, disciplinära ärenden eller principiella beslut.
 
 ## När matrisen ska användas
 
