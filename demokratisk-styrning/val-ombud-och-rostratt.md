@@ -1,67 +1,65 @@
 ---
 description: >-
-  Hur val, ombud och rösträtt ska förstås i Smålands Fotbollförbunds demokratiska
-  styrning.
+  Hur föreningarnas rösträtt, ombud och val skapar formellt inflytande och
+  demokratisk legitimitet i distriktet.
 ---
 
 # Val, ombud och rösträtt
 
-Val, ombud och rösträtt är grunden för medlemsföreningarnas formella inflytande.
+Föreningarnas inflytande behöver vara både tydligt och möjligt att använda. Därför är val, ombud och rösträtt inte bara mötesteknik. Det är grunden för den demokratiska styrningen.
 
-Den här sidan beskriver principerna i styrmodellen. Exakta regler om röstlängd, valbarhet, omröstning och valförfarande följer av stadgarna och beslutade dokument.
+Exakta regler om röstlängd, valbarhet, omröstning och valförfarande finns i stadgarna och i andra gällande dokument. Här beskrivs hur delarna ska förstås i styrmodellen.
 
-## Rösträtt
-
-Rösträtten tillkommer medlemsföreningarna enligt den röstlängd som gäller för mötet.
+## Rösträtten tillhör föreningen
 
 Rösträtten är föreningens demokratiska mandat. Den ska hanteras tydligt, spårbart och med respekt för stadgarna.
 
-Om det uppstår oklarhet om rösträtt, röstlängd eller valbarhet ska frågan hanteras enligt stadgarna och [Normordning](../grund-och-varden/normordning.md).
+Det betyder att det ska vara klart vilka föreningar som har rösträtt, vem som företräder föreningen och vilken röstlängd som gäller för mötet. Om något är oklart används stadgarna och [normordningen](../grund-och-varden/normordning.md).
 
-## Ombud
+## Ombudet bär föreningens röst
 
-Ombud företräder en förening vid demokratiskt möte.
+Ett ombud företräder en förening vid demokratiskt möte. Ombudet bär inte ett eget personligt mandat, utan föreningens röst inom ramen för den ordning som gäller.
 
-Ombudet bär inte ett eget personligt mandat, utan företräder föreningen inom ramen för den rösträtt som gäller för mötet.
+{% hint style="info" %}
+Ett tydligt ombudsförfarande skyddar både föreningen och mötet. Det ska gå att se vem som företräder vem innan beslut fattas.
+{% endhint %}
 
-Det ska vara tydligt vem som företräder vilken förening och vilken rösträtt föreningen har.
-
-## Val
+## Valen bygger förtroende över tid
 
 Valen på årsmötet avgör vilka personer som får förtroende att bära, leda, bereda eller granska distriktet.
 
-Val ska därför hanteras med öppenhet, tydlig beredning och respekt för valberedningens självständiga roll.
+Det gör valen till en del av distriktets långsiktiga styrning. En väl fungerande valprocess stärker kompetens, kontinuitet och förtroende.
 
-Valberedningens uppdrag beskrivs i [Valberedning](../granskande-funktioner/valberedning.md).
+Valberedningens uppdrag beskrivs i [valberedning](../granskande-funktioner/valberedning.md).
 
-## Valbarhet
+## Valprocessen behöver både integritet och öppenhet
 
-Valbarhet regleras i stadgarna och andra tillämpliga regler.
+Valprocesser behöver vara tillräckligt öppna för att föreningarna ska förstå hur de kan nominera, påverka och ta ställning. Samtidigt behöver de ha tillräcklig integritet för att personer ska kunna prövas, samtala och tacka ja eller nej på ett tryggt sätt.
 
-Styrmodellen ska inte dubblera de detaljerade valbarhetsreglerna. Den ska klargöra principen: den som väljs ska vara valbar, förstå uppdragets ansvar och kunna bidra till förtroende för distriktets styrning.
+Det är en balans. För mycket slutenhet skapar misstro. För lite integritet gör processen svårare att bära för dem som berörs.
 
-## Valberedningens betydelse
+{% columns %}
+{% column %}
+### Öppenhet behövs för föreningarna
 
-Valberedningen är årsmötets organ för att bereda val.
+Föreningarna behöver veta hur nomineringar lämnas, när processen sker, vilka val som ska beredas och hur förslagen presenteras.
+{% endcolumn %}
 
-Det innebär att valberedningen inte är underställd distriktsstyrelsen i sitt valberedande uppdrag.
+{% column %}
+### Integritet behövs för människorna
 
-En väl fungerande valberedning stärker demokratisk legitimitet, förtroende och långsiktig kompetensförsörjning.
+Personer som nomineras, prövas eller tillfrågas behöver kunna föra samtal med valberedningen utan att processen blir ryktesstyrd.
+{% endcolumn %}
+{% endcolumns %}
 
-## Slutna och öppna processer
+## Valbarhet är mer än formalia
 
-Valprocesser behöver både integritet och öppenhet.
+Valbarhet regleras i stadgarna och andra tillämpliga regler. Den som väljs ska vara valbar, men också förstå uppdragets ansvar och kunna bidra till förtroende för distriktets styrning.
 
-Integritet behövs för att personer ska kunna nomineras, prövas och samtala med valberedningen på ett tryggt sätt.
+Det gäller särskilt roller som leder, beslutar, granskar eller företräder distriktet i viktiga frågor.
 
-Öppenhet behövs för att föreningarna ska förstå processen, veta hur de kan nominera och kunna ta ställning till förslagen.
+## När inflytandet ska fungera i praktiken
 
-Balansen mellan dessa två är viktig.
-
-## Vägledande princip
-
-Val, ombud och rösträtt ska hanteras så att föreningarnas inflytande blir tydligt och möjligt att använda.
-
-Det ska vara lätt att förstå vem som har rösträtt, vem som företräder vem och hur valen bereds.
+Val, ombud och rösträtt ska göra föreningarnas inflytande tydligt. Det ska vara lätt att förstå vem som har rösträtt, vem som företräder vem och hur valen bereds.
 
 Demokrati behöver ordning. Annars blir inflytandet svårare att använda.
