@@ -11,7 +11,7 @@ Uppföljning visar hur det går. Återrapportering ser till att rätt nivå får
 Det är en del av styrningen, inte ett administrativt efterarbete. Utan uppföljning blir prioriteringar svåra att lära av, beslut svåra att kontrollera och ansvar svårt att bära.
 
 {% hint style="info" %}
-Återrapportering ska ske till den nivå som gett uppdraget, fattat beslutet eller har uppföljningsansvar. Det är så ansvarskedjan hålls ihop.
+Återrapportering ska ske till den nivå som gett uppdraget, fattat beslutet eller har uppföljningsansvar. Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 {% endhint %}
 
 ## Det som följs upp blir möjligt att styra
@@ -22,43 +22,21 @@ Smålands Fotbollförbund behöver följa upp både verksamhet, ekonomi, beslut,
 
 All uppföljning behöver inte vara lika omfattande. Men den ska vara tillräcklig för att ansvar ska kunna tas.
 
-## Återrapportering ska tillbaka till rätt nivå
+## Återrapportering ska hamna där ansvar finns
 
 Återrapportering ska inte bara skickas vidare. Den ska hamna där någon kan ta ansvar för informationen.
 
-{% columns %}
-{% column %}
-### Vanliga vägar tillbaka
-
-[Distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) rapporterar till [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md).
-
-[Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) återrapporterar enligt beslutad ordning.
-
-Delegerade beslut återrapporteras enligt [delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
-
-Arbetsgrupper återrapporterar till den som gett uppdraget.
-{% endcolumn %}
-
-{% column %}
-### När det blir fel
-
-Om återrapportering hamnar för lågt kan viktiga frågor stanna i vardagen.
-
-Om den hamnar för högt kan styrelsen dras in i detaljer.
-
-Om den uteblir blir ansvar svårt att följa.
-{% endcolumn %}
-{% endcolumns %}
+Om återrapportering hamnar för lågt kan viktiga frågor stanna i vardagen. Om den hamnar för högt kan styrelsen dras in i detaljer. Om den uteblir blir ansvar svårt att följa.
 
 ## Ekonomiska avvikelser ska inte vänta
 
-Ekonomisk uppföljning ska ge distriktsstyrelsen underlag för att ta ansvar för distriktets ekonomi.
-
-Uppföljningen bör visa utfall mot budget, prognos, större avvikelser, risker och behov av åtgärder. Väsentliga avvikelser ska rapporteras när de upptäcks om åtgärd behövs.
+Ekonomisk uppföljning ska ge distriktsstyrelsen underlag för att ta ansvar för distriktets ekonomi. Väsentliga avvikelser ska rapporteras när de upptäcks om åtgärd behövs.
 
 {% hint style="warning" %}
 En avvikelse är inte ett misslyckande för att den rapporteras. Den blir ett styrningsproblem när den tystnar, växer eller saknar ansvarig åtgärd.
 {% endhint %}
+
+Risker, kontrollmoment och attest beskrivs i [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
 
 ## Beslut ska följas tills de är avslutade
 
@@ -92,8 +70,4 @@ Uppföljning ska inte bara leta fel. Den ska hjälpa organisationen att förstå
 
 Det gäller särskilt [prioriteringar och mål](../strategi-och-operativt-uppdrag/prioriteringar-och-mal.md). Det räcker inte alltid att veta vad som har gjorts. Distriktet behöver också förstå vad arbetet har lett till.
 
-## Bra återrapportering är ärlig och användbar
-
-En återrapportering ska vara tillräckligt tydlig för att mottagaren ska kunna agera.
-
-Den ska visa hur det går, vad som skaver, vilka risker som finns, vad som behöver beslutas och vem som ansvarar för nästa steg. Det är så uppföljning blir ett verktyg för styrning, inte bara en punkt på dagordningen.
+En bra återrapportering ska vara ärlig och användbar: hur det går, vad som skaver, vilka risker som finns, vad som behöver beslutas och vem som ansvarar för nästa steg.
