@@ -1,71 +1,73 @@
 ---
 description: >-
-  Strategihuset som samlar riktning, prioritering, mål och operativt uppdrag i
-  Smålands Fotbollförbund.
+  Hur vision, mission, verksamhetsidé, inriktningar, prioriteringar och mål hålls
+  ihop från strategi till vardag.
 ---
 
 # Strategihus
 
-Strategihuset är Smålands Fotbollförbunds modell för att hålla ihop strategin.
+Strategihuset är distriktets sätt att hålla kursen.
 
-Det visar sambandet mellan långsiktig riktning, periodvisa prioriteringar, mål, verksamhetsområden och vardagligt genomförande.
+Det binder ihop den långa riktningen med de val som behöver göras i vardagen. Utan ett sådant samband riskerar visionen att bli vacker men svår att använda, och vardagen att bli full av aktiviteter utan tydlig riktning.
 
-Strategihuset är ett styrverktyg. Det ska hjälpa distriktet att välja riktning, prioritera kraft och följa upp om arbetet rör sig åt rätt håll.
+{% hint style="info" %}
+Strategihuset är en styrmodell för strategi. Det är inte en aktivitetslista och inte en kommunikationskampanj. Det ska hjälpa distriktet att välja, prioritera, planera och följa upp.
+{% endhint %}
 
-## Strategihusets funktion
+## Från riktning till genomförande
 
-Strategihuset ska ge ett gemensamt språk för strategisk styrning.
+Strategihuset består av nivåer som svarar på olika frågor. Varje nivå ska göra sitt jobb och länka vidare till rätt sida när mer innehåll behövs.
 
-Det ska hjälpa distriktsstyrelsen, kommittéer, distriktschef och kansli att förstå:
+{% stepper %}
+{% step %}
+**Vision**  
+Vart siktar distriktet på lång sikt? Läs mer i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
+{% endstep %}
 
-* varför distriktet finns
-* vart verksamheten ska röra sig
-* vilka prioriteringar som gäller
-* hur mål ska följas upp
-* hur det operativa uppdraget hänger ihop med strategin
+{% step %}
+**Mission**  
+Varför finns distriktet här och nu? Läs mer i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
+{% endstep %}
 
-Det är inte en samling formuleringar för kommunikation. Det är en modell för styrning.
+{% step %}
+**Verksamhetsidé**  
+Vad är distriktet, för vem finns det och hur verkar det? Läs mer i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
+{% endstep %}
 
-## Strategihusets nivåer
+{% step %}
+**Strategiska inriktningar**  
+Vilka större förflyttningar behöver distriktet göra över tid? Läs mer i [strategiska inriktningar](strategiska-inriktningar.md).
+{% endstep %}
 
-| Nivå | Frågan nivån svarar på | Kärnkälla |
-| --- | --- | --- |
-| **Vision** | Vart vill vi? | [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) |
-| **Mission** | Varför finns vi? | [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) |
-| **Verksamhetsidé** | Vad är vi och hur verkar vi? | [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) |
-| **Strategiska inriktningar** | Vad ska vi åstadkomma strukturellt? | [Strategiska inriktningar](strategiska-inriktningar.md) |
-| **Prioriteringar och mål** | Vad fokuserar vi på och hur följer vi upp det? | [Prioriteringar och mål](prioriteringar-och-mal.md) |
-| **Verksamhetsområden och basuppgifter** | Vad gör vi i det dagliga uppdraget? | [Verksamhetsområden och basuppgifter](verksamhetsomraden-och-basuppgifter.md) |
-| **Planering och uppföljning** | Hur hålls arbetet ihop över året? | [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md) |
+{% step %}
+**Prioriteringar och mål**  
+Vad ska distriktet samla särskild kraft kring under perioden, och hur följs det upp? Läs mer i [prioriteringar och mål](prioriteringar-och-mal.md).
+{% endstep %}
 
-Varje nivå ska ha sin plats. Strategihuset ska binda ihop nivåerna, inte upprepa allt innehåll från varje sida.
+{% step %}
+**Verksamhetsområden och basuppgifter**  
+Vilket grunduppdrag ska fungera i vardagen? Läs mer i [verksamhetsområden och basuppgifter](verksamhetsomraden-och-basuppgifter.md).
+{% endstep %}
+{% endstepper %}
 
-## Hur strategihuset används
+## Allt viktigt kan inte vara prioriterat
 
-Distriktsstyrelsen använder strategihuset för att hålla riktning, pröva prioriteringar och koppla mål till resurser.
+Strategihuset ska hjälpa organisationen att samla kraft. Det betyder att det också ska hjälpa distriktet att välja bort, skjuta fram eller säga nej till sådant som inte ryms.
 
-Kommittéerna använder strategihuset för att planera och bereda frågor inom sina verksamhetsområden.
+När allt kallas prioriterat blir inget prioriterat på riktigt. Därför behöver strategihuset koppla ihop riktning, mål, ansvar, resurser och uppföljning.
 
-Distriktschef och kansli använder strategihuset för att omsätta riktning och prioriteringar i verksamhetsplanering, genomförande och uppföljning.
+## Så används strategihuset av olika delar av distriktet
 
-## Strategihuset som prioriteringsverktyg
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Distriktsstyrelsen</strong><br>Håller riktning, beslutar prioriteringar, kopplar mål till resurser och följer upp helheten.</td></tr><tr><td><strong>Kommittéerna</strong><br>Översätter riktning och prioriteringar till sakkunnig beredning och utveckling inom sina områden.</td></tr><tr><td><strong>Distriktschef och kansli</strong><br>Omsätter prioriteringar och uppdrag i planering, genomförande, administration och återrapportering.</td></tr><tr><td><strong>Medlemsföreningarna</strong><br>Ger demokratisk förankring och visar om strategin svarar mot fotbollens verklighet i Småland.</td></tr></tbody></table>
 
-Strategihuset ska hjälpa organisationen att säga ja till det som stärker riktningen och nej till det som splittrar kraften.
+## Strategi behöver märkas i plan och budget
 
-Det är särskilt viktigt i en organisation med många behov, många föreningar och begränsade resurser.
+En strategi får kraft först när den påverkar verksamhetsplan, budget, uppdrag och uppföljning.
 
-Allt kan inte prioriteras samtidigt. Det som prioriteras ska få kraft, ansvar och uppföljning.
+Om prioriteringarna inte syns i resurserna blir strategihuset svagt. Om resurserna inte följs upp blir strategin svår att lära av. Sambandet mellan planering och uppföljning beskrivs vidare i [planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
 
-## Beslut och uppföljning
+## När strategihuset gör sitt jobb
 
-Vision, mission och verksamhetsidé är långsiktiga och ska ha stark demokratisk förankring.
+Då blir det lättare att se varför ett arbete görs, vilken prioritering det hör till och hur resultatet ska följas upp.
 
-Prioriteringar och mål gäller för en strategiperiod och konkretiseras i verksamhetsplan, budget och uppföljning.
-
-Planering och uppföljning beskrivs i [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
-
-## Vägledande princip
-
-Strategihuset ska hålla ihop helheten.
-
-Det ska göra det enklare att se sambandet mellan föreningarnas behov, distriktets uppdrag, strategiska vägval och arbetet i vardagen.
+Det är småländsk strategi i praktiken: hålla blicken långt fram, men fötterna stadigt i det som faktiskt behöver göras.
