@@ -15,33 +15,36 @@ Schemat ska visa struktur, inte skapa mandat. Om bilden och ett beslutat dokumen
 {% endhint %}
 
 ```mermaid
-flowchart LR
+graph TD
+    %% Define Node Styles
+    classDef DEM fill:#99c1a2,stroke:#333,stroke-width:2px;
+    classDef STR fill:#a91c1c,stroke:#333,stroke-width:1px;
+    classDef TAK fill:#e2dbd0,stroke:#333,stroke-width:1px;
+    classDef OPE fill:#f2f2f2,stroke:#333,stroke-width:1px;
+        classDef OPE2 fill:#fff,stroke:#333,stroke-width:1px;
 
-%% =========================
-%% Demokratisk nivå
-%% =========================
+    %% LEDNING
+    DC[Ledning]:::OPE
+    
+    %% Executive Team
+    DC --> ANS1 & ANS2 & ANS3 & ANS4
 
-VB("Valberedning")
-REV("Revision")
-DN("Disciplinnämnd")
+    %% Product Department
+    subgraph AVD1[Avdelning]
+        ANS1[Roll/funktion]
+        ANS2[Roll/funktion]
+    end
 
-AR("Årsmöte")
-REP("Representantskap")
+    %% Engineering Department
+    subgraph AVD2[Avdelning]
+        ANS3[Roll/funktion]
+        ANS4[Roll/funktion]
+    end
 
-VB --- AR
-REV --- AR
-DN --- AR
+    %% Cross-functional line: ANS1 -.-> ANS3
 
-AR --- REP
-
-%% =========================
-%% Färg/stil
-%% =========================
-classDef lightgreen fill:#d9e9d5,stroke:none,color:#111;
-classDef green fill:#b3d3ab,stroke:none,color:#111;
-
-class VB,REV,DN,REP lightgreen;
-class AR green;
+    class AVD1,AVD2 OPE2;
+    class ANS1,ANS2,ANS3,ANS4 OPE;
 ```
 
 ```mermaid
