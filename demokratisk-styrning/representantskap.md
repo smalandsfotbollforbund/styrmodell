@@ -1,104 +1,74 @@
 ---
 description: >-
-  Ett medlemsorgan med tyngd i tävlingsfrågor. Representantskapet beslutar om
-  tävlingsregler och seriesammansättning inom sitt stadgereglerade mandat.
+  Representantskapet som föreningarnas avgränsade medlemsorgan för tävlingsfrågor
+  mellan årsmötena.
 ---
 
 # Representantskap
 
-Representantskapet är ett av Smålands Fotbollförbunds beslutande organ. Det ger föreningarna direkt inflytande i tävlingsfrågor mellan de ordinarie årsmötena.
+Representantskapet ger föreningarna direkt inflytande i viktiga tävlingsfrågor mellan årsmötena.
 
-Representantskapet kan beskrivas som ett avgränsat mini-årsmöte för tävlingsfrågor. Det är ett medlemsorgan med tyngd, men inte ett allmänt extra årsmöte. Frågor av motsvarande dignitet som inte rör representantskapets tävlingsmandat hör normalt hemma på årsmötet.
+Det är ett medlemsorgan med tyngd, men med ett avgränsat uppdrag. Det ska inte blandas ihop med ett allmänt extra årsmöte eller ett informellt samrådsforum.
 
-Det är inte ett informellt samrådsforum. Det är ett formellt organ med eget stadgereglerat mandat.
+{% hint style="info" %}
+Representantskapet kan förstås som ett mini-årsmöte för tävlingsfrågor. Tyngden ligger i medlemsmandatet. Avgränsningen ligger i att frågorna ska höra till representantskapets tävlingsmandat.
+{% endhint %}
 
-## Sammansättning
+## Tungt där mandatet finns
 
-Representantskapet består av ombud för röstberättigade föreningar samt distriktsstyrelsens ledamöter.
+Representantskapet beslutar inom sitt stadgereglerade mandat. Det handlar framför allt om distriktets tävlingsregler, seriesammansättning för seniorer och andra frågor som hänskjutits dit inom rätt område.
 
-Varje deltagande förening har en röst. Röstning får inte ske via fullmakt.
+Det är viktigt för legitimiteten i tävlingssystemet. Tävlingsfrågor påverkar många föreningar direkt, och då behöver medlemsinflytandet vara tydligt.
 
-## Uppdrag
-
-Representantskapet beslutar inom sitt stadgereglerade tävlingsmandat.
-
-Det innebär framför allt att representantskapet:
-
-* beslutar om distriktets tävlingsregler
-* fastställer seriesammansättningen för seniorer
-* hanterar frågor som hänskjutits dit av årsmötet eller distriktsstyrelsen inom representantskapets mandat
-* avger rapport till årsmötet om sin verksamhet
-
-Representantskapet är därmed en viktig del av föreningsdemokratin i tävlingsfrågor.
-
-## Avgränsning
+## Inte ett mellanårsmöte för allt
 
 Representantskapet ska normalt inte hantera frågor som rör distriktets övergripande organisation, ekonomi, strategi, stadgar, val eller ansvarsfördelning.
 
-Sådana frågor hör i första hand hemma på årsmötet eller hos distriktsstyrelsen inom respektive mandat.
+Sådana frågor hör i första hand hemma på [årsmötet](arsmote.md) eller hos [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), beroende på mandat.
 
-Representantskapets funktion är att ge medlemsdemokratisk tyngd åt särskilt angivna tävlingsfrågor mellan årsmötena. Det ska inte användas som ett allmänt mellanårsmöte för andra principiella frågor.
+{% hint style="warning" %}
+En fråga blir inte en representantskapsfråga bara för att den är viktig för föreningarna. Den måste också höra till representantskapets tävlingsmandat.
+{% endhint %}
 
-## Gränsdragning mot årsmötet
+## Gränsen mot tävlingskommittén behöver vara klar
 
-Årsmötet är distriktets högsta beslutande organ.
+Tävlingskommittén kan bereda och lämna förslag i tävlingsfrågor. Den bidrar med sakkunskap, analys och praktisk förståelse för tävlingsverksamheten.
 
-Representantskapet har en mer avgränsad roll. Det verkar mellan årsmötena och inom ett särskilt tävlingsmandat.
+Men det är representantskapet som bär medlemsmandatet i de tävlingsfrågor som stadgarna lägger där. Tävlingskommittén ska därför inte fatta beslut i frågor som hör till representantskapet, om inte annat uttryckligen framgår av gällande regelverk eller delegation.
 
-Det innebär att frågor av större principiell betydelse som inte hör till representantskapets tävlingsmandat normalt ska hanteras av årsmötet.
+## Mötesformen ska skydda beslutet
 
-Den gränsdragningen är viktig för att skydda den demokratiska strukturen.
+Representantskapet behöver ha ordning på ombud, kallelse, handlingar, förslag och beslut. Det är inte bara formalia. Det är det som gör att besluten kan förstås, följas och accepteras.
 
-## Gränsdragning mot distriktsstyrelsen
+Exakta tidsfrister och formkrav följer av stadgar och gällande dokument. Styrmodellen ska inte återge varje detalj, men principen är tydlig: föreningarna ska få tillräckligt underlag i rätt tid för att kunna ta ställning.
 
-Distriktsstyrelsen leder distriktet mellan de demokratiska mötena och ansvarar för strategisk ledning, samordning, delegation, uppföljning och intern kontroll.
+## Så prövas en fråga
 
-Representantskapet har ett eget mandat i särskilda tävlingsfrågor.
+När det är oklart om en fråga hör hemma på representantskapet kan den prövas steg för steg.
 
-Distriktsstyrelsen ska därför inte ersätta representantskapet i frågor som stadgarna lägger där. Samtidigt ska representantskapet inte ta över frågor som hör till distriktsstyrelsens löpande ansvar inom stadgar och demokratiska beslut.
+{% stepper %}
+{% step %}
+**Är det en tävlingsfråga?**  
+Frågan ska ha tydlig koppling till tävlingsregler, seriesammansättning eller annat område som hör till representantskapets mandat.
+{% endstep %}
 
-## Gränsdragning mot Tävlingskommittén
+{% step %}
+**Är det medlemsbeslut som krävs?**  
+Frågan ska vara av den karaktär att föreningarnas direkta inflytande behövs inom tävlingsområdet.
+{% endstep %}
 
-Tävlingskommittén bereder och lämnar förslag i tävlingsfrågor.
+{% step %}
+**Ligger frågan utanför årsmötets bredare roll?**  
+Om frågan rör stadgar, ekonomi, val, organisation eller övergripande ansvar hör den normalt inte hemma på representantskapet.
+{% endstep %}
 
-Tävlingskommittén beslutar däremot inte i frågor som stadgarna lägger på representantskapet.
+{% step %}
+**Finns rätt beredning?**  
+Tävlingsfrågor behöver beredas så att föreningarna förstår förslaget, alternativen och följderna.
+{% endstep %}
+{% endstepper %}
 
-Detta är en av de viktigaste gränsdragningarna i Smålands Fotbollförbunds demokratiska struktur.
-
-Tävlingskommittén bidrar med sakkunskap, analys och beredning. Representantskapet bär medlemsmandatet i de tävlingsfrågor som hör dit.
-
-## Möten
-
-Ordinarie sammanträde hålls i januari eller februari.
-
-Extra sammanträde kallas av distriktsstyrelsen eller när minst en tredjedel av ombuden skriftligen begär det.
-
-Ombud kan senast den 15 december lämna skriftliga förslag inom representantskapets mandat.
-
-Kallelse skickas senast fyra veckor i förväg. Handlingar distribueras senast två veckor före mötet.
-
-## Förslag till representantskapet
-
-Förslag till representantskapet ska hålla sig inom representantskapets tävlingsmandat.
-
-Förslag som rör andra principiella frågor bör normalt hänvisas till årsmötet, distriktsstyrelsen eller annan behörig nivå.
-
-Det är bättre att en fråga hamnar rätt från början än att den får tyngd på fel nivå.
-
-## Representantskapet i styrmodellen
-
-Representantskapet hör till den demokratiska nivån i styrmodellen.
-
-Det har en tydlig roll:
-
-* att ge föreningarna direkt inflytande i centrala tävlingsfrågor
-* att fatta beslut inom sitt särskilda mandat
-* att stärka legitimiteten i tävlingssystemet
-* att hålla isär medlemsbeslut, strategisk ledning och taktisk beredning
-
-Representantskapet är därför både avgränsat och viktigt.
-
-## Vägledande princip
+## Rätt tyngd på rätt plats
 
 Representantskapet ska vara tungt där det har mandat och återhållsamt där det inte har mandat.
 
