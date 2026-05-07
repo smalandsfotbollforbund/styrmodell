@@ -1,58 +1,61 @@
 ---
 description: >-
-  Hur prioriteringar och mål ska användas för att samla kraft under en
-  strategiperiod.
+  Hur distriktet samlar särskild kraft under en strategiperiod genom tydliga
+  prioriteringar, mål, ansvar och uppföljning.
 ---
 
 # Prioriteringar och mål
 
-Prioriteringar och mål visar vad Smålands Fotbollförbund ska rikta särskild kraft mot under en strategiperiod.
+Prioriteringar visar var distriktet ska lägga särskild kraft under en strategiperiod.
 
-De konkretiserar [Strategiska inriktningar](strategiska-inriktningar.md) och gör det möjligt att följa upp om distriktet rör sig åt rätt håll.
+De ska inte beskriva allt som är viktigt. Mycket viktigt arbete behöver göras varje år genom [verksamhetsområden och basuppgifter](verksamhetsomraden-och-basuppgifter.md). Prioriteringarna pekar ut det som särskilt behöver drivas framåt.
 
-Prioriteringar ska inte vara en lista över allt som är viktigt. De ska visa vad som kräver särskilt fokus.
+{% hint style="warning" %}
+När allt blir prioriterat blir inget prioriterat på riktigt. En prioritering ska därför märkas i uppdrag, resurser, planering och uppföljning.
+{% endhint %}
 
-## Prioriteringarnas funktion
+## Fokus för perioden 2024–2027
 
-Prioriteringar ska hjälpa distriktet att:
+För perioden 2024–2027 har distriktet fyra prioriteringar.
 
-* samla kraft
-* välja bort sådant som inte ryms
-* koppla mål till ansvar och resurser
-* följa upp resultat
-* skapa en tydlig röd tråd mellan strategi och vardag
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Starkare föreningar</strong><br>Föreningar ska få bättre förutsättningar att bedriva och utveckla sin verksamhet.</td></tr><tr><td><strong>Trygga miljöer</strong><br>Fotbollen ska vara tryggare för barn, unga, ledare, domare och andra aktörer.</td></tr><tr><td><strong>Spelarutbildning och talangutveckling</strong><br>Utbildning och utveckling ska hålla ihop från bredd till spets.</td></tr><tr><td><strong>Jämställdhet, mångfald och inkludering</strong><br>Fler ska kunna delta, leda och utvecklas i fotbollen på lika villkor.</td></tr></tbody></table>
 
-När allt blir prioriterat blir inget prioriterat på riktigt.
-
-## Prioriteringar 2024–2027
-
-Distriktet har fyra prioriteringar för perioden 2024–2027:
-
-* **Starkare föreningar**
-* **Jämställdhet, mångfald och inkludering**
-* **Spelarutbildning och talangutveckling**
-* **Trygga miljöer**
-
-De periodvisa målen ska konkretiseras i verksamhetsplan, budget och uppföljning.
+Prioriteringarna konkretiseras genom verksamhetsplan, budget, mål och uppföljning.
 
 ## Från prioritering till mål
 
-Varje prioritering bör kunna brytas ned i mål som går att följa upp.
+En prioritering behöver mål för att bli styrbar. Ett mål ska göra det möjligt att se om distriktet rör sig åt rätt håll.
 
-Ett mål bör svara på:
+{% stepper %}
+{% step %}
+**Vilken förändring vill vi se?**  
+Målet ska kopplas till en önskad effekt, inte bara en aktivitet.
+{% endstep %}
 
-* vilken förändring distriktet vill se
-* vad som ska vara uppnått vid en viss tidpunkt
-* vem som äger frågan
-* vilka resurser som krävs
-* vilken indikator som visar om arbetet går åt rätt håll
-* när och till vem uppföljning ska ske
+{% step %}
+**Vad ska vara uppnått?**  
+Det ska gå att förstå vilket resultat distriktet siktar mot.
+{% endstep %}
 
-Detta hör hemma i verksamhetsplan, uppföljning och eventuella processbeskrivningar i [dokumentarkivet](https://styrning.smaland.football/dokument), inte som detaljerad aktivitetslista i styrmodellen.
+{% step %}
+**Vem äger frågan?**  
+Ansvar behöver vara tydligt för planering, genomförande och uppföljning.
+{% endstep %}
 
-## Effekt, resultat och aktivitet
+{% step %}
+**Vilka resurser krävs?**  
+Tid, budget och kompetens behöver hänga ihop med målet.
+{% endstep %}
 
-Det är viktigt att hålla isär effekt, resultat och aktivitet.
+{% step %}
+**Hur följs det upp?**  
+Indikator, tidpunkt och återrapportering ska vara tillräckligt tydliga.
+{% endstep %}
+{% endstepper %}
+
+## Aktivitet är inte samma sak som effekt
+
+Det är lätt att följa upp vad som har gjorts. Det är svårare, men viktigare, att följa vad arbetet har lett till.
 
 | Del | Fråga |
 | --- | --- |
@@ -64,16 +67,42 @@ Det är viktigt att hålla isär effekt, resultat och aktivitet.
 | **Indikator** | Hur vet vi att vi är på väg åt rätt håll? |
 | **Uppföljning** | När och till vem rapporteras det? |
 
-Aktiviteter kan genomföras utan att effekten nås. Därför behöver uppföljningen se både till vad som gjorts och vad det lett till.
+Aktiviteter kan vara väl genomförda utan att effekten nås. Därför behöver uppföljningen se både till arbetsinsats och faktisk förflyttning.
 
-## Uppföljning
+## Prioriteringar behöver få konsekvenser
 
-Prioriteringar och mål ska följas upp i den ordinarie planerings- och uppföljningsrytmen.
+Om en prioritering inte påverkar arbetet är den bara en rubrik.
 
-Hur detta sker beskrivs i [Planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
+<details>
+<summary><strong>Den ska påverka verksamhetsplanen</strong></summary>
 
-## Vägledande princip
+Prioriteringen behöver synas i vad distriktet planerar att göra under året.
 
-Prioriteringar ska märkas.
+</details>
 
-Om en prioritering inte påverkar beslut, resurser, uppföljning eller vardagligt arbete är den inte en verklig prioritering.
+<details>
+<summary><strong>Den ska påverka budgeten</strong></summary>
+
+En prioritering utan resurser är svår att ta ansvar för.
+
+</details>
+
+<details>
+<summary><strong>Den ska påverka uppdragen</strong></summary>
+
+Distriktsstyrelse, kommittéer, distriktschef och kansli behöver veta vem som gör vad.
+
+</details>
+
+<details>
+<summary><strong>Den ska påverka uppföljningen</strong></summary>
+
+Det ska gå att se om prioriteringen faktiskt lett till rörelse.
+
+</details>
+
+## Uppföljningen hör ihop med årscykeln
+
+Prioriteringar och mål ska följas upp i den ordinarie planerings- och uppföljningsrytmen. Det beskrivs vidare i [planering, uppföljning och årscykel](planering-uppfoljning-och-arscykel.md).
+
+Där ska prioriteringarna inte bara bockas av. De ska användas för att lära, justera och hålla kursen.
