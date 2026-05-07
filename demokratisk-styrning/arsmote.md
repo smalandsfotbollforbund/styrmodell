@@ -1,81 +1,55 @@
 ---
 description: >-
-  Årsmötets roll som Smålands Fotbollförbunds högsta beslutande organ.
+  Årsmötets roll som föreningarnas högsta beslutspunkt och den demokratiska grund
+  som distriktets övriga mandat vilar på.
 ---
 
 # Årsmöte
 
-Årsmötet är Smålands Fotbollförbunds högsta beslutande organ.
+Årsmötet är Smålands Fotbollförbunds högsta beslutande organ. Det är här medlemsföreningarna samlas för att ge uppdrag, pröva ansvar, välja företrädare och fatta beslut i frågor som hör till den högsta demokratiska nivån.
 
-Det är den plats där medlemsföreningarnas formella inflytande ytterst utövas. Det är också den demokratiska nivå som övriga organ i distriktet ytterst härleder sitt mandat från.
+Årsmötet ska därför inte förstås som en formalitet. Det är föreningarnas gemensamma verktyg för att styra distriktet.
 
-Frågor som stadgarna lägger på årsmötet ska avgöras av årsmötet. De ska inte flyttas ned i organisationen genom informell praxis, delegation eller praktiskt behov.
+{% hint style="info" %}
+Den här sidan beskriver årsmötets funktion i styrmodellen. Exakta regler om kallelse, dagordning, rösträtt, val och ärendehantering finns i stadgarna och i andra gällande dokument.
+{% endhint %}
 
-## Årsmötets funktion
+## Där föreningarnas mandat samlas
 
-Årsmötet har fyra huvudfunktioner i styrmodellen.
+I en folkrörelse börjar mandatet hos medlemmarna. För Smålands Fotbollförbund betyder det att medlemsföreningarna bär den demokratiska grunden.
 
-| Funktion | Innebörd |
-| --- | --- |
-| **Legitimerande** | Ger distriktsstyrelsen och andra organ demokratisk grund |
-| **Riktande** | Beslutar i frågor som anger inriktning enligt stadgarna |
-| **Granskande** | Prövar ansvarsfrihet och tar del av revisionens granskning |
-| **Väljande** | Väljer personer till centrala uppdrag |
+Genom sina ombud kan föreningarna påverka riktning, ansvar och val. Det gör årsmötet till mer än ett möte en gång om året. Det är platsen där distriktets styrning får sin legitimitet.
 
-Årsmötet ska därför inte förstås som en formalitet. Det är föreningarnas främsta gemensamma beslutspunkt.
+## Fyra uppgifter som bär årsmötet
 
-## Sammansättning
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Ge riktning</strong><br>Årsmötet beslutar i frågor som hör till den högsta demokratiska nivån och anger ramar för distriktets fortsatta arbete.</td></tr><tr><td><strong>Välja företrädare</strong><br>Årsmötet väljer personer till de uppdrag som enligt stadgarna ska utses av medlemsföreningarna.</td></tr><tr><td><strong>Pröva ansvar</strong><br>Årsmötet tar del av granskning och prövar ansvar enligt den ordning som gäller.</td></tr><tr><td><strong>Ge legitimitet</strong><br>Årsmötet ger distriktsstyrelsen och andra årsmötesvalda organ demokratisk grund.</td></tr></tbody></table>
 
-Årsmötet består av ombud för röstberättigade föreningar.
+## Allt ska inte upp på årsmötet
 
-Hur ombud, rösträtt och valbarhet fungerar beskrivs i [Val, ombud och rösträtt](val-ombud-och-rostratt.md).
+Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där.
 
-## Ärenden på årsmötet
+Vissa frågor hör till distriktsstyrelsens strategiska ansvar. Andra hör till representantskapets tävlingsmandat, kommittéernas beredning, distriktschefens operativa ledning eller kansliets genomförande.
 
-Vilka ärenden som ska behandlas på årsmötet framgår av stadgarna.
+Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund-och-varden/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [de styrande principerna](../grund-och-varden/styrande-principer.md).
 
-Det kan bland annat handla om verksamhetsberättelse, årsredovisning, ansvarsfrihet, arbetsplan, budget, motioner, distriktsstyrelsens förslag och val.
+## Årsmöte och representantskap har olika roller
 
-Den här sidan beskriver årsmötets roll i styrmodellen. Den ersätter inte stadgarna och ska inte återge hela dagordningen i detalj.
+[Representantskapet](representantskap.md) är ett medlemsorgan med tyngd i tävlingsfrågor. Det kan förstås som ett avgränsat mini-årsmöte för tävlingsfrågor.
 
-## Beslut av principiell eller ekonomisk betydelse
+Årsmötet har den bredare demokratiska rollen. Frågor som rör stadgar, övergripande organisation, val, ansvar, ekonomi och principiell inriktning hör normalt hemma där om de ligger på medlemsnivå.
 
-Beslut i frågor av principiell eller ekonomisk betydelse ska hanteras med tydlig beredning, rätt information och rätt beslutsnivå.
+{% hint style="warning" %}
+Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor som inte hör till representantskapets tävlingsmandat behöver hitta rätt väg i styrmodellen.
+{% endhint %}
 
-Frågor som hör till årsmötets mandat ska inte avgöras av distriktsstyrelsen eller andra organ bara för att de är praktiskt brådskande eller svåra att bereda.
+## Föreningarnas väg in
 
-När det är oklart vilken nivå som ska besluta ska frågan prövas mot [Normordning](../grund-och-varden/normordning.md) och [Styrande principer](../grund-och-varden/styrande-principer.md).
+Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning.
 
-## Extra årsmöte
+Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande-funktioner/valberedning.md).
 
-Extra årsmöte används när en fråga behöver hanteras av medlemsföreningarna innan nästa ordinarie årsmöte.
+## Ett årsmöte kräver begriplighet
 
-Det ska inte användas för frågor som kan hanteras inom distriktsstyrelsens mandat eller inom ett annat organs tydliga delegation.
+För att föreningarna ska kunna ta ansvar behöver beslutsunderlag, handlingar och förslag vara möjliga att förstå. Det gäller särskilt frågor som påverkar ekonomi, stadgar, ansvar, organisation eller långsiktig riktning.
 
-## Gränsdragning mot representantskapet
-
-Årsmötet är distriktets högsta beslutande organ.
-
-Representantskapet är ett medlemsorgan med särskilt avgränsat mandat i tävlingsfrågor mellan årsmötena.
-
-Frågor av större principiell betydelse som inte hör till representantskapets tävlingsmandat hör normalt hemma på årsmötet. Representantskapets roll beskrivs i [Representantskap](representantskap.md).
-
-## Motioner och förslag
-
-Motioner är föreningarnas formella väg att väcka frågor till årsmötet.
-
-Hur motioner och initiativrätt fungerar beskrivs i [Motioner och initiativrätt](motioner-och-initiativratt.md).
-
-## Val
-
-Årsmötet väljer de personer och organ som enligt stadgarna ska väljas av medlemsföreningarna.
-
-Hur val, ombud och rösträtt fungerar beskrivs i [Val, ombud och rösträtt](val-ombud-och-rostratt.md). Valberedningens roll beskrivs i [Valberedning](../granskande-funktioner/valberedning.md).
-
-## Vägledande princip
-
-Årsmötet ska vara tydligt, begripligt och väl förberett.
-
-Föreningarna ska kunna förstå vad de beslutar om, varför frågan ligger på årsmötet och vilka konsekvenser beslutet får.
-
-Det är så medlemsdemokratin blir mer än en punkt på dagordningen.
+Det behöver inte vara krångligt. Men det måste vara tillräckligt tydligt för att föreningarna ska kunna veta vad de beslutar om, varför frågan ligger på årsmötet och vad beslutet får för följder.
