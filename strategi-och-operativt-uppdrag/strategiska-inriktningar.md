@@ -1,49 +1,78 @@
 ---
 description: >-
-  De strategiska inriktningar som anger vad distriktet ska åstadkomma på
-  strukturell nivå.
+  De större förflyttningar som ska ge distriktet riktning över tid och bära
+  strategin mellan visionen och de periodvisa prioriteringarna.
 ---
 
 # Strategiska inriktningar
 
-Strategiska inriktningar anger vad Smålands Fotbollförbund ska åstadkomma på strukturell nivå.
+Strategiska inriktningar beskriver de större förflyttningar som Smålands Fotbollförbund behöver göra över tid.
 
-De ligger mellan den långsiktiga riktningen i [Vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) och de mer tidsbundna prioriteringarna i [Prioriteringar och mål](prioriteringar-och-mal.md).
+De ligger mellan den långsiktiga riktningen i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) och de mer tidsbundna [prioriteringarna och målen](prioriteringar-och-mal.md). De ska ge stadga åt strategin utan att låsa varje steg.
 
-Inriktningarna ska ge stadga åt strategin över tid. De ska inte ändras varje år, men de ska kunna prövas inför en ny strategiperiod.
+{% hint style="info" %}
+En strategisk inriktning är inte en aktivitet. Den beskriver vad distriktet behöver röra sig mot. Aktiviteter, resurser och uppföljning hör hemma i verksamhetsplan, budget och årscykel.
+{% endhint %}
 
-## Funktion i styrmodellen
+## Förflyttningar som kräver uthållighet
 
-De strategiska inriktningarna ska hjälpa distriktet att se vilka större förflyttningar som behövs.
+Strategiska inriktningar ska inte bytas ut bara för att ett verksamhetsår tar slut. De handlar om sådant som kräver tid, samverkan och uthållighet.
 
-De ska användas när distriktet:
+Därför ska de användas när distriktet prövar nya initiativ, väger behov mot resurser, formulerar prioriteringar och följer utveckling över flera år.
 
-* formulerar prioriteringar
-* prövar nya initiativ
-* tar fram verksamhetsplan och budget
-* följer upp utveckling över tid
-* väger föreningarnas behov mot tillgängliga resurser
+## Distriktets strategiska inriktningar
 
-## Strategiska inriktningar
-
-Distriktets strategiska inriktningar är att:
-
-* skapa en hållbar och inkluderande fotbollsinfrastruktur som främjar både gräsrot och elit i hela distriktet
-* främja jämställdhet och mångfald på alla nivåer av fotbollen
-* utveckla spelarutbildning och talangutveckling med småländsk prägel av självständighet och samarbete
-* digitalisera verksamheten och utveckla arbetssätt som möter nya generationer
-* stärka samverkan mellan föreningar, kommuner, näringsliv och andra aktörer för långsiktig utveckling
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Hållbar och inkluderande fotbollsinfrastruktur</strong><br>Skapa förutsättningar som främjar både gräsrot och elit i hela distriktet.</td></tr><tr><td><strong>Jämställdhet och mångfald</strong><br>Främja jämställdhet och mångfald på alla nivåer av fotbollen.</td></tr><tr><td><strong>Spelarutbildning och talangutveckling</strong><br>Utveckla spelarutbildning och talangutveckling med småländsk prägel av självständighet och samarbete.</td></tr><tr><td><strong>Digital utveckling</strong><br>Digitalisera verksamheten och utveckla arbetssätt som möter nya generationer.</td></tr><tr><td><strong>Samverkan för långsiktig utveckling</strong><br>Stärka samverkan mellan föreningar, kommuner, näringsliv och andra aktörer.</td></tr></tbody></table>
 
 ## Från inriktning till prioritering
 
-En strategisk inriktning är inte samma sak som en aktivitet.
+En inriktning svarar på frågan vart distriktet behöver röra sig. En prioritering svarar på vad distriktet särskilt ska samla kraft kring under en period.
 
-Inriktningen beskriver vad distriktet behöver röra sig mot. Prioriteringar och mål beskriver vad distriktet särskilt ska fokusera på under en viss period.
+{% columns %}
+{% column %}
+### Inriktning
 
-Det gör att strategin kan vara stadig, samtidigt som arbetet kan anpassas när behov och förutsättningar förändras.
+Ger riktning över tid.
 
-## Vägledande princip
+Kan rymma flera prioriteringar och flera verksamhetsområden.
 
-Strategiska inriktningar ska ge riktning utan att låsa varje steg.
+Behöver följas över längre perioder.
+{% endcolumn %}
 
-De ska vara tydliga nog att styra och öppna nog att låta organisationen välja rätt väg framåt.
+{% column %}
+### Prioritering
+
+Samlar kraft under en strategiperiod.
+
+Behöver mål, ansvar, resurser och uppföljning.
+
+Ska märkas i verksamhetsplan och budget.
+{% endcolumn %}
+{% endcolumns %}
+
+## När nya initiativ prövas
+
+Ett nytt initiativ kan vara bra, men ändå ta kraft från det viktigaste. Därför bör större initiativ prövas mot de strategiska inriktningarna.
+
+<details>
+<summary><strong>Stärker initiativet någon av inriktningarna?</strong></summary>
+
+Om svaret är nej behöver distriktet vara tydligt med varför initiativet ändå ska genomföras.
+
+</details>
+
+<details>
+<summary><strong>Finns ansvar och resurser?</strong></summary>
+
+En inriktning blir inte verklig utan tid, pengar, kompetens och tydligt ägarskap.
+
+</details>
+
+<details>
+<summary><strong>Går utvecklingen att följa?</strong></summary>
+
+Även långsiktiga förflyttningar behöver kunna följas upp, annars blir de svåra att lära av.
+
+</details>
+
+Strategiska inriktningar ska hjälpa distriktet att hålla kursen utan att tappa handlingsfriheten. Det är riktning, inte räls.
