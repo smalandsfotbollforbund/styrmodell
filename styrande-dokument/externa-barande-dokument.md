@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-externa-dokument.svg
 description: >-
   Hur externa dokument som ägs av RF, Svenska Fotbollförbundet, RF-SISU eller
   andra aktörer påverkar distriktets styrning.
+cover: ../.gitbook/assets/cover-externa-dokument.svg
+coverY: 0
 ---
 
 # Externa bärande dokument
@@ -35,7 +36,7 @@ En officiell källa är den plats där dokumentägaren publicerar dokumentet. En
 
 {% columns %}
 {% column %}
-### Officiell källa
+#### Officiell källa
 
 Ägs och uppdateras av den aktör som beslutar dokumentet.
 
@@ -43,7 +44,7 @@ Ska användas när aktuell lydelse behöver kontrolleras.
 {% endcolumn %}
 
 {% column %}
-### Lokal kopia
+#### Lokal kopia
 
 Kan användas för intern ordning, historik eller tillgänglighet.
 
@@ -65,22 +66,22 @@ Därför behöver distriktet ha en tydlig bevakning.
 
 {% stepper %}
 {% step %}
-**Identifiera dokumentägaren**  
+**Identifiera dokumentägaren**\
 Vem beslutar och uppdaterar originaldokumentet?
 {% endstep %}
 
 {% step %}
-**Bevaka ändringar**  
+**Bevaka ändringar**\
 Vem i distriktet ansvarar för att uppmärksamma när dokumentet ändras?
 {% endstep %}
 
 {% step %}
-**Bedöm påverkan**  
+**Bedöm påverkan**\
 Vilka delar av styrmodellen, dokumentarkivet eller verksamheten påverkas?
 {% endstep %}
 
 {% step %}
-**Uppdatera rätt dokument**  
+**Uppdatera rätt dokument**\
 Ändra inte på flera ställen i onödan. Uppdatera rätt kärnkälla och länka vidare därifrån.
 {% endstep %}
 {% endstepper %}
@@ -90,6 +91,7 @@ Vilka delar av styrmodellen, dokumentarkivet eller verksamheten påverkas?
 När ett externt dokument används som grund för lokal styrning ska det vara tydligt vilken roll dokumentet har.
 
 <details>
+
 <summary><strong>Är dokumentet bindande?</strong></summary>
 
 Då behöver distriktets egna dokument och arbetssätt hålla sig inom den ramen.
@@ -97,6 +99,7 @@ Då behöver distriktets egna dokument och arbetssätt hålla sig inom den ramen
 </details>
 
 <details>
+
 <summary><strong>Är dokumentet vägledande?</strong></summary>
 
 Då behöver distriktet förklara hur vägledningen används, utan att göra den till en egen normnivå om den inte är det.
@@ -104,6 +107,7 @@ Då behöver distriktet förklara hur vägledningen används, utan att göra den
 </details>
 
 <details>
+
 <summary><strong>Är dokumentet stödmaterial?</strong></summary>
 
 Då kan det hjälpa arbetet, men ska inte blandas ihop med beslutade mandat eller bindande regler.
@@ -111,6 +115,7 @@ Då kan det hjälpa arbetet, men ska inte blandas ihop med beslutade mandat elle
 </details>
 
 <details>
+
 <summary><strong>Finns lokal tillämpning?</strong></summary>
 
 Då ska den lokala tillämpningen beskrivas i rätt dokumenttyp, till exempel policy, riktlinje, instruktion eller processbeskrivning.

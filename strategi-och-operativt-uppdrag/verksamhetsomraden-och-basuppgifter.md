@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-basuppgifter.svg
 description: >-
   Hur distriktets grunduppdrag, verksamhetsområden och basuppgifter hänger ihop
   med strategi, resurser och föreningarnas behov.
+cover: ../.gitbook/assets/cover-basuppgifter.svg
+coverY: 0
 ---
 
 # Verksamhetsområden och basuppgifter
@@ -35,7 +36,7 @@ Det är viktigt att hålla isär vad distriktet måste bära och vad distriktet 
 
 {% columns %}
 {% column %}
-### Grunduppdrag
+#### Grunduppdrag
 
 Det som behöver fungera för att distriktet ska vara ett fungerande SDF inom svensk fotboll.
 
@@ -43,7 +44,7 @@ Här finns kontinuitet, likvärdighet och ansvar gentemot föreningarna.
 {% endcolumn %}
 
 {% column %}
-### Strategisk profil
+#### Strategisk profil
 
 Det distriktet väljer att utveckla särskilt utifrån behov, förutsättningar och politisk riktning.
 
@@ -66,6 +67,7 @@ Grunduppdraget behöver matchas mot tid, ekonomi och kompetens. Om basuppgifter,
 Då behöver frågan tillbaka till rätt nivå i styrningen.
 
 <details>
+
 <summary><strong>Om grunduppdraget inte ryms</strong></summary>
 
 Då behöver distriktsstyrelsen få underlag om konsekvenser, risker och möjliga vägval.
@@ -73,6 +75,7 @@ Då behöver distriktsstyrelsen få underlag om konsekvenser, risker och möjlig
 </details>
 
 <details>
+
 <summary><strong>Om prioriteringar tränger undan basuppgifter</strong></summary>
 
 Då behöver planering och budget prövas igen. En satsning ska inte göra grunduppdraget osäkert utan medvetet beslut.
@@ -80,6 +83,7 @@ Då behöver planering och budget prövas igen. En satsning ska inte göra grund
 </details>
 
 <details>
+
 <summary><strong>Om föreningarnas behov förändras</strong></summary>
 
 Då behöver verksamhetsområden och arbetssätt kunna utvecklas utan att styrmodellen behöver skrivas om i detalj.

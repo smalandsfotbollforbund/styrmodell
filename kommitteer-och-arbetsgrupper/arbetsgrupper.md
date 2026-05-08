@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-arbetsgrupper.svg
 description: >-
   Hur arbetsgrupper kan användas för avgränsade uppdrag utan att skapa nya
   informella beslutsvägar.
+cover: ../.gitbook/assets/cover-arbetsgrupper.svg
+coverY: 0
 ---
 
 # Arbetsgrupper
@@ -21,27 +22,27 @@ En arbetsgrupp ska ha ett tydligt uppdrag. Det ska gå att förstå varför grup
 
 {% stepper %}
 {% step %}
-**Syfte**  
+**Syfte**\
 Varför behövs arbetsgruppen?
 {% endstep %}
 
 {% step %}
-**Avgränsning**  
+**Avgränsning**\
 Vilken fråga, vilket projekt eller vilken leverans gäller uppdraget?
 {% endstep %}
 
 {% step %}
-**Ansvarig nivå**  
+**Ansvarig nivå**\
 Vem tillsätter gruppen och vem tar emot resultatet?
 {% endstep %}
 
 {% step %}
-**Tidsram**  
+**Tidsram**\
 När ska arbetet vara klart eller prövas på nytt?
 {% endstep %}
 
 {% step %}
-**Återrapportering**  
+**Återrapportering**\
 Hur ska gruppen rapportera, och till vem?
 {% endstep %}
 {% endstepper %}
@@ -58,7 +59,7 @@ Det viktiga är att gruppens arbete kommer tillbaka till rätt nivå. Annars ris
 
 {% columns %}
 {% column %}
-### Kommitté
+#### Kommitté
 
 En [kommitté](kommitteer.md) är ett mer varaktigt organ under distriktsstyrelsen med ansvar inom ett sakområde.
 
@@ -66,7 +67,7 @@ Om en arbetsgrupp börjar bära ett helt område eller får återkommande beslut
 {% endcolumn %}
 
 {% column %}
-### Referensgrupp
+#### Referensgrupp
 
 En [referensgrupp](referensgrupper.md) ger råd, perspektiv och erfarenhet.
 
@@ -79,6 +80,7 @@ Om gruppen förväntas ta fram, driva eller genomföra något är den snarare en
 Att få ett uppdrag är inte samma sak som att få beslutanderätt.
 
 <details>
+
 <summary><strong>Om arbetsgruppen ska bereda</strong></summary>
 
 Då tar gruppen fram underlag, förslag eller vägval. Beslutet fattas av det organ eller den funktion som har mandat.
@@ -86,6 +88,7 @@ Då tar gruppen fram underlag, förslag eller vägval. Beslutet fattas av det or
 </details>
 
 <details>
+
 <summary><strong>Om arbetsgruppen ska genomföra</strong></summary>
 
 Då behöver uppdrag, resurser, ansvarig funktion och återrapportering vara tydliga.
@@ -93,6 +96,7 @@ Då behöver uppdrag, resurser, ansvarig funktion och återrapportering vara tyd
 </details>
 
 <details>
+
 <summary><strong>Om arbetsgruppen ska besluta</strong></summary>
 
 Då krävs uttrycklig [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller ett särskilt beslut som anger mandat, omfattning, dokumentation och återrapportering.

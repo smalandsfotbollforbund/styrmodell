@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-demokratisk-legitimitet.svg
 description: >-
   Hur föreningarnas möjlighet att förstå, påverka och följa beslut stärker
   distriktets demokratiska legitimitet.
+cover: ../.gitbook/assets/cover-demokratisk-legitimitet.svg
+coverY: 0
 ---
 
 # Demokratisk legitimitet och medlemsinflytande
@@ -43,13 +44,13 @@ Det betyder inte att alla frågor måste förenklas. Men handlingar, beslutsunde
 
 {% columns %}
 {% column %}
-### Beslut behöver kunna följas
+#### Beslut behöver kunna följas
 
 Det ska gå att se vad som beslutats, av vem, på vilken nivå och med vilket uppdrag vidare.
 {% endcolumn %}
 
 {% column %}
-### Beslut behöver kunna förstås
+#### Beslut behöver kunna förstås
 
 Det ska gå att förstå varför frågan behandlats och vilka följder beslutet kan få.
 {% endcolumn %}
@@ -60,6 +61,7 @@ Det ska gå att förstå varför frågan behandlats och vilka följder beslutet 
 Demokratisk legitimitet kan försvagas även när de formella reglerna följs.
 
 <details>
+
 <summary><strong>När frågor hamnar på fel nivå</strong></summary>
 
 Föreningarna kan tappa förtroende om viktiga frågor avgörs av fel organ eller om demokratiska beslut rundas av praktiska skäl.
@@ -67,6 +69,7 @@ Föreningarna kan tappa förtroende om viktiga frågor avgörs av fel organ elle
 </details>
 
 <details>
+
 <summary><strong>När informella arbetssätt blir starkare än beslutade vägar</strong></summary>
 
 Dialog är bra, men återkommande informella lösningar kan skapa otydlig makt och svår granskning.
@@ -74,6 +77,7 @@ Dialog är bra, men återkommande informella lösningar kan skapa otydlig makt o
 </details>
 
 <details>
+
 <summary><strong>När handlingar kommer för sent eller är svåra att förstå</strong></summary>
 
 Föreningarna behöver rimlig möjlighet att läsa, diskutera och ta ställning innan beslut fattas.
@@ -81,6 +85,7 @@ Föreningarna behöver rimlig möjlighet att läsa, diskutera och ta ställning 
 </details>
 
 <details>
+
 <summary><strong>När återkopplingen uteblir</strong></summary>
 
 Om föreningarna bidrar med synpunkter men aldrig får veta vad som hände med frågan, försvagas viljan att delta nästa gång.
@@ -88,6 +93,7 @@ Om föreningarna bidrar med synpunkter men aldrig får veta vad som hände med f
 </details>
 
 <details>
+
 <summary><strong>När samma sak beskrivs olika på olika platser</strong></summary>
 
 Motstridiga texter skapar osäkerhet. Därför ska styrmodellen bygga på rätt information på rätt plats och länka vidare i stället för att dubblera.

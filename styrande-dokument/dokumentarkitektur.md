@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-dokumentarkitektur.svg
 description: >-
   Hur styrmodellen och dokumentarkivet hänger ihop genom dokumenttyper,
   beslutsnivåer, ägarskap, förvaltning och versionshantering.
+cover: ../.gitbook/assets/cover-dokumentarkitektur.svg
+coverY: 0
 ---
 
 # Dokumentarkitektur
@@ -31,18 +32,18 @@ Den här sidan ska därför inte bygga en egen rangordning. Här beskrivs i stä
 
 Ett dokument ska börja med rätt dokumenttyp. Annars blir det svårt att veta om texten är en princip, ett mandat, en arbetsform, ett beslut eller ett praktiskt stöd.
 
-| Dokumenttyp | Används till | Beslutas normalt av | Förvaltas normalt av |
-| --- | --- | --- | --- |
-| **Stadgar** | Grundstruktur, medlemsdemokrati, organ och mandat | Årsmötet | Distriktsstyrelsen |
-| **Policy** | Övergripande principer och viljeinriktning inom ett område | Distriktsstyrelsen, om inte frågan bör beslutas av årsmötet | Distriktschef eller utsedd dokumentägare |
-| **Arbetsordning** | Hur ett organ arbetar inom sitt uppdrag | Distriktsstyrelsen, om inte annat följer av stadgar eller särskilt beslut | Berört organ eller utsedd dokumentägare |
-| **Delegationsordning** | Vem som får fatta beslut i vilka ärenden | Distriktsstyrelsen | Distriktschef eller utsedd dokumentägare |
-| **Instruktion** | Ansvar, mandat och förväntningar för roll eller funktion | Distriktsstyrelsen eller distriktschef inom given ram | Dokumentägare enligt beslut |
-| **Riktlinje** | Vägledning för tillämpning och bedömning | Distriktsstyrelsen, distriktschef eller ansvarigt organ beroende på fråga | Dokumentägare enligt beslut |
-| **Processbeskrivning** | Hur ett återkommande arbetsflöde genomförs steg för steg | Distriktschef, distriktsstyrelsen eller ansvarigt organ beroende på betydelse | Processägare eller dokumentägare |
-| **Reglemente** | Mer fasta regler för ett organ, en funktion eller ett område | Beslutande nivå enligt fråga och mandat | Dokumentägare enligt beslut |
-| **Bilaga** | Stödmaterial, översikter, mallar, checklistor och kompletterande underlag | Följer huvuddokumentet eller beslutas av dokumentägare | Dokumentägare |
-| **Externt dokument** | Dokument som påverkar distriktet men beslutas av annan aktör | Extern part | Bevakas av utsedd funktion inom distriktet |
+| Dokumenttyp            | Används till                                                              | Beslutas normalt av                                                           | Förvaltas normalt av                       |
+| ---------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------ |
+| **Stadgar**            | Grundstruktur, medlemsdemokrati, organ och mandat                         | Årsmötet                                                                      | Distriktsstyrelsen                         |
+| **Policy**             | Övergripande principer och viljeinriktning inom ett område                | Distriktsstyrelsen, om inte frågan bör beslutas av årsmötet                   | Distriktschef eller utsedd dokumentägare   |
+| **Arbetsordning**      | Hur ett organ arbetar inom sitt uppdrag                                   | Distriktsstyrelsen, om inte annat följer av stadgar eller särskilt beslut     | Berört organ eller utsedd dokumentägare    |
+| **Delegationsordning** | Vem som får fatta beslut i vilka ärenden                                  | Distriktsstyrelsen                                                            | Distriktschef eller utsedd dokumentägare   |
+| **Instruktion**        | Ansvar, mandat och förväntningar för roll eller funktion                  | Distriktsstyrelsen eller distriktschef inom given ram                         | Dokumentägare enligt beslut                |
+| **Riktlinje**          | Vägledning för tillämpning och bedömning                                  | Distriktsstyrelsen, distriktschef eller ansvarigt organ beroende på fråga     | Dokumentägare enligt beslut                |
+| **Processbeskrivning** | Hur ett återkommande arbetsflöde genomförs steg för steg                  | Distriktschef, distriktsstyrelsen eller ansvarigt organ beroende på betydelse | Processägare eller dokumentägare           |
+| **Reglemente**         | Mer fasta regler för ett organ, en funktion eller ett område              | Beslutande nivå enligt fråga och mandat                                       | Dokumentägare enligt beslut                |
+| **Bilaga**             | Stödmaterial, översikter, mallar, checklistor och kompletterande underlag | Följer huvuddokumentet eller beslutas av dokumentägare                        | Dokumentägare                              |
+| **Externt dokument**   | Dokument som påverkar distriktet men beslutas av annan aktör              | Extern part                                                                   | Bevakas av utsedd funktion inom distriktet |
 
 {% hint style="warning" %}
 Ett dokument får inte skapa större mandat än vad stadgar, demokratiska beslut, distriktsstyrelsens beslut eller delegation medger. Om ett dokument börjar ändra ansvar eller beslutsvägar ska dokumenttypen och beslutsnivån prövas igen.
@@ -52,7 +53,7 @@ Ett dokument får inte skapa större mandat än vad stadgar, demokratiska beslut
 
 {% columns %}
 {% column %}
-### När frågan gäller styrning
+#### När frågan gäller styrning
 
 **Formell grund:** stadgar
 
@@ -66,7 +67,7 @@ Ett dokument får inte skapa större mandat än vad stadgar, demokratiska beslut
 {% endcolumn %}
 
 {% column %}
-### När frågan gäller tillämpning
+#### När frågan gäller tillämpning
 
 **Bedömning:** riktlinje
 
@@ -85,6 +86,7 @@ Det ska vara så enkelt som möjligt, men inte enklare än att ansvar och mandat
 ## Så ska dokumenttyperna förstås
 
 <details>
+
 <summary><strong>Stadgar anger den interna grunden</strong></summary>
 
 Stadgar är distriktets högsta interna normnivå. De reglerar organisationens grundstruktur, medlemsdemokrati, organ, mandat, val, revision, disciplinnämnd, rösträtt och grundläggande beslutsordning.
@@ -94,6 +96,7 @@ Stadgar ska inte användas för detaljerade rutiner, interna arbetssätt eller o
 </details>
 
 <details>
+
 <summary><strong>Policy anger viljeinriktning</strong></summary>
 
 En policy anger distriktets övergripande principer och förhållningssätt inom ett område. Den ska vara tydlig nog att styra, men inte så detaljerad att den blir en rutin.
@@ -103,6 +106,7 @@ Policy passar när distriktet behöver tala om vad som ska gälla på principiel
 </details>
 
 <details>
+
 <summary><strong>Arbetsordning beskriver hur ett organ arbetar</strong></summary>
 
 En arbetsordning beskriver hur ett organ arbetar inom sitt uppdrag. Den kan reglera uppdrag, sammansättning, mötesformer, beredning, protokoll, jäv, återrapportering och koppling till delegation.
@@ -112,6 +116,7 @@ En arbetsordning ska inte ge ett organ större mandat än vad stadgar, årsmöte
 </details>
 
 <details>
+
 <summary><strong>Delegationsordning visar vem som får besluta</strong></summary>
 
 En delegationsordning anger vem som får fatta beslut i vilka typer av ärenden. Den ska normalt ange ärendetyp, delegat, begränsningar, dokumentationskrav och återrapportering.
@@ -121,6 +126,7 @@ Delegation ska vara skriftlig, avgränsad och spårbar. Principerna beskrivs i [
 </details>
 
 <details>
+
 <summary><strong>Instruktion gör roller och funktioner tydliga</strong></summary>
 
 En instruktion beskriver ansvar, mandat och förväntningar för en roll, funktion eller särskild organisatorisk uppgift.
@@ -130,6 +136,7 @@ Instruktioner kan användas för exempelvis distriktschef, kommittéordförande,
 </details>
 
 <details>
+
 <summary><strong>Riktlinje hjälper tillämpning och bedömning</strong></summary>
 
 En riktlinje ger vägledning för hur en princip, policy eller del av styrmodellen ska tillämpas i praktiken.
@@ -139,6 +146,7 @@ Riktlinjer ska skapa enhetlighet i bedömning och tillämpning, men inte ersätt
 </details>
 
 <details>
+
 <summary><strong>Processbeskrivning visar arbetsflödet</strong></summary>
 
 En processbeskrivning beskriver hur ett återkommande arbetsflöde går till från start till slut.
@@ -148,6 +156,7 @@ Den bör ange syfte, startpunkt, slutpunkt, huvudsteg, roller, ansvar, beslutspu
 </details>
 
 <details>
+
 <summary><strong>Reglemente används när reglerna behöver vara fastare</strong></summary>
 
 Reglemente kan användas när ett organ, en funktion eller ett område behöver mer fasta regler än vad en arbetsordning, instruktion eller riktlinje ger.
@@ -157,6 +166,7 @@ Reglemente ska användas med eftertanke. Om dokumentet främst beskriver hur ett
 </details>
 
 <details>
+
 <summary><strong>Bilaga och stödmaterial hjälper användningen</strong></summary>
 
 Bilagor, mallar, checklistor, register och rutiner kan hjälpa organisationen att använda styrningen i vardagen.
@@ -166,6 +176,7 @@ Om ett stödmaterial börjar få normerande betydelse ska det prövas om det i s
 </details>
 
 <details>
+
 <summary><strong>Externt dokument ägs av någon annan</strong></summary>
 
 Ett externt dokument påverkar distriktet, men beslutas eller ägs av annan aktör. Det kan till exempel vara RF:s stadgar, Svenska Fotbollförbundets stadgar, RF:s rekommendation för god demokratisk styrning, basuppgifter eller tävlingsbestämmelser.
@@ -220,7 +231,7 @@ Ett dokument ska inte bara skapas. Det ska också kunna hållas aktuellt.
 
 {% columns %}
 {% column %}
-### Dokumentägaren ska veta
+#### Dokumentägaren ska veta
 
 vad dokumentet reglerar,
 
@@ -232,7 +243,7 @@ och vilka ändringar som kräver nytt beslut.
 {% endcolumn %}
 
 {% column %}
-### Organisationen ska veta
+#### Organisationen ska veta
 
 var dokumentet finns,
 

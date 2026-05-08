@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-valberedning.svg
 description: >-
   Valberedningens självständiga uppdrag att bereda val så att föreningarna kan
   välja med kunskap, förtroende och helhetssyn.
+cover: ../.gitbook/assets/cover-valberedning.svg
+coverY: 0
 ---
 
 # Valberedning
@@ -33,13 +34,13 @@ Valberedningsarbete kräver både öppenhet och integritet.
 
 {% columns %}
 {% column %}
-### Föreningarna behöver insyn
+#### Föreningarna behöver insyn
 
 Det ska vara tydligt hur nomineringar lämnas, vilka val som ska göras och hur processen i huvudsak går till.
 {% endcolumn %}
 
 {% column %}
-### Kandidaterna behöver trygghet
+#### Kandidaterna behöver trygghet
 
 Samtal, personliga uppgifter och interna bedömningar ska hanteras varsamt och förtroendefullt.
 {% endcolumn %}
@@ -56,6 +57,7 @@ Det kan handla om presentation av kandidater, motivering av förslag och en kort
 ## Där gränsen mot distriktsstyrelsen går
 
 <details>
+
 <summary><strong>Distriktsstyrelsen kan beskriva behov</strong></summary>
 
 Distriktsstyrelsen kan ge valberedningen saklig information om organisationens behov, uppdragets krav och erfarenheter från arbetet.
@@ -63,6 +65,7 @@ Distriktsstyrelsen kan ge valberedningen saklig information om organisationens b
 </details>
 
 <details>
+
 <summary><strong>Distriktsstyrelsen ska inte styra förslaget</strong></summary>
 
 Valberedningen ska självständigt bedöma nomineringar, föra samtal och lägga fram förslag till årsmötet.
@@ -70,6 +73,7 @@ Valberedningen ska självständigt bedöma nomineringar, föra samtal och lägga
 </details>
 
 <details>
+
 <summary><strong>Kansliet kan stödja praktiskt</strong></summary>
 
 Administrativt stöd kan behövas, men stödet får inte påverka valberedningens bedömning.

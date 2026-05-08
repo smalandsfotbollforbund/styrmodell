@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-ansvar-och-roller.svg
 description: >-
   Hur roller, uppdrag och ansvar ska hållas isär när samma organisation rymmer
   medlemsföreningar, förtroendevalda, anställda och granskande funktioner.
+cover: ../.gitbook/assets/cover-ansvar-och-roller.svg
+coverY: 0
 ---
 
 # Ansvar och roller
@@ -19,7 +20,7 @@ Det är inte personens erfarenhet, titel eller engagemang som avgör mandatet i 
 En person kan bära flera roller i fotbollen. I styrningen behöver rollen ändå vara tydlig i varje situation. Samma person kan vara föreningsmänniska, kommittéledamot, förtroendevald eller anställd, men uppdraget avgör vilket ansvar personen har just då.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2><i class="fa-cubes-stacked">:cubes-stacked:</i></h2></td><td><sup>Demokratisk nivå</sup></td><td><strong>Föreningens hatt</strong><br>Företräder medlemsföreningens intresse och röst i demokratiska sammanhang.</td></tr><tr><td><h2><i class="fa-user-hat-tie">:user-hat-tie:</i></h2></td><td><sup>Strategisk eller taktisk nivå</sup></td><td><strong>Förtroendevald hatt</strong><br>Bär ett valt eller beslutat uppdrag inom distriktets styrning.</td></tr><tr><td><h2><i class="fa-user-helmet-safety">:user-helmet-safety:</i></h2></td><td><sup>Operativ nivå</sup></td><td><strong>Tjänstepersonens hatt</strong><br>Leder, bereder, verkställer eller administrerar inom anställning och beslutade ramar.</td></tr><tr><td><h2><i class="fa-user-hat-tie-magnifying-glass">:user-hat-tie-magnifying-glass:</i></h2></td><td><sup>Granskande nivå</sup></td><td><strong>Granskande hatt</strong><br>Prövar, granskar eller bereder val med särskild självständighet.</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h3><i class="fa-cubes-stacked">:cubes-stacked:</i></h3></td><td><sup>Demokratisk nivå</sup></td><td><strong>Föreningens hatt</strong><br>Företräder medlemsföreningens intresse och röst i demokratiska sammanhang.</td></tr><tr><td><h3><i class="fa-user-hat-tie">:user-hat-tie:</i></h3></td><td><sup>Strategisk eller taktisk nivå</sup></td><td><strong>Förtroendevald hatt</strong><br>Bär ett valt eller beslutat uppdrag inom distriktets styrning.</td></tr><tr><td><h3><i class="fa-user-helmet-safety">:user-helmet-safety:</i></h3></td><td><sup>Operativ nivå</sup></td><td><strong>Tjänstepersonens hatt</strong><br>Leder, bereder, verkställer eller administrerar inom anställning och beslutade ramar.</td></tr><tr><td><h3><i class="fa-user-hat-tie-magnifying-glass">:user-hat-tie-magnifying-glass:</i></h3></td><td><sup>Granskande nivå</sup></td><td><strong>Granskande hatt</strong><br>Prövar, granskar eller bereder val med särskild självständighet.</td></tr></tbody></table>
 
 ## Förtroendevalda och anställda bär olika uppdrag
 
@@ -30,6 +31,7 @@ När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer k
 ## Där ansvar ofta börjar glida
 
 <details>
+
 <summary><strong>När beredning börjar uppfattas som beslut</strong></summary>
 
 Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning, beslut och verkställighet](../processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md).
@@ -37,6 +39,7 @@ Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning, b
 </details>
 
 <details>
+
 <summary><strong>När dialog blir informell styrning</strong></summary>
 
 Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade uppdrag. Om en beslutsväg används återkommande ska den prövas mot [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller rätt dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
@@ -44,6 +47,7 @@ Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade up
 </details>
 
 <details>
+
 <summary><strong>När sakkunskap blir eget mandat</strong></summary>
 
 Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md) och [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md) beskrivs på respektive sida.
@@ -51,6 +55,7 @@ Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat 
 </details>
 
 <details>
+
 <summary><strong>När granskning kommer för nära genomförandet</strong></summary>
 
 Granskande funktioner behöver stå fria nog att göra sitt jobb. Deras uppdrag beskrivs under [granskande funktioner](../granskande-funktioner/revision-och-lekmannarevision.md).

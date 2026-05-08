@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-inriktningar.svg
 description: >-
   De större förflyttningar som ska ge distriktet riktning över tid och bära
   strategin mellan visionen och de periodvisa prioriteringarna.
+cover: ../.gitbook/assets/cover-inriktningar.svg
+coverY: 0
 ---
 
 # Strategiska inriktningar
@@ -31,7 +32,7 @@ En inriktning svarar på frågan vart distriktet behöver röra sig. En priorite
 
 {% columns %}
 {% column %}
-### Inriktning
+#### Inriktning
 
 Ger riktning över tid.
 
@@ -41,7 +42,7 @@ Behöver följas över längre perioder.
 {% endcolumn %}
 
 {% column %}
-### Prioritering
+#### Prioritering
 
 Samlar kraft under en strategiperiod.
 
@@ -56,6 +57,7 @@ Ska märkas i verksamhetsplan och budget.
 Ett nytt initiativ kan vara bra, men ändå ta kraft från det viktigaste. Därför bör större initiativ prövas mot de strategiska inriktningarna.
 
 <details>
+
 <summary><strong>Stärker initiativet någon av inriktningarna?</strong></summary>
 
 Om svaret är nej behöver distriktet vara tydligt med varför initiativet ändå ska genomföras.
@@ -63,6 +65,7 @@ Om svaret är nej behöver distriktet vara tydligt med varför initiativet änd�
 </details>
 
 <details>
+
 <summary><strong>Finns ansvar och resurser?</strong></summary>
 
 En inriktning blir inte verklig utan tid, pengar, kompetens och tydligt ägarskap.
@@ -70,6 +73,7 @@ En inriktning blir inte verklig utan tid, pengar, kompetens och tydligt ägarska
 </details>
 
 <details>
+
 <summary><strong>Går utvecklingen att följa?</strong></summary>
 
 Även långsiktiga förflyttningar behöver kunna följas upp, annars blir de svåra att lära av.
