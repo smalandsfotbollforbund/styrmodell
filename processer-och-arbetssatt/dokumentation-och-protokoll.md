@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-dokumentation.svg
 description: >-
   Hur dokumentation och protokoll gör beslut, ansvar och uppdrag möjliga att
   hitta, förstå, verkställa och granska.

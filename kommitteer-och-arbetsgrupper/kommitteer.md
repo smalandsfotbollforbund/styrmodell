@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-kommitteer.svg
 description: >-
   Kommittéernas roll som taktiska organ under distriktsstyrelsen med uppdrag att
   bereda, utveckla och följa upp inom sina sakområden.

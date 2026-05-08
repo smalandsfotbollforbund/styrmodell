@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-referensgrupper.svg
 description: >-
   Hur referensgrupper kan ge råd, perspektiv och erfarenhet utan att ändra
   beslutsordningen.

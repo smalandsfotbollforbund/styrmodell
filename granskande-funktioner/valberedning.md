@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-valberedning.svg
 description: >-
   Valberedningens självständiga uppdrag att bereda val så att föreningarna kan
   välja med kunskap, förtroende och helhetssyn.

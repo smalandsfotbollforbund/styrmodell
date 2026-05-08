@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-presidium.svg
 description: >-
   Presidiet som styrelsens beredande och samordnande funktion, utan att bli ett
   parallellt beslutsorgan.

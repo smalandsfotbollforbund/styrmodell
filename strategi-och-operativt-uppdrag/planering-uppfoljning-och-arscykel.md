@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-arscykel.svg
 description: >-
   Hur distriktets årscykel skapar rytm för planering, budget, genomförande,
   uppföljning, lärande och demokratisk återrapportering.

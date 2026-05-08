@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-styrarkitektur.svg
 description: >-
   Hur Smålands Fotbollförbunds styrning hänger ihop genom demokratisk,
   strategisk, taktisk, operativ och granskande nivå – med organisationsschemat

@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#0d2137"/>
   <defs>
-    <radialGradient id="sun" cx="50%" cy="85%" r="55%">
-      <stop offset="0%" stop-color="#f0a500" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#0d2137" stop-opacity="0"/>
+    <radialGradient id="r1" cx="5%" cy="90%" r="65%">
+      <stop offset="0%" stop-color="#A91C1C" stop-opacity="0.30"/>
+      <stop offset="58%" stop-color="#A91C1C" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#A91C1C" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1a5276" stop-opacity="0.35"/>
-      <stop offset="60%" stop-color="#0d2137" stop-opacity="0"/>
-    </linearGradient>
+    <radialGradient id="g1" cx="85%" cy="15%" r="40%">
+      <stop offset="0%" stop-color="#2F5731" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#2F5731" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#sky)"/>
-  <rect width="1200" height="630" fill="url(#sun)"/>
-  <line x1="0" y1="430" x2="1200" y2="430" stroke="#1a5276" stroke-width="1.5" opacity="0.5"/>
-  <circle cx="600" cy="430" r="180" fill="none" stroke="#f0a500" stroke-width="1.5" opacity="0.5"/>
-  <circle cx="600" cy="430" r="130" fill="none" stroke="#f0a500" stroke-width="1" opacity="0.3"/>
-  <circle cx="600" cy="430" r="80" fill="none" stroke="#f0a500" stroke-width="0.8" opacity="0.2"/>
-  <line x1="600" y1="430" x2="600" y2="120" stroke="#f0a500" stroke-width="1" opacity="0.3"/>
-  <line x1="600" y1="250" x2="450" y2="200" stroke="#f0a500" stroke-width="0.8" opacity="0.2"/>
-  <line x1="600" y1="250" x2="750" y2="200" stroke="#f0a500" stroke-width="0.8" opacity="0.2"/>
-  <line x1="600" y1="250" x2="380" y2="310" stroke="#f0a500" stroke-width="0.8" opacity="0.15"/>
-  <line x1="600" y1="250" x2="820" y2="310" stroke="#f0a500" stroke-width="0.8" opacity="0.15"/>
-  <circle cx="600" cy="250" r="22" fill="#f0a500" opacity="0.8"/>
-  <circle cx="600" cy="250" r="12" fill="#0d2137"/>
-  <circle cx="600" cy="250" r="5" fill="#f0a500" opacity="0.9"/>
-  <rect x="0" y="430" width="1200" height="200" fill="#0d2137" opacity="0.5"/>
+  <rect width="1200" height="630" fill="#E2DBD0"/>
+  <rect width="1200" height="630" fill="url(#r1)"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect x="50" y="35" width="1100" height="560" fill="none" stroke="#A91C1C" stroke-width="1.5" opacity="0.15"/>
+  <rect x="88" y="63" width="1024" height="504" fill="none" stroke="#333333" stroke-width="0.6" opacity="0.10"/>
+  <line x1="88" y1="400" x2="1112" y2="400" stroke="#2F5731" stroke-width="1.5" opacity="0.4"/>
+  <line x1="88" y1="415" x2="1112" y2="415" stroke="#2F5731" stroke-width="0.8" opacity="0.2"/>
+  <line x1="200" y1="400" x2="1050" y2="310" stroke="#A91C1C" stroke-width="2.5" opacity="0.7" stroke-linecap="round"/>
+  <polygon points="1055,308 1028,318 1042,310 1030,302" fill="#A91C1C" opacity="0.75"/>
+  <circle cx="200" cy="400" r="10" fill="#A91C1C" opacity="0.65"/>
+  <polygon points="520,420 540,410 540,430" fill="none" stroke="#2F5731" stroke-width="1" opacity="0.3"/>
+  <polygon points="640,420 660,410 660,430" fill="none" stroke="#2F5731" stroke-width="1" opacity="0.25"/>
+  <polygon points="760,420 780,410 780,430" fill="none" stroke="#2F5731" stroke-width="1" opacity="0.2"/>
+  <line x1="300" y1="400" x2="300" y2="370" stroke="#2F5731" stroke-width="1" opacity="0.25"/>
+  <line x1="200" y1="400" x2="200" y2="340" stroke="#2F5731" stroke-width="0.8" opacity="0.2"/>
 </svg>

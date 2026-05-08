@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-demokratisk-legitimitet.svg
 description: >-
   Hur föreningarnas möjlighet att förstå, påverka och följa beslut stärker
   distriktets demokratiska legitimitet.

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-prioriteringar.svg
 description: >-
   Hur distriktet samlar särskild kraft under en strategiperiod genom tydliga
   prioriteringar, mål, ansvar och uppföljning.

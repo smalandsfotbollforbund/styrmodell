@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-delegation.svg
 description: >-
   Hur beslutanderätt kan flyttas till rätt nivå utan att ansvar, spårbarhet och
   återrapportering går förlorade.

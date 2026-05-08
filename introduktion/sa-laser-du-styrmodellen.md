@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-sa-laser.svg
 description: >-
   Hur du hittar rätt i styrmodellen, väljer rätt ingång och går vidare till
   dokumentarkivet när du behöver ett konkret dokument.

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-normordning.svg
 description: >-
   Vilka regler, beslut och dokument som väger tyngst när något behöver tolkas
   eller när styrningen pekar åt olika håll.

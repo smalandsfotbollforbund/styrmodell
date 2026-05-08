@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-begreppslista.svg
 description: >-
   De viktigaste begreppen i styrmodellen och hur ord, förkortningar, organ,
   roller, ansvar och dokumenttyper ska förstås.

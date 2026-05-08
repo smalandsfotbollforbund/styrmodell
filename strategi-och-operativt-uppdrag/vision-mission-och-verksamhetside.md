@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-vision.svg
 description: >-
   Distriktets långsiktiga riktning och uppdrag: vart vi ska, varför vi finns och
   hur vi verkar för fotbollen i Småland.

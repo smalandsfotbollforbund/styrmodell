@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-kansli.svg
 description: >-
   Kansliets roll som tjänstepersonsorganisation för beredning, genomförande,
   administration och stöd till föreningar och organ.

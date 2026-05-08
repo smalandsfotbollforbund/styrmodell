@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-externa-dokument.svg
 description: >-
   Hur externa dokument som ägs av RF, Svenska Fotbollförbundet, RF-SISU eller
   andra aktörer påverkar distriktets styrning.

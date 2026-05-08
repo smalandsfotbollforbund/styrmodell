@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-revision.svg
 description: >-
   Revisionens och lekmannarevisionens oberoende granskning av ekonomi,
   förvaltning, styrning och intern kontroll inför årsmötets ansvarsprövning.

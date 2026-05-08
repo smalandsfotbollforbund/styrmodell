@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="r1" cx="2%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#A91C1C" stop-opacity="0.26"/>
+      <stop offset="55%" stop-color="#A91C1C" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#A91C1C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g1" cx="98%" cy="50%" r="38%">
+      <stop offset="0%" stop-color="#2F5731" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#2F5731" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#E2DBD0"/>
+  <rect width="1200" height="630" fill="url(#r1)"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect x="50" y="35" width="1100" height="560" fill="none" stroke="#A91C1C" stroke-width="1.5" opacity="0.15"/>
+  <rect x="88" y="63" width="1024" height="504" fill="none" stroke="#333333" stroke-width="0.6" opacity="0.10"/>
+  <rect x="180" y="240" width="220" height="150" rx="2" fill="none" stroke="#333333" stroke-width="1.8" opacity="0.5"/>
+  <line x1="205" y1="268" x2="375" y2="268" stroke="#333333" stroke-width="1" opacity="0.3"/>
+  <line x1="205" y1="285" x2="355" y2="285" stroke="#333333" stroke-width="1" opacity="0.25"/>
+  <line x1="205" y1="302" x2="365" y2="302" stroke="#333333" stroke-width="1" opacity="0.2"/>
+  <rect x="490" y="240" width="220" height="150" rx="2" fill="none" stroke="#A91C1C" stroke-width="2" opacity="0.65"/>
+  <line x1="515" y1="278" x2="685" y2="278" stroke="#A91C1C" stroke-width="1.2" opacity="0.5"/>
+  <line x1="515" y1="295" x2="665" y2="295" stroke="#A91C1C" stroke-width="1" opacity="0.38"/>
+  <line x1="515" y1="312" x2="675" y2="312" stroke="#333333" stroke-width="1" opacity="0.25"/>
+  <polyline points="520,345 545,370 595,325" fill="none" stroke="#A91C1C" stroke-width="2" opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="800" y="240" width="220" height="150" rx="2" fill="none" stroke="#2F5731" stroke-width="1.8" opacity="0.55"/>
+  <line x1="825" y1="278" x2="995" y2="278" stroke="#2F5731" stroke-width="1" opacity="0.4"/>
+  <line x1="825" y1="295" x2="975" y2="295" stroke="#333333" stroke-width="1" opacity="0.28"/>
+  <line x1="825" y1="312" x2="985" y2="312" stroke="#333333" stroke-width="1" opacity="0.22"/>
+  <line x1="400" y1="315" x2="490" y2="315" stroke="#A91C1C" stroke-width="1.8" opacity="0.5" stroke-linecap="round"/>
+  <polygon points="490,315 470,308 478,315 470,322" fill="#A91C1C" opacity="0.55"/>
+  <line x1="710" y1="315" x2="800" y2="315" stroke="#333333" stroke-width="1.8" opacity="0.4" stroke-linecap="round"/>
+  <polygon points="800,315 780,308 788,315 780,322" fill="#333333" opacity="0.4"/>
+</svg>

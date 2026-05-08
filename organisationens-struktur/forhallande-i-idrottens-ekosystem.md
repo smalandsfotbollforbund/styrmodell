@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-ekosystem.svg
 description: >-
   Hur distriktet verkar som del av svensk idrott, svensk fotboll och den
   regionala idrottsrörelsen i Småland.

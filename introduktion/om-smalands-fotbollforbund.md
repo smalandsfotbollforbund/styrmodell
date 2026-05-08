@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-om-smff.svg
 description: >-
   Smålands Fotbollförbund som distrikt inom svensk fotboll, med föreningarna som
   demokratisk grund och Småland som uppdragets plats.

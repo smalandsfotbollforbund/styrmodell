@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-strategihus.svg
 description: >-
   Hur vision, mission, verksamhetsidé, inriktningar, prioriteringar och mål hålls
   ihop från strategi till vardag.

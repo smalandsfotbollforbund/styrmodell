@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-dokumentarkitektur.svg
 description: >-
   Hur styrmodellen och dokumentarkivet hänger ihop genom dokumenttyper,
   beslutsnivåer, ägarskap, förvaltning och versionshantering.

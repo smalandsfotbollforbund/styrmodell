@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-om-styrmodellen.svg
 description: >-
   Styrmodellen beskriver hur distriktet är uppbyggt, hur beslut fattas, vem som
   ansvarar för vad och hur styrningen ska fungera i praktiken.
