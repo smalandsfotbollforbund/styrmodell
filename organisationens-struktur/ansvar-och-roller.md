@@ -8,7 +8,7 @@ description: >-
 
 I Smålands Fotbollförbund finns många som vill väl och gör mycket. Just därför behöver rollerna vara tydliga.
 
-Den här sidan handlar inte om hur organisationen är uppbyggd. Det beskrivs i [styrarkitekturen](styrarkitektur.md) och i [organisationsschemat](organisationsschema.md). Här handlar det om rollförståelse: vilken hatt någon bär, vilket uppdrag som gäller och när ansvar börjar glida.
+Den här sidan handlar inte om hur organisationen är uppbyggd. Det beskrivs i [styrarkitekturen](styrarkitektur.md) – inklusive organisationsschemat. Här handlar det om rollförståelse: vilken hatt någon bär, vilket uppdrag som gäller och när ansvar börjar glida.
 
 ## Uppdraget avgör hatten
 
@@ -31,7 +31,7 @@ När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer k
 <details>
 <summary><strong>När beredning börjar uppfattas som beslut</strong></summary>
 
-Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning](../processer-och-arbetssatt/beredning.md) och [beslutsfattande](../processer-och-arbetssatt/beslutsfattande.md).
+Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning, beslut och verkställighet](../processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md).
 
 </details>
 
@@ -71,4 +71,4 @@ Om frågan gäller ansvarskedjan, alltså vem som bereder, beslutar, verkställe
 
 Många gråzoner uppstår för att människor försöker hjälpa till. Det är bra. Men om gråzonen återkommer ska den inte vänjas in.
 
-Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna, [organisationsschemat](organisationsschema.md) för den visuella helheten, [begreppslistan](../introduktion/begreppslista.md) för orden, [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.
+Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../introduktion/begreppslista.md) för orden, [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.

@@ -1,10 +1,10 @@
 ---
 description: >-
-  Distriktet är en del av idrottsrörelsen och vilar på folkrörelsens grunder för
-  demokratisk styrning, föreningsliv och gemensamt ansvar.
+  Distriktet är en del av idrottsrörelsen och vilar på folkrörelsens grunder
+  för demokratisk styrning, föreningsliv och gemensamt ansvar.
 ---
 
-# Folkrörelseprincip
+# Folkrörelseprincip och demokratisk styrning
 
 Smålands Fotbollförbund är en del av den svenska idrottsrörelsen. Det betyder att distriktet vilar på en folkrörelseidé: människor organiserar sig frivilligt i föreningar, föreningarna samlas i förbund och gemensamma beslut fattas demokratiskt.
 
@@ -14,45 +14,37 @@ Folkrörelseprincipen är inte en egen normnivå i [normordningen](normordning.m
 
 ## En rörelse som växte underifrån
 
-Den organiserade idrotten i Sverige växte fram ur föreningslivet. Människor samlades kring gemensamma intressen, bildade föreningar, valde företrädare, skrev stadgar och byggde verksamhet tillsammans. Rörelsen bars inte av en enskild ägare. Den bars av många människors vilja att göra något gemensamt.
+Den organiserade idrotten i Sverige växte fram ur föreningslivet. Människor samlades kring gemensamma intressen, bildade föreningar, valde företrädare, skrev stadgar och byggde verksamhet tillsammans. Rörelsen bars inte av en enskild ägare – den bars av många människors vilja att göra något gemensamt.
 
-Idrottsrörelsen blev därför mer än träning och tävling. Den blev en plats där människor lärde sig föreningsdemokrati, ansvar, ledarskap och samarbete. Det är fortfarande en av idrottens stora styrkor: att människor inte bara deltar i verksamheten, utan också kan vara med och bära den.
+Idrottsrörelsen blev därför mer än träning och tävling. Den blev en plats där människor lärde sig föreningsdemokrati, ansvar, ledarskap och samarbete.
 
-### Därför spelar det roll för distriktet
+### Distriktet finns genom föreningarna – och för dem
 
-Smålands Fotbollförbund finns inte vid sidan av föreningarna. Distriktet finns genom dem och för dem.
+Smålands Fotbollförbund finns inte vid sidan av föreningarna. Uppdraget är att främja, utveckla och administrera fotbollen på ett sätt som respekterar föreningarnas demokratiska roll och stärker deras möjlighet att bedriva verksamhet.
 
-Det betyder att distriktets uppdrag inte bara är att administrera fotboll. Uppdraget är att främja, utveckla och administrera fotbollen på ett sätt som respekterar föreningarnas demokratiska roll och stärker deras möjlighet att bedriva verksamhet.
-
-När styrmodellen talar om ansvar, mandat, beslut, beredning, uppföljning och granskning handlar det därför inte bara om ordning på papper. Det handlar om att vårda den föreningsdemokrati som distriktet bygger på.
+Professionalisering ska stärka folkrörelsen, inte ersätta den. Förtroendevalda bär det demokratiska och strategiska ansvaret. Anställda leder, stödjer och genomför den löpande verksamheten. Uppdraget kräver båda – men rollerna ska vara tydliga.
 
 ## Den grundläggande innebörden
 
-Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokratisk-styrning/arsmote.md), [representantskap](../demokratisk-styrning/representantskap.md), [motioner](../demokratisk-styrning/motioner-och-initiativratt.md), [val](../demokratisk-styrning/val-ombud-och-rostratt.md) och [granskning](/broken/pages/7rivoXlmTHzwmm0HLzcn).
+Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokratisk-styrning/arsmote.md), [representantskap](../demokratisk-styrning/representantskap.md), [motioner](../demokratisk-styrning/motioner-och-initiativratt.md), [val](../demokratisk-styrning/val-ombud-och-rostratt.md) och [granskning](../granskande-funktioner/revision-och-lekmannarevision.md).
 
-Det är föreningarnas gemensamma uppdrag som ger distriktet [legitimitet](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md). Medlemsföreningarna väljer, beslutar, väcker frågor, granskar och ger uppdrag genom de former som följer av stadgar och beslutade processer.
+Det är föreningarnas gemensamma uppdrag som ger distriktet [legitimitet](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md). Frågor som hör hemma på demokratisk nivå ska inte lösas av distriktsstyrelse, kommittéer eller kansli genom informell praxis.
 
-Därför ska frågor som hör hemma på demokratisk nivå inte flyttas till [distriktsstyrelse](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) eller [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) genom informell praxis.
+## Hur folkrörelseprincipen görs praktisk
 
-### När uppdraget växer behöver arbetssättet följa med
+Demokrati stannar inte vid stadgar, årsmöten och val. Den behöver också synas i hur frågor förbereds, hur beslut dokumenteras, hur ansvar följs upp och hur granskning får göra sitt jobb.
 
-En modern idrottsorganisation behöver ideellt engagemang, förtroendevalda och anställda. Det ger kraft, men det kräver också tydlig [rollfördelning](../organisationens-struktur/ansvar-och-roller.md).
+Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#rekommendation-for-god-demokratisk-styrning-av-idrottsforbund) ger vägledning för just detta – hur demokratiska principer omsätts till arbetssätt som håller över tid. Den är vägledande, inte bindande normnivå.
 
-Förtroendevalda bär det demokratiska och strategiska ansvaret inom sina uppdrag. Anställda leder, stödjer och genomför den löpande verksamheten inom beslutade ramar.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Tydliga roller</strong><br>Föreningarna behöver veta vilka frågor som hör till <a href="../demokratisk-styrning/arsmote.md">årsmötet</a>, <a href="../demokratisk-styrning/representantskap.md">representantskapet</a>, <a href="../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md">distriktsstyrelsen</a> eller den operativa ledningen.</td></tr><tr><td><strong>Öppenhet som går att förstå</strong><br>Beslutsunderlag, protokoll och uppdrag behöver vara skrivna så att den som berörs kan följa vad som beslutats, varför och vem som ansvarar för nästa steg.</td></tr><tr><td><strong>Ansvar som följs hela vägen</strong><br>Det ska gå att se vem som berett frågan, fattat beslut, fått uppdraget, verkställt och hur resultatet följts upp.</td></tr><tr><td><strong>Oberoende granskning</strong><br>Revision, lekmannarevision och valberedning behöver ha tydliga uppdrag och tillräcklig självständighet från det de granskar eller bereder.</td></tr></tbody></table>
 
-Professionalisering ska stärka folkrörelsen, inte ersätta den. När uppdraget växer behöver arbetssättet följa med, så att föreningarnas mandat, distriktets ansvar och den operativa kraften drar åt samma håll.
+När styrningen behöver prövas – när en fråga hamnar mellan nivåer, när en roll börjar glida, när praxis börjar bli starkare än beslut – ska organisationen gå tillbaka till styrmodellen. [Normordningen](normordning.md) avgör vad som väger tyngst. [Ansvar och roller](../organisationens-struktur/ansvar-och-roller.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) pekar ut vem som gör vad.
 
-## Där demokratin gör jobbet
+## Demokratin märks i vardagen
 
-Folkrörelseprincipen syns inte bara när klubban slår på årsmötet. Den märks i det dagliga arbetet: i hur frågor bereds, hur föreningar får möjlighet att förstå och påverka, hur beslut följs upp och hur distriktet håller ordning på ansvar, jäv och granskning.
+Folkrörelseprincipen syns inte bara när klubban slår på årsmötet. Den märks i hur frågor bereds, hur föreningar får möjlighet att förstå och påverka, hur beslut följs upp och hur distriktet håller ordning på ansvar och granskning.
 
-Den märks också i hur vi förklarar varför beslut fattas och hur vi håller isär dialog från formella beslut. Demokrati är därför inte bara en struktur på papper. Det är något som behöver fungera i vardagen.
-
-[God demokratisk styrning](god-demokratisk-styrning.md) beskriver hur den grunden vårdas i praktiken genom tydliga processer, ansvar, öppenhet, uppföljning och granskning.
-
-Distriktets styrning ska alltid kunna spåras tillbaka till föreningarnas gemensamma mandat. När det är oklart var en fråga hör hemma ska styrmodellen hjälpa organisationen tillbaka till rätt nivå, rätt ansvar och rätt beslutsväg.
-
-Det är enkelt sagt, men viktigt i praktiken: distriktet ska vara stadigt nog att leda och lyhört nog att komma ihåg varifrån uppdraget kommer.
+Distriktets styrning ska alltid kunna spåras tillbaka till föreningarnas gemensamma mandat. Det är enkelt sagt, men viktigt i praktiken: distriktet ska vara stadigt nog att leda och lyhört nog att komma ihåg varifrån uppdraget kommer.
 
 ## Fördjupat material
 

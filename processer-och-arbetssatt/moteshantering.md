@@ -8,7 +8,7 @@ description: >-
 
 Möten ska föra arbetet framåt.
 
-Den här sidan handlar om mötets form och funktion: varför mötet hålls, vilken status frågorna har och vad som ska hända efteråt. Själva principerna för [beredning](beredning.md), [beslut](beslutsfattande.md), [verkställighet](verkstallighet.md), [uppföljning](uppfoljning-och-aterrapportering.md) och [dokumentation](dokumentation-och-protokoll.md) beskrivs på sina egna sidor.
+Den här sidan handlar om mötets form och funktion: varför mötet hålls, vilken status frågorna har och vad som ska hända efteråt. Principerna för [beredning, beslut och verkställighet](beredning-beslut-och-verkstallighet.md), [uppföljning](uppfoljning-och-aterrapportering.md) och [dokumentation](dokumentation-och-protokoll.md) beskrivs på sina egna sidor.
 
 {% hint style="info" %}
 Mallar, detaljerade rutiner, kallelser, dagordningar och praktiska mötesunderlag hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).

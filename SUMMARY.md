@@ -11,9 +11,8 @@
 
 ## Grund och värden
 
-* [Folkrörelseprincip](grund-och-varden/folkrorelseprincip.md)
+* [Folkrörelseprincip och demokratisk styrning](grund-och-varden/folkrorelseprincip.md)
 * [Värdegrund](grund-och-varden/vardegrund.md)
-* [God demokratisk styrning](grund-och-varden/god-demokratisk-styrning.md)
 * [Normordning](grund-och-varden/normordning.md)
 * [Styrande principer](grund-och-varden/styrande-principer.md)
 
@@ -21,7 +20,6 @@
 
 * [Styrarkitektur](organisationens-struktur/styrarkitektur.md)
 * [Ansvar och roller](organisationens-struktur/ansvar-och-roller.md)
-* [Organisationsschema](organisationens-struktur/organisationsschema.md)
 * [Förhållande i idrottens ekosystem](organisationens-struktur/forhallande-i-idrottens-ekosystem.md)
 
 ## Demokratisk styrning
@@ -66,9 +64,7 @@
 
 ## Processer och arbetssätt
 
-* [Beredning](processer-och-arbetssatt/beredning.md)
-* [Beslutsfattande](processer-och-arbetssatt/beslutsfattande.md)
-* [Verkställighet](processer-och-arbetssatt/verkstallighet.md)
+* [Beredning, beslut och verkställighet](processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md)
 * [Uppföljning och återrapportering](processer-och-arbetssatt/uppfoljning-och-aterrapportering.md)
 * [Dokumentation och protokoll](processer-och-arbetssatt/dokumentation-och-protokoll.md)
 * [Möteshantering](processer-och-arbetssatt/moteshantering.md)

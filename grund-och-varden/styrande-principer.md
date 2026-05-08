@@ -38,7 +38,7 @@ Skillnaden mellan nivåer, roller och uppdrag beskrivs i [styrarkitekturen](../o
 <details>
 <summary><strong>Beredning är inte beslut</strong></summary>
 
-Beredning, beslut och verkställighet är olika delar av ansvarskedjan. Principerna beskrivs i [beredning](../processer-och-arbetssatt/beredning.md), [beslutsfattande](../processer-och-arbetssatt/beslutsfattande.md) och [verkställighet](../processer-och-arbetssatt/verkstallighet.md).
+Beredning, beslut och verkställighet är olika delar av ansvarskedjan. Principerna beskrivs i [beredning, beslut och verkställighet](../processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md).
 
 </details>
 

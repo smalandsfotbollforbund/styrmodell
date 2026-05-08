@@ -63,6 +63,6 @@ Läs den sida som gäller den roll, funktion eller fråga du arbetar med.
 
 ## Läs inte in mer än sidan säger
 
-Varje sida har ett eget uppdrag. En sida om [beredning](../processer-och-arbetssatt/beredning.md) ska inte användas som delegationsordning. En sida om [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) ska inte ersätta en kommittés arbetsordning. En sida om [dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md) ska inte ersätta [normordningen](../grund-och-varden/normordning.md).
+Varje sida har ett eget uppdrag. En sida om [beredning, beslut och verkställighet](../processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md) ska inte användas som delegationsordning. En sida om [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) ska inte ersätta en kommittés arbetsordning. En sida om [dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md) ska inte ersätta [normordningen](../grund-och-varden/normordning.md).
 
 När något är oklart ska frågan tillbaka till rätt kärnkälla. Det är så styrmodellen hålls lätt att förstå och enkel att förvalta.

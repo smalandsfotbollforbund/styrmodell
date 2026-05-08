@@ -1,18 +1,15 @@
 ---
 description: >-
   Hur Smålands Fotbollförbunds styrning hänger ihop genom demokratisk,
-  strategisk, taktisk, operativ och granskande nivå.
+  strategisk, taktisk, operativ och granskande nivå – med organisationsschemat
+  som visuell karta.
 ---
 
 # Styrarkitektur
 
 Styrarkitekturen visar hur Smålands Fotbollförbund hänger ihop som styrsystem. Den hjälper läsaren att se vilken nivå en fråga hör till och hur nivåerna samspelar.
 
-Den är inte ett [organisationsschema](organisationsschema.md), inte en [ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md) och inte en beskrivning av varje roll. Rollförståelse finns i [ansvar och roller](ansvar-och-roller.md). Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
-
-{% hint style="info" %}
-Styrarkitekturen äger beskrivningen av nivåerna. Om en fråga gäller roll, delegation, dokumenttyp eller konkret ansvar ska läsaren gå vidare till rätt sida.
-{% endhint %}
+Rollförståelse finns i [ansvar och roller](ansvar-och-roller.md). Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 ## Fem nivåer som behöver varandra
 
@@ -22,9 +19,49 @@ Smålands Fotbollförbunds styrning kan förstås genom fem nivåer. De är inte
 
 Styrningen fungerar när nivåerna drar åt samma håll utan att ta över varandras mandat.
 
+## Organisationsschema
+
+Schemat visar hur distriktets delar hänger ihop – vilka relationer rutorna har till varandra, inte bara vilka rutor som finns.
+
+{% hint style="info" %}
+Schemat visar struktur, inte mandat. Om bilden och ett beslutat dokument pekar åt olika håll gäller det beslutade dokumentet enligt [normordningen](../grund-och-varden/normordning.md).
+{% endhint %}
+
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+
+{% columns %}
+{% column %}
+### Ska synas tydligt
+
+Medlemsföreningarnas demokratiska mandat.
+
+Årsmötet som högsta beslutande organ.
+
+Representantskapet som medlemsorgan för tävlingsfrågor.
+
+Distriktsstyrelsen som strategisk ledning.
+
+Distriktschef och kansli som operativ ledning och genomförande.
+{% endcolumn %}
+
+{% column %}
+### Ska hållas isär
+
+Granskande funktioner rapporterar till årsmötet.
+
+Arbetsgrupper rapporterar till distriktsstyrelsen om inte annat beslutats.
+
+Referensgrupper rapporterar till kansliet om inte annat beslutats.
+
+Kommittéer är inte egna styrelser.
+
+Presidiet är inte ett parallellt beslutsorgan.
+{% endcolumn %}
+{% endcolumns %}
+
 ## Främja, utveckla och administrera
 
-Styrmodellen använder tre ord för att beskriva hur de centrala arbetsnivåerna bidrar till helheten. Orden ersätter inte formella uppdrag eller beslutsmandat. De ger ett gemensamt språk för nivåernas bidrag.
+Styrmodellen använder tre ord för att beskriva hur de centrala arbetsnivåerna bidrar till helheten.
 
 | Nivå | Ändamål i stadgarna | Förhållningssätt |
 | --- | --- | --- |
@@ -32,20 +69,14 @@ Styrmodellen använder tre ord för att beskriva hur de centrala arbetsnivåerna
 | **Taktisk nivå** | Utveckla | Lyhörda |
 | **Operativ nivå** | Administrera | Relevanta |
 
-## Ett samband som behöver hållas levande
+## Det samband som behöver hållas levande
 
-I den löpande styrningen är sambandet mellan distriktsstyrelsen, kommittéordförandena och distriktschefen särskilt viktigt. Styrarkitekturen visar sambandet, men de konkreta uppdragen och gränserna beskrivs på respektive sida.
+I den löpande styrningen är sambandet mellan distriktsstyrelsen, kommittéordförandena och distriktschefen särskilt viktigt.
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong><a href="../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md">Distriktsstyrelsen</a></strong><br>Sätter riktning, beslutar ramar och följer upp helheten.</td></tr><tr><td><strong><a href="../kommitteer-och-arbetsgrupper/kommitteer.md">Kommittéerna</a></strong><br>Bidrar med sakkunskap, beredning och utveckling inom sina områden.</td></tr><tr><td><strong><a href="../distriktsstyrelsen-och-ledningen/distriktschef.md">Distriktschefen</a></strong><br>Leder den löpande verksamheten inom beslutade ramar.</td></tr></tbody></table>
 
-## Ansvarskedjan hör hemma i ansvarsmatrisen
-
-Styrarkitekturen visar nivåerna. Den konkreta ansvarskedjan, alltså vem som normalt bereder, beslutar, verkställer, följer upp och granskar olika typer av frågor, finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
-
-Begreppen för ansvarstyperna definieras kort i [begreppslistan](../introduktion/begreppslista.md), och arbetssätten beskrivs under [processer och arbetssätt](../processer-och-arbetssatt/beredning.md).
+Den konkreta ansvarskedjan – vem som normalt bereder, beslutar, verkställer, följer upp och granskar – finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Begreppen för ansvarstyperna definieras i [begreppslistan](../introduktion/begreppslista.md).
 
 ## När gränserna hålls blir arbetet friare
 
-Styrarkitekturen finns för att göra organisationen lättare att arbeta i, inte för att göra den stel.
-
-När en gräns är oklar ska den inte lösas genom vana. Frågan ska prövas mot rätt kärnkälla: [ansvar och roller](ansvar-och-roller.md), [delegation](../distriktsstyrelsen-och-ledningen/delegation.md), [ansvarsmatris](../strategi-och-operativt-uppdrag/ansvarsmatris.md) eller berört dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Styrarkitekturen finns för att göra organisationen lättare att arbeta i, inte för att göra den stel. När en gräns är oklar ska den prövas mot [ansvar och roller](ansvar-och-roller.md), [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).

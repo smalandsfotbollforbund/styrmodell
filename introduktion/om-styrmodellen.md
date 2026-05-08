@@ -38,21 +38,13 @@ Den samlade logiken för skillnaden mellan styrmodellen och dokumentarkivet besk
 
 ## En fråga ska ha en naturlig hemvist
 
-När samma sak skrivs på flera ställen ökar risken för gamla formuleringar, motstridiga tolkningar och otydligt ansvar.
-
-| Fråga | Gå till |
-| --- | --- |
-| Vad väger tyngst vid konflikt? | [Normordningen](../grund-och-varden/normordning.md) |
-| Vilken dokumenttyp ska användas? | [Dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md) |
-| Vad betyder ett begrepp? | [Begreppslistan](begreppslista.md) |
-| Hur hänger nivåerna ihop? | [Styrarkitekturen](../organisationens-struktur/styrarkitektur.md) |
-| Vem ansvarar för vad i en frågetyp? | [Ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) |
+När samma sak skrivs på flera ställen ökar risken för gamla formuleringar, motstridiga tolkningar och otydligt ansvar. Var varje fråga hör hemma beskrivs samlat i [Så läser du styrmodellen](sa-laser-du-styrmodellen.md).
 
 Styrmodellen ska inte ersätta omdöme, dialog eller ledarskap. Den ska ge ramarna så att omdömet används på rätt nivå, i rätt fråga och med rätt ansvar.
 
 ## Grunden kommer från folkrörelsen
 
-Styrmodellens grund beskrivs i [folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md), [värdegrunden](../grund-och-varden/vardegrund.md), [god demokratisk styrning](../grund-och-varden/god-demokratisk-styrning.md) och [normordningen](../grund-och-varden/normordning.md).
+Styrmodellens grund beskrivs i [folkrörelseprincip och demokratisk styrning](../grund-och-varden/folkrorelseprincip.md), [värdegrunden](../grund-och-varden/vardegrund.md) och [normordningen](../grund-och-varden/normordning.md).
 
 Den strategiska riktningen beskrivs i [strategihuset](../strategi-och-operativt-uppdrag/strategihus.md). Föreningarnas formella inflytande beskrivs under [demokratisk styrning](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md).
 
