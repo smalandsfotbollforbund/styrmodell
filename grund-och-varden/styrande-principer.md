@@ -14,6 +14,8 @@ De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../
 Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv används [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md). Om frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 {% endhint %}
 
+### Om struktur och mandat
+
 <details>
 <summary><strong>Rätt fråga ska hamna på rätt nivå</strong></summary>
 
@@ -34,6 +36,8 @@ Det demokratiska mandatet beskrivs i [folkrörelseprincipen](folkrorelseprincip.
 Skillnaden mellan nivåer, roller och uppdrag beskrivs i [styrarkitekturen](../organisationens-struktur/styrarkitektur.md), [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md), [distriktsstyrelse](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md).
 
 </details>
+
+### Om beslutskedjor och ansvar
 
 <details>
 <summary><strong>Beredning är inte beslut</strong></summary>
@@ -62,6 +66,8 @@ Ansvarstyperna definieras i [begreppslistan](../introduktion/begreppslista.md). 
 Återkommande gråzoner ska inte lösas informellt. De ska prövas mot rätt sida i styrmodellen och därefter, vid behov, tydliggöras i uppdrag, arbetsordning, delegation, instruktion, process eller beslut på rätt nivå.
 
 </details>
+
+### Om öppenhet, dokumentation och kontroll
 
 <details>
 <summary><strong>Dokumentation ska räcka för ansvar</strong></summary>

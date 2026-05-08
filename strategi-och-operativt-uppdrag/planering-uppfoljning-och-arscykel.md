@@ -45,22 +45,34 @@ Verksamhet, ekonomi, prioriteringar och avvikelser följs upp och används för 
 {% endstep %}
 {% endstepper %}
 
-## Plan och budget ska dra åt samma håll
+## Tre saker som behöver hänga ihop
+
+{% columns %}
+{% column %}
+### Plan och budget drar åt samma håll
 
 Verksamhetsplanen visar vad distriktet ska göra och varför. Budgeten visar vilka resurser som sätts bakom arbetet.
 
-Om plan och budget pekar åt olika håll behöver styrningen rättas till. En prioritering utan resurser är inte en verklig prioritering, och en budget utan tydlig plan blir svår att följa upp.
+En prioritering utan resurser är inte en verklig prioritering. En budget utan tydlig plan blir svår att följa upp.
+{% endcolumn %}
 
-## Uppföljningen ska in i årstakten
+{% column %}
+### Uppföljning ingår i årstakten
 
-Årscykeln ska göra uppföljningen förutsägbar. Organisationen ska veta när verksamhet, ekonomi, prioriteringar och beslut ska följas upp och till vilken nivå återrapportering ska ske.
+Organisationen ska veta när verksamhet, ekonomi, prioriteringar och beslut ska följas upp och till vilken nivå återrapportering ska ske.
 
-Den närmare principen för vad en återrapportering ska innehålla finns i [uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md). Om uppföljningen visar risker eller brister i kontrollen används [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+Principerna för återrapportering finns i [uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md).
+{% endcolumn %}
 
-## Demokratin behöver också en rytm
+{% column %}
+### Demokratin behöver framförhållning
 
 Årscykeln ska ge plats för årsmöte, representantskap, motioner, valberedning, revision och lekmannarevision.
 
-Det demokratiska arbetet kräver tid för beredning, handlingar, dialog, beslut och granskning. Om allt kommer sent blir föreningarnas inflytande svårare att använda.
+Det demokratiska arbetet kräver tid. Om allt kommer sent blir föreningarnas inflytande svårare att använda.
+{% endcolumn %}
+{% endcolumns %}
 
-En bra årscykel är därför inte bara intern planering. Den är en del av den demokratiska kvaliteten.
+{% hint style="info" %}
+En bra årscykel är inte bara intern planering. Den är en del av den demokratiska kvaliteten — och en förutsättning för att styrningen ska kunna granskas.
+{% endhint %}

@@ -16,39 +16,9 @@ Strategihuset är en styrmodell för strategi. Det är inte en aktivitetslista o
 
 ## Från riktning till genomförande
 
-Strategihuset består av nivåer som svarar på olika frågor. Varje nivå ska göra sitt jobb och länka vidare till rätt sida när mer innehåll behövs.
+Strategihuset består av nivåer som svarar på olika frågor. Varje nivå gör sitt jobb — och bygger på nivån ovanför.
 
-{% stepper %}
-{% step %}
-**Vision**  
-Vart siktar distriktet på lång sikt? Läs mer i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
-{% endstep %}
-
-{% step %}
-**Mission**  
-Varför finns distriktet här och nu? Läs mer i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
-{% endstep %}
-
-{% step %}
-**Verksamhetsidé**  
-Vad är distriktet, för vem finns det och hur verkar det? Läs mer i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md).
-{% endstep %}
-
-{% step %}
-**Strategiska inriktningar**  
-Vilka större förflyttningar behöver distriktet göra över tid? Läs mer i [strategiska inriktningar](strategiska-inriktningar.md).
-{% endstep %}
-
-{% step %}
-**Prioriteringar och mål**  
-Vad ska distriktet samla särskild kraft kring under perioden, och hur följs det upp? Läs mer i [prioriteringar och mål](prioriteringar-och-mal.md).
-{% endstep %}
-
-{% step %}
-**Verksamhetsområden och basuppgifter**  
-Vilket grunduppdrag ska fungera i vardagen? Läs mer i [verksamhetsområden och basuppgifter](verksamhetsomraden-och-basuppgifter.md).
-{% endstep %}
-{% endstepper %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong><a href="vision-mission-och-verksamhetside.md">Vision, mission och verksamhetsidé</a></strong></td><td>Vart siktar distriktet på lång sikt? Varför finns distriktet? Hur verkar det?<br><em>Den långsiktiga riktningen och identiteten.</em></td></tr><tr><td><strong><a href="strategiska-inriktningar.md">Strategiska inriktningar</a></strong></td><td>Vilka större förflyttningar behöver distriktet göra över tid?<br><em>Stadiga riktningar som bär strategin mellan visionen och periodvisa prioriteringar.</em></td></tr><tr><td><strong><a href="prioriteringar-och-mal.md">Prioriteringar och mål</a></strong></td><td>Vad ska distriktet samla särskild kraft kring under perioden?<br><em>Tidsbundna fokus med mål, ansvar, resurser och uppföljning.</em></td></tr><tr><td><strong><a href="verksamhetsomraden-och-basuppgifter.md">Verksamhetsområden och basuppgifter</a></strong></td><td>Vilket grunduppdrag ska fungera i vardagen?<br><em>Det som alltid måste bäras — oavsett strategisk period.</em></td></tr></tbody></table>
 
 ## Allt viktigt kan inte vara prioriterat
 

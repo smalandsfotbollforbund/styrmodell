@@ -51,8 +51,26 @@ Vision, mission och verksamhetsidé ska användas när distriktet gör strategis
 
 De ska också hjälpa kommunikationen att hålla ihop. När vi berättar vad distriktet gör ska det gå att känna igen riktningen: fotboll för alla, starkare föreningsliv och människor som växer genom fotbollen.
 
-## Om en fråga inte passar in
+## Tre prövningsfrågor för vardagen
 
-Om en fråga inte går att koppla till vision, mission eller verksamhetsidé behöver den prövas. Det betyder inte automatiskt att frågan är fel, men det betyder att distriktet behöver förstå varför den ska ta tid, resurser och kraft.
+{% columns %}
+{% column %}
+**Passar det med visionen?**
 
-Riktningen ska inte låsa allt. Men den ska hjälpa organisationen att hålla kursen.
+Stärker detta fotbollens möjlighet för alla — i hela Småland, hela livet?
+{% endcolumn %}
+
+{% column %}
+**Passar det med missionen?**
+
+Stärker detta föreningslivet och människors möjlighet att växa genom fotboll?
+{% endcolumn %}
+
+{% column %}
+**Passar det med verksamhetsidén?**
+
+Är det ett nav för stöd, samverkan och utveckling — eller är det något annat?
+{% endcolumn %}
+{% endcolumns %}
+
+Om ett initiativ inte passar in i någon av dessa behöver distriktet förstå varför det ändå ska ta tid, resurser och kraft. Riktningen ska inte låsa allt — men den ska hjälpa organisationen att hålla kursen.

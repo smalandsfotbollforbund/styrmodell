@@ -40,8 +40,6 @@ Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor 
 
 Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning. Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande-funktioner/valberedning.md).
 
-## Ett årsmöte kräver begriplighet
+## Begriplighet är en del av demokratin
 
-För att föreningarna ska kunna ta ansvar behöver beslutsunderlag, handlingar och förslag vara möjliga att förstå. Det gäller särskilt frågor som påverkar ekonomi, stadgar, ansvar, organisation eller långsiktig riktning.
-
-Det behöver inte vara krångligt. Men det måste vara tillräckligt tydligt för att föreningarna ska kunna veta vad de beslutar om, varför frågan ligger på årsmötet och vad beslutet får för följder.
+För att föreningarna ska kunna ta ansvar behöver beslutsunderlag och förslag vara möjliga att förstå. Hur det stärker distriktets demokratiska legitimitet beskrivs i [demokratisk legitimitet och medlemsinflytande](demokratisk-legitimitet-och-medlemsinflytande.md).
