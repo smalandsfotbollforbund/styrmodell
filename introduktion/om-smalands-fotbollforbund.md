@@ -56,33 +56,9 @@ Förutsättningarna varierar mellan större orter, mindre samhällen, landsbygd,
 
 ## Självständigt inom ett större system
 
-Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll. Distriktet har egna stadgar, egna demokratiska organ och eget ansvar för den småländska fotbollen.
+Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll. Distriktet har egna stadgar, egna demokratiska organ och eget ansvar för den småländska fotbollen — men verkar alltid inom ramar som följer av Riksidrottsförbundet, Svenska Fotbollförbundet och de beslut som fattas på nationell och rörelsegemensam nivå.
 
-Samtidigt verkar distriktet inom ramar som följer av Riksidrottsförbundet, Svenska Fotbollförbundet, stadgar, tävlingsregler och andra överordnade beslut.
-
-{% columns %}
-{% column %}
-### Eget ansvar
-
-Distriktet beslutar och leder inom sitt mandat.
-
-Föreningarna ger distriktet demokratisk legitimitet.
-
-Distriktsstyrelsen leder mellan de demokratiska mötena.
-{% endcolumn %}
-
-{% column %}
-### Gemensamma ramar
-
-Distriktet verkar inom svensk idrott och svensk fotboll.
-
-Svenska Fotbollförbundet sätter viktiga ramar för SDF-uppdraget.
-
-RF-SISU Småland är en viktig regional samverkanspart, men inte en överordnad fotbollsorganisation.
-{% endcolumn %}
-{% endcolumns %}
-
-Relationerna till Riksidrottsförbundet, Svenska Fotbollförbundet och RF-SISU Småland beskrivs i [förhållande i idrottens ekosystem](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
+Hur relationerna till RF, SvFF, RF-SISU Småland och övriga fotbollsdistrikt ser ut och görs praktiska beskrivs i [förhållande i idrottens ekosystem](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
 
 ## Riktningen ska gå att känna igen
 

@@ -97,6 +97,8 @@ Motstridiga texter skapar osäkerhet. Därför ska styrmodellen bygga på rätt 
 
 När distriktet väljer väg i en demokratisk fråga är en enkel fråga ofta användbar:
 
+{% hint style="success" %}
 **Stärker detta föreningarnas möjlighet att förstå, delta och påverka?**
 
 Om svaret är nej behöver arbetssättet, informationen eller beslutsvägen prövas igen. Inte för att göra allt större, utan för att hålla demokratin nära där den hör hemma.
+{% endhint %}

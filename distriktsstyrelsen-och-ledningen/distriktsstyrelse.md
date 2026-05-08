@@ -28,9 +28,35 @@ Det skyddar både helheten och de personer som bär uppdraget.
 
 ## Det strategiska ansvaret har gränser
 
-Distriktsstyrelsen ska hålla riktning, ramar och uppföljning tydliga. Den ska inte ta över kansliets dagliga arbetsledning, avgöra frågor som hör till årsmöte eller representantskap, skapa muntliga mandat som inte går att följa eller bli ett parallellt presidium.
+Distriktsstyrelsen ska hålla riktning, ramar och uppföljning tydliga. Några vanliga gränser som behöver hållas:
 
-Presidiets roll beskrivs i [presidium](presidium.md), distriktschefens roll i [distriktschef](distriktschef.md), kansliets roll i [kansli](kansli.md) och kommittéernas roll i [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md).
+<details>
+<summary><strong>Ta inte över den operativa arbetsledningen</strong></summary>
+
+Kansliets dagliga ledning är [distriktschefens](distriktschef.md) ansvar. Styrelsen styr genom uppdrag, ramar och uppföljning — inte genom direkta instruktioner till kanslipersonal.
+
+</details>
+
+<details>
+<summary><strong>Avgör inte demokratiska frågor ensam</strong></summary>
+
+Frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md) eller [representantskapet](../demokratisk-styrning/representantskap.md) ska inte lösas i styrelserummet, oavsett om det går snabbare.
+
+</details>
+
+<details>
+<summary><strong>Skapa inte informella mandat</strong></summary>
+
+Muntliga eller informella uppdrag som inte protokollförts eller delegerats formellt är inte giltiga mandat — vare sig det gäller [presidiet](presidium.md), [distriktschefen](distriktschef.md) eller andra.
+
+</details>
+
+<details>
+<summary><strong>Håll styrning och sakarbete isär</strong></summary>
+
+[Kommittéerna](../kommitteer-och-arbetsgrupper/kommitteer.md) bidrar med sakkunskap inom sina områden. Styrelsen beslutar ramar och uppdrag — men ska inte bli en parallell kommitté.
+
+</details>
 
 ## Arbetsordningen gör styrelsearbetet praktiskt
 
