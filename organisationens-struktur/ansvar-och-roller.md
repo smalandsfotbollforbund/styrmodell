@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-ansvar-och-roller.svg
 description: >-
   Hur roller, uppdrag och ansvar ska hållas isär när samma organisation rymmer
   medlemsföreningar, förtroendevalda, anställda och granskande funktioner.

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-distriktschef.svg
 description: >-
   Distriktschefens roll som anställd verksamhetsledare med ansvar att leda den
   löpande verksamheten inom distriktsstyrelsens ramar.

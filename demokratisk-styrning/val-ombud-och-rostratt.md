@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-val-ombud.svg
 description: >-
   Hur föreningarnas rösträtt, ombud och val skapar formellt inflytande och
   demokratisk legitimitet i distriktet.

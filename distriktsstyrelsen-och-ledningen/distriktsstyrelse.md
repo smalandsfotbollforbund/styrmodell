@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-distriktsstyrelse.svg
 description: >-
   Distriktsstyrelsens strategiska ansvar mellan de demokratiska mötena och hur
   styrelsen leder utan att ta över det operativa arbetet.

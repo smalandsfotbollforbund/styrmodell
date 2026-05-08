@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-arbetsgrupper.svg
 description: >-
   Hur arbetsgrupper kan användas för avgränsade uppdrag utan att skapa nya
   informella beslutsvägar.

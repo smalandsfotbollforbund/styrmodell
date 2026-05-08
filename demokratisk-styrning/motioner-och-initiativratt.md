@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-motioner.svg
 description: >-
   Hur motioner och initiativrätt ger föreningarna en formell väg att väcka
   frågor till demokratisk prövning.

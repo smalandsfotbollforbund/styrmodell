@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-moteshantering.svg
 description: >-
   Hur möten planeras och genomförs så att rätt mötestyp, rätt mandat och rätt
   nästa steg blir tydliga.

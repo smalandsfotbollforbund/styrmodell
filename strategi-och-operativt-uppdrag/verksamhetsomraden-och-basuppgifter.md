@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-basuppgifter.svg
 description: >-
   Hur distriktets grunduppdrag, verksamhetsområden och basuppgifter hänger ihop
   med strategi, resurser och föreningarnas behov.

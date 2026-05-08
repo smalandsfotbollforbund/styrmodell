@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-vardegrund.svg
 description: >-
   Idrottens och fotbollens värdegrund och hur den ska märkas i distriktets
   beslut, bemötande och vardag.

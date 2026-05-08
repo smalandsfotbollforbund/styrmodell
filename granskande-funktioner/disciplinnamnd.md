@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-disciplinnamnd.svg
 description: >-
   Disciplinnämndens självständiga och rättssäkra prövning av disciplinära ärenden
   inom sitt mandat.

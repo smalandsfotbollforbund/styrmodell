@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="r1" cx="5%" cy="5%" r="60%">
+      <stop offset="0%" stop-color="#A91C1C" stop-opacity="0.30"/>
+      <stop offset="55%" stop-color="#A91C1C" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#A91C1C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g1" cx="95%" cy="95%" r="35%">
+      <stop offset="0%" stop-color="#2F5731" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#2F5731" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#E2DBD0"/>
+  <rect width="1200" height="630" fill="url(#r1)"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect x="50" y="35" width="1100" height="560" fill="none" stroke="#A91C1C" stroke-width="1.5" opacity="0.15"/>
+  <rect x="88" y="63" width="1024" height="504" fill="none" stroke="#333333" stroke-width="0.6" opacity="0.10"/>
+  <rect x="330" y="210" width="160" height="210" rx="3" fill="none" stroke="#333333" stroke-width="1.5" opacity="0.5"/>
+  <rect x="520" y="210" width="160" height="210" rx="3" fill="none" stroke="#A91C1C" stroke-width="2" opacity="0.7"/>
+  <rect x="710" y="210" width="160" height="210" rx="3" fill="none" stroke="#333333" stroke-width="1.5" opacity="0.5"/>
+  <line x1="350" y1="240" x2="470" y2="240" stroke="#333333" stroke-width="1" opacity="0.3"/>
+  <line x1="350" y1="256" x2="440" y2="256" stroke="#333333" stroke-width="1" opacity="0.25"/>
+  <line x1="540" y1="240" x2="660" y2="240" stroke="#A91C1C" stroke-width="1.2" opacity="0.55"/>
+  <line x1="540" y1="256" x2="620" y2="256" stroke="#A91C1C" stroke-width="1" opacity="0.4"/>
+  <line x1="730" y1="240" x2="850" y2="240" stroke="#333333" stroke-width="1" opacity="0.3"/>
+  <line x1="730" y1="256" x2="810" y2="256" stroke="#333333" stroke-width="1" opacity="0.25"/>
+  <polyline points="545,360 565,385 615,330" fill="none" stroke="#A91C1C" stroke-width="2.5" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="330" y="440" width="540" height="2" fill="#333333" opacity="0.15"/>
+  <line x1="430" y1="420" x2="430" y2="442" stroke="#333333" stroke-width="1" opacity="0.2"/>
+  <line x1="600" y1="420" x2="600" y2="442" stroke="#333333" stroke-width="1" opacity="0.2"/>
+  <line x1="770" y1="420" x2="770" y2="442" stroke="#333333" stroke-width="1" opacity="0.2"/>
+</svg>

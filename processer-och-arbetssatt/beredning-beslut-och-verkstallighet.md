@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-beredning.svg
 description: >-
   Hur frågor bereds, beslut fattas på rätt nivå och genomförandet håller sig
   inom beslutade ramar – tre delar av samma ansvarskedja.

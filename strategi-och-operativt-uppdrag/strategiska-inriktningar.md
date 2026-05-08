@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-inriktningar.svg
 description: >-
   De större förflyttningar som ska ge distriktet riktning över tid och bära
   strategin mellan visionen och de periodvisa prioriteringarna.

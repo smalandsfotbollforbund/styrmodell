@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-hedersordforande.svg
 description: >-
   Hur hedersordförande och hedersledamot hedrar betydelsefulla insatser utan att
   skapa otydliga beslutsmandat.

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-folkrorelseprincip.svg
 description: >-
   Distriktet är en del av idrottsrörelsen och vilar på folkrörelsens grunder
   för demokratisk styrning, föreningsliv och gemensamt ansvar.

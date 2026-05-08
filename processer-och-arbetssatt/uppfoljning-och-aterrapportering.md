@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-uppfoljning.svg
 description: >-
   Hur verksamhet, ekonomi, beslut och ansvar följs upp och återrapporteras så att
   rätt nivå kan ta ansvar och organisationen kan lära.

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-ansvarsmatris.svg
 description: >-
   Ett praktiskt stöd för att se vem som normalt bereder, beslutar, verkställer,
   följer upp och granskar olika typer av frågor.

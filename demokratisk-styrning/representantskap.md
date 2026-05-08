@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-representantskap.svg
 description: >-
   Representantskapet som föreningarnas avgränsade medlemsorgan för
   tävlingsfrågor mellan årsmötena.

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-arsmote.svg
 description: >-
   Årsmötets roll som föreningarnas högsta beslutspunkt och den demokratiska
   grund som distriktets övriga mandat vilar på.

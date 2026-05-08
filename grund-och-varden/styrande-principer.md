@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-styrande-principer.svg
 description: >-
   Principerna som hjälper distriktet att tolka ansvar, mandat, beslut och
   arbetssätt när styrningen behöver bli tydlig i praktiken.

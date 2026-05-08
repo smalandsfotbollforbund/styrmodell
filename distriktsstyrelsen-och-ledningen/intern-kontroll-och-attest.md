@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/cover-intern-kontroll.svg
 description: >-
   Hur distriktet ska arbeta med intern kontroll, risk, attest och uppföljning så
   att ansvar och förtroende håller i vardagen.
