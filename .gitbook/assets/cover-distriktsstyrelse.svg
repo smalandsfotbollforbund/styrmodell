@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d2137"/>
+  <defs>
+    <radialGradient id="rg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1a5276" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0d2137" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#rg)"/>
+  <polygon points="600,160 760,315 600,470 440,315" fill="none" stroke="#f0a500" stroke-width="2" opacity="0.6"/>
+  <polygon points="600,100 860,315 600,530 340,315" fill="none" stroke="#1a5276" stroke-width="1.5" opacity="0.45"/>
+  <polygon points="600,55 950,315 600,575 250,315" fill="none" stroke="#1a5276" stroke-width="1" opacity="0.25"/>
+  <line x1="600" y1="160" x2="600" y2="55" stroke="#1a5276" stroke-width="0.8" opacity="0.2"/>
+  <line x1="760" y1="315" x2="950" y2="315" stroke="#1a5276" stroke-width="0.8" opacity="0.2"/>
+  <line x1="600" y1="470" x2="600" y2="575" stroke="#1a5276" stroke-width="0.8" opacity="0.2"/>
+  <line x1="440" y1="315" x2="250" y2="315" stroke="#1a5276" stroke-width="0.8" opacity="0.2"/>
+  <circle cx="600" cy="160" r="10" fill="#f0a500" opacity="0.7"/>
+  <circle cx="760" cy="315" r="10" fill="#f0a500" opacity="0.7"/>
+  <circle cx="600" cy="470" r="10" fill="#f0a500" opacity="0.7"/>
+  <circle cx="440" cy="315" r="10" fill="#f0a500" opacity="0.7"/>
+  <circle cx="600" cy="315" r="22" fill="#f0a500" opacity="0.8"/>
+  <circle cx="600" cy="315" r="10" fill="#0d2137"/>
+  <circle cx="600" cy="315" r="4" fill="#f0a500" opacity="0.9"/>
+</svg>
