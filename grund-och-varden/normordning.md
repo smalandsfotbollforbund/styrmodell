@@ -56,7 +56,7 @@ Processbeskrivningar, rutiner, mallar, checklistor, bilagor och annat stödmater
 Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. Vissa dokument hjälper distriktet att tolka, utveckla och förbättra styrningen, utan att vara en egen normnivå.
 
 {% hint style="info" %}
-Riksidrottsförbundets [rekommendation för god demokratisk styrning](god-demokratisk-styrning.md) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning.
+Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#rekommendation-for-god-demokratisk-styrning-av-idrottsforbund) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning. Mer om hur folkrörelseprincipen görs praktisk finns i [folkrörelseprincip och demokratisk styrning](folkrorelseprincip.md).
 {% endhint %}
 
 ### Folkrörelsen är grunden under ordningen

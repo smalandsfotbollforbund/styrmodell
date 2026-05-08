@@ -62,7 +62,7 @@ Beslut som fattas genom skriftligt förfarande, digital omröstning eller motsva
 
 Det ska gå att följa vilka som deltagit, vad som beslutats, när beslutet fattades och hur beslutet förs in i den ordinarie dokumentationen.
 
-Skriftliga beslut kan vara praktiska, men ska vara undantag. De får inte bli ett sätt att kringgå [beredning](beredning.md), samtal eller rätt beslutsnivå.
+Skriftliga beslut kan vara praktiska, men ska vara undantag. De får inte bli ett sätt att kringgå beredning, samtal eller rätt beslutsnivå – mer om det i [beredning, beslut och verkställighet](beredning-beslut-och-verkstallighet.md).
 
 ## Integritet är också en del av god dokumentation
 
