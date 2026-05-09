@@ -38,7 +38,7 @@ Styrmodellen beskriver nivåer, roller, samband och arbetssätt. Den ska inte er
 
 När läsaren behöver ett beslutat dokument, en arbetsordning, en delegationsordning eller en processbeskrivning ska frågan gå vidare till [dokumentarkivet](https://styrning.smaland.football/dokument). Skillnaden mellan styrmodell och dokumentarkiv beskrivs i [dokumentarkitekturen](styrande-dokument/dokumentarkitektur.md).
 
-När samma sak skrivs på flera ställen ökar risken för gamla formuleringar och motstridiga tolkningar. Var varje fråga hör hemma och hur du navigerar modellen beskrivs i [Så läser du styrmodellen](introduktion/sa-laser-du-styrmodellen.md).
+När samma sak skrivs på flera ställen ökar risken för gamla formuleringar och motstridiga tolkningar. Varje sida har ett eget uppdrag — läs inte in mer än sidan säger, och gå tillbaka till rätt kärnkälla när något är oklart.
 
 ## Grunden och riktningen
 
@@ -46,7 +46,7 @@ Styrmodellens grund beskrivs i [folkrörelseprincip och demokratisk styrning](gr
 
 ## Börja i rätt ände
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong><a href="introduktion/om-smalands-fotbollforbund.md">Lär känna distriktet</a></strong><br>Vad Smålands Fotbollförbund är, hur det är uppbyggt och vilken roll det spelar.</td><td><a href=".gitbook/assets/cover-om-smff.svg">cover-om-smff.svg</a></td></tr><tr><td><strong><a href="introduktion/sa-laser-du-styrmodellen.md">Hitta rätt väg</a></strong><br>Vilken sida du börjar med beroende på roll, uppdrag eller fråga.</td><td><a href=".gitbook/assets/cover-sa-laser.svg">cover-sa-laser.svg</a></td></tr><tr><td><strong><a href="styrande-dokument/dokumentarkitektur.md">Förstå dokumentarkivet</a></strong><br>Hur styrmodellen och dokumenten hänger ihop utan att samma sak beskrivs på flera platser.</td><td><a href=".gitbook/assets/cover-dokumentarkitektur.svg">cover-dokumentarkitektur.svg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong><a href="introduktion/om-smalands-fotbollforbund.md">Lär känna distriktet</a></strong><br>Vad Smålands Fotbollförbund är, hur det är uppbyggt och vilken roll det spelar.</td><td><a href=".gitbook/assets/cover-om-smff.svg">cover-om-smff.svg</a></td></tr><tr><td><strong><a href="styrande-dokument/dokumentarkitektur.md">Förstå dokumentarkivet</a></strong><br>Hur styrmodellen och dokumenten hänger ihop utan att samma sak beskrivs på flera platser.</td><td><a href=".gitbook/assets/cover-dokumentarkitektur.svg">cover-dokumentarkitektur.svg</a></td></tr></tbody></table>
 
 ## När du behöver en kärnkälla
 
