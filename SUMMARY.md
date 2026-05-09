@@ -1,15 +1,12 @@
 # Table of contents
 
 * [VÅR STYRMODELL](README.md)
-
-## Introduktion
-
-* [Om Smålands Fotbollförbund](introduktion/om-smalands-fotbollforbund.md)
-* [Begreppslista](introduktion/begreppslista.md)
+  * [Om Smålands Fotbollförbund](readme/om-smalands-fotbollforbund.md)
+  * [Begreppslista](readme/begreppslista.md)
 
 ## Grund och värden
 
-* [Folkrörelseprincip och demokratisk styrning](grund-och-varden/folkrorelseprincip.md)
+* [Folkrörelse](grund-och-varden/folkrorelse.md)
 * [Värdegrund](grund-och-varden/vardegrund.md)
 * [Normordning](grund-och-varden/normordning.md)
 * [Styrande principer](grund-och-varden/styrande-principer.md)

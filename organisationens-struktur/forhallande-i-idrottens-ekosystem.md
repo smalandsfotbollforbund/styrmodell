@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-ekosystem.svg
 description: >-
   Hur distriktet verkar som del av svensk idrott, svensk fotboll och den
   regionala idrottsrörelsen i Småland.
+cover: ../.gitbook/assets/cover-ekosystem.svg
+coverY: 0
 ---
 
 # Förhållande i idrottens ekosystem
@@ -21,7 +22,7 @@ Det är lätt att blanda ihop nivåerna i idrottens organisation. Därför behö
 
 Riksidrottsförbundet samlar den svenska idrottsrörelsen. RF:s stadgar, idrottens värdegrund och idrottens gemensamma beslut påverkar därför också Smålands Fotbollförbund.
 
-För distriktet märks detta särskilt i frågor som rör [folkrörelseprincipen](../grund-och-varden/folkrorelseprincip.md), [värdegrunden](../grund-och-varden/vardegrund.md), god demokratisk styrning, barnrätt, föreningsdemokrati och idrottens gemensamma förhållningssätt.
+För distriktet märks detta särskilt i frågor som rör [folkrörelseprincipen](../grund-och-varden/folkrorelse.md), [värdegrunden](../grund-och-varden/vardegrund.md), god demokratisk styrning, barnrätt, föreningsdemokrati och idrottens gemensamma förhållningssätt.
 
 RF är däremot inte den organisation som leder distriktets löpande fotbollsverksamhet. Den relationen går genom Svenska Fotbollförbundet och distriktets egna demokratiska organ.
 
@@ -49,7 +50,7 @@ Smålands Fotbollförbund behöver hålla två saker samtidigt.
 
 {% columns %}
 {% column %}
-#### <i class="fa-hand-point-up">:hand-point-up:</i> Det egna ansvaret
+<i class="fa-hand-point-up">:hand-point-up:</i> **Det egna ansvaret**
 
 Distriktet har egna stadgar, egna demokratiska organ, egen distriktsstyrelse, egna beslut och eget ansvar för den småländska fotbollen.
 
@@ -57,7 +58,7 @@ Det betyder att distriktet ska företräda föreningarna i Småland, fatta beslu
 {% endcolumn %}
 
 {% column %}
-#### <i class="fa-people-roof">:people-roof:</i> De gemensamma ramarna
+<i class="fa-people-roof">:people-roof:</i> **De gemensamma ramarna**
 
 Distriktet verkar inom svensk idrott och svensk fotboll. RF:s och Svenska Fotbollförbundets stadgar, beslut och regelverk sätter ramar som distriktet behöver följa.
 

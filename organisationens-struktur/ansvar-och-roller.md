@@ -77,4 +77,4 @@ Om frågan gäller ansvarskedjan, alltså vem som bereder, beslutar, verkställe
 
 Många gråzoner uppstår för att människor försöker hjälpa till. Det är bra. Men om gråzonen återkommer ska den inte vänjas in.
 
-Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../introduktion/begreppslista.md) för orden, [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.
+Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../readme/begreppslista.md) för orden, [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.

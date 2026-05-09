@@ -77,7 +77,7 @@ I den löpande styrningen är sambandet mellan distriktsstyrelsen, kommittéordf
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md"><strong>Distriktsstyrelsen</strong></a><br>Sätter riktning, beslutar ramar och följer upp helheten.</td></tr><tr><td><a href="../kommitteer-och-arbetsgrupper/kommitteer.md"><strong>Kommittéerna</strong></a><br>Bidrar med sakkunskap, beredning och utveckling inom sina områden.</td></tr><tr><td><a href="../distriktsstyrelsen-och-ledningen/distriktschef.md"><strong>Distriktschefen</strong></a><br>Leder den löpande verksamheten inom beslutade ramar.</td></tr></tbody></table>
 
-Den konkreta ansvarskedjan – vem som normalt bereder, beslutar, verkställer, följer upp och granskar – finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Begreppen för ansvarstyperna definieras i [begreppslistan](../introduktion/begreppslista.md).
+Den konkreta ansvarskedjan – vem som normalt bereder, beslutar, verkställer, följer upp och granskar – finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Begreppen för ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md).
 
 ## När gränserna hålls blir arbetet friare
 
