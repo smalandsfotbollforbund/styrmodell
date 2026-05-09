@@ -25,6 +25,8 @@ layout:
 
 Den ska ge ordning utan att göra arbetet krångligare än det behöver vara: stadig nog att hålla över tid och tydlig nog att användas i vardagen. Den publiceras öppet för att skapa transparens gentemot föreningar och andra intressenter, men är i första hand ett internt styr- och arbetsstöd.
 
+**Styrmodellen fungerar som en karta, inte en handbok.** Börja där frågan hör hemma och gå vidare via länkarna. Om något väger tyngre än annat: gå till [normordningen](grund-och-varden/normordning.md). Om du behöver ett konkret dokument: gå till [dokumentarkivet](https://styrning.smaland.football/dokument).
+
 {% hint style="info" %}
 **Introduktionsfilm kommer här**\
 Här lägger vi in filmen där styrmodellen presenteras. Filmen bör kort berätta varför modellen finns, hur den ska användas och hur den hänger ihop med dokumentarkivet.

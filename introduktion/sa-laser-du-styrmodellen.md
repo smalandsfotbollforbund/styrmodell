@@ -24,11 +24,6 @@ Läs [om Smålands Fotbollförbund](om-smalands-fotbollforbund.md).
 {% endstep %}
 
 {% step %}
-**Förstå modellen**  
-Läs [om styrmodellen](om-styrmodellen.md).
-{% endstep %}
-
-{% step %}
 **Förstå orden**  
 Använd [begreppslistan](begreppslista.md) när ord eller förkortningar behöver förklaras.
 {% endstep %}
@@ -53,7 +48,6 @@ Läs den sida som gäller den roll, funktion eller fråga du arbetar med.
 | Fråga | Gå till |
 | --- | --- |
 | Vad är distriktets grund och uppdrag? | [Om Smålands Fotbollförbund](om-smalands-fotbollforbund.md) |
-| Hur fungerar styrmodellen? | [Om styrmodellen](om-styrmodellen.md) |
 | Vad betyder ett begrepp? | [Begreppslista](begreppslista.md) |
 | Vad väger tyngst vid konflikt? | [Normordning](../grund-och-varden/normordning.md) |
 | Hur hänger organisationen ihop? | [Styrarkitektur](../organisationens-struktur/styrarkitektur.md) |
