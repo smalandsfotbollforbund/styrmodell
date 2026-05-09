@@ -5,7 +5,6 @@
 ## Introduktion
 
 * [Om Smålands Fotbollförbund](introduktion/om-smalands-fotbollforbund.md)
-* [Om styrmodellen](introduktion/om-styrmodellen.md)
 * [Så läser du styrmodellen](introduktion/sa-laser-du-styrmodellen.md)
 * [Begreppslista](introduktion/begreppslista.md)
 
