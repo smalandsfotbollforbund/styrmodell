@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-arbetsgrupper.svg
 description: >-
   Hur arbetsgrupper kan användas för avgränsade uppdrag under kommittéerna
   utan att skapa nya informella beslutsvägar.
+cover: ../.gitbook/assets/cover-arbetsgrupper.svg
+coverY: 0
 ---
 
 # Arbetsgrupper
@@ -53,13 +54,13 @@ Det viktiga är att gruppens arbete kommer tillbaka till rätt nivå. Annars ris
 
 {% columns %}
 {% column %}
-### Kommitté
+#### Kommitté
 
 En [kommitté](kommitteer.md) är ett varaktigt organ under distriktsstyrelsen med ansvar inom ett sakområde. Arbetsgruppen arbetar för kommittén, inte parallellt med den.
 {% endcolumn %}
 
 {% column %}
-### Arbetsutskott
+#### Arbetsutskott
 
 Ett [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md) tillsätts av distriktsstyrelsen för strategiska eller tvärfunktionella uppdrag utanför kommittéstrukturen. Det rapporterar till styrelsen, inte till en kommitté, och kan ha en längre tidshorisont.
 {% endcolumn %}
@@ -67,7 +68,7 @@ Ett [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md) tills�
 
 {% columns %}
 {% column %}
-### Referensgrupp
+#### Referensgrupp
 
 En [referensgrupp](referensgrupper.md) ger råd, perspektiv och erfarenhet. Om gruppen förväntas ta fram, driva eller genomföra något är den snarare en arbetsgrupp än en referensgrupp.
 {% endcolumn %}
@@ -78,6 +79,7 @@ En [referensgrupp](referensgrupper.md) ger råd, perspektiv och erfarenhet. Om g
 Att få ett uppdrag är inte samma sak som att få beslutanderätt.
 
 <details>
+
 <summary><strong>Om arbetsgruppen ska bereda</strong></summary>
 
 Då tar gruppen fram underlag, förslag eller vägval. Beslutet fattas av kommittén eller annat behörigt organ.
@@ -85,6 +87,7 @@ Då tar gruppen fram underlag, förslag eller vägval. Beslutet fattas av kommit
 </details>
 
 <details>
+
 <summary><strong>Om arbetsgruppen ska genomföra</strong></summary>
 
 Då behöver uppdrag, resurser, ansvarig funktion och återrapportering till kommittén vara tydliga.
@@ -92,6 +95,7 @@ Då behöver uppdrag, resurser, ansvarig funktion och återrapportering till kom
 </details>
 
 <details>
+
 <summary><strong>Om arbetsgruppen ska besluta</strong></summary>
 
 Då krävs uttrycklig [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller ett särskilt beslut som anger mandat, omfattning, dokumentation och återrapportering.

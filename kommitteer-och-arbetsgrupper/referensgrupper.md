@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-referensgrupper.svg
 description: >-
   Hur referensgrupper kan ge råd, perspektiv och erfarenhet utan att ändra
   beslutsordningen.
+cover: ../.gitbook/assets/cover-referensgrupper.svg
+coverY: 0
 ---
 
 # Referensgrupper
@@ -33,22 +34,22 @@ En referensgrupp bör ha ett enkelt och tydligt uppdrag.
 
 {% stepper %}
 {% step %}
-**Vilken fråga gäller det?**  
+**Vilken fråga gäller det?**\
 Gruppen ska veta vilket område eller vilken fråga den ska bidra till.
 {% endstep %}
 
 {% step %}
-**Vem tar emot inspelen?**  
+**Vem tar emot inspelen?**\
 Det ska vara tydligt om gruppen stödjer kansliet, distriktschef, kommitté, distriktsstyrelse eller annan funktion.
 {% endstep %}
 
 {% step %}
-**Hur länge ska gruppen finnas?**  
+**Hur länge ska gruppen finnas?**\
 Referensgrupper bör normalt vara tids- eller uppdragsavgränsade.
 {% endstep %}
 
 {% step %}
-**Hur sker återkoppling?**  
+**Hur sker återkoppling?**\
 Deltagarna bör veta hur deras inspel tas vidare och om, eller när, de får återkoppling.
 {% endstep %}
 {% endstepper %}
@@ -67,7 +68,7 @@ En referensgrupp ger råd, erfarenhet och perspektiv.
 
 {% columns %}
 {% column %}
-### Referensgrupp
+#### Referensgrupp
 
 Lyssnar in, ger råd och breddar förståelsen.
 
@@ -75,7 +76,7 @@ Har inte ansvar för genomförande.
 {% endcolumn %}
 
 {% column %}
-### Arbetsgrupp
+#### Arbetsgrupp
 
 Arbetar fram, bereder eller genomför ett avgränsat uppdrag.
 
@@ -86,6 +87,7 @@ Kan få tydlig leverans och tidsplan.
 ## När referensgruppen börjar glida
 
 <details>
+
 <summary><strong>Om gruppen börjar ta fram färdiga förslag</strong></summary>
 
 Då bör det prövas om gruppen egentligen fungerar som arbetsgrupp eller beredande funktion.
@@ -93,6 +95,7 @@ Då bör det prövas om gruppen egentligen fungerar som arbetsgrupp eller bereda
 </details>
 
 <details>
+
 <summary><strong>Om gruppen börjar uppfattas som beslutande</strong></summary>
 
 Då behöver mandatet förklaras tydligare. Referensgruppen ger inspel, men beslutar inte.
@@ -100,6 +103,7 @@ Då behöver mandatet förklaras tydligare. Referensgruppen ger inspel, men besl
 </details>
 
 <details>
+
 <summary><strong>Om gruppen blir permanent utan tydligt uppdrag</strong></summary>
 
 Då riskerar den att bli en informell struktur vid sidan av styrmodellen. Uppdraget bör avslutas, förnyas eller flyttas till rätt form.

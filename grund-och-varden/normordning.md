@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-normordning.svg
 description: >-
   Vilka regler, beslut och dokument som väger tyngst när något behöver tolkas
   eller när styrningen pekar åt olika håll.
+cover: ../.gitbook/assets/cover-normordning.svg
+coverY: 0
 ---
 
 # Normordning
@@ -57,12 +58,12 @@ Processbeskrivningar, rutiner, mallar, checklistor, bilagor och annat stödmater
 Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. Vissa dokument hjälper distriktet att tolka, utveckla och förbättra styrningen, utan att vara en egen normnivå.
 
 {% hint style="info" %}
-Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#rekommendation-for-god-demokratisk-styrning-av-idrottsforbund) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning. Mer om hur folkrörelseprincipen görs praktisk finns i [folkrörelseprincip och demokratisk styrning](folkrorelseprincip.md).
+Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#rekommendation-for-god-demokratisk-styrning-av-idrottsforbund) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning. Mer om hur folkrörelseprincipen görs praktisk finns i [folkrörelseprincip och demokratisk styrning](folkrorelse.md).
 {% endhint %}
 
 ### Folkrörelsen är grunden under ordningen
 
-[Folkrörelseprincipen](folkrorelseprincip.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
+[Folkrörelseprincipen](folkrorelse.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
 
 ## När något skaver
 

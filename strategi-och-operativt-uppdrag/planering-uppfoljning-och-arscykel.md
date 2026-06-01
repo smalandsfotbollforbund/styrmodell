@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-arscykel.svg
 description: >-
   Hur distriktets årscykel skapar rytm för planering, budget, genomförande,
   uppföljning, lärande och demokratisk återrapportering.
+cover: ../.gitbook/assets/cover-arscykel.svg
+coverY: 0
 ---
 
 # Planering, uppföljning och årscykel
@@ -21,27 +22,27 @@ Den här sidan beskriver principerna för årscykeln. Datum, mallar, mötesplane
 
 {% stepper %}
 {% step %}
-**Riktning och ramar**  
+**Riktning och ramar**\
 Distriktsstyrelsen håller ihop strategi, ekonomiska ramar och uppdrag inför kommande planering.
 {% endstep %}
 
 {% step %}
-**Planering och budget**  
+**Planering och budget**\
 Verksamhetsplan och budget kopplas till prioriteringar, basuppgifter, ansvar och resurser.
 {% endstep %}
 
 {% step %}
-**Genomförande**  
+**Genomförande**\
 Distriktschef, kansli, kommittéer och andra berörda genomför arbetet inom beslutade ramar.
 {% endstep %}
 
 {% step %}
-**Uppföljning och lärande**  
+**Uppföljning och lärande**\
 Verksamhet, ekonomi, prioriteringar och avvikelser följs upp och används för nästa planering.
 {% endstep %}
 
 {% step %}
-**Demokratisk återrapportering**  
+**Demokratisk återrapportering**\
 Årsmöte, representantskap, revision, lekmannarevision och valberedning får den tid och ordning som krävs.
 {% endstep %}
 {% endstepper %}
@@ -50,7 +51,7 @@ Verksamhet, ekonomi, prioriteringar och avvikelser följs upp och används för 
 
 {% columns %}
 {% column %}
-### Plan och budget drar åt samma håll
+#### Plan och budget drar åt samma håll
 
 Verksamhetsplanen visar vad distriktet ska göra och varför. Budgeten visar vilka resurser som sätts bakom arbetet.
 
@@ -58,7 +59,7 @@ En prioritering utan resurser är inte en verklig prioritering. En budget utan t
 {% endcolumn %}
 
 {% column %}
-### Uppföljning ingår i årstakten
+#### Uppföljning ingår i årstakten
 
 Organisationen ska veta när verksamhet, ekonomi, prioriteringar och beslut ska följas upp och till vilken nivå återrapportering ska ske.
 
@@ -66,7 +67,7 @@ Principerna för återrapportering finns i [uppföljning och återrapportering](
 {% endcolumn %}
 
 {% column %}
-### Demokratin behöver framförhållning
+#### Demokratin behöver framförhållning
 
 Årscykeln ska ge plats för årsmöte, representantskap, motioner, valberedning, revision och lekmannarevision.
 
