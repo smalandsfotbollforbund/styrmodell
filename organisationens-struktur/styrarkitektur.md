@@ -51,7 +51,9 @@ Distriktschef och kansli som operativ ledning och genomförande.
 
 Granskande funktioner rapporterar till årsmötet.
 
-Arbetsgrupper rapporterar till distriktsstyrelsen om inte annat beslutats.
+Arbetsutskott tillsätts av och rapporterar till distriktsstyrelsen.
+
+Arbetsgrupper tillsätts av och rapporterar till kommittéerna.
 
 Referensgrupper rapporterar till kansliet om inte annat beslutats.
 

@@ -46,7 +46,7 @@ Distriktsstyrelsen beslutar om kommitténs uppdrag, ramar och eventuell delegati
 <details>
 <summary><strong>Mot arbetsgrupper och referensgrupper</strong></summary>
 
-[Arbetsgrupper](arbetsgrupper.md) och [referensgrupper](referensgrupper.md) kan förstärka arbetet, men ska inte skapa egna beslutsvägar.
+Kommittén kan tillsätta [arbetsgrupper](arbetsgrupper.md) för avgränsade uppdrag inom sitt sakområde. Arbetsgruppen rapporterar tillbaka till kommittén och ska normalt ha avslutat sitt uppdrag inom 3–6 månader. [Referensgrupper](referensgrupper.md) kan förstärka arbetet med råd och perspektiv. Varken arbetsgrupper eller referensgrupper ska skapa egna beslutsvägar.
 
 </details>
 

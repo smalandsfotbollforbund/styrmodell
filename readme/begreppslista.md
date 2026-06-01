@@ -96,7 +96,14 @@ Organ under distriktsstyrelsen som verkar inom ett särskilt sakområde och inom
 
 <summary><strong>Arbetsgrupp</strong></summary>
 
-Tillfällig eller avgränsad grupp som får ett särskilt uppdrag. En arbetsgrupp är inte ett självständigt beslutsorgan om den inte uttryckligen fått sådant mandat. Arbetsgrupper beskrivs i [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md).
+Tidsbegränsad grupp som tillsätts av en kommitté för ett avgränsat uppdrag inom kommitténs sakområde. Uppdraget ska normalt avslutas inom 3–6 månader. En arbetsgrupp är inte ett beslutsorgan och rapporterar till den kommitté som gett uppdraget. Arbetsgrupper beskrivs i [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md).
+
+</details>
+
+<details>
+<summary><strong>Arbetsutskott</strong></summary>
+
+Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas ordinarie sakansvar. Ett arbetsutskott är inte ett beslutsorgan och rapporterar till distriktsstyrelsen. Det är inte permanent men kan arbeta med en längre tidshorisont än en arbetsgrupp. Arbetsutskott beskrivs i [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md).
 
 </details>
 

@@ -59,6 +59,13 @@ Muntliga eller informella uppdrag som inte protokollförts eller delegerats form
 
 </details>
 
+<details>
+<summary><strong>Tillsätt arbetsutskott för rätt uppdrag</strong></summary>
+
+Distriktsstyrelsen kan tillsätta [arbetsutskott](arbetsutskott.md) för strategiska eller tvärfunktionella beredningsuppdrag som inte naturligt hör hemma i en enskild kommitté. Arbetsutskott bereder och återrapporterar till styrelsen, men fattar inte beslut i styrelsens ställe.
+
+</details>
+
 ## Arbetsordningen gör styrelsearbetet praktiskt
 
 Den konkreta arbetsformen hör hemma i styrelsens arbetsordning och andra gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
