@@ -32,6 +32,7 @@
 
 * [Distriktsstyrelse](distriktsstyrelsen-och-ledningen/distriktsstyrelse.md)
 * [Presidium](distriktsstyrelsen-och-ledningen/presidium.md)
+* [Arbetsutskott](distriktsstyrelsen-och-ledningen/arbetsutskott.md)
 * [Hedersordförande och hedersledamot](distriktsstyrelsen-och-ledningen/hedersordforande-och-hedersledamot.md)
 * [Distriktschef](distriktsstyrelsen-och-ledningen/distriktschef.md)
 * [Kansli](distriktsstyrelsen-och-ledningen/kansli.md)

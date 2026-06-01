@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="r1" cx="5%" cy="95%" r="65%">
+      <stop offset="0%" stop-color="#A91C1C" stop-opacity="0.30"/>
+      <stop offset="58%" stop-color="#A91C1C" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#A91C1C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g1" cx="90%" cy="10%" r="38%">
+      <stop offset="0%" stop-color="#2F5731" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#2F5731" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#E2DBD0"/>
+  <rect width="1200" height="630" fill="url(#r1)"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect x="50" y="35" width="1100" height="560" fill="none" stroke="#A91C1C" stroke-width="1.5" opacity="0.15"/>
+  <rect x="88" y="63" width="1024" height="504" fill="none" stroke="#333333" stroke-width="0.6" opacity="0.10"/>
+  <!-- Central diamond representing the task force -->
+  <rect x="556" y="271" width="88" height="88" rx="6" fill="#A91C1C" transform="rotate(45 600 315)"/>
+  <!-- Four nodes connected to center -->
+  <line x1="600" y1="228" x2="600" y2="180" stroke="#333333" stroke-width="2.5" opacity="0.45"/>
+  <line x1="643" y1="315" x2="695" y2="315" stroke="#333333" stroke-width="2.5" opacity="0.45"/>
+  <line x1="557" y1="315" x2="505" y2="315" stroke="#333333" stroke-width="2.5" opacity="0.45"/>
+  <line x1="600" y1="402" x2="600" y2="450" stroke="#333333" stroke-width="2.5" opacity="0.45"/>
+  <!-- Node circles -->
+  <circle cx="600" cy="158" r="22" fill="#2F5731" opacity="0.80"/>
+  <circle cx="717" cy="315" r="22" fill="#2F5731" opacity="0.80"/>
+  <circle cx="483" cy="315" r="22" fill="#2F5731" opacity="0.80"/>
+  <circle cx="600" cy="472" r="22" fill="#2F5731" opacity="0.80"/>
+  <!-- Diagonal connectors suggesting cross-functional reach -->
+  <line x1="616" y1="234" x2="683" y2="266" stroke="#333333" stroke-width="1.5" opacity="0.20" stroke-dasharray="6 4"/>
+  <line x1="584" y1="234" x2="517" y2="266" stroke="#333333" stroke-width="1.5" opacity="0.20" stroke-dasharray="6 4"/>
+  <line x1="616" y1="396" x2="683" y2="364" stroke="#333333" stroke-width="1.5" opacity="0.20" stroke-dasharray="6 4"/>
+  <line x1="584" y1="396" x2="517" y2="364" stroke="#333333" stroke-width="1.5" opacity="0.20" stroke-dasharray="6 4"/>
+</svg>

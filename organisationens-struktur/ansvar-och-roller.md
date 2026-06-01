@@ -46,7 +46,7 @@ Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade up
 <details>
 <summary><strong>När sakkunskap blir eget mandat</strong></summary>
 
-Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md) och [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md) beskrivs på respektive sida.
+Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md), [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md) och [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md) beskrivs på respektive sida.
 
 </details>
 
