@@ -1,11 +1,12 @@
 ---
-cover: ../.gitbook/assets/cover-folkrorelseprincip.svg
 description: >-
-  Distriktet är en del av idrottsrörelsen och vilar på folkrörelsens grunder
-  för demokratisk styrning, föreningsliv och gemensamt ansvar.
+  Distriktet är en del av idrottsrörelsen och vilar på folkrörelsens grunder för
+  demokratisk styrning, föreningsliv och gemensamt ansvar.
+cover: ../.gitbook/assets/cover-folkrorelseprincip.svg
+coverY: 0
 ---
 
-# Folkrörelseprincip och demokratisk styrning
+# Folkrörelse
 
 Smålands Fotbollförbund är en del av den svenska idrottsrörelsen. Det betyder att distriktet vilar på en folkrörelseidé: människor organiserar sig frivilligt i föreningar, föreningarna samlas i förbund och gemensamma beslut fattas demokratiskt.
 
@@ -19,11 +20,11 @@ Den organiserade idrotten i Sverige växte fram ur föreningslivet. Människor s
 
 Idrottsrörelsen blev därför mer än träning och tävling. Den blev en plats där människor lärde sig föreningsdemokrati, ansvar, ledarskap och samarbete.
 
-### Distriktet finns genom föreningarna – och för dem
+### Distriktet finns genom föreningarna och för dem
 
 Smålands Fotbollförbund finns inte vid sidan av föreningarna. Uppdraget är att främja, utveckla och administrera fotbollen på ett sätt som respekterar föreningarnas demokratiska roll och stärker deras möjlighet att bedriva verksamhet.
 
-Professionalisering ska stärka folkrörelsen, inte ersätta den. Förtroendevalda bär det demokratiska och strategiska ansvaret. Anställda leder, stödjer och genomför den löpande verksamheten. Uppdraget kräver båda – men rollerna ska vara tydliga.
+Professionalisering ska stärka folkrörelsen, inte ersätta den. Förtroendevalda bär det demokratiska och strategiska ansvaret. Anställda leder, stödjer och genomför den löpande verksamheten. Uppdraget kräver båda, men rollerna ska vara tydliga.
 
 ## Den grundläggande innebörden
 
@@ -46,6 +47,8 @@ När styrningen behöver prövas – när en fråga hamnar mellan nivåer, när 
 Folkrörelseprincipen syns inte bara när klubban slår på årsmötet. Den märks i hur frågor bereds, hur föreningar får möjlighet att förstå och påverka, hur beslut följs upp och hur distriktet håller ordning på ansvar och granskning.
 
 Distriktets styrning ska alltid kunna spåras tillbaka till föreningarnas gemensamma mandat. Det är enkelt sagt, men viktigt i praktiken: distriktet ska vara stadigt nog att leda och lyhört nog att komma ihåg varifrån uppdraget kommer.
+
+{% embed url="https://youtu.be/dJl5g3I8mag?is=uiDDMD1A3Q-LVAs_" %}
 
 ## Fördjupat material
 
