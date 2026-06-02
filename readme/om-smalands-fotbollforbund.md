@@ -69,4 +69,4 @@ Distriktets långsiktiga riktning beskrivs genom vision, mission och verksamhets
 
 {% include "../.gitbook/includes/vision-mission-och-verksamhetside.md" %}
 
-Hur riktningen kopplas till strategiska inriktningar, prioriteringar, mål och operativt uppdrag beskrivs i [strategihuset](../strategi/strategihus.md).
+Hur riktningen kopplas till strategiska inriktningar, prioriteringar, mål och operativt uppdrag beskrivs i [strategihuset](/broken/pages/7HKF0GPpPonIvevKTHSl).

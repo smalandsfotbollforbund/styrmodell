@@ -36,7 +36,6 @@
   * [Revision och lekmannarevision](granskande/revision.md)
   * [Disciplinnämnd](granskande/disciplinnamnd.md)
 * [Strategi och operativt uppdrag](strategi/README.md)
-  * [Strategihus](strategi/strategihus.md)
   * [Vision, mission och verksamhetsidé](strategi/grund.md)
   * [Strategiska inriktningar](strategi/inriktningar.md)
   * [Prioriteringar och mål](strategi/prioriteringar.md)

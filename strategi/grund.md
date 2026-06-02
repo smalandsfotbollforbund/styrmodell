@@ -1,77 +1,62 @@
 ---
+description: Den långsiktiga grunden för allt distriktet gör och varför.
 cover: ../.gitbook/assets/cover-vision.svg
-description: >-
-  Distriktets långsiktiga riktning och uppdrag: vart vi ska, varför vi finns och
-  hur vi verkar för fotbollen i Småland.
+coverY: 0
 ---
 
 # Vision, mission och verksamhetsidé
 
-Vision, mission och verksamhetsidé är de översta delarna i [strategihuset](strategihus.md). De ska vara lätta att bära med sig, men tillräckligt tydliga för att styra val i vardagen.
+## Tre begrepp. Tre frågor. En logik.
 
-Det är inte bara ord för presentationer. De ska hjälpa distriktet att pröva om ett initiativ stärker föreningslivet, håller ihop fotbollen i Småland och rör sig i takt med tiden.
+Visionen svarar på vart vi är på väg. Missionen svarar på varför vi finns. Verksamhetsidén svarar på hur vi jobbar och vad vi gör. Tillsammans bildar de en kedja från framtidsbild till dagligt handlande och fastställt för lång tid, just för att ge distriktet en stabil kurs som håller längre än en mandatperiod.
 
-## Dit vi siktar
+De är inte dokument för hyllan. De är kompassnålar. En förtroendevald som är osäker på om ett förslag är rätt väg att gå bör kunna hålla dem mot beslutet och se om riktningen stämmer.
 
-{% hint style="success" %}
-**Vision**  
-Fotboll för alla – i hela Småland, hela livet, i takt med tiden.
-{% endhint %}
+<details open>
 
-Visionen pekar mot ett Småland där fotbollen är möjlig att vara en del av oavsett plats, ålder, roll eller förutsättningar. Den handlar både om bredd och utveckling, om stad och landsbygd, om barn, unga, vuxna och äldre, och om att fotbollen behöver följa med när samhället förändras.
+<summary>Visionen</summary>
 
-## Varför distriktet finns
+<sup>Vårt löfte om framtiden; en bild av vad Småland ska vara för fotbollen och vad fotbollen ska vara för Småland.</sup>
 
-{% hint style="success" %}
-**Mission**  
-Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.
-{% endhint %}
+## Fotboll för alla – i hela Småland, hela livet, i takt med tiden.
 
-Missionen påminner om att distriktet inte finns för sin egen skull. Smålands Fotbollförbund finns för föreningarna och för människorna i och runt fotbollen: spelare, ledare, domare, förtroendevalda, ideella krafter och alla som får fotbollen att fungera.
+Vi ser ett Småland där alla som vill får plats i fotbollen. Där barn på landsbygden har samma möjligheter som ungdomar i staden. Där tjejer och killar får samma chans att utvecklas. Där vi spelar för glädjen, gemenskapen och – för den som vill – för att nå toppen. Ett Småland där\
+fotboll är en kraft för hälsa, inkludering och sammanhållning. Vi vill att fotbollen ska vara möjlig att utöva genom hela livet – som spelare, ledare, domare eller supporter – från första boll till sista vissla.
 
-En enkel prövningsfråga är därför: stärker detta föreningslivet och människors möjlighet att växa?
+</details>
 
-## Hur distriktet verkar
+<details open>
 
-{% hint style="success" %}
-**Verksamhetsidé**  
-Smålands Fotbollförbund är en sammanhållande kraft för fotbollen i Småland – ett nav för stöd, samverkan och utveckling som främjar, utvecklar och administrerar fotbollens alla former.
-{% endhint %}
+<summary>Missionen</summary>
 
-Verksamhetsidén beskriver distriktets roll. Distriktet ska hålla ihop, stödja, samverka och utveckla fotbollen i Småland.
+<sup>Missionen förankrar distriktet i nuet. Den berättar inte vart vi ska, utan vad vi är till för, här och nu.</sup>
 
-Det innebär att distriktet både ska främja, utveckla och administrera fotbollens verksamhet. Det ska ske nära föreningarna och med respekt för att fotbollen ser olika ut i olika delar av Småland.
+## Att stärka föreningsliv och människors möjlighet att växa genom fotbollen.
 
-## De tre formuleringarna gör olika jobb
+Vi är till för föreningarna. För spelarna, ledarna och domarna – med rötter i gräsroten och blicken mot framtiden. Vi skapar förutsättningar för att de ska lyckas med sitt. Det gör vi genom utbildning, stöd och samordning. Vi arbetar också för att fotbollen ska vara trygg, jämlik och fri från fusk. För vi tror att fotbollen, rätt använd, gör människor och samhällen bättre. Tillsammans med föreningar, kommuner och andra samhällsaktörer skapar vi goda förutsättningar för att fotbollen ska blomstra – på ett sätt som bygger både människor och gemenskap.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Visionen visar riktningen</strong><br>Den hjälper distriktet att lyfta blicken och se vad arbetet ytterst ska bidra till.</td></tr><tr><td><strong>Missionen håller fast uppdraget</strong><br>Den påminner om varför distriktet finns och vem arbetet ska stärka.</td></tr><tr><td><strong>Verksamhetsidén beskriver rollen</strong><br>Den visar hur distriktet ska verka: som nav, stöd, samverkanspart och utvecklingskraft.</td></tr></tbody></table>
+</details>
 
-## När orden ska användas
+<details open>
 
-Vision, mission och verksamhetsidé ska användas när distriktet gör strategiska vägval, prövar nya initiativ, formulerar prioriteringar, planerar verksamhet och följer upp resultat.
+<summary>Verksamhetsidé</summary>
 
-De ska också hjälpa kommunikationen att hålla ihop. När vi berättar vad distriktet gör ska det gå att känna igen riktningen: fotboll för alla, starkare föreningsliv och människor som växer genom fotbollen.
+<sup>Verksamhetsidén beskriver vad vi faktiskt gör och hur. Det är det mest operationella av de tre begreppen och närmast det dagliga arbetet.</sup>
 
-## Tre prövningsfrågor för vardagen
+## Att vara en sammanhållande kraft för fotbollen i Småland – ett nav för stöd, samverkan och utveckling.
 
-{% columns %}
-{% column %}
-**Passar det med visionen?**
+Vi främjar, utvecklar och administrerar fotbollens alla former – fotboll, futsal och beach soccer – i dialog med föreningar, kommuner och andra aktörer. Genom utbildning, tävlingsverksamhet och stöd till föreningsutveckling stärker vi den småländska fotbollens kvalitet och tillgänglighet i både stad och landsbygd. Allt vi gör bygger på samarbete, kunskap och en vilja att skapa hållbar utveckling – från gräsrot till elit.
 
-Stärker detta fotbollens möjlighet för alla — i hela Småland, hela livet?
-{% endcolumn %}
+</details>
 
-{% column %}
-**Passar det med missionen?**
+## Hur de tre används i praktiken
 
-Stärker detta föreningslivet och människors möjlighet att växa genom fotboll?
-{% endcolumn %}
+Vision, mission och verksamhetsidé är inte dokument som läses en gång och glöms. De ska vara levande riktmärken som återkommer i det löpande arbetet.
 
-{% column %}
-**Passar det med verksamhetsidén?**
+I strategiarbetet är de utgångspunkten där prioriteringar och mål ska kunna spåras tillbaka till dem.
 
-Är det ett nav för stöd, samverkan och utveckling — eller är det något annat?
-{% endcolumn %}
-{% endcolumns %}
+I beslutsfattandet är de ett filter när ett förslag som inte stämmer med visionen eller missionen bör motiveras tydligt, eller omprövas.
 
-Om ett initiativ inte passar in i någon av dessa behöver distriktet förstå varför det ändå ska ta tid, resurser och kraft. Riktningen ska inte låsa allt — men den ska hjälpa organisationen att hålla kursen.
+I kommunikationen är de förankringspunkterna när distriktet förklarar varför det gör vad det gör, är svaret alltid att hitta här.
+
+Vid nytillträde är de introduktionen för en ny förtroendevald eller anställd som förstår dessa tre begrepp har förstått det viktigaste om vad distriktet är och varför det finns.
