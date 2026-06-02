@@ -28,7 +28,7 @@ Alla externa dokument väger inte lika tungt.
 
 Vissa är överordnade normer, till exempel RF:s stadgar och Svenska Fotbollförbundets stadgar. Andra är vägledande, till exempel rekommendationer, idéprogram eller stödmaterial.
 
-Vad som väger tyngst vid konflikt beskrivs i [normordningen](../grund-och-varden/normordning.md). Den här sidan ska inte skapa en parallell rangordning.
+Vad som väger tyngst vid konflikt beskrivs i [normordningen](../grund/normordning.md). Den här sidan ska inte skapa en parallell rangordning.
 
 ## Officiell källa och lokal kopia är inte samma sak
 

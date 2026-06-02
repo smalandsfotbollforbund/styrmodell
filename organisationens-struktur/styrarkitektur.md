@@ -26,7 +26,7 @@ Styrningen fungerar när nivåerna drar åt samma håll utan att ta över varand
 Schemat visar hur distriktets delar hänger ihop – vilka relationer rutorna har till varandra, inte bara vilka rutor som finns.
 
 {% hint style="info" %}
-Schemat visar struktur, inte mandat. Om bilden och ett beslutat dokument pekar åt olika håll gäller det beslutade dokumentet enligt [normordningen](../grund-och-varden/normordning.md).
+Schemat visar struktur, inte mandat. Om bilden och ett beslutat dokument pekar åt olika håll gäller det beslutade dokumentet enligt [normordningen](../grund/normordning.md).
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/organisation.svg" alt=""><figcaption></figcaption></figure>

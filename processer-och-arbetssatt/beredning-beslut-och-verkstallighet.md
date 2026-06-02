@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-beredning.svg
 description: >-
   Hur frågor bereds, beslut fattas på rätt nivå och genomförandet håller sig
   inom beslutade ramar – tre delar av samma ansvarskedja.
+cover: ../.gitbook/assets/cover-beredning.svg
+coverY: 0
 ---
 
 # Beredning, beslut och verkställighet
@@ -12,7 +13,7 @@ Beredning, beslut och verkställighet är tre delar av samma ansvarskedja. Den s
 Kedjan håller när rollerna är klara – och brister när en del tar över en annans ansvar.
 
 {% hint style="info" %}
-Om det är oklart vem som får besluta används [normordningen](../grund-och-varden/normordning.md), [delegationen](../distriktsstyrelsen-och-ledningen/delegation.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Konkret ansvarsfördelning i olika frågetyper finns där.
+Om det är oklart vem som får besluta används [normordningen](../grund/normordning.md), [delegationen](../distriktsstyrelsen-och-ledningen/delegation.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Konkret ansvarsfördelning i olika frågetyper finns där.
 {% endhint %}
 
 ## Beredning – gör beslutet möjligt
@@ -71,23 +72,19 @@ Om genomförandet kräver ett nytt självständigt vägval – ändrad inriktnin
 
 {% stepper %}
 {% step %}
-**Ramen håller**
-Genomför arbetet enligt beslut, budget, delegation och tidsplan.
+**Ramen håller** Genomför arbetet enligt beslut, budget, delegation och tidsplan.
 {% endstep %}
 
 {% step %}
-**Ramen är oklar**
-Be om förtydligande från rätt nivå innan arbetet går vidare.
+**Ramen är oklar** Be om förtydligande från rätt nivå innan arbetet går vidare.
 {% endstep %}
 
 {% step %}
-**Ramen behöver ändras**
-Lyft frågan tillbaka till det organ eller den funktion som har mandat att fatta nytt beslut.
+**Ramen behöver ändras** Lyft frågan tillbaka till det organ eller den funktion som har mandat att fatta nytt beslut.
 {% endstep %}
 
 {% step %}
-**Avvikelse uppstår**
-Återrapportera enligt principerna i [uppföljning och återrapportering](uppfoljning-och-aterrapportering.md).
+**Avvikelse uppstår** Återrapportera enligt principerna i [uppföljning och återrapportering](uppfoljning-och-aterrapportering.md).
 {% endstep %}
 {% endstepper %}
 

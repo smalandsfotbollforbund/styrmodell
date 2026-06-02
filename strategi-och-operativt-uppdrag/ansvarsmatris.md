@@ -10,7 +10,7 @@ coverY: 0
 
 Ansvarsmatrisen hjälper distriktet att se ansvarskedjan i olika typer av frågor.
 
-Den ska användas när det är oklart vem som normalt bereder, beslutar, verkställer, följer upp eller granskar. Den skapar inte nya mandat. Om matrisen krockar med stadgar, beslut, delegation eller annat styrande dokument gäller [normordningen](../grund-och-varden/normordning.md).
+Den ska användas när det är oklart vem som normalt bereder, beslutar, verkställer, följer upp eller granskar. Den skapar inte nya mandat. Om matrisen krockar med stadgar, beslut, delegation eller annat styrande dokument gäller [normordningen](../grund/normordning.md).
 
 {% hint style="info" %}
 Matrisen är ett stöd för tillämpning. Den ersätter inte stadgar, arbetsordningar, delegationsordningar eller instruktioner i [dokumentarkivet](https://styrning.smaland.football/dokument). Begreppen bereda, besluta, verkställa, följa upp och granska definieras i [begreppslistan](../readme/begreppslista.md).

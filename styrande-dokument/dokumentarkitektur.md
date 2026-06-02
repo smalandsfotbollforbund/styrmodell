@@ -24,7 +24,7 @@ Styrmodellen ska inte återge varje dokument i detalj. Dokumentarkivet ska inte 
 
 ## Dokumenthierarkin hör hemma i normordningen
 
-När dokument, regler eller beslut pekar åt olika håll är det [normordningen](../grund-och-varden/normordning.md) som avgör vad som väger tyngst.
+När dokument, regler eller beslut pekar åt olika håll är det [normordningen](../grund/normordning.md) som avgör vad som väger tyngst.
 
 Den här sidan ska därför inte bygga en egen rangordning. Här beskrivs i stället vilka dokumenttyper som finns, vad de ska användas till och hur de ska förvaltas.
 

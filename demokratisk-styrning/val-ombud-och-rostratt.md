@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-val-ombud.svg
 description: >-
   Hur föreningarnas rösträtt, ombud och val skapar formellt inflytande och
   demokratisk legitimitet i distriktet.
+cover: ../.gitbook/assets/cover-val-ombud.svg
+coverY: 0
 ---
 
 # Val, ombud och rösträtt
@@ -15,7 +16,7 @@ Exakta regler om röstlängd, valbarhet, omröstning och valförfarande finns i 
 
 Rösträtten är föreningens demokratiska mandat. Den ska hanteras tydligt, spårbart och med respekt för stadgarna.
 
-Det betyder att det ska vara klart vilka föreningar som har rösträtt, vem som företräder föreningen och vilken röstlängd som gäller för mötet. Om något är oklart används stadgarna och [normordningen](../grund-och-varden/normordning.md).
+Det betyder att det ska vara klart vilka föreningar som har rösträtt, vem som företräder föreningen och vilken röstlängd som gäller för mötet. Om något är oklart används stadgarna och [normordningen](../grund/normordning.md).
 
 ### Ombudet bär föreningens röst
 
@@ -37,13 +38,13 @@ Det är en balans. För mycket slutenhet skapar misstro. För lite integritet g�
 
 {% columns %}
 {% column %}
-#### Öppenhet behövs för föreningarna
+**Öppenhet behövs för föreningarna**
 
 Föreningarna behöver veta hur nomineringar lämnas, när processen sker, vilka val som ska beredas och hur förslagen presenteras.
 {% endcolumn %}
 
 {% column %}
-#### Integritet behövs för människorna
+**Integritet behövs för människorna**
 
 Personer som nomineras, prövas eller tillfrågas behöver kunna föra samtal med valberedningen utan att processen blir ryktesstyrd.
 {% endcolumn %}

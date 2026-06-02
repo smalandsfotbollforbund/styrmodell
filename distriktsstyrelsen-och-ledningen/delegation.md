@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-delegation.svg
 description: >-
   Hur beslutanderätt kan flyttas till rätt nivå utan att ansvar, spårbarhet och
   återrapportering går förlorade.
+cover: ../.gitbook/assets/cover-delegation.svg
+coverY: 0
 ---
 
 # Delegation
@@ -27,22 +28,22 @@ En delegation ska vara lätt att förstå också i efterhand. Det ska gå att se
 
 {% stepper %}
 {% step %}
-**Skriv ned delegationen**  
+**Skriv ned delegationen**\
 Delegation ska framgå av delegationsordning, arbetsordning, instruktion eller protokollfört beslut.
 {% endstep %}
 
 {% step %}
-**Avgränsa uppdraget**  
+**Avgränsa uppdraget**\
 Det ska framgå vilken ärendetyp, situation, beloppsgräns, tidsram eller vilket sakområde delegationen gäller.
 {% endstep %}
 
 {% step %}
-**Gör beslutet spårbart**  
+**Gör beslutet spårbart**\
 Det ska gå att följa vilket beslut som fattats och med stöd av vilken delegation.
 {% endstep %}
 
 {% step %}
-**Återrapportera till rätt nivå**  
+**Återrapportera till rätt nivå**\
 Den som delegerat behöver kunna följa hur delegationen används och om den behöver ändras.
 {% endstep %}
 {% endstepper %}
@@ -55,7 +56,7 @@ Muntlig vana är inte delegation. Om en beslutsväg används återkommande behö
 
 Vissa frågor ska normalt stanna hos det organ som bär mandatet. Det gäller särskilt frågor som stadgarna lägger på [årsmöte](../demokratisk-styrning/arsmote.md) eller [representantskap](../demokratisk-styrning/representantskap.md), beslut av större principiell eller ekonomisk betydelse, fastställande av centrala styrande dokument och frågor där oberoende granskning krävs.
 
-Om det är oklart om en fråga får delegeras ska frågan prövas mot [normordningen](../grund-och-varden/normordning.md), [de styrande principerna](../grund-och-varden/styrande-principer.md) och berörd arbetsordning eller delegationsordning.
+Om det är oklart om en fråga får delegeras ska frågan prövas mot [normordningen](../grund/normordning.md), [de styrande principerna](../grund/styrande-principer.md) och berörd arbetsordning eller delegationsordning.
 
 ## Delegation kan gå till olika funktioner
 
@@ -74,6 +75,7 @@ Ett brådskande beslut ska dokumenteras, motiveras och återrapporteras enligt b
 Delegation ska inte ligga kvar av gammal vana. Den behöver följas upp.
 
 <details>
+
 <summary><strong>Om besluten ofta hamnar fel</strong></summary>
 
 Då kan delegationen vara för bred, för smal eller otydligt formulerad.
@@ -81,6 +83,7 @@ Då kan delegationen vara för bred, för smal eller otydligt formulerad.
 </details>
 
 <details>
+
 <summary><strong>Om återrapportering saknas</strong></summary>
 
 Då kan den som delegerat inte ta sitt ansvar. Delegationen behöver skärpas.
@@ -88,6 +91,7 @@ Då kan den som delegerat inte ta sitt ansvar. Delegationen behöver skärpas.
 </details>
 
 <details>
+
 <summary><strong>Om samma gråzon återkommer</strong></summary>
 
 Då ska den inte lösas informellt. Den ska hanteras genom tydligare beslut, instruktion eller delegationsordning.
@@ -95,6 +99,7 @@ Då ska den inte lösas informellt. Den ska hanteras genom tydligare beslut, ins
 </details>
 
 <details>
+
 <summary><strong>Om förutsättningarna ändras</strong></summary>
 
 När organisation, ekonomi, risker eller arbetssätt förändras kan delegation behöva ändras eller återkallas.

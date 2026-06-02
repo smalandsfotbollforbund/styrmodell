@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-distriktsstyrelse.svg
 description: >-
   Distriktsstyrelsens strategiska ansvar mellan de demokratiska mötena och hur
   styrelsen leder utan att ta över det operativa arbetet.
+cover: ../.gitbook/assets/cover-distriktsstyrelse.svg
+coverY: 0
 ---
 
 # Distriktsstyrelse
@@ -12,7 +13,7 @@ Distriktsstyrelsen leder Smålands Fotbollförbund mellan de demokratiska möten
 Styrelsens sida ska beskriva styrelsens roll. Frågor om nivåerna i hela organisationen hör till [styrarkitekturen](../organisationens-struktur/styrarkitektur.md), frågor om rollförståelse till [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md), frågor om delegation till [delegation](delegation.md) och konkreta ansvarskedjor till [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 {% hint style="info" %}
-När det är oklart vad som väger tyngst används [normordningen](../grund-och-varden/normordning.md). Den här sidan ska inte ersätta stadgar, arbetsordning eller delegationsordning.
+När det är oklart vad som väger tyngst används [normordningen](../grund/normordning.md). Den här sidan ska inte ersätta stadgar, arbetsordning eller delegationsordning.
 {% endhint %}
 
 ## Styrelsen ska hålla riktningen
@@ -32,6 +33,7 @@ Det skyddar både helheten och de personer som bär uppdraget.
 Distriktsstyrelsen ska hålla riktning, ramar och uppföljning tydliga. Några vanliga gränser som behöver hållas:
 
 <details>
+
 <summary><strong>Ta inte över den operativa arbetsledningen</strong></summary>
 
 Kansliets dagliga ledning är [distriktschefens](distriktschef.md) ansvar. Styrelsen styr genom uppdrag, ramar och uppföljning — inte genom direkta instruktioner till kanslipersonal.
@@ -39,6 +41,7 @@ Kansliets dagliga ledning är [distriktschefens](distriktschef.md) ansvar. Styre
 </details>
 
 <details>
+
 <summary><strong>Avgör inte demokratiska frågor ensam</strong></summary>
 
 Frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md) eller [representantskapet](../demokratisk-styrning/representantskap.md) ska inte lösas i styrelserummet, oavsett om det går snabbare.
@@ -46,6 +49,7 @@ Frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md) eller [re
 </details>
 
 <details>
+
 <summary><strong>Skapa inte informella mandat</strong></summary>
 
 Muntliga eller informella uppdrag som inte protokollförts eller delegerats formellt är inte giltiga mandat — vare sig det gäller [presidiet](presidium.md), [distriktschefen](distriktschef.md) eller andra.
@@ -53,6 +57,7 @@ Muntliga eller informella uppdrag som inte protokollförts eller delegerats form
 </details>
 
 <details>
+
 <summary><strong>Håll styrning och sakarbete isär</strong></summary>
 
 [Kommittéerna](../kommitteer-och-arbetsgrupper/kommitteer.md) bidrar med sakkunskap inom sina områden. Styrelsen beslutar ramar och uppdrag — men ska inte bli en parallell kommitté.
@@ -60,6 +65,7 @@ Muntliga eller informella uppdrag som inte protokollförts eller delegerats form
 </details>
 
 <details>
+
 <summary><strong>Tillsätt arbetsutskott för rätt uppdrag</strong></summary>
 
 Distriktsstyrelsen kan tillsätta [arbetsutskott](arbetsutskott.md) för strategiska eller tvärfunktionella beredningsuppdrag som inte naturligt hör hemma i en enskild kommitté. Arbetsutskott bereder och återrapporterar till styrelsen, men fattar inte beslut i styrelsens ställe.

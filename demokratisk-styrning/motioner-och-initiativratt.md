@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-motioner.svg
 description: >-
   Hur motioner och initiativrätt ger föreningarna en formell väg att väcka
   frågor till demokratisk prövning.
+cover: ../.gitbook/assets/cover-motioner.svg
+coverY: 0
 ---
 
 # Motioner och initiativrätt
@@ -33,7 +34,7 @@ Det kan behövas när en fråga kräver medlemsförankring, ligger utanför dist
 
 {% columns %}
 {% column %}
-#### Motion
+**Motion**
 
 Kommer från förening eller annan behörig part enligt gällande ordning.
 
@@ -41,7 +42,7 @@ Bär föreningens initiativ in i den demokratiska processen.
 {% endcolumn %}
 
 {% column %}
-#### Distriktsstyrelsens förslag
+**Distriktsstyrelsens förslag**
 
 Kommer från distriktsstyrelsen.
 

@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-arsmote.svg
 description: >-
   Årsmötets roll som föreningarnas högsta beslutspunkt och den demokratiska
   grund som distriktets övriga mandat vilar på.
+cover: ../.gitbook/assets/cover-arsmote.svg
+coverY: 0
 ---
 
 # Årsmöte
@@ -25,7 +26,7 @@ Genom sina [ombud](val-ombud-och-rostratt.md) kan föreningarna påverka riktnin
 
 Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där. Vissa frågor hör till distriktsstyrelsens strategiska ansvar. Andra hör till representantskapets tävlingsmandat, kommittéernas beredning, distriktschefens operativa ledning eller kansliets genomförande.
 
-Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund-och-varden/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [de styrande principerna](../grund-och-varden/styrande-principer.md).
+Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [de styrande principerna](../grund/styrande-principer.md).
 
 ## Årsmöte och representantskap har olika roller
 

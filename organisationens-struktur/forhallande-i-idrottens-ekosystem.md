@@ -22,7 +22,7 @@ Det är lätt att blanda ihop nivåerna i idrottens organisation. Därför behö
 
 Riksidrottsförbundet samlar den svenska idrottsrörelsen. RF:s stadgar, idrottens värdegrund och idrottens gemensamma beslut påverkar därför också Smålands Fotbollförbund.
 
-För distriktet märks detta särskilt i frågor som rör [folkrörelseprincipen](../grund-och-varden/folkrorelse.md), [värdegrunden](../grund-och-varden/vardegrund.md), god demokratisk styrning, barnrätt, föreningsdemokrati och idrottens gemensamma förhållningssätt.
+För distriktet märks detta särskilt i frågor som rör [folkrörelseprincipen](../grund/folkrorelse.md), [värdegrunden](../grund/vardegrund.md), god demokratisk styrning, barnrätt, föreningsdemokrati och idrottens gemensamma förhållningssätt.
 
 RF är däremot inte den organisation som leder distriktets löpande fotbollsverksamhet. Den relationen går genom Svenska Fotbollförbundet och distriktets egna demokratiska organ.
 

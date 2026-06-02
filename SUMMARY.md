@@ -3,13 +3,13 @@
 * [VÅR STYRMODELL](README.md)
   * [Om Smålands Fotbollförbund](readme/om-smalands-fotbollforbund.md)
   * [Begreppslista](readme/begreppslista.md)
+* [Grund och värden](grund/README.md)
+  * [Folkrörelse](grund/folkrorelse.md)
+  * [Värdegrund](grund/vardegrund.md)
+  * [Normordning](grund/normordning.md)
+  * [Styrande principer](grund/styrande-principer.md)
 
 ## Grund och värden
-
-* [Folkrörelse](grund-och-varden/folkrorelse.md)
-* [Värdegrund](grund-och-varden/vardegrund.md)
-* [Normordning](grund-och-varden/normordning.md)
-* [Styrande principer](grund-och-varden/styrande-principer.md)
 
 ## Organisationens struktur
 

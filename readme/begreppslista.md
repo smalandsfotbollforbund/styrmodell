@@ -101,6 +101,7 @@ Tidsbegränsad grupp som tillsätts av en kommitté för ett avgränsat uppdrag 
 </details>
 
 <details>
+
 <summary><strong>Arbetsutskott</strong></summary>
 
 Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas ordinarie sakansvar. Ett arbetsutskott är inte ett beslutsorgan och rapporterar till distriktsstyrelsen. Det är inte permanent men kan arbeta med en längre tidshorisont än en arbetsgrupp. Arbetsutskott beskrivs i [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md).
@@ -165,7 +166,7 @@ Den samlade logik som beskriver hur distriktet styrs, leds, organiseras, följs 
 
 <summary><strong>Normordning</strong></summary>
 
-Rangordning som avgör vilket dokument eller beslut som väger tyngst vid konflikt. Kärnkällan finns i [normordning](../grund-och-varden/normordning.md).
+Rangordning som avgör vilket dokument eller beslut som väger tyngst vid konflikt. Kärnkällan finns i [normordning](../grund/normordning.md).
 
 </details>
 
