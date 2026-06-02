@@ -1,44 +1,39 @@
 ---
 description: >-
-  Representantskapet som föreningarnas avgränsade medlemsorgan för
-  tävlingsfrågor mellan årsmötena.
+  Föreningarnas avgränsade medlemsorgan för tävlingsfrågor mellan årsmötena. Det
+  ger föreningarna direkt inflytande i viktiga tävlingsfrågor, såsom
+  seriesammansättning och tävlingsbestämmelser.
 cover: ../.gitbook/assets/cover-representantskap.svg
 coverY: 0
 ---
 
 # Representantskap
 
-Representantskapet ger föreningarna direkt inflytande i viktiga tävlingsfrågor mellan årsmötena.
+Det är med andra ord ett medlemsorgan med tyngd, men också med ett avgränsat uppdrag. Det ska inte blandas ihop med ett allmänt [extra årsmöte](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-8-extra-arsmote) eller ett forum för dialog.
 
-Det är ett medlemsorgan med tyngd, men med ett avgränsat uppdrag. Det ska inte blandas ihop med ett allmänt extra årsmöte eller ett informellt samrådsforum.
+Vad är då ett representantskap?
 
-## Tungt där mandatet finns
+Representantskapet är lösningen på ett konkret problem: tävlingsfrågor kan inte vänta till nästa årsmöte utan att det blir en stor fördröjning av besluten. Seriesammansättning, tävlingsregler och liknande frågor behöver avgöras tidigare under året och de behöver avgöras av föreningarna, inte av [distriktsstyrelse](../ledning/distriktsstyrelse.md) eller [tävlingskommitté](../underliggande-organ/kommitteer.md) ensamma.
 
-Representantskapet beslutar inom sitt stadgereglerade mandat. Det handlar framför allt om distriktets tävlingsregler, seriesammansättning för seniorer och andra frågor som hänskjutits dit inom rätt område.
+Representantskapet är därför konstruerat som ett mini-årsmöte, men enbart för tävlingsområdet. Det är föreningarnas organ, inte distriktets sätt att informera föreningarna. Skillnaden är avgörande: föreningarna beslutar här, de tar inte bara del av beslut.
 
-Det är viktigt för legitimiteten i tävlingssystemet. Tävlingsfrågor påverkar många föreningar direkt, och då behöver medlemsinflytandet vara tydligt.
+Det är just tävlingsfrågorna som gör representantskapet viktigt. Serieindelning, [representationsbestämmelser](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/reglemente/representationsbestammelser) och [tävlingsbestämmelser](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/reglemente/tavlingsbestammelser) påverkar varje förening direkt; hur många lag som spelar i vilken serie, vilka regler som gäller, hur tävlingssystemet är uppbyggt. Det är frågor med konkreta konsekvenser för träning, ekonomi och planering i varje förening. Att föreningarna har ett direkt ord med i laget i sådana frågor är inte en formalitet utan en förutsättning för att tävlingssystemet ska ha legitimitet.
 
-## Inte ett mellanårsmöte för allt
+## Föreningarnas möjlighet att påverka
 
-Representantskapet ska normalt inte hantera frågor som rör distriktets övergripande organisation, ekonomi, strategi, stadgar, val eller ansvarsfördelning.
+Representantskapet fungerar i mångt och mycket som årsmötet inom sitt område. Inflytandet är reellt och utövas på liknande sätt:
 
-Sådana frågor hör i första hand hemma på [årsmötet](arsmote.md) eller hos [distriktsstyrelsen](../ledning/distriktsstyrelse.md), beroende på mandat.
+**Närvaro och rösträtt.** Varje medlemsförening har rätt att skicka ombud. Ombuden talar och röstar på föreningens vägnar. Den förening som väljer att inte skicka ombud väljer också bort sin röst i tävlingsfrågor som kan ha direkt påverkan på den egna verksamheten.
 
-{% hint style="warning" %}
-En fråga blir inte en representantskapsfråga bara för att den är viktig för föreningarna. Den måste också höra till representantskapets tävlingsmandat.
-{% endhint %}
+**Rätten att ställa frågor och yttra sig.** Föreningarna har rätt att göra sin röst hörd, inte bara i omröstningar utan också i den beredning och diskussion som föregår beslut. En förening som har synpunkter på ett förslag om seriesammansättning eller tävlingsregler bör framföra dem; det är det som gör beredningen meningsfull.
 
-## Gränsen mot tävlingskommittén behöver vara klar
+**Möjligheten att hänskjuta frågor.** Tävlingsfrågor av tillräcklig vikt kan hänskjutas till representantskapet. Det är föreningarnas sätt att säkerställa att rätt frågor avgörs på rätt nivå och inte glider ner i tävlingskommitténs beredning utan att föreningarna fått sin röst hörd.
 
-Tävlingskommittén kan bereda och lämna förslag i tävlingsfrågor. Den bidrar med sakkunskap, analys och praktisk förståelse för tävlingsverksamheten.
+## Gränsen mot distriktsstyrelsen
 
-Men det är representantskapet som bär medlemsmandatet i de tävlingsfrågor som stadgarna lägger där. Tävlingskommittén ska därför inte fatta beslut i frågor som hör till representantskapet, om inte annat uttryckligen framgår av gällande regelverk eller delegation.
+Tävlingskommittén är det organ, som på delegation av distriktsstyrelsen, bereder och lämnar förslag i tävlingsfrågor. Den bidrar med sakkunskap, analys och praktisk förståelse för tävlingsverksamheten.
 
-## Mötesformen ska skydda beslutet
-
-Representantskapet behöver ha ordning på ombud, kallelse, handlingar, förslag och beslut. Det är inte bara formalia. Det är det som gör att besluten kan förstås, följas och accepteras.
-
-Exakta tidsfrister och formkrav följer av stadgar och gällande dokument.
+Men det är representantskapet som bär medlemsmandatet i de tävlingsfrågor som stadgarna lägger där. Distriktsstyrelsen och tävlingskommittén ska därför inte fatta beslut i frågor som hör till representantskapet, om inte annat uttryckligen framgår av gällande regelverk eller delegation.
 
 ## Så prövas en fråga
 
@@ -47,7 +42,7 @@ När det är oklart om en fråga hör hemma på representantskapet kan den pröv
 {% stepper %}
 {% step %}
 **Är det en tävlingsfråga?**\
-Frågan ska ha tydlig koppling till tävlingsregler, seriesammansättning eller annat område som hör till representantskapets mandat.
+Frågan ska ha tydlig koppling till tävlingsregler, seriesammansättning eller annat område som hör till representantskapets mandat i enlighet med stadgarna.
 {% endstep %}
 
 {% step %}

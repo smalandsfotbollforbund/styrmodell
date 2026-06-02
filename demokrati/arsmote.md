@@ -15,7 +15,7 @@ I en [folkrörelse](../grund/folkrorelse.md) börjar mandatet hos medlemmarna so
 
 ## Vad är då ett årsmöte?
 
-Årsmötet är det tillfälle då Smålands Fotbollförbund formellt tillhör sina medlemsföreningar; inte styrelsen, inte kansliet och inte distriktschefen. Det är föreningarna som samlas, tar plats och bestämmer. Alla andra delar av organisationen finns till för att verkställa och bereda det som föreningarna ytterst beslutat eller delegerat.
+Årsmötet är det tillfälle då Smålands Fotbollförbund formellt tillhör sina medlemsföreningar; inte [distriktsstyrelsen](../ledning/distriktsstyrelse.md), inte [kansliet](../ledning/kansli.md) och inte [distriktschefen](../ledning/distriktschef.md). Det är föreningarna som samlas, tar plats och bestämmer. Alla andra delar av organisationen finns till för att verkställa och bereda det som föreningarna ytterst beslutat eller delegerat.
 
 På årsmötet sker tre saker av avgörande vikt: föreningarna granskar vad som gjorts under det gångna året (ansvarsprövning), de beslutar om vad som ska gälla framåt (uppdrag och inriktning), och de väljer vilka personer som ska bära det förtroendet (val). Det är inte tre separata punkter på en dagordning utan tre delar av samma demokratiska kedja.
 
@@ -29,7 +29,7 @@ Inflytandet på årsmötet är reellt och konkret. Det utövas på flera sätt:
 
 **Motionsrätten.** Alla medlemsföreningar har rätt att lämna in [motioner](motioner-och-initiativratt.md) inför årsmötet. Det är det direkta sättet att driva en fråga till beslut. En motion kan handla om allt från stadgeändringar och ekonomiska ramar till principiella ställningstaganden om distriktets inriktning. Att skriva en motion är att ta ansvar för distriktet, inte att klaga.
 
-**Valrätten.** Föreningarna väljer [styrelse](../ledning/distriktsstyrelse.md), [disciplinnämnd](../granskande/disciplinnamnd.md), [revisorer](../granskande/revision.md) och [valberedning](../granskande/valberedning.md). Det är ett genuint förtroendeuppdrag i båda riktningarna: den som väljs bär ett ansvar och de som väljer bör ha bildat sig en uppfattning om vem som är rätt för uppdraget. Valberedningens arbete är till för att underlätta det.
+**Valrätten.** Föreningarna väljer [distriktsstyrelse](../ledning/distriktsstyrelse.md), [disciplinnämnd](../granskande/disciplinnamnd.md), [revisorer](../granskande/revision.md) och [valberedning](../granskande/valberedning.md). Det är ett genuint förtroendeuppdrag i båda riktningarna: den som väljs bär ett ansvar och de som väljer bör ha bildat sig en uppfattning om vem som är rätt för uppdraget. Valberedningens arbete är till för att underlätta det.
 
 **Rätten att yttra sig och ställa frågor.** Även utanför formella omröstningar har föreningarna rätt att göra sin röst hörd. Det är den muntliga demokratin; inte minst i samband med verksamhetsberättelse och ekonomisk redovisning.
 
