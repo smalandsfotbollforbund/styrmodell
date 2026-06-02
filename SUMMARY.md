@@ -35,14 +35,14 @@
   * [Valberedning](granskande/valberedning.md)
   * [Revision och lekmannarevision](granskande/revision-och-lekmannarevision.md)
   * [Disciplinnämnd](granskande/disciplinnamnd.md)
-* [Strategi och operativt uppdrag](strategi-och-operativt-uppdrag/README.md)
-  * [Strategihus](strategi-och-operativt-uppdrag/strategihus.md)
-  * [Vision, mission och verksamhetsidé](strategi-och-operativt-uppdrag/vision-mission-och-verksamhetside.md)
-  * [Strategiska inriktningar](strategi-och-operativt-uppdrag/strategiska-inriktningar.md)
-  * [Prioriteringar och mål](strategi-och-operativt-uppdrag/prioriteringar-och-mal.md)
-  * [Verksamhetsområden och basuppgifter](strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md)
-  * [Planering, uppföljning och årscykel](strategi-och-operativt-uppdrag/planering-uppfoljning-och-arscykel.md)
-  * [Ansvarsmatris](strategi-och-operativt-uppdrag/ansvarsmatris.md)
+* [Strategi och operativt uppdrag](strategi/README.md)
+  * [Strategihus](strategi/strategihus.md)
+  * [Vision, mission och verksamhetsidé](strategi/vision-mission-och-verksamhetside.md)
+  * [Strategiska inriktningar](strategi/strategiska-inriktningar.md)
+  * [Prioriteringar och mål](strategi/prioriteringar-och-mal.md)
+  * [Verksamhetsområden och basuppgifter](strategi/verksamhetsomraden-och-basuppgifter.md)
+  * [Planering, uppföljning och årscykel](strategi/planering-uppfoljning-och-arscykel.md)
+  * [Ansvarsmatris](strategi/ansvarsmatris.md)
 
 ## Demokratisk styrning
 

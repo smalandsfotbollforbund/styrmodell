@@ -43,7 +43,7 @@ Smålands Fotbollförbund är Svenska Fotbollförbundets regionala organ i Jönk
 
 Det innebär att distriktet behöver klara både det nära och det gemensamma: ge stöd till föreningar i vardagen, hålla ihop tävling och utbildning, bidra till trygga miljöer och samtidigt företräda småländsk fotboll i regionala och nationella sammanhang.
 
-Det konkreta operativa uppdraget beskrivs vidare i [verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+Det konkreta operativa uppdraget beskrivs vidare i [verksamhetsområden och basuppgifter](../strategi/verksamhetsomraden-och-basuppgifter.md).
 
 ## Föreningarna är inte vid sidan av
 
@@ -69,4 +69,4 @@ Distriktets långsiktiga riktning beskrivs genom vision, mission och verksamhets
 
 {% include "../.gitbook/includes/vision-mission-och-verksamhetside.md" %}
 
-Hur riktningen kopplas till strategiska inriktningar, prioriteringar, mål och operativt uppdrag beskrivs i [strategihuset](../strategi-och-operativt-uppdrag/strategihus.md).
+Hur riktningen kopplas till strategiska inriktningar, prioriteringar, mål och operativt uppdrag beskrivs i [strategihuset](../strategi/strategihus.md).

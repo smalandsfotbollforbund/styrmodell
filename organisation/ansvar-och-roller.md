@@ -26,7 +26,7 @@ En person kan bära flera roller i fotbollen. I styrningen behöver rollen änd�
 
 Förtroendevalda har uppdrag genom val eller beslut. Anställda har uppdrag genom sin anställning. Båda behövs, men de får inte blandas ihop.
 
-När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer konkreta ansvar ska läsaren gå till [distriktsstyrelsen](../ledning/distriktsstyrelse.md), [distriktschef](../ledning/distriktschef.md) eller [kansli](../ledning/kansli.md). När frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer konkreta ansvar ska läsaren gå till [distriktsstyrelsen](../ledning/distriktsstyrelse.md), [distriktschef](../ledning/distriktschef.md) eller [kansli](../ledning/kansli.md). När frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi/ansvarsmatris.md).
 
 ## Där ansvar ofta börjar glida
 
@@ -71,10 +71,10 @@ När ansvaret är oklart är det ofta bättre att ställa några enkla frågor �
 * **Var finns mandatet?**
 * **Vem ska frågan tillbaka till?**
 
-Om frågan gäller ansvarskedjan, alltså vem som bereder, beslutar, verkställer, följer upp eller granskar, ska den prövas mot [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Om frågan gäller ansvarskedjan, alltså vem som bereder, beslutar, verkställer, följer upp eller granskar, ska den prövas mot [ansvarsmatrisen](../strategi/ansvarsmatris.md).
 
 ## När det inte räcker med god vilja
 
 Många gråzoner uppstår för att människor försöker hjälpa till. Det är bra. Men om gråzonen återkommer ska den inte vänjas in.
 
-Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../readme/begreppslista.md) för orden, [delegation](../ledning/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.
+Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../readme/begreppslista.md) för orden, [delegation](../ledning/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi/ansvarsmatris.md) för konkret ansvarsfördelning.

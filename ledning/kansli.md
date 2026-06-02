@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-kansli.svg
 description: >-
   Kansliets roll som tjänstepersonsorganisation för beredning, genomförande,
   administration och stöd till föreningar och organ.
+cover: ../.gitbook/assets/cover-kansli.svg
+coverY: 0
 ---
 
 # Kansli
@@ -26,6 +27,7 @@ Kansliets arbete ska vara relevant för föreningarnas verklighet. Det ska inte 
 Kansliet behöver ofta arbeta nära både distriktsstyrelse, kommittéer, föreningar och externa parter. Det gör rollen viktig, men också känslig.
 
 <details>
+
 <summary><strong>Mot distriktsstyrelsen</strong></summary>
 
 Distriktsstyrelsen beslutar om riktning, ramar, uppdrag och uppföljning. Kansliet genomför arbetet inom dessa ramar och bidrar med underlag när styrelsen behöver fatta beslut.
@@ -33,6 +35,7 @@ Distriktsstyrelsen beslutar om riktning, ramar, uppdrag och uppföljning. Kansli
 </details>
 
 <details>
+
 <summary><strong>Mot kommittéer</strong></summary>
 
 Kansliet stödjer kommittéernas arbete genom beredning, administration, genomförande och uppföljning. Kommittéordföranden leder kommitténs arbete, medan distriktschefen leder kanslipersonalen.
@@ -40,6 +43,7 @@ Kansliet stödjer kommittéernas arbete genom beredning, administration, genomf�
 </details>
 
 <details>
+
 <summary><strong>Mot föreningarna</strong></summary>
 
 Kansliet är ofta föreningarnas första kontakt med distriktet. Därför behöver bemötandet vara tydligt, kunnigt och hjälpsamt, även när svaret är att en fråga måste hanteras av en annan nivå.
@@ -54,6 +58,6 @@ Därför ska detaljer om bemanning, funktioner och interna arbetsflöden beskriv
 
 ## Basuppgifter sätter en viktig ram
 
-Kansliets arbete behöver hänga ihop med de uppgifter som distriktet ansvarar för inom svensk fotboll. De beskrivs under [verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+Kansliets arbete behöver hänga ihop med de uppgifter som distriktet ansvarar för inom svensk fotboll. De beskrivs under [verksamhetsområden och basuppgifter](../strategi/verksamhetsomraden-och-basuppgifter.md).
 
 När uppdrag, resurser och ambitioner inte går ihop behöver det lyftas tillbaka till rätt nivå. Kansliet ska inte bära otydliga prioriteringar ensam.

@@ -13,7 +13,7 @@ Uppföljning visar hur det går. Återrapportering ser till att rätt nivå får
 Det är en del av styrningen, inte ett administrativt efterarbete. Utan uppföljning blir prioriteringar svåra att lära av, beslut svåra att kontrollera och ansvar svårt att bära.
 
 {% hint style="info" %}
-Återrapportering ska ske till den nivå som gett uppdraget, fattat beslutet eller har uppföljningsansvar. Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Återrapportering ska ske till den nivå som gett uppdraget, fattat beslutet eller har uppföljningsansvar. Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi/ansvarsmatris.md).
 {% endhint %}
 
 ## Det som följs upp blir möjligt att styra
@@ -70,6 +70,6 @@ När frågan är färdig avslutas den. Om förutsättningarna ändrats kan nytt 
 
 Uppföljning ska inte bara leta fel. Den ska hjälpa organisationen att förstå vad som fungerar och vad som behöver ändras.
 
-Det gäller särskilt [prioriteringar och mål](../strategi-och-operativt-uppdrag/prioriteringar-och-mal.md). Det räcker inte alltid att veta vad som har gjorts. Distriktet behöver också förstå vad arbetet har lett till.
+Det gäller särskilt [prioriteringar och mål](../strategi/prioriteringar-och-mal.md). Det räcker inte alltid att veta vad som har gjorts. Distriktet behöver också förstå vad arbetet har lett till.
 
 En bra återrapportering ska vara ärlig och användbar: hur det går, vad som skaver, vilka risker som finns, vad som behöver beslutas och vem som ansvarar för nästa steg.

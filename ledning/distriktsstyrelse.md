@@ -10,7 +10,7 @@ coverY: 0
 
 Distriktsstyrelsen leder Smålands Fotbollförbund mellan de demokratiska mötena. Den får sitt mandat från föreningarna och ska använda det inom de ramar som följer av stadgar, demokratiska beslut och gällande dokument.
 
-Styrelsens sida ska beskriva styrelsens roll. Frågor om nivåerna i hela organisationen hör till [styrarkitekturen](../organisation/styrarkitektur.md), frågor om rollförståelse till [ansvar och roller](../organisation/ansvar-och-roller.md), frågor om delegation till [delegation](delegation.md) och konkreta ansvarskedjor till [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Styrelsens sida ska beskriva styrelsens roll. Frågor om nivåerna i hela organisationen hör till [styrarkitekturen](../organisation/styrarkitektur.md), frågor om rollförståelse till [ansvar och roller](../organisation/ansvar-och-roller.md), frågor om delegation till [delegation](delegation.md) och konkreta ansvarskedjor till [ansvarsmatrisen](../strategi/ansvarsmatris.md).
 
 {% hint style="info" %}
 När det är oklart vad som väger tyngst används [normordningen](../grund/normordning.md). Den här sidan ska inte ersätta stadgar, arbetsordning eller delegationsordning.

@@ -11,7 +11,7 @@ coverY: 0
 
 Styrarkitekturen visar hur Smålands Fotbollförbund hänger ihop som styrsystem. Den hjälper läsaren att se vilken nivå en fråga hör till och hur nivåerna samspelar.
 
-Rollförståelse finns i [ansvar och roller](ansvar-och-roller.md). Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Rollförståelse finns i [ansvar och roller](ansvar-och-roller.md). Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](../strategi/ansvarsmatris.md).
 
 ## Fem nivåer som behöver varandra
 
@@ -79,8 +79,8 @@ I den löpande styrningen är sambandet mellan distriktsstyrelsen, kommittéordf
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="../ledning/distriktsstyrelse.md"><strong>Distriktsstyrelsen</strong></a><br>Sätter riktning, beslutar ramar och följer upp helheten.</td></tr><tr><td><a href="../underliggande-organ/kommitteer.md"><strong>Kommittéerna</strong></a><br>Bidrar med sakkunskap, beredning och utveckling inom sina områden.</td></tr><tr><td><a href="../ledning/distriktschef.md"><strong>Distriktschefen</strong></a><br>Leder den löpande verksamheten inom beslutade ramar.</td></tr></tbody></table>
 
-Den konkreta ansvarskedjan – vem som normalt bereder, beslutar, verkställer, följer upp och granskar – finns i [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Begreppen för ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md).
+Den konkreta ansvarskedjan – vem som normalt bereder, beslutar, verkställer, följer upp och granskar – finns i [ansvarsmatrisen](../strategi/ansvarsmatris.md). Begreppen för ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md).
 
 ## När gränserna hålls blir arbetet friare
 
-Styrarkitekturen finns för att göra organisationen lättare att arbeta i, inte för att göra den stel. När en gräns är oklar ska den prövas mot [ansvar och roller](ansvar-och-roller.md), [delegation](../ledning/delegation.md) eller [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Styrarkitekturen finns för att göra organisationen lättare att arbeta i, inte för att göra den stel. När en gräns är oklar ska den prövas mot [ansvar och roller](ansvar-och-roller.md), [delegation](../ledning/delegation.md) eller [ansvarsmatrisen](../strategi/ansvarsmatris.md).

@@ -32,7 +32,7 @@ Svenska Fotbollförbundet är fotbollens nationella specialidrottsförbund. Små
 
 Det handlar bland annat om stadgar, tävlingsregler, representationsbestämmelser, utbildningssystem, riktlinjer, basuppgifter och gemensamma uppdrag.
 
-Det betyder inte att distriktet bara är en utförare. Smålands Fotbollförbund har egna stadgar, egna demokratiska organ och eget ansvar. Men uppdraget utförs inom svensk fotbolls gemensamma system som beskrivs i [verksamhetsområden och basuppgifter](../strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md).
+Det betyder inte att distriktet bara är en utförare. Smålands Fotbollförbund har egna stadgar, egna demokratiska organ och eget ansvar. Men uppdraget utförs inom svensk fotbolls gemensamma system som beskrivs i [verksamhetsområden och basuppgifter](../strategi/verksamhetsomraden-och-basuppgifter.md).
 
 ### RF-SISU Småland är samverkanspart, inte överordnad nivå
 
