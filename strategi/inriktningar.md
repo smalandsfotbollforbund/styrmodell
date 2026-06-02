@@ -10,7 +10,7 @@ coverY: 0
 
 Strategiska inriktningar beskriver de större förflyttningar som Smålands Fotbollförbund behöver göra över tid.
 
-De ligger mellan den långsiktiga riktningen i [vision, mission och verksamhetsidé](vision-mission-och-verksamhetside.md) och de mer tidsbundna [prioriteringarna och målen](prioriteringar-och-mal.md). De ska ge stadga åt strategin utan att låsa varje steg.
+De ligger mellan den långsiktiga riktningen i [vision, mission och verksamhetsidé](grund.md) och de mer tidsbundna [prioriteringarna och målen](prioriteringar.md). De ska ge stadga åt strategin utan att låsa varje steg.
 
 {% hint style="info" %}
 En strategisk inriktning är inte en aktivitet. Den beskriver vad distriktet behöver röra sig mot. Aktiviteter, resurser och uppföljning hör hemma i verksamhetsplan, budget och årscykel.

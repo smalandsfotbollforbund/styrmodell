@@ -10,7 +10,7 @@ coverY: 0
 
 Planering och uppföljning är rytmen i styrningen.
 
-Den här sidan beskriver årscykeln: hur riktning, plan, budget, genomförande, uppföljning och demokratiska processer ska få plats i rätt ordning. Principerna för återrapportering och avvikelser beskrivs i [uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md). Risk, kontroll och attest beskrivs i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
+Den här sidan beskriver årscykeln: hur riktning, plan, budget, genomförande, uppföljning och demokratiska processer ska få plats i rätt ordning. Principerna för återrapportering och avvikelser beskrivs i [uppföljning och återrapportering](../arbetssatt/uppfoljning-och-aterrapportering.md). Risk, kontroll och attest beskrivs i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
 
 {% hint style="info" %}
 Den här sidan beskriver principerna för årscykeln. Datum, mallar, mötesplaner och detaljerade processflöden hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
@@ -63,7 +63,7 @@ En prioritering utan resurser är inte en verklig prioritering. En budget utan t
 
 Organisationen ska veta när verksamhet, ekonomi, prioriteringar och beslut ska följas upp och till vilken nivå återrapportering ska ske.
 
-Principerna för återrapportering finns i [uppföljning och återrapportering](../processer-och-arbetssatt/uppfoljning-och-aterrapportering.md).
+Principerna för återrapportering finns i [uppföljning och återrapportering](../arbetssatt/uppfoljning-och-aterrapportering.md).
 {% endcolumn %}
 
 {% column %}

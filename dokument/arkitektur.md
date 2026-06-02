@@ -181,7 +181,7 @@ Om ett stödmaterial börjar få normerande betydelse ska det prövas om det i s
 
 Ett externt dokument påverkar distriktet, men beslutas eller ägs av annan aktör. Det kan till exempel vara RF:s stadgar, Svenska Fotbollförbundets stadgar, RF:s rekommendation för god demokratisk styrning, basuppgifter eller tävlingsbestämmelser.
 
-Mer om detta finns i [externa bärande dokument](externa-barande-dokument.md).
+Mer om detta finns i [externa bärande dokument](externa.md).
 
 </details>
 

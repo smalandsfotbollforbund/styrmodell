@@ -1,15 +1,16 @@
 ---
-cover: ../.gitbook/assets/cover-dokumentation.svg
 description: >-
   Hur dokumentation och protokoll gör beslut, ansvar och uppdrag möjliga att
   hitta, förstå, verkställa och granska.
+cover: ../.gitbook/assets/cover-dokumentation.svg
+coverY: 0
 ---
 
 # Dokumentation och protokoll
 
 Dokumentation är organisationens minne.
 
-Den här sidan handlar om hur beslut, uppdrag och protokoll ska dokumenteras så att de går att följa. Dokumenttyper, metadata, versioner, dokumentägarskap och dokumentförvaltning beskrivs i [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md).
+Den här sidan handlar om hur beslut, uppdrag och protokoll ska dokumenteras så att de går att följa. Dokumenttyper, metadata, versioner, dokumentägarskap och dokumentförvaltning beskrivs i [dokumentarkitekturen](../dokument/arkitektur.md).
 
 {% hint style="info" %}
 Dokumentation ska vara tillräcklig för ansvar och granskning, men inte tyngre än nödvändigt. Målet är reda, inte pappersberg.
@@ -37,22 +38,22 @@ Ett beslut bör vara skrivet så att nästa steg går att genomföra.
 
 {% stepper %}
 {% step %}
-**Skriv vad som beslutas**  
+**Skriv vad som beslutas**\
 Beslutet ska vara tillräckligt tydligt för att kunna verkställas.
 {% endstep %}
 
 {% step %}
-**Ange ansvar**  
+**Ange ansvar**\
 Det ska framgå vem eller vilken funktion som ansvarar för nästa steg.
 {% endstep %}
 
 {% step %}
-**Ange tid och återrapportering**  
+**Ange tid och återrapportering**\
 När ska något vara klart, och till vem ska återrapportering ske?
 {% endstep %}
 
 {% step %}
-**Ange grund när det behövs**  
+**Ange grund när det behövs**\
 Om beslutet bygger på delegation, särskilt mandat eller tidigare beslut bör det gå att följa.
 {% endstep %}
 {% endstepper %}
@@ -69,6 +70,6 @@ Skriftliga beslut kan vara praktiska, men ska vara undantag. De får inte bli et
 
 Dokumentation ska hantera personuppgifter och känsliga uppgifter varsamt.
 
-Det gäller särskilt i valberedningsarbete, disciplinärenden, personalfrågor, incidenter och ärenden som rör enskilda föreningar eller personer. Publicering, arkivering, arbetsmaterial och versionshantering ska hanteras enligt [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md) och gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Det gäller särskilt i valberedningsarbete, disciplinärenden, personalfrågor, incidenter och ärenden som rör enskilda föreningar eller personer. Publicering, arkivering, arbetsmaterial och versionshantering ska hanteras enligt [dokumentarkitekturen](../dokument/arkitektur.md) och gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 Bra dokumentation gör styrningen tydligare utan att göra organisationen tung. Det är där balansen ligger.

@@ -34,7 +34,7 @@ När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer k
 
 <summary><strong>När beredning börjar uppfattas som beslut</strong></summary>
 
-Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning, beslut och verkställighet](../processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md).
+Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning, beslut och verkställighet](../arbetssatt/beredning-beslut-och-verkstallighet.md).
 
 </details>
 
@@ -58,7 +58,7 @@ Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat 
 
 <summary><strong>När granskning kommer för nära genomförandet</strong></summary>
 
-Granskande funktioner behöver stå fria nog att göra sitt jobb. Deras uppdrag beskrivs under [granskande funktioner](../granskande/revision-och-lekmannarevision.md).
+Granskande funktioner behöver stå fria nog att göra sitt jobb. Deras uppdrag beskrivs under [granskande funktioner](../granskande/revision.md).
 
 </details>
 

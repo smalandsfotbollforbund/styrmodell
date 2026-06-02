@@ -33,27 +33,25 @@
   * [Referensgrupper](underliggande-organ/referensgrupper.md)
 * [Granskande funktioner](granskande/README.md)
   * [Valberedning](granskande/valberedning.md)
-  * [Revision och lekmannarevision](granskande/revision-och-lekmannarevision.md)
+  * [Revision och lekmannarevision](granskande/revision.md)
   * [Disciplinnämnd](granskande/disciplinnamnd.md)
 * [Strategi och operativt uppdrag](strategi/README.md)
   * [Strategihus](strategi/strategihus.md)
-  * [Vision, mission och verksamhetsidé](strategi/vision-mission-och-verksamhetside.md)
-  * [Strategiska inriktningar](strategi/strategiska-inriktningar.md)
-  * [Prioriteringar och mål](strategi/prioriteringar-och-mal.md)
+  * [Vision, mission och verksamhetsidé](strategi/grund.md)
+  * [Strategiska inriktningar](strategi/inriktningar.md)
+  * [Prioriteringar och mål](strategi/prioriteringar.md)
   * [Verksamhetsområden och basuppgifter](strategi/verksamhetsomraden-och-basuppgifter.md)
   * [Planering, uppföljning och årscykel](strategi/planering-uppfoljning-och-arscykel.md)
   * [Ansvarsmatris](strategi/ansvarsmatris.md)
+* [Processer och arbetssätt](arbetssatt/README.md)
+  * [Uppföljning och återrapportering](arbetssatt/uppfoljning-och-aterrapportering.md)
+  * [Beredning, beslut och verkställighet](arbetssatt/beredning-beslut-och-verkstallighet.md)
+  * [Dokumentation och protokoll](arbetssatt/dokumentation-och-protokoll.md)
+  * [Möteshantering](arbetssatt/moteshantering.md)
+* [Styrande dokument](dokument/README.md)
+  * [Dokumentarkitektur](dokument/arkitektur.md)
+  * [Externa bärande dokument](dokument/externa.md)
 
 ## Demokratisk styrning
 
-## Processer och arbetssätt
-
-* [Beredning, beslut och verkställighet](processer-och-arbetssatt/beredning-beslut-och-verkstallighet.md)
-* [Uppföljning och återrapportering](processer-och-arbetssatt/uppfoljning-och-aterrapportering.md)
-* [Dokumentation och protokoll](processer-och-arbetssatt/dokumentation-och-protokoll.md)
-* [Möteshantering](processer-och-arbetssatt/moteshantering.md)
-
 ## Styrande dokument
-
-* [Dokumentarkitektur](styrande-dokument/dokumentarkitektur.md)
-* [Externa bärande dokument](styrande-dokument/externa-barande-dokument.md)

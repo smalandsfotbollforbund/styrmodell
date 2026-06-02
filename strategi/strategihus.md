@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-strategihus.svg
 description: >-
-  Hur vision, mission, verksamhetsidé, inriktningar, prioriteringar och mål hålls
-  ihop från strategi till vardag.
+  Hur vision, mission, verksamhetsidé, inriktningar, prioriteringar och mål
+  hålls ihop från strategi till vardag.
+cover: ../.gitbook/assets/cover-strategihus.svg
+coverY: 0
 ---
 
 # Strategihus
@@ -19,7 +20,7 @@ Strategihuset är en styrmodell för strategi. Det är inte en aktivitetslista o
 
 Strategihuset består av nivåer som svarar på olika frågor. Varje nivå gör sitt jobb — och bygger på nivån ovanför.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong><a href="vision-mission-och-verksamhetside.md">Vision, mission och verksamhetsidé</a></strong></td><td>Vart siktar distriktet på lång sikt? Varför finns distriktet? Hur verkar det?<br><em>Den långsiktiga riktningen och identiteten.</em></td><td><a href="../.gitbook/assets/cover-vision.svg">cover-vision.svg</a></td></tr><tr><td><strong><a href="strategiska-inriktningar.md">Strategiska inriktningar</a></strong></td><td>Vilka större förflyttningar behöver distriktet göra över tid?<br><em>Stadiga riktningar som bär strategin mellan visionen och periodvisa prioriteringar.</em></td><td><a href="../.gitbook/assets/cover-inriktningar.svg">cover-inriktningar.svg</a></td></tr><tr><td><strong><a href="prioriteringar-och-mal.md">Prioriteringar och mål</a></strong></td><td>Vad ska distriktet samla särskild kraft kring under perioden?<br><em>Tidsbundna fokus med mål, ansvar, resurser och uppföljning.</em></td><td><a href="../.gitbook/assets/cover-prioriteringar.svg">cover-prioriteringar.svg</a></td></tr><tr><td><strong><a href="verksamhetsomraden-och-basuppgifter.md">Verksamhetsområden och basuppgifter</a></strong></td><td>Vilket grunduppdrag ska fungera i vardagen?<br><em>Det som alltid måste bäras — oavsett strategisk period.</em></td><td><a href="../.gitbook/assets/cover-basuppgifter.svg">cover-basuppgifter.svg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="grund.md"><strong>Vision, mission och verksamhetsidé</strong></a></td><td>Vart siktar distriktet på lång sikt? Varför finns distriktet? Hur verkar det?<br><em>Den långsiktiga riktningen och identiteten.</em></td><td><a href="../.gitbook/assets/cover-vision.svg">cover-vision.svg</a></td></tr><tr><td><a href="inriktningar.md"><strong>Strategiska inriktningar</strong></a></td><td>Vilka större förflyttningar behöver distriktet göra över tid?<br><em>Stadiga riktningar som bär strategin mellan visionen och periodvisa prioriteringar.</em></td><td><a href="../.gitbook/assets/cover-inriktningar.svg">cover-inriktningar.svg</a></td></tr><tr><td><a href="prioriteringar.md"><strong>Prioriteringar och mål</strong></a></td><td>Vad ska distriktet samla särskild kraft kring under perioden?<br><em>Tidsbundna fokus med mål, ansvar, resurser och uppföljning.</em></td><td><a href="../.gitbook/assets/cover-prioriteringar.svg">cover-prioriteringar.svg</a></td></tr><tr><td><a href="verksamhetsomraden-och-basuppgifter.md"><strong>Verksamhetsområden och basuppgifter</strong></a></td><td>Vilket grunduppdrag ska fungera i vardagen?<br><em>Det som alltid måste bäras — oavsett strategisk period.</em></td><td><a href="../.gitbook/assets/cover-basuppgifter.svg">cover-basuppgifter.svg</a></td></tr></tbody></table>
 
 ## Allt viktigt kan inte vara prioriterat
 

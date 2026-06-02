@@ -174,7 +174,7 @@ Rangordning som avgör vilket dokument eller beslut som väger tyngst vid konfli
 
 <summary><strong>Dokumentarkitektur</strong></summary>
 
-Beskriver hur styrmodellen och dokumentarkivet hänger ihop, vilka dokumenttyper som används och hur dokument ska förvaltas. Kärnkällan finns i [dokumentarkitektur](../styrande-dokument/dokumentarkitektur.md).
+Beskriver hur styrmodellen och dokumentarkivet hänger ihop, vilka dokumenttyper som används och hur dokument ska förvaltas. Kärnkällan finns i [dokumentarkitektur](../dokument/arkitektur.md).
 
 </details>
 
@@ -223,7 +223,7 @@ Strukturer och arbetssätt som ska säkerställa ordning, spårbarhet, riskhante
 
 ## Dokumenttyper
 
-Dokumenttyperna definieras samlat i [dokumentarkitekturen](../styrande-dokument/dokumentarkitektur.md). Här ges bara korta stöddefinitioner.
+Dokumenttyperna definieras samlat i [dokumentarkitekturen](../dokument/arkitektur.md). Här ges bara korta stöddefinitioner.
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Stadgar</strong><br>Organisationens högsta interna normnivå.</td></tr><tr><td><strong>Policy</strong><br>Övergripande princip eller viljeinriktning inom ett område.</td></tr><tr><td><strong>Arbetsordning</strong><br>Dokument som beskriver hur ett organ arbetar inom sitt uppdrag.</td></tr><tr><td><strong>Delegationsordning</strong><br>Dokument som anger vem som får fatta beslut i vilka typer av ärenden.</td></tr><tr><td><strong>Instruktion</strong><br>Dokument som beskriver ansvar, mandat och förväntningar för en roll eller funktion.</td></tr><tr><td><strong>Riktlinje</strong><br>Vägledning för tillämpning eller bedömning.</td></tr><tr><td><strong>Processbeskrivning</strong><br>Beskrivning av hur ett återkommande arbetsflöde genomförs.</td></tr><tr><td><strong>Reglemente</strong><br>Dokument med fasta regler för ett område, organ eller en tävlingsform.</td></tr><tr><td><strong>Bilaga</strong><br>Stödmaterial, mall, översikt eller kompletterande underlag.</td></tr><tr><td><strong>Externt dokument</strong><br>Dokument som påverkar distriktet men beslutas av annan aktör.</td></tr></tbody></table>
 
