@@ -10,7 +10,7 @@ coverY: 0
 
 Dokumentation är organisationens minne.
 
-Den här sidan handlar om hur beslut, uppdrag och protokoll ska dokumenteras så att de går att följa. Dokumenttyper, metadata, versioner, dokumentägarskap och dokumentförvaltning beskrivs i [dokumentarkitekturen](../dokument/arkitektur.md).
+Den här sidan handlar om hur beslut, uppdrag och protokoll ska dokumenteras så att de går att följa. Dokumenttyper, metadata, versioner, dokumentägarskap och dokumentförvaltning beskrivs i [dokumentarkitekturen](../styrande-dokument/arkitektur.md).
 
 {% hint style="info" %}
 Dokumentation ska vara tillräcklig för ansvar och granskning, men inte tyngre än nödvändigt. Målet är reda, inte pappersberg.
@@ -70,6 +70,6 @@ Skriftliga beslut kan vara praktiska, men ska vara undantag. De får inte bli et
 
 Dokumentation ska hantera personuppgifter och känsliga uppgifter varsamt.
 
-Det gäller särskilt i valberedningsarbete, disciplinärenden, personalfrågor, incidenter och ärenden som rör enskilda föreningar eller personer. Publicering, arkivering, arbetsmaterial och versionshantering ska hanteras enligt [dokumentarkitekturen](../dokument/arkitektur.md) och gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Det gäller särskilt i valberedningsarbete, disciplinärenden, personalfrågor, incidenter och ärenden som rör enskilda föreningar eller personer. Publicering, arkivering, arbetsmaterial och versionshantering ska hanteras enligt [dokumentarkitekturen](../styrande-dokument/arkitektur.md) och gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 Bra dokumentation gör styrningen tydligare utan att göra organisationen tung. Det är där balansen ligger.

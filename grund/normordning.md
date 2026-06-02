@@ -67,7 +67,7 @@ Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://ap
 
 ## När något skaver
 
-Om två dokument verkar säga olika saker gäller det dokument eller beslut som ligger högre i normordningen. Om frågan gäller vilken dokumenttyp som ska användas, hur dokument ska förvaltas eller var ett dokument hör hemma, ska den prövas mot [dokumentarkitekturen](../dokument/arkitektur.md).
+Om två dokument verkar säga olika saker gäller det dokument eller beslut som ligger högre i normordningen. Om frågan gäller vilken dokumenttyp som ska användas, hur dokument ska förvaltas eller var ett dokument hör hemma, ska den prövas mot [dokumentarkitekturen](../styrande-dokument/arkitektur.md).
 
 Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå. Den ska inte lösas genom tradition, personligt omdöme eller informella genvägar.
 

@@ -10,10 +10,10 @@ coverY: 0
 
 Styrande principer hjälper Smålands Fotbollförbund att använda styrmodellen klokt när en fråga inte är självklar.
 
-De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../dokument/arkitektur.md), [ansvarsmatrisen](../strategi/ansvarsmatris.md) eller beslutade dokument. De ska hjälpa läsaren att hitta rätt kärnkälla.
+De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../styrande-dokument/arkitektur.md), [ansvarsmatrisen](../strategi/ansvarsmatris.md) eller beslutade dokument. De ska hjälpa läsaren att hitta rätt kärnkälla.
 
 {% hint style="info" %}
-Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv används [dokumentarkitekturen](../dokument/arkitektur.md). Om frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi/ansvarsmatris.md).
+Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv används [dokumentarkitekturen](../styrande-dokument/arkitektur.md). Om frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi/ansvarsmatris.md).
 {% endhint %}
 
 ### Om struktur och mandat
@@ -82,7 +82,7 @@ Ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md). Konkre
 
 <summary><strong>Dokumentation ska räcka för ansvar</strong></summary>
 
-Principerna för dokumentation, protokoll och spårbarhet finns i [dokumentation och protokoll](../arbetssatt/dokumentation-och-protokoll.md). Dokumenttyper, metadata, versioner och förvaltning finns i [dokumentarkitekturen](../dokument/arkitektur.md).
+Principerna för dokumentation, protokoll och spårbarhet finns i [dokumentation och protokoll](../arbetssatt/dokumentation-och-protokoll.md). Dokumenttyper, metadata, versioner och förvaltning finns i [dokumentarkitekturen](../styrande-dokument/arkitektur.md).
 
 </details>
 

@@ -48,9 +48,9 @@
   * [Beredning, beslut och verkställighet](arbetssatt/beredning-beslut-och-verkstallighet.md)
   * [Dokumentation och protokoll](arbetssatt/dokumentation-och-protokoll.md)
   * [Möteshantering](arbetssatt/moteshantering.md)
-* [Styrande dokument](dokument/README.md)
-  * [Dokumentarkitektur](dokument/arkitektur.md)
-  * [Externa bärande dokument](dokument/externa.md)
+* [Styrande dokument](styrande-dokument/README.md)
+  * [Dokumentarkitektur](styrande-dokument/arkitektur.md)
+  * [Externa bärande dokument](styrande-dokument/externa.md)
 
 ## Demokratisk styrning
 
