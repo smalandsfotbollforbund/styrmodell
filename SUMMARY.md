@@ -16,7 +16,7 @@
   * [Årsmöte](demokrati/arsmote.md)
   * [Representantskap](demokrati/representantskap.md)
   * [Val, ombud och rösträtt](demokrati/val-ombud-och-rostratt.md)
-  * [Motioner och initiativrätt](demokrati/motioner-och-initiativratt.md)
+  * [Motioner och initiativrätt](demokrati/motion.md)
   * [Demokratisk legitimitet och medlemsinflytande](demokrati/demokratisk-legitimitet-och-medlemsinflytande.md)
 * [Distriktsstyrelsen och ledningen](ledning/README.md)
   * [Distriktsstyrelse](ledning/distriktsstyrelse.md)

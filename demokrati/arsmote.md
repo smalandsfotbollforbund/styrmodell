@@ -27,7 +27,7 @@ Inflytandet på årsmötet är reellt och konkret. Det utövas på flera sätt:
 
 **Närvaro och rösträtt.** Varje medlemsförening har rätt att skicka två ombud till årsmötet. Ombuden talar och röstar på föreningens vägnar. Det är ombudens samlade röster som avgör valen och besluten. En förening som väljer att inte skicka ombud väljer också bort sin röst.
 
-**Motionsrätten.** Alla medlemsföreningar har rätt att lämna in [motioner](motioner-och-initiativratt.md) inför årsmötet. Det är det direkta sättet att driva en fråga till beslut. En motion kan handla om allt från stadgeändringar och ekonomiska ramar till principiella ställningstaganden om distriktets inriktning. Att skriva en motion är att ta ansvar för distriktet, inte att klaga.
+**Motionsrätten.** Alla medlemsföreningar har rätt att lämna in [motioner](motion.md) inför årsmötet. Det är det direkta sättet att driva en fråga till beslut. En motion kan handla om allt från stadgeändringar och ekonomiska ramar till principiella ställningstaganden om distriktets inriktning. Att skriva en motion är att ta ansvar för distriktet, inte att klaga.
 
 **Valrätten.** Föreningarna väljer [distriktsstyrelse](../ledning/distriktsstyrelse.md), [disciplinnämnd](../granskande/disciplinnamnd.md), [revisorer](../granskande/revision.md) och [valberedning](../granskande/valberedning.md). Det är ett genuint förtroendeuppdrag i båda riktningarna: den som väljs bär ett ansvar och de som väljer bör ha bildat sig en uppfattning om vem som är rätt för uppdraget. Valberedningens arbete är till för att underlätta det.
 
