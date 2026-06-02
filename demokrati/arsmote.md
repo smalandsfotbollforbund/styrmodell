@@ -13,6 +13,26 @@ Det är här [medlemsföreningarna](https://app.gitbook.com/s/ENOAH9wAe9WidINWNB
 
 I en [folkrörelse](../grund/folkrorelse.md) börjar mandatet hos medlemmarna som genom sina [ombud](val-ombud-och-rostratt.md) agerar ägare och därmed bär den demokratiska grunden. Det är platsen där distriktets styrning får sin [legitimitet](demokratisk-legitimitet-och-medlemsinflytande.md).
 
+## Vad är då ett årsmöte?
+
+Årsmötet är det tillfälle då Smålands Fotbollförbund formellt tillhör sina medlemsföreningar; inte styrelsen, inte kansliet och inte distriktschefen. Det är föreningarna som samlas, tar plats och bestämmer. Alla andra delar av organisationen finns till för att verkställa och bereda det som föreningarna ytterst beslutat eller delegerat.
+
+På årsmötet sker tre saker av avgörande vikt: föreningarna granskar vad som gjorts under det gångna året (ansvarsprövning), de beslutar om vad som ska gälla framåt (uppdrag och inriktning), och de väljer vilka personer som ska bära det förtroendet (val). Det är inte tre separata punkter på en dagordning utan tre delar av samma demokratiska kedja.
+
+Att distriktet fungerar väl, att resurserna används klokt och att riktningen känns rätt; det är föreningarnas sak att bedöma. Och det är på årsmötet som den bedömningen görs formellt och med bindande verkan.
+
+## Föreningarnas möjlighet att påverka
+
+Inflytandet på årsmötet är reellt och konkret. Det utövas på flera sätt:
+
+**Närvaro och rösträtt.** Varje medlemsförening har rätt att skicka två ombud till årsmötet. Ombuden talar och röstar på föreningens vägnar. Det är ombudens samlade röster som avgör valen och besluten. En förening som väljer att inte skicka ombud väljer också bort sin röst.
+
+**Motionsrätten.** Alla medlemsföreningar har rätt att lämna in [motioner](motioner-och-initiativratt.md) inför årsmötet. Det är det direkta sättet att driva en fråga till beslut. En motion kan handla om allt från stadgeändringar och ekonomiska ramar till principiella ställningstaganden om distriktets inriktning. Att skriva en motion är att ta ansvar för distriktet, inte att klaga.
+
+**Valrätten.** Föreningarna väljer [styrelse](../ledning/distriktsstyrelse.md), [disciplinnämnd](../granskande/disciplinnamnd.md), [revisorer](../granskande/revision.md) och [valberedning](../granskande/valberedning.md). Det är ett genuint förtroendeuppdrag i båda riktningarna: den som väljs bär ett ansvar och de som väljer bör ha bildat sig en uppfattning om vem som är rätt för uppdraget. Valberedningens arbete är till för att underlätta det.
+
+**Rätten att yttra sig och ställa frågor.** Även utanför formella omröstningar har föreningarna rätt att göra sin röst hörd. Det är den muntliga demokratin; inte minst i samband med verksamhetsberättelse och ekonomisk redovisning.
+
 {% hint style="info" %}
 ## Allt ska inte upp på årsmötet
 
@@ -21,13 +41,7 @@ Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska av
 Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisation/styrarkitektur.md) och [de styrande principerna](../grund/styrande-principer.md).
 {% endhint %}
 
-## Föreningarnas väg in
-
-Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning. Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande/valberedning.md).
-
-## Begriplighet är en del av demokratin
-
-För att föreningarna ska kunna ta ansvar behöver beslutsunderlag och förslag vara möjliga att förstå. Hur det stärker distriktets demokratiska legitimitet beskrivs i [demokratisk legitimitet och medlemsinflytande](demokratisk-legitimitet-och-medlemsinflytande.md).
+Begriplighet är en del av demokratin och för att föreningarna ska kunna ta ansvar behöver beslutsunderlag och förslag vara möjliga att förstå. Det stärker distriktets [demokratiska legitimitet och medlemsinflytande](demokratisk-legitimitet-och-medlemsinflytande.md).
 
 ## Årsmöte och representantskap har olika roller
 
@@ -37,11 +51,7 @@ För att föreningarna ska kunna ta ansvar behöver beslutsunderlag och förslag
 {% endcolumn %}
 
 {% column %}
-[**Representantskapet**](representantskap.md) är ett medlemsorgan med tyngd i tävlingsfrågor. Det kan förstås som ett avgränsat mini-årsmöte, men enbart för tävlingsfrågor.
-
-{% hint style="warning" %}
-Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor som inte hör till representantskapets tävlingsmandat behöver hitta rätt väg i styrmodellen.
-{% endhint %}
+[**Representantskapet**](representantskap.md) är ett medlemsorgan med tyngd i tävlingsfrågor. Det kan förstås som ett avgränsat mini-årsmöte, men enbart för tävlingsfrågor. Det ska dock inte användas som ett allmänt extra årsmöte.
 {% endcolumn %}
 {% endcolumns %}
 
