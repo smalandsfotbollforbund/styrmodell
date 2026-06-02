@@ -1,18 +1,19 @@
 ---
-cover: ../.gitbook/assets/cover-kommitteer.svg
 description: >-
   Kommittéernas roll som taktiska organ under distriktsstyrelsen med uppdrag att
   bereda, utveckla och följa upp inom sina sakområden.
+cover: ../.gitbook/assets/cover-kommitteer.svg
+coverY: 0
 ---
 
 # Kommittéer
 
 Kommittéerna ger Smålands Fotbollförbund kraft i sakfrågorna.
 
-De samlar kunskap, erfarenhet och föreningsnära perspektiv inom viktiga verksamhetsområden. Deras uppgift är att hjälpa distriktet att utveckla, bereda och följa upp arbetet inom sina områden, utan att bli egna styrelser vid sidan av [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md).
+De samlar kunskap, erfarenhet och föreningsnära perspektiv inom viktiga verksamhetsområden. Deras uppgift är att hjälpa distriktet att utveckla, bereda och följa upp arbetet inom sina områden, utan att bli egna styrelser vid sidan av [distriktsstyrelsen](../ledning/distriktsstyrelse.md).
 
 {% hint style="info" %}
-Kommittéerna verkar på den taktiska nivån i [styrarkitekturen](../organisationens-struktur/styrarkitektur.md). Deras konkreta uppdrag, arbetsformer och eventuell delegation ska framgå av gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Kommittéerna verkar på den taktiska nivån i [styrarkitekturen](../organisation/styrarkitektur.md). Deras konkreta uppdrag, arbetsformer och eventuell delegation ska framgå av gällande dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 {% endhint %}
 
 ## Sakkunskap med uppdrag
@@ -25,11 +26,12 @@ Men sakkunskap är inte samma sak som fritt mandat. Kommitténs arbete behöver 
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Beredning</strong><br>Tar fram underlag, vägval och förslag inför beslut.</td></tr><tr><td><strong>Utveckling</strong><br>Driver sakområdet framåt inom beslutad riktning.</td></tr><tr><td><strong>Uppföljning</strong><br>Följer hur arbetet utvecklas och när något behöver lyftas.</td></tr><tr><td><strong>Förankring</strong><br>Bidrar med föreningsnära perspektiv och sakkunskap från fotbollens vardag.</td></tr></tbody></table>
 
-Om en kommitté ska fatta beslut krävs delegation. Principerna finns i [delegation](../distriktsstyrelsen-och-ledningen/delegation.md), medan den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Om en kommitté ska fatta beslut krävs delegation. Principerna finns i [delegation](../ledning/delegation.md), medan den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 ## Tre gränser som gör arbetet tydligt
 
 <details>
+
 <summary><strong>Mot distriktsstyrelsen</strong></summary>
 
 Distriktsstyrelsen beslutar om kommitténs uppdrag, ramar och eventuell delegation. Kommittén ska inte skapa egen strategisk riktning vid sidan av styrelsens beslut.
@@ -37,13 +39,15 @@ Distriktsstyrelsen beslutar om kommitténs uppdrag, ramar och eventuell delegati
 </details>
 
 <details>
+
 <summary><strong>Mot kansliet</strong></summary>
 
-[Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) stödjer kommitténs arbete. Kommittéordföranden leder kommitténs arbete. [Distriktschefen](../distriktsstyrelsen-och-ledningen/distriktschef.md) leder kanslipersonalen.
+[Kansliet](../ledning/kansli.md) stödjer kommitténs arbete. Kommittéordföranden leder kommitténs arbete. [Distriktschefen](../ledning/distriktschef.md) leder kanslipersonalen.
 
 </details>
 
 <details>
+
 <summary><strong>Mot arbetsgrupper och referensgrupper</strong></summary>
 
 Kommittén kan tillsätta [arbetsgrupper](arbetsgrupper.md) för avgränsade uppdrag inom sitt sakområde. Arbetsgruppen rapporterar tillbaka till kommittén och ska normalt ha avslutat sitt uppdrag inom 3–6 månader. [Referensgrupper](referensgrupper.md) kan förstärka arbetet med råd och perspektiv. Varken arbetsgrupper eller referensgrupper ska skapa egna beslutsvägar.

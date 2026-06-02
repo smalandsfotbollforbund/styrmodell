@@ -8,39 +8,31 @@
   * [Värdegrund](grund/vardegrund.md)
   * [Normordning](grund/normordning.md)
   * [Styrande principer](grund/styrande-principer.md)
-
-## Grund och värden
-
-## Organisationens struktur
-
-* [Styrarkitektur](organisationens-struktur/styrarkitektur.md)
-* [Ansvar och roller](organisationens-struktur/ansvar-och-roller.md)
-* [Förhållande i idrottens ekosystem](organisationens-struktur/forhallande-i-idrottens-ekosystem.md)
+* [Organisationsstruktur](organisation/README.md)
+  * [Styrarkitektur](organisation/styrarkitektur.md)
+  * [Ansvar och roller](organisation/ansvar-och-roller.md)
+  * [Förhållande i idrottens ekosystem](organisation/forhallande-i-idrottens-ekosystem.md)
+* [Demokratisk styrning](demokrati/README.md)
+  * [Årsmöte](demokrati/arsmote.md)
+  * [Representantskap](demokrati/representantskap.md)
+  * [Val, ombud och rösträtt](demokrati/val-ombud-och-rostratt.md)
+  * [Motioner och initiativrätt](demokrati/motioner-och-initiativratt.md)
+  * [Demokratisk legitimitet och medlemsinflytande](demokrati/demokratisk-legitimitet-och-medlemsinflytande.md)
+* [Distriktsstyrelsen och ledningen](ledning/README.md)
+  * [Distriktsstyrelse](ledning/distriktsstyrelse.md)
+  * [Presidium](ledning/presidium.md)
+  * [Arbetsutskott](ledning/arbetsutskott.md)
+  * [Hedersordförande och hedersledamot](ledning/hedersordforande-och-hedersledamot.md)
+  * [Distriktschef](ledning/distriktschef.md)
+  * [Kansli](ledning/kansli.md)
+  * [Delegation](ledning/delegation.md)
+  * [Intern kontroll och attest](ledning/intern-kontroll-och-attest.md)
+* [Underliggande organ](underliggande-organ/README.md)
+  * [Kommittéer](underliggande-organ/kommitteer.md)
+  * [Arbetsgrupper](underliggande-organ/arbetsgrupper.md)
+  * [Referensgrupper](underliggande-organ/referensgrupper.md)
 
 ## Demokratisk styrning
-
-* [Årsmöte](demokratisk-styrning/arsmote.md)
-* [Representantskap](demokratisk-styrning/representantskap.md)
-* [Val, ombud och rösträtt](demokratisk-styrning/val-ombud-och-rostratt.md)
-* [Motioner och initiativrätt](demokratisk-styrning/motioner-och-initiativratt.md)
-* [Demokratisk legitimitet och medlemsinflytande](demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md)
-
-## Distriktsstyrelsen och ledningen
-
-* [Distriktsstyrelse](distriktsstyrelsen-och-ledningen/distriktsstyrelse.md)
-* [Presidium](distriktsstyrelsen-och-ledningen/presidium.md)
-* [Arbetsutskott](distriktsstyrelsen-och-ledningen/arbetsutskott.md)
-* [Hedersordförande och hedersledamot](distriktsstyrelsen-och-ledningen/hedersordforande-och-hedersledamot.md)
-* [Distriktschef](distriktsstyrelsen-och-ledningen/distriktschef.md)
-* [Kansli](distriktsstyrelsen-och-ledningen/kansli.md)
-* [Delegation](distriktsstyrelsen-och-ledningen/delegation.md)
-* [Intern kontroll och attest](distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md)
-
-## Kommittéer och arbetsgrupper
-
-* [Kommittéer](kommitteer-och-arbetsgrupper/kommitteer.md)
-* [Arbetsgrupper](kommitteer-och-arbetsgrupper/arbetsgrupper.md)
-* [Referensgrupper](kommitteer-och-arbetsgrupper/referensgrupper.md)
 
 ## Granskande funktioner
 

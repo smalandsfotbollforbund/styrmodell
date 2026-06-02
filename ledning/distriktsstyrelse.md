@@ -10,7 +10,7 @@ coverY: 0
 
 Distriktsstyrelsen leder Smålands Fotbollförbund mellan de demokratiska mötena. Den får sitt mandat från föreningarna och ska använda det inom de ramar som följer av stadgar, demokratiska beslut och gällande dokument.
 
-Styrelsens sida ska beskriva styrelsens roll. Frågor om nivåerna i hela organisationen hör till [styrarkitekturen](../organisationens-struktur/styrarkitektur.md), frågor om rollförståelse till [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md), frågor om delegation till [delegation](delegation.md) och konkreta ansvarskedjor till [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+Styrelsens sida ska beskriva styrelsens roll. Frågor om nivåerna i hela organisationen hör till [styrarkitekturen](../organisation/styrarkitektur.md), frågor om rollförståelse till [ansvar och roller](../organisation/ansvar-och-roller.md), frågor om delegation till [delegation](delegation.md) och konkreta ansvarskedjor till [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 {% hint style="info" %}
 När det är oklart vad som väger tyngst används [normordningen](../grund/normordning.md). Den här sidan ska inte ersätta stadgar, arbetsordning eller delegationsordning.
@@ -44,7 +44,7 @@ Kansliets dagliga ledning är [distriktschefens](distriktschef.md) ansvar. Styre
 
 <summary><strong>Avgör inte demokratiska frågor ensam</strong></summary>
 
-Frågor som hör till [årsmötet](../demokratisk-styrning/arsmote.md) eller [representantskapet](../demokratisk-styrning/representantskap.md) ska inte lösas i styrelserummet, oavsett om det går snabbare.
+Frågor som hör till [årsmötet](../demokrati/arsmote.md) eller [representantskapet](../demokrati/representantskap.md) ska inte lösas i styrelserummet, oavsett om det går snabbare.
 
 </details>
 
@@ -60,7 +60,7 @@ Muntliga eller informella uppdrag som inte protokollförts eller delegerats form
 
 <summary><strong>Håll styrning och sakarbete isär</strong></summary>
 
-[Kommittéerna](../kommitteer-och-arbetsgrupper/kommitteer.md) bidrar med sakkunskap inom sina områden. Styrelsen beslutar ramar och uppdrag — men ska inte bli en parallell kommitté.
+[Kommittéerna](../underliggande-organ/kommitteer.md) bidrar med sakkunskap inom sina områden. Styrelsen beslutar ramar och uppdrag — men ska inte bli en parallell kommitté.
 
 </details>
 

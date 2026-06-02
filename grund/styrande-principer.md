@@ -22,7 +22,7 @@ Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordni
 
 <summary><strong>Rätt fråga ska hamna på rätt nivå</strong></summary>
 
-En fråga ska hanteras där mandatet finns. Nivåerna beskrivs i [styrarkitekturen](../organisationens-struktur/styrarkitektur.md).
+En fråga ska hanteras där mandatet finns. Nivåerna beskrivs i [styrarkitekturen](../organisation/styrarkitektur.md).
 
 </details>
 
@@ -30,7 +30,7 @@ En fråga ska hanteras där mandatet finns. Nivåerna beskrivs i [styrarkitektur
 
 <summary><strong>Mandatet börjar hos föreningarna</strong></summary>
 
-Det demokratiska mandatet beskrivs i [folkrörelseprincipen](folkrorelse.md), [årsmötet](../demokratisk-styrning/arsmote.md), [representantskapet](../demokratisk-styrning/representantskap.md) och [demokratisk legitimitet och medlemsinflytande](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md).
+Det demokratiska mandatet beskrivs i [folkrörelseprincipen](folkrorelse.md), [årsmötet](../demokrati/arsmote.md), [representantskapet](../demokrati/representantskap.md) och [demokratisk legitimitet och medlemsinflytande](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md).
 
 </details>
 
@@ -38,7 +38,7 @@ Det demokratiska mandatet beskrivs i [folkrörelseprincipen](folkrorelse.md), [�
 
 <summary><strong>Roller ska inte blandas ihop</strong></summary>
 
-Skillnaden mellan nivåer, roller och uppdrag beskrivs i [styrarkitekturen](../organisationens-struktur/styrarkitektur.md), [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md), [distriktsstyrelse](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md).
+Skillnaden mellan nivåer, roller och uppdrag beskrivs i [styrarkitekturen](../organisation/styrarkitektur.md), [ansvar och roller](../organisation/ansvar-och-roller.md), [distriktsstyrelse](../ledning/distriktsstyrelse.md), [distriktschef](../ledning/distriktschef.md) och [kansli](../ledning/kansli.md).
 
 </details>
 
@@ -56,7 +56,7 @@ Beredning, beslut och verkställighet är olika delar av ansvarskedjan. Principe
 
 <summary><strong>Delegation ska vara tydlig och möjlig att följa</strong></summary>
 
-Principerna för delegation finns i [delegation](../distriktsstyrelsen-och-ledningen/delegation.md). Den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Principerna för delegation finns i [delegation](../ledning/delegation.md). Den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 </details>
 
@@ -90,7 +90,7 @@ Principerna för dokumentation, protokoll och spårbarhet finns i [dokumentation
 
 <summary><strong>Öppenhet ska vara begriplig</strong></summary>
 
-Öppenhet hör ihop med föreningarnas möjlighet att förstå och följa styrningen. Den demokratiska sidan av detta beskrivs i [demokratisk legitimitet och medlemsinflytande](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md).
+Öppenhet hör ihop med föreningarnas möjlighet att förstå och följa styrningen. Den demokratiska sidan av detta beskrivs i [demokratisk legitimitet och medlemsinflytande](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md).
 
 </details>
 
@@ -98,7 +98,7 @@ Principerna för dokumentation, protokoll och spårbarhet finns i [dokumentation
 
 <summary><strong>Kontroll är omsorg om förtroendet</strong></summary>
 
-Principerna för intern kontroll, risk och attest finns i [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+Principerna för intern kontroll, risk och attest finns i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
 
 </details>
 

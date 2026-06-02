@@ -26,7 +26,7 @@ En person kan bära flera roller i fotbollen. I styrningen behöver rollen änd�
 
 Förtroendevalda har uppdrag genom val eller beslut. Anställda har uppdrag genom sin anställning. Båda behövs, men de får inte blandas ihop.
 
-När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer konkreta ansvar ska läsaren gå till [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) eller [kansli](../distriktsstyrelsen-och-ledningen/kansli.md). När frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+När frågan gäller distriktsstyrelsens, distriktschefens eller kansliets mer konkreta ansvar ska läsaren gå till [distriktsstyrelsen](../ledning/distriktsstyrelse.md), [distriktschef](../ledning/distriktschef.md) eller [kansli](../ledning/kansli.md). När frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 ## Där ansvar ofta börjar glida
 
@@ -42,7 +42,7 @@ Beredning och beslut är olika ansvar. Grundprinciperna beskrivs i [beredning, b
 
 <summary><strong>När dialog blir informell styrning</strong></summary>
 
-Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade uppdrag. Om en beslutsväg används återkommande ska den prövas mot [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller rätt dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade uppdrag. Om en beslutsväg används återkommande ska den prövas mot [delegation](../ledning/delegation.md) eller rätt dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 </details>
 
@@ -50,7 +50,7 @@ Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade up
 
 <summary><strong>När sakkunskap blir eget mandat</strong></summary>
 
-Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md), [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md) och [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md) beskrivs på respektive sida.
+Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../underliggande-organ/kommitteer.md), [arbetsgrupper](../underliggande-organ/arbetsgrupper.md), [arbetsutskott](../ledning/arbetsutskott.md) och [referensgrupper](../underliggande-organ/referensgrupper.md) beskrivs på respektive sida.
 
 </details>
 
@@ -77,4 +77,4 @@ Om frågan gäller ansvarskedjan, alltså vem som bereder, beslutar, verkställe
 
 Många gråzoner uppstår för att människor försöker hjälpa till. Det är bra. Men om gråzonen återkommer ska den inte vänjas in.
 
-Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../readme/begreppslista.md) för orden, [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.
+Då behöver distriktet gå tillbaka till rätt plats i styrmodellen: [styrarkitekturen](styrarkitektur.md) för nivåerna och det visuella schemat, [begreppslistan](../readme/begreppslista.md) för orden, [delegation](../ledning/delegation.md) för beslutanderätt och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md) för konkret ansvarsfördelning.

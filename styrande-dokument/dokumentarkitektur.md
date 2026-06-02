@@ -121,7 +121,7 @@ En arbetsordning ska inte ge ett organ större mandat än vad stadgar, årsmöte
 
 En delegationsordning anger vem som får fatta beslut i vilka typer av ärenden. Den ska normalt ange ärendetyp, delegat, begränsningar, dokumentationskrav och återrapportering.
 
-Delegation ska vara skriftlig, avgränsad och spårbar. Principerna beskrivs i [delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+Delegation ska vara skriftlig, avgränsad och spårbar. Principerna beskrivs i [delegation](../ledning/delegation.md).
 
 </details>
 

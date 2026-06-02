@@ -92,7 +92,7 @@ Då behöver verksamhetsområden och arbetssätt kunna utvecklas utan att styrmo
 
 ## Kopplingen till kommittéer och kansli
 
-[Kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md) bidrar med taktisk beredning, sakkunskap och uppföljning inom sina områden. [Kansliet](../distriktsstyrelsen-och-ledningen/kansli.md) ansvarar för operativt genomförande, administration och stöd inom beslutade ramar.
+[Kommittéer](../underliggande-organ/kommitteer.md) bidrar med taktisk beredning, sakkunskap och uppföljning inom sina områden. [Kansliet](../ledning/kansli.md) ansvarar för operativt genomförande, administration och stöd inom beslutade ramar.
 
 Den konkreta kopplingen mellan verksamhetsområden, kommittéer, kansliroller, uppdrag och delegation ska beskrivas i arbetsordningar, instruktioner och andra dokument i [dokumentarkivet](https://styrning.smaland.football/dokument).
 

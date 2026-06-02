@@ -54,7 +54,7 @@ Muntlig vana är inte delegation. Om en beslutsväg används återkommande behö
 
 ## Allt ska inte delegeras
 
-Vissa frågor ska normalt stanna hos det organ som bär mandatet. Det gäller särskilt frågor som stadgarna lägger på [årsmöte](../demokratisk-styrning/arsmote.md) eller [representantskap](../demokratisk-styrning/representantskap.md), beslut av större principiell eller ekonomisk betydelse, fastställande av centrala styrande dokument och frågor där oberoende granskning krävs.
+Vissa frågor ska normalt stanna hos det organ som bär mandatet. Det gäller särskilt frågor som stadgarna lägger på [årsmöte](../demokrati/arsmote.md) eller [representantskap](../demokrati/representantskap.md), beslut av större principiell eller ekonomisk betydelse, fastställande av centrala styrande dokument och frågor där oberoende granskning krävs.
 
 Om det är oklart om en fråga får delegeras ska frågan prövas mot [normordningen](../grund/normordning.md), [de styrande principerna](../grund/styrande-principer.md) och berörd arbetsordning eller delegationsordning.
 

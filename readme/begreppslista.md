@@ -48,7 +48,7 @@ För att hålla språket tydligt använder styrmodellen följande namnstandard.
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Smålands Fotbollförbund</strong><br>Distriktsförbundet inom svensk fotboll för Småland och Öland. I styrmodellen används ofta kortformen <strong>distriktet</strong>.</td></tr><tr><td><strong>Svenska Fotbollförbundet</strong><br>Nationellt specialidrottsförbund för fotboll. Förkortas <strong>SvFF</strong>.</td></tr><tr><td><strong>Riksidrottsförbundet</strong><br>Den svenska idrottsrörelsens samlande organisation. Förkortas <strong>RF</strong>.</td></tr><tr><td><strong>RF-SISU Småland</strong><br>Distriktidrottsförbundet i Småland. I styrmodellen kan organisationen beskrivas som <strong>distriktidrottsförbundet</strong> när rollen i idrottens struktur behöver framgå.</td></tr></tbody></table>
 
-Mer om relationerna mellan dessa organisationer finns i [förhållande i idrottens ekosystem](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
+Mer om relationerna mellan dessa organisationer finns i [förhållande i idrottens ekosystem](../organisation/forhallande-i-idrottens-ekosystem.md).
 
 ## Organ och möten
 
@@ -56,7 +56,7 @@ Mer om relationerna mellan dessa organisationer finns i [förhållande i idrotte
 
 <summary><strong>Årsmöte</strong></summary>
 
-Smålands Fotbollförbunds högsta beslutande organ. Årsmötet är föreningarnas bredaste demokratiska beslutspunkt och beskrivs i [årsmöte](../demokratisk-styrning/arsmote.md).
+Smålands Fotbollförbunds högsta beslutande organ. Årsmötet är föreningarnas bredaste demokratiska beslutspunkt och beskrivs i [årsmöte](../demokrati/arsmote.md).
 
 </details>
 
@@ -64,7 +64,7 @@ Smålands Fotbollförbunds högsta beslutande organ. Årsmötet är föreningarn
 
 <summary><strong>Representantskap</strong></summary>
 
-Medlemsorgan med särskilt mandat i tävlingsfrågor mellan årsmötena. Representantskapet kan förstås som ett avgränsat mini-årsmöte för tävlingsfrågor och beskrivs i [representantskap](../demokratisk-styrning/representantskap.md).
+Medlemsorgan med särskilt mandat i tävlingsfrågor mellan årsmötena. Representantskapet kan förstås som ett avgränsat mini-årsmöte för tävlingsfrågor och beskrivs i [representantskap](../demokrati/representantskap.md).
 
 </details>
 
@@ -72,7 +72,7 @@ Medlemsorgan med särskilt mandat i tävlingsfrågor mellan årsmötena. Represe
 
 <summary><strong>Distriktsstyrelsen</strong></summary>
 
-Styrelsen i Smålands Fotbollförbund. Förkortas **DS**. Distriktsstyrelsen leder distriktet mellan de demokratiska mötena och beskrivs i [distriktsstyrelse](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md).
+Styrelsen i Smålands Fotbollförbund. Förkortas **DS**. Distriktsstyrelsen leder distriktet mellan de demokratiska mötena och beskrivs i [distriktsstyrelse](../ledning/distriktsstyrelse.md).
 
 </details>
 
@@ -80,7 +80,7 @@ Styrelsen i Smålands Fotbollförbund. Förkortas **DS**. Distriktsstyrelsen led
 
 <summary><strong>Presidium</strong></summary>
 
-En mindre grupp inom distriktsstyrelsen som kan användas för beredning, samordning och särskilt delegerade uppgifter. Presidiet är inte ett parallellt beslutsorgan och beskrivs i [presidium](../distriktsstyrelsen-och-ledningen/presidium.md).
+En mindre grupp inom distriktsstyrelsen som kan användas för beredning, samordning och särskilt delegerade uppgifter. Presidiet är inte ett parallellt beslutsorgan och beskrivs i [presidium](../ledning/presidium.md).
 
 </details>
 
@@ -88,7 +88,7 @@ En mindre grupp inom distriktsstyrelsen som kan användas för beredning, samord
 
 <summary><strong>Kommitté</strong></summary>
 
-Organ under distriktsstyrelsen som verkar inom ett särskilt sakområde och inom de ramar distriktsstyrelsen beslutat. Kommittéer beskrivs i [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md).
+Organ under distriktsstyrelsen som verkar inom ett särskilt sakområde och inom de ramar distriktsstyrelsen beslutat. Kommittéer beskrivs i [kommittéer](../underliggande-organ/kommitteer.md).
 
 </details>
 
@@ -96,7 +96,7 @@ Organ under distriktsstyrelsen som verkar inom ett särskilt sakområde och inom
 
 <summary><strong>Arbetsgrupp</strong></summary>
 
-Tidsbegränsad grupp som tillsätts av en kommitté för ett avgränsat uppdrag inom kommitténs sakområde. Uppdraget ska normalt avslutas inom 3–6 månader. En arbetsgrupp är inte ett beslutsorgan och rapporterar till den kommitté som gett uppdraget. Arbetsgrupper beskrivs i [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md).
+Tidsbegränsad grupp som tillsätts av en kommitté för ett avgränsat uppdrag inom kommitténs sakområde. Uppdraget ska normalt avslutas inom 3–6 månader. En arbetsgrupp är inte ett beslutsorgan och rapporterar till den kommitté som gett uppdraget. Arbetsgrupper beskrivs i [arbetsgrupper](../underliggande-organ/arbetsgrupper.md).
 
 </details>
 
@@ -104,7 +104,7 @@ Tidsbegränsad grupp som tillsätts av en kommitté för ett avgränsat uppdrag 
 
 <summary><strong>Arbetsutskott</strong></summary>
 
-Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas ordinarie sakansvar. Ett arbetsutskott är inte ett beslutsorgan och rapporterar till distriktsstyrelsen. Det är inte permanent men kan arbeta med en längre tidshorisont än en arbetsgrupp. Arbetsutskott beskrivs i [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md).
+Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas ordinarie sakansvar. Ett arbetsutskott är inte ett beslutsorgan och rapporterar till distriktsstyrelsen. Det är inte permanent men kan arbeta med en längre tidshorisont än en arbetsgrupp. Arbetsutskott beskrivs i [arbetsutskott](../ledning/arbetsutskott.md).
 
 </details>
 
@@ -112,7 +112,7 @@ Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska
 
 <summary><strong>Referensgrupp</strong></summary>
 
-Rådgivande grupp som bidrar med kunskap, erfarenhet eller perspektiv. En referensgrupp är inte ett beslutsorgan och beskrivs i [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md).
+Rådgivande grupp som bidrar med kunskap, erfarenhet eller perspektiv. En referensgrupp är inte ett beslutsorgan och beskrivs i [referensgrupper](../underliggande-organ/referensgrupper.md).
 
 </details>
 
@@ -142,7 +142,7 @@ Självständigt organ valt av årsmötet för att pröva disciplinära ärenden 
 En person kan bära flera roller i fotbollen. I styrningen behöver det ändå vara tydligt vilken roll personen agerar i för stunden.
 {% endhint %}
 
-Mer om rollförståelse finns i [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md).
+Mer om rollförståelse finns i [ansvar och roller](../organisation/ansvar-och-roller.md).
 
 ## Styrning och ansvar
 
@@ -182,7 +182,7 @@ Beskriver hur styrmodellen och dokumentarkivet hänger ihop, vilka dokumenttyper
 
 <summary><strong>Delegation</strong></summary>
 
-Överlåtelse av beslutanderätt inom en beslutad ram. Den som delegerar behåller det övergripande ansvaret. Mer finns i [delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+Överlåtelse av beslutanderätt inom en beslutad ram. Den som delegerar behåller det övergripande ansvaret. Mer finns i [delegation](../ledning/delegation.md).
 
 </details>
 
@@ -198,7 +198,7 @@ Situation där en persons intresse eller relation kan påverka, eller uppfattas 
 
 <summary><strong>Intern kontroll</strong></summary>
 
-Strukturer och arbetssätt som ska säkerställa ordning, spårbarhet, riskhantering och efterlevnad. Mer finns i [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+Strukturer och arbetssätt som ska säkerställa ordning, spårbarhet, riskhantering och efterlevnad. Mer finns i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
 
 </details>
 

@@ -34,7 +34,7 @@ Legitimiteten stärks när frågor hanteras där mandatet finns.
 
 En fråga som hör till årsmötet ska inte lösas som en styrelsefråga. En fråga som hör till representantskapets tävlingsmandat ska inte flyttas till en kommitté. En fråga som ligger inom distriktsstyrelsens ansvar ska inte hanteras som om den bara vore en kanslifråga.
 
-När nivån är oklar används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
+När nivån är oklar används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisation/styrarkitektur.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md).
 
 ## Begriplighet är också demokrati
 

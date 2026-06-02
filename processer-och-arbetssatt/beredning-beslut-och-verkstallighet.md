@@ -13,20 +13,20 @@ Beredning, beslut och verkställighet är tre delar av samma ansvarskedja. Den s
 Kedjan håller när rollerna är klara – och brister när en del tar över en annans ansvar.
 
 {% hint style="info" %}
-Om det är oklart vem som får besluta används [normordningen](../grund/normordning.md), [delegationen](../distriktsstyrelsen-och-ledningen/delegation.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Konkret ansvarsfördelning i olika frågetyper finns där.
+Om det är oklart vem som får besluta används [normordningen](../grund/normordning.md), [delegationen](../ledning/delegation.md) och [ansvarsmatrisen](../strategi-och-operativt-uppdrag/ansvarsmatris.md). Konkret ansvarsfördelning i olika frågetyper finns där.
 {% endhint %}
 
 ## Beredning – gör beslutet möjligt
 
 Beredning handlar om att förstå frågan, pröva var den hör hemma, ta fram underlag och synliggöra konsekvenser – utan att ta över beslutanderätten.
 
-Börja alltid med frågan: **var hör det här ärendet hemma?** En fråga som hör till [årsmötet](../demokratisk-styrning/arsmote.md) ska inte beredas som om den vore en kanslifråga. En fråga som hör till [representantskapet](../demokratisk-styrning/representantskap.md) ska inte tappas bort i en kommitté.
+Börja alltid med frågan: **var hör det här ärendet hemma?** En fråga som hör till [årsmötet](../demokrati/arsmote.md) ska inte beredas som om den vore en kanslifråga. En fråga som hör till [representantskapet](../demokrati/representantskap.md) ska inte tappas bort i en kommitté.
 
 **God beredning ger:**
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Klar fråga</strong><br>Vad ska avgöras, varför och vad händer om inget beslut fattas?</td></tr><tr><td><strong>Rätt mandat</strong><br>Vilken nivå får besluta och vilket dokument ger stöd?</td></tr><tr><td><strong>Synliga vägval</strong><br>Vilka alternativ finns och vilka konsekvenser får de?</td></tr><tr><td><strong>Genomförbarhet</strong><br>Vem verkställer, vilka resurser krävs och när ska återrapportering ske?</td></tr><tr><td><strong>Risk och jäv</strong><br>Vilka risker behöver hanteras och finns jäv som påverkar beredningen?</td></tr></tbody></table>
 
-Beredning kan göras av [kansliet](../distriktsstyrelsen-och-ledningen/kansli.md), [kommittéer](../kommitteer-och-arbetsgrupper/kommitteer.md), [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md), [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md) eller [referensgrupper](../kommitteer-och-arbetsgrupper/referensgrupper.md). [Valberedningen](../granskande-funktioner/valberedning.md) bereder val. [Disciplinnämnden](../granskande-funktioner/disciplinnamnd.md) hanterar sina ärenden inom sitt eget mandat.
+Beredning kan göras av [kansliet](../ledning/kansli.md), [kommittéer](../underliggande-organ/kommitteer.md), [arbetsgrupper](../underliggande-organ/arbetsgrupper.md), [arbetsutskott](../ledning/arbetsutskott.md) eller [referensgrupper](../underliggande-organ/referensgrupper.md). [Valberedningen](../granskande-funktioner/valberedning.md) bereder val. [Disciplinnämnden](../granskande-funktioner/disciplinnamnd.md) hanterar sina ärenden inom sitt eget mandat.
 
 Beredningen ska vara proportionerlig – en enkel fråga ska inte göras onödigt tung, en svår fråga ska inte göras för lätt. Och underlag ska finnas tillgängliga i god tid. Det är respekt för dem som ska ta ansvar för beslutet.
 
@@ -44,13 +44,13 @@ Beslut ser olika ut beroende på var mandatet finns:
 
 {% columns %}
 {% column %}
-**Medlemsbeslut** fattas av [årsmöte](../demokratisk-styrning/arsmote.md) eller [representantskap](../demokratisk-styrning/representantskap.md) inom respektive mandat.
+**Medlemsbeslut** fattas av [årsmöte](../demokrati/arsmote.md) eller [representantskap](../demokrati/representantskap.md) inom respektive mandat.
 
-**Styrelsebeslut** fattas av [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) inom strategiskt och organisatoriskt ansvar.
+**Styrelsebeslut** fattas av [distriktsstyrelsen](../ledning/distriktsstyrelse.md) inom strategiskt och organisatoriskt ansvar.
 {% endcolumn %}
 
 {% column %}
-**Delegerade beslut** fattas av organ eller funktion med tydlig [delegation](../distriktsstyrelsen-och-ledningen/delegation.md).
+**Delegerade beslut** fattas av organ eller funktion med tydlig [delegation](../ledning/delegation.md).
 
 **Operativa beslut** fattas inom löpande verksamhet, inom beslutade ramar.
 {% endcolumn %}
@@ -66,7 +66,7 @@ Beslut som fattas genom skriftligt förfarande eller digital omröstning dokumen
 
 Verkställighet är när beslut blir arbete. Den som verkställer håller sig inom beslutets syfte, ekonomiska ramar, tidsram och återrapporteringskrav. När ramen är tydlig blir verkställigheten både friare och tryggare.
 
-Ofta är det [distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) som verkställer. Kommittéer bidrar inom sina sakområden när uppdraget eller delegationen säger det.
+Ofta är det [distriktschef](../ledning/distriktschef.md) och [kansli](../ledning/kansli.md) som verkställer. Kommittéer bidrar inom sina sakområden när uppdraget eller delegationen säger det.
 
 Om genomförandet kräver ett nytt självständigt vägval – ändrad inriktning, ny kostnad, ny risk – är det ett nytt beslut och frågan ska tillbaka till rätt nivå.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Hur arbetsgrupper kan användas för avgränsade uppdrag under kommittéerna
-  utan att skapa nya informella beslutsvägar.
+  Hur arbetsgrupper kan användas för avgränsade uppdrag under kommittéerna utan
+  att skapa nya informella beslutsvägar.
 cover: ../.gitbook/assets/cover-arbetsgrupper.svg
 coverY: 0
 ---
@@ -62,17 +62,13 @@ En [kommitté](kommitteer.md) är ett varaktigt organ under distriktsstyrelsen m
 {% column %}
 #### Arbetsutskott
 
-Ett [arbetsutskott](../distriktsstyrelsen-och-ledningen/arbetsutskott.md) tillsätts av distriktsstyrelsen för strategiska eller tvärfunktionella uppdrag utanför kommittéstrukturen. Det rapporterar till styrelsen, inte till en kommitté, och kan ha en längre tidshorisont.
+Ett [arbetsutskott](../ledning/arbetsutskott.md) tillsätts av distriktsstyrelsen för strategiska eller tvärfunktionella uppdrag utanför kommittéstrukturen. Det rapporterar till styrelsen, inte till en kommitté, och kan ha en längre tidshorisont.
 {% endcolumn %}
 {% endcolumns %}
 
-{% columns %}
-{% column %}
 #### Referensgrupp
 
 En [referensgrupp](referensgrupper.md) ger råd, perspektiv och erfarenhet. Om gruppen förväntas ta fram, driva eller genomföra något är den snarare en arbetsgrupp än en referensgrupp.
-{% endcolumn %}
-{% endcolumns %}
 
 ## Beslut kräver särskilt mandat
 
@@ -98,7 +94,7 @@ Då behöver uppdrag, resurser, ansvarig funktion och återrapportering till kom
 
 <summary><strong>Om arbetsgruppen ska besluta</strong></summary>
 
-Då krävs uttrycklig [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) eller ett särskilt beslut som anger mandat, omfattning, dokumentation och återrapportering.
+Då krävs uttrycklig [delegation](../ledning/delegation.md) eller ett särskilt beslut som anger mandat, omfattning, dokumentation och återrapportering.
 
 </details>
 

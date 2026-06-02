@@ -26,7 +26,7 @@ Genom sina [ombud](val-ombud-och-rostratt.md) kan föreningarna påverka riktnin
 
 Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där. Vissa frågor hör till distriktsstyrelsens strategiska ansvar. Andra hör till representantskapets tävlingsmandat, kommittéernas beredning, distriktschefens operativa ledning eller kansliets genomförande.
 
-Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisationens-struktur/styrarkitektur.md) och [de styrande principerna](../grund/styrande-principer.md).
+Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisation/styrarkitektur.md) och [de styrande principerna](../grund/styrande-principer.md).
 
 ## Årsmöte och representantskap har olika roller
 

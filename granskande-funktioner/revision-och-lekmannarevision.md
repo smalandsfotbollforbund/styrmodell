@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-revision.svg
 description: >-
   Revisionens och lekmannarevisionens oberoende granskning av ekonomi,
   förvaltning, styrning och intern kontroll inför årsmötets ansvarsprövning.
+cover: ../.gitbook/assets/cover-revision.svg
+coverY: 0
 ---
 
 # Revision och lekmannarevision
@@ -35,27 +36,27 @@ Lekmannarevisionen har en särskilt viktig roll i att granska om styrmodellen fu
 
 {% stepper %}
 {% step %}
-**Roller och mandat**  
+**Roller och mandat**\
 Är det tydligt vem som bereder, beslutar, verkställer, följer upp och granskar?
 {% endstep %}
 
 {% step %}
-**Delegation**  
+**Delegation**\
 Är delegationer dokumenterade, avgränsade och återrapporterade?
 {% endstep %}
 
 {% step %}
-**Dokumentation**  
+**Dokumentation**\
 Går beslut, uppdrag och ansvar att följa i efterhand?
 {% endstep %}
 
 {% step %}
-**Intern kontroll**  
+**Intern kontroll**\
 Finns rimliga kontroller för ekonomi, risk och verksamhet?
 {% endstep %}
 
 {% step %}
-**Styrande dokument**  
+**Styrande dokument**\
 Används dokumenten på rätt nivå och utan motstridiga arbetssätt?
 {% endstep %}
 {% endstepper %}
@@ -64,7 +65,7 @@ Syftet är inte bara att hitta fel. En bra granskning hjälper organisationen at
 
 ## Underlag ska lämnas utan att granskningen styrs
 
-[Distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md) ansvarar för styrning, uppföljning och [intern kontroll](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md). [Distriktschef](../distriktsstyrelsen-och-ledningen/distriktschef.md) och [kansli](../distriktsstyrelsen-och-ledningen/kansli.md) ansvarar för att ge de underlag och den information som behövs för granskningen.
+[Distriktsstyrelsen](../ledning/distriktsstyrelse.md) ansvarar för styrning, uppföljning och [intern kontroll](../ledning/intern-kontroll-och-attest.md). [Distriktschef](../ledning/distriktschef.md) och [kansli](../ledning/kansli.md) ansvarar för att ge de underlag och den information som behövs för granskningen.
 
 Det ska ske öppet och ordnat, men utan att påverka granskarnas självständiga bedömning.
 
@@ -73,6 +74,7 @@ Det ska ske öppet och ordnat, men utan att påverka granskarnas självständiga
 Granskning gör störst nytta när den är saklig, tydlig och möjlig att använda.
 
 <details>
+
 <summary><strong>Den ska ge årsmötet underlag</strong></summary>
 
 Årsmötet behöver kunna förstå vad som har granskats, vilka iakttagelser som gjorts och vad det betyder för ansvar och förvaltning.
@@ -80,6 +82,7 @@ Granskning gör störst nytta när den är saklig, tydlig och möjlig att använ
 </details>
 
 <details>
+
 <summary><strong>Den ska stärka lärandet</strong></summary>
 
 Iakttagelser från revision och lekmannarevision bör kunna bidra till bättre arbetssätt, tydligare dokumentation och starkare intern kontroll.
@@ -87,6 +90,7 @@ Iakttagelser från revision och lekmannarevision bör kunna bidra till bättre a
 </details>
 
 <details>
+
 <summary><strong>Den ska hålla gränsen</strong></summary>
 
 Revisorer och lekmannarevisorer ska inte bli verksamhetsledare. De kan peka på brister och förbättringsbehov, men ansvaret för åtgärder ligger hos rätt organ eller funktion.

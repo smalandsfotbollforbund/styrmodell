@@ -23,6 +23,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Om Smålands Fotbollförbund
@@ -45,9 +47,9 @@ Det konkreta operativa uppdraget beskrivs vidare i [verksamhetsområden och basu
 
 ## Föreningarna är inte vid sidan av
 
-Föreningarna är distriktets demokratiska grund. Genom [årsmöte](../demokratisk-styrning/arsmote.md), [representantskap](../demokratisk-styrning/representantskap.md), ombud, motioner och val utövar föreningarna sitt formella inflytande.
+Föreningarna är distriktets demokratiska grund. Genom [årsmöte](../demokrati/arsmote.md), [representantskap](../demokrati/representantskap.md), ombud, motioner och val utövar föreningarna sitt formella inflytande.
 
-Det är därför styrningen behöver vara begriplig, möjlig att följa och användbar i praktiken. Det ska gå att förstå var beslut fattas, vem som ansvarar och hur föreningarnas inflytande kommer till uttryck för att säkerställa den [demokratiska legitimiteten och medlemsinflytandet](../demokratisk-styrning/demokratisk-legitimitet-och-medlemsinflytande.md).
+Det är därför styrningen behöver vara begriplig, möjlig att följa och användbar i praktiken. Det ska gå att förstå var beslut fattas, vem som ansvarar och hur föreningarnas inflytande kommer till uttryck för att säkerställa den [demokratiska legitimiteten och medlemsinflytandet](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md).
 
 ## Småland rymmer många fotbollsverkligheter
 
@@ -59,7 +61,7 @@ Distriktet är det enda inom fotbollsrörelsen som omfattar flera län. Föruts�
 
 Smålands Fotbollförbund är ett specialidrottsdistriktsförbund inom svensk fotboll. Distriktet har egna stadgar, egna demokratiska organ och eget ansvar för den småländska fotbollen — men verkar alltid inom ramar som följer av Riksidrottsförbundet, Svenska Fotbollförbundet och de beslut som fattas på nationell och rörelsegemensam nivå.
 
-Hur relationerna till RF, SvFF, RF-SISU Småland och övriga fotbollsdistrikt ser ut och görs praktiska beskrivs i [förhållande i idrottens ekosystem](../organisationens-struktur/forhallande-i-idrottens-ekosystem.md).
+Hur relationerna till RF, SvFF, RF-SISU Småland och övriga fotbollsdistrikt ser ut och görs praktiska beskrivs i [förhållande i idrottens ekosystem](../organisation/forhallande-i-idrottens-ekosystem.md).
 
 ## Riktningen ska gå att känna igen
 

@@ -75,6 +75,6 @@ Om matrisen inte räcker ska frågan lyftas till rätt ansvarig nivå.
 
 Alla frågor passar inte perfekt i en matris. Då ska organisationen inte tvinga in frågan i närmaste ruta.
 
-Pröva i stället frågan mot [styrarkitekturen](../organisationens-struktur/styrarkitektur.md), [ansvar och roller](../organisationens-struktur/ansvar-och-roller.md), [delegation](../distriktsstyrelsen-och-ledningen/delegation.md) och berörd arbetsordning eller instruktion i dokumentarkivet.
+Pröva i stället frågan mot [styrarkitekturen](../organisation/styrarkitektur.md), [ansvar och roller](../organisation/ansvar-och-roller.md), [delegation](../ledning/delegation.md) och berörd arbetsordning eller instruktion i dokumentarkivet.
 
 Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå för förtydligande. Målet är enkelt: ansvar ska gå att följa.

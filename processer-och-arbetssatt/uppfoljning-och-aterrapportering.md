@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-uppfoljning.svg
 description: >-
-  Hur verksamhet, ekonomi, beslut och ansvar följs upp och återrapporteras så att
-  rätt nivå kan ta ansvar och organisationen kan lära.
+  Hur verksamhet, ekonomi, beslut och ansvar följs upp och återrapporteras så
+  att rätt nivå kan ta ansvar och organisationen kan lära.
+cover: ../.gitbook/assets/cover-uppfoljning.svg
+coverY: 0
 ---
 
 # Uppföljning och återrapportering
@@ -37,7 +38,7 @@ Ekonomisk uppföljning ska ge distriktsstyrelsen underlag för att ta ansvar fö
 En avvikelse är inte ett misslyckande för att den rapporteras. Den blir ett styrningsproblem när den tystnar, växer eller saknar ansvarig åtgärd.
 {% endhint %}
 
-Risker, kontrollmoment och attest beskrivs i [intern kontroll och attest](../distriktsstyrelsen-och-ledningen/intern-kontroll-och-attest.md).
+Risker, kontrollmoment och attest beskrivs i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
 
 ## Beslut ska följas tills de är avslutade
 
@@ -45,22 +46,22 @@ Ett beslut behöver kunna följas från protokoll till genomförande.
 
 {% stepper %}
 {% step %}
-**Beslutet fattas**  
+**Beslutet fattas**\
 Det ska framgå vad som beslutats och vem som ansvarar för nästa steg.
 {% endstep %}
 
 {% step %}
-**Beslutet verkställs**  
+**Beslutet verkställs**\
 Ansvarig funktion genomför beslutet inom beslutad ram.
 {% endstep %}
 
 {% step %}
-**Beslutet återrapporteras**  
+**Beslutet återrapporteras**\
 Rätt nivå får veta om beslutet är genomfört, försenat eller behöver ändras.
 {% endstep %}
 
 {% step %}
-**Beslutet avslutas eller prövas igen**  
+**Beslutet avslutas eller prövas igen**\
 När frågan är färdig avslutas den. Om förutsättningarna ändrats kan nytt beslut krävas.
 {% endstep %}
 {% endstepper %}

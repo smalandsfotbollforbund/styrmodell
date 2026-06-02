@@ -1,8 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-representantskap.svg
 description: >-
   Representantskapet som föreningarnas avgränsade medlemsorgan för
   tävlingsfrågor mellan årsmötena.
+cover: ../.gitbook/assets/cover-representantskap.svg
+coverY: 0
 ---
 
 # Representantskap
@@ -21,7 +22,7 @@ Det är viktigt för legitimiteten i tävlingssystemet. Tävlingsfrågor påverk
 
 Representantskapet ska normalt inte hantera frågor som rör distriktets övergripande organisation, ekonomi, strategi, stadgar, val eller ansvarsfördelning.
 
-Sådana frågor hör i första hand hemma på [årsmötet](arsmote.md) eller hos [distriktsstyrelsen](../distriktsstyrelsen-och-ledningen/distriktsstyrelse.md), beroende på mandat.
+Sådana frågor hör i första hand hemma på [årsmötet](arsmote.md) eller hos [distriktsstyrelsen](../ledning/distriktsstyrelse.md), beroende på mandat.
 
 {% hint style="warning" %}
 En fråga blir inte en representantskapsfråga bara för att den är viktig för föreningarna. Den måste också höra till representantskapets tävlingsmandat.

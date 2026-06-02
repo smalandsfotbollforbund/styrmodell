@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/cover-arbetsutskott.svg
 description: >-
   Arbetsutskottens roll som beredande organ under distriktsstyrelsen för
   strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas
   ordinarie sakansvar.
+cover: ../.gitbook/assets/cover-arbetsutskott.svg
+coverY: 0
 ---
 
 # Arbetsutskott
@@ -18,7 +19,7 @@ Ett arbetsutskott är inte ett beslutsorgan. Det bereder frågor inför distrikt
 
 ## Styrelsenära beredning med eget uppdrag
 
-Arbetsutskott tillsätts av distriktsstyrelsen och rapporterar till densamma. Det är denna placering som skiljer arbetsutskott från [arbetsgrupper](../kommitteer-och-arbetsgrupper/arbetsgrupper.md): arbetsgrupper arbetar inom och för en kommitté, medan arbetsutskott arbetar direkt i styrelsens intresse och bereder frågor som hör hemma på den strategiska nivån.
+Arbetsutskott tillsätts av distriktsstyrelsen och rapporterar till densamma. Det är denna placering som skiljer arbetsutskott från [arbetsgrupper](../underliggande-organ/arbetsgrupper.md): arbetsgrupper arbetar inom och för en kommitté, medan arbetsutskott arbetar direkt i styrelsens intresse och bereder frågor som hör hemma på den strategiska nivån.
 
 Uppdraget kan ha en längre tidshorisont än en arbetsgrupp, men arbetsutskottet ska ändå inte vara permanent. Det ska finnas ett tydligt syfte och ett naturligt slut.
 
@@ -67,13 +68,13 @@ Den som deltar i ett arbetsutskott behöver vara tydlig med sin roll: beredning 
 {% column %}
 ### Kommitté
 
-En [kommitté](../kommitteer-och-arbetsgrupper/kommitteer.md) har ett varaktigt ansvar för ett sakområde. Den finns kvar även när enskilda frågor är lösta och är ett taktiskt organ under distriktsstyrelsen med ansvar för beredning, utveckling och uppföljning inom sitt område.
+En [kommitté](../underliggande-organ/kommitteer.md) har ett varaktigt ansvar för ett sakområde. Den finns kvar även när enskilda frågor är lösta och är ett taktiskt organ under distriktsstyrelsen med ansvar för beredning, utveckling och uppföljning inom sitt område.
 {% endcolumn %}
 
 {% column %}
 ### Arbetsgrupp
 
-En [arbetsgrupp](../kommitteer-och-arbetsgrupper/arbetsgrupper.md) tillsätts av och rapporterar till en kommitté. Uppdraget är kortfristigt — normalt max 3–6 månader — och avser ett avgränsat genomförande- eller beredningsuppdrag inom kommitténs sakområde.
+En [arbetsgrupp](../underliggande-organ/arbetsgrupper.md) tillsätts av och rapporterar till en kommitté. Uppdraget är kortfristigt — normalt max 3–6 månader — och avser ett avgränsat genomförande- eller beredningsuppdrag inom kommitténs sakområde.
 {% endcolumn %}
 {% endcolumns %}
 
