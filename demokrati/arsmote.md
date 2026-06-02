@@ -1,41 +1,24 @@
 ---
 description: >-
-  Årsmötets roll som föreningarnas högsta beslutspunkt och den demokratiska
-  grund som distriktets övriga mandat vilar på.
+  Distriktets högsta beslutsnivå och utgör därmed också den demokratiska grund
+  som det övriga mandatet vilar på. Det äger rum senast två veckor innan Svenska
+  Fotbollförbundets årsmöte.
 cover: ../.gitbook/assets/cover-arsmote.svg
 coverY: 0
 ---
 
 # Årsmöte
 
-Årsmötet är Smålands Fotbollförbunds högsta beslutande organ. Det är här medlemsföreningarna samlas för att ge uppdrag, pröva ansvar, välja företrädare och fatta beslut i frågor som hör till den högsta demokratiska nivån.
+Det är här [medlemsföreningarna](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-1-ombud-och-beslutsmassighet) samlas för att ge uppdrag, pröva ansvar, välja företrädare och fatta beslut i frågor som hör till den högsta demokratiska nivån. Årsmötet ska därför inte förstås som en formalitet som sker en gång om året. Det är snarare de småländska föreningarnas gemensamma verktyg för att styra distriktet i frågor som anses viktiga och avgörande.
 
-Årsmötet ska därför inte förstås som en formalitet. Det är föreningarnas gemensamma verktyg för att styra distriktet.
+I en [folkrörelse](../grund/folkrorelse.md) börjar mandatet hos medlemmarna som genom sina [ombud](val-ombud-och-rostratt.md) agerar ägare och därmed bär den demokratiska grunden. Det är platsen där distriktets styrning får sin [legitimitet](demokratisk-legitimitet-och-medlemsinflytande.md).
 
-## Där föreningarnas mandat samlas
-
-I en folkrörelse börjar mandatet hos medlemmarna. För Smålands Fotbollförbund betyder det att medlemsföreningarna bär den demokratiska grunden.
-
-Genom sina [ombud](val-ombud-och-rostratt.md) kan föreningarna påverka riktning, ansvar och val. Det gör årsmötet till mer än ett möte en gång om året. Det är platsen där distriktets styrning får sin legitimitet.
-
-## Fyra uppgifter som bär årsmötet
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Ge riktning</strong><br>Årsmötet beslutar i frågor som hör till den högsta demokratiska nivån och anger ramar för distriktets fortsatta arbete.</td></tr><tr><td><strong>Välja företrädare</strong><br>Årsmötet väljer personer till de uppdrag som enligt stadgarna ska utses av medlemsföreningarna.</td></tr><tr><td><strong>Pröva ansvar</strong><br>Årsmötet tar del av granskning och prövar ansvar enligt den ordning som gäller.</td></tr><tr><td><strong>Ge legitimitet</strong><br>Årsmötet ger distriktsstyrelsen och andra årsmötesvalda organ demokratisk grund.</td></tr></tbody></table>
-
+{% hint style="info" %}
 ## Allt ska inte upp på årsmötet
 
-Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där. Vissa frågor hör till distriktsstyrelsens strategiska ansvar. Andra hör till representantskapets tävlingsmandat, kommittéernas beredning, distriktschefens operativa ledning eller kansliets genomförande.
+Att årsmötet är högsta beslutande organ betyder inte att varje fråga ska avgöras där. Vissa frågor hör till [distriktsstyrelsens](../ledning/distriktsstyrelse.md) strategiska ansvar. Andra hör till [representantskapets](representantskap.md) tävlingsmandat, [kommittéernas](../underliggande-organ/kommitteer.md) beredning, [distriktschefens](../ledning/distriktschef.md) operativa ledning eller [kansliets](../ledning/kansli.md) genomförande.
 
 Det viktiga är att frågan hamnar rätt. Om något är oklart används [normordningen](../grund/normordning.md), [styrarkitekturen](../organisation/styrarkitektur.md) och [de styrande principerna](../grund/styrande-principer.md).
-
-## Årsmöte och representantskap har olika roller
-
-[Representantskapet](representantskap.md) är ett medlemsorgan med tyngd i tävlingsfrågor. Det kan förstås som ett avgränsat mini-årsmöte för tävlingsfrågor.
-
-Årsmötet har den bredare demokratiska rollen. Frågor som rör stadgar, övergripande organisation, val, ansvar, ekonomi och principiell inriktning hör normalt hemma där om de ligger på medlemsnivå.
-
-{% hint style="warning" %}
-Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor som inte hör till representantskapets tävlingsmandat behöver hitta rätt väg i styrmodellen.
 {% endhint %}
 
 ## Föreningarnas väg in
@@ -45,3 +28,29 @@ Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och an
 ## Begriplighet är en del av demokratin
 
 För att föreningarna ska kunna ta ansvar behöver beslutsunderlag och förslag vara möjliga att förstå. Hur det stärker distriktets demokratiska legitimitet beskrivs i [demokratisk legitimitet och medlemsinflytande](demokratisk-legitimitet-och-medlemsinflytande.md).
+
+## Årsmöte och representantskap har olika roller
+
+{% columns %}
+{% column %}
+**Årsmötet** har den bredare demokratiska rollen. Frågor som rör stadgar, övergripande organisation, val, ansvar, ekonomi och principiell inriktning hör normalt hemma här om de ligger på medlemsnivå.
+{% endcolumn %}
+
+{% column %}
+[**Representantskapet**](representantskap.md) är ett medlemsorgan med tyngd i tävlingsfrågor. Det kan förstås som ett avgränsat mini-årsmöte, men enbart för tävlingsfrågor.
+
+{% hint style="warning" %}
+Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor som inte hör till representantskapets tävlingsmandat behöver hitta rätt väg i styrmodellen.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
+Länk till arbetsordning/riktlinjer för årsmötet, samt process/beredning:
+
+{% content-ref url="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/arbetsordningar/page-2" %}
+[Page 2](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/arbetsordningar/page-2)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund" %}
+[Stadgar för Smålands Fotbollförbund](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund)
+{% endcontent-ref %}
