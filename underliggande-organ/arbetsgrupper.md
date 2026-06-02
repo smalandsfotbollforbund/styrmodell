@@ -62,7 +62,7 @@ En [kommitté](kommitteer.md) är ett varaktigt organ under distriktsstyrelsen m
 {% column %}
 #### Arbetsutskott
 
-Ett [arbetsutskott](../ledning/arbetsutskott.md) tillsätts av distriktsstyrelsen för strategiska eller tvärfunktionella uppdrag utanför kommittéstrukturen. Det rapporterar till styrelsen, inte till en kommitté, och kan ha en längre tidshorisont.
+Ett [arbetsutskott](arbetsutskott.md) tillsätts av distriktsstyrelsen för strategiska eller tvärfunktionella uppdrag utanför kommittéstrukturen. Det rapporterar till styrelsen, inte till en kommitté, och kan ha en längre tidshorisont.
 {% endcolumn %}
 {% endcolumns %}
 

@@ -40,7 +40,7 @@ Representantskapet ska inte användas som ett allmänt extra årsmöte. Frågor 
 
 ## Föreningarnas väg in
 
-Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning. Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande-funktioner/valberedning.md).
+Föreningarna påverkar årsmötet genom ombud, rösträtt, val, motioner och andra förslag enligt gällande ordning. Hur detta fungerar beskrivs vidare i [val, ombud och rösträtt](val-ombud-och-rostratt.md) och [motioner och initiativrätt](motioner-och-initiativratt.md). Valberedningens roll beskrivs under [valberedning](../granskande/valberedning.md).
 
 ## Begriplighet är en del av demokratin
 

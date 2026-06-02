@@ -50,7 +50,7 @@ Dialog behövs, men den ersätter inte beslut, delegation eller dokumenterade up
 
 <summary><strong>När sakkunskap blir eget mandat</strong></summary>
 
-Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../underliggande-organ/kommitteer.md), [arbetsgrupper](../underliggande-organ/arbetsgrupper.md), [arbetsutskott](../ledning/arbetsutskott.md) och [referensgrupper](../underliggande-organ/referensgrupper.md) beskrivs på respektive sida.
+Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat för [kommittéer](../underliggande-organ/kommitteer.md), [arbetsgrupper](../underliggande-organ/arbetsgrupper.md), [arbetsutskott](../underliggande-organ/arbetsutskott.md) och [referensgrupper](../underliggande-organ/referensgrupper.md) beskrivs på respektive sida.
 
 </details>
 
@@ -58,7 +58,7 @@ Sakkunskap är värdefullt, särskilt i kommittéer och referensgrupper. Mandat 
 
 <summary><strong>När granskning kommer för nära genomförandet</strong></summary>
 
-Granskande funktioner behöver stå fria nog att göra sitt jobb. Deras uppdrag beskrivs under [granskande funktioner](../granskande-funktioner/revision-och-lekmannarevision.md).
+Granskande funktioner behöver stå fria nog att göra sitt jobb. Deras uppdrag beskrivs under [granskande funktioner](../granskande/revision-och-lekmannarevision.md).
 
 </details>
 

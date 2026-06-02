@@ -21,7 +21,6 @@
 * [Distriktsstyrelsen och ledningen](ledning/README.md)
   * [Distriktsstyrelse](ledning/distriktsstyrelse.md)
   * [Presidium](ledning/presidium.md)
-  * [Arbetsutskott](ledning/arbetsutskott.md)
   * [Hedersordförande och hedersledamot](ledning/hedersordforande-och-hedersledamot.md)
   * [Distriktschef](ledning/distriktschef.md)
   * [Kansli](ledning/kansli.md)
@@ -29,26 +28,23 @@
   * [Intern kontroll och attest](ledning/intern-kontroll-och-attest.md)
 * [Underliggande organ](underliggande-organ/README.md)
   * [Kommittéer](underliggande-organ/kommitteer.md)
+  * [Arbetsutskott](underliggande-organ/arbetsutskott.md)
   * [Arbetsgrupper](underliggande-organ/arbetsgrupper.md)
   * [Referensgrupper](underliggande-organ/referensgrupper.md)
+* [Granskande funktioner](granskande/README.md)
+  * [Valberedning](granskande/valberedning.md)
+  * [Revision och lekmannarevision](granskande/revision-och-lekmannarevision.md)
+  * [Disciplinnämnd](granskande/disciplinnamnd.md)
+* [Strategi och operativt uppdrag](strategi-och-operativt-uppdrag/README.md)
+  * [Strategihus](strategi-och-operativt-uppdrag/strategihus.md)
+  * [Vision, mission och verksamhetsidé](strategi-och-operativt-uppdrag/vision-mission-och-verksamhetside.md)
+  * [Strategiska inriktningar](strategi-och-operativt-uppdrag/strategiska-inriktningar.md)
+  * [Prioriteringar och mål](strategi-och-operativt-uppdrag/prioriteringar-och-mal.md)
+  * [Verksamhetsområden och basuppgifter](strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md)
+  * [Planering, uppföljning och årscykel](strategi-och-operativt-uppdrag/planering-uppfoljning-och-arscykel.md)
+  * [Ansvarsmatris](strategi-och-operativt-uppdrag/ansvarsmatris.md)
 
 ## Demokratisk styrning
-
-## Granskande funktioner
-
-* [Valberedning](granskande-funktioner/valberedning.md)
-* [Revision och lekmannarevision](granskande-funktioner/revision-och-lekmannarevision.md)
-* [Disciplinnämnd](granskande-funktioner/disciplinnamnd.md)
-
-## Strategi och operativt uppdrag
-
-* [Strategihus](strategi-och-operativt-uppdrag/strategihus.md)
-* [Vision, mission och verksamhetsidé](strategi-och-operativt-uppdrag/vision-mission-och-verksamhetside.md)
-* [Strategiska inriktningar](strategi-och-operativt-uppdrag/strategiska-inriktningar.md)
-* [Prioriteringar och mål](strategi-och-operativt-uppdrag/prioriteringar-och-mal.md)
-* [Verksamhetsområden och basuppgifter](strategi-och-operativt-uppdrag/verksamhetsomraden-och-basuppgifter.md)
-* [Planering, uppföljning och årscykel](strategi-och-operativt-uppdrag/planering-uppfoljning-och-arscykel.md)
-* [Ansvarsmatris](strategi-och-operativt-uppdrag/ansvarsmatris.md)
 
 ## Processer och arbetssätt
 

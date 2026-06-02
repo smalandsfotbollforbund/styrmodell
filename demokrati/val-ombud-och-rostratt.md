@@ -28,7 +28,7 @@ Ett tydligt ombudsförfarande skyddar både föreningen och mötet. Det ska gå 
 
 Valen på årsmötet avgör vilka personer som får förtroende att bära, leda, bereda eller granska distriktet. Det gör valen till en del av distriktets långsiktiga styrning. En väl fungerande valprocess stärker kompetens, kontinuitet och förtroende.
 
-Valberedningens uppdrag beskrivs i [valberedning](../granskande-funktioner/valberedning.md).
+Valberedningens uppdrag beskrivs i [valberedning](../granskande/valberedning.md).
 
 ### Valprocessen behöver både integritet och öppenhet
 

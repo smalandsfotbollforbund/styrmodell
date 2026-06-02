@@ -28,7 +28,7 @@ Professionalisering ska stärka folkrörelsen, inte ersätta den. Förtroendeval
 
 ## Den grundläggande innebörden
 
-Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokrati/arsmote.md), [representantskap](../demokrati/representantskap.md), [motioner](../demokrati/motioner-och-initiativratt.md), [val](../demokrati/val-ombud-och-rostratt.md) och [granskning](../granskande-funktioner/revision-och-lekmannarevision.md).
+Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokrati/arsmote.md), [representantskap](../demokrati/representantskap.md), [motioner](../demokrati/motioner-och-initiativratt.md), [val](../demokrati/val-ombud-och-rostratt.md) och [granskning](../granskande/revision-och-lekmannarevision.md).
 
 Det är föreningarnas gemensamma uppdrag som ger distriktet [legitimitet](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md). Frågor som hör hemma på demokratisk nivå ska inte lösas av distriktsstyrelse, kommittéer eller kansli genom informell praxis.
 

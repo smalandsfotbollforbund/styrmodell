@@ -68,7 +68,7 @@ Muntliga eller informella uppdrag som inte protokollförts eller delegerats form
 
 <summary><strong>Tillsätt arbetsutskott för rätt uppdrag</strong></summary>
 
-Distriktsstyrelsen kan tillsätta [arbetsutskott](arbetsutskott.md) för strategiska eller tvärfunktionella beredningsuppdrag som inte naturligt hör hemma i en enskild kommitté. Arbetsutskott bereder och återrapporterar till styrelsen, men fattar inte beslut i styrelsens ställe.
+Distriktsstyrelsen kan tillsätta [arbetsutskott](../underliggande-organ/arbetsutskott.md) för strategiska eller tvärfunktionella beredningsuppdrag som inte naturligt hör hemma i en enskild kommitté. Arbetsutskott bereder och återrapporterar till styrelsen, men fattar inte beslut i styrelsens ställe.
 
 </details>
 

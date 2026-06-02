@@ -104,7 +104,7 @@ Tidsbegränsad grupp som tillsätts av en kommitté för ett avgränsat uppdrag 
 
 <summary><strong>Arbetsutskott</strong></summary>
 
-Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas ordinarie sakansvar. Ett arbetsutskott är inte ett beslutsorgan och rapporterar till distriktsstyrelsen. Det är inte permanent men kan arbeta med en längre tidshorisont än en arbetsgrupp. Arbetsutskott beskrivs i [arbetsutskott](../ledning/arbetsutskott.md).
+Beredande organ som tillsätts av distriktsstyrelsen för strategiska, politiska eller tvärfunktionella uppdrag utanför kommittéernas ordinarie sakansvar. Ett arbetsutskott är inte ett beslutsorgan och rapporterar till distriktsstyrelsen. Det är inte permanent men kan arbeta med en längre tidshorisont än en arbetsgrupp. Arbetsutskott beskrivs i [arbetsutskott](../underliggande-organ/arbetsutskott.md).
 
 </details>
 
@@ -120,7 +120,7 @@ Rådgivande grupp som bidrar med kunskap, erfarenhet eller perspektiv. En refere
 
 <summary><strong>Disciplinnämnd</strong></summary>
 
-Självständigt organ valt av årsmötet för att pröva disciplinära ärenden inom sitt mandat. Disciplinnämnden beskrivs i [disciplinnämnd](../granskande-funktioner/disciplinnamnd.md).
+Självständigt organ valt av årsmötet för att pröva disciplinära ärenden inom sitt mandat. Disciplinnämnden beskrivs i [disciplinnämnd](../granskande/disciplinnamnd.md).
 
 </details>
 
