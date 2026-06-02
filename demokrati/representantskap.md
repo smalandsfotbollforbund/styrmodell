@@ -11,8 +11,6 @@ coverY: 0
 
 Det är med andra ord ett medlemsorgan med tyngd, men också med ett avgränsat uppdrag. Det ska inte blandas ihop med ett allmänt [extra årsmöte](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-8-extra-arsmote) eller ett forum för dialog.
 
-Vad är då ett representantskap?
-
 Representantskapet är lösningen på ett konkret problem: tävlingsfrågor kan inte vänta till nästa årsmöte utan att det blir en stor fördröjning av besluten. Seriesammansättning, tävlingsregler och liknande frågor behöver avgöras tidigare under året och de behöver avgöras av föreningarna, inte av [distriktsstyrelse](../ledning/distriktsstyrelse.md) eller [tävlingskommitté](../underliggande-organ/kommitteer.md) ensamma.
 
 Representantskapet är därför konstruerat som ett mini-årsmöte, men enbart för tävlingsområdet. Det är föreningarnas organ, inte distriktets sätt att informera föreningarna. Skillnaden är avgörande: föreningarna beslutar här, de tar inte bara del av beslut.
@@ -21,7 +19,7 @@ Det är just tävlingsfrågorna som gör representantskapet viktigt. Serieindeln
 
 ## Föreningarnas möjlighet att påverka
 
-Representantskapet fungerar i mångt och mycket som årsmötet inom sitt område. Inflytandet är reellt och utövas på liknande sätt:
+Representantskapet fungerar i mångt och mycket som [årsmötet](./) inom sitt område. Inflytandet är reellt och utövas på liknande sätt:
 
 **Närvaro och rösträtt.** Varje medlemsförening har rätt att skicka ombud. Ombuden talar och röstar på föreningens vägnar. Den förening som väljer att inte skicka ombud väljer också bort sin röst i tävlingsfrågor som kan ha direkt påverkan på den egna verksamheten.
 
@@ -31,7 +29,7 @@ Representantskapet fungerar i mångt och mycket som årsmötet inom sitt område
 
 ## Gränsen mot distriktsstyrelsen
 
-Tävlingskommittén är det organ, som på delegation av distriktsstyrelsen, bereder och lämnar förslag i tävlingsfrågor. Den bidrar med sakkunskap, analys och praktisk förståelse för tävlingsverksamheten.
+[Tävlingskommittén](../underliggande-organ/kommitteer.md) är det organ, som på delegation av [distriktsstyrelsen](../ledning/distriktsstyrelse.md), bereder och lämnar förslag i tävlingsfrågor. Den bidrar med sakkunskap, analys och praktisk förståelse för tävlingsverksamheten.
 
 Men det är representantskapet som bär medlemsmandatet i de tävlingsfrågor som stadgarna lägger där. Distriktsstyrelsen och tävlingskommittén ska därför inte fatta beslut i frågor som hör till representantskapet, om inte annat uttryckligen framgår av gällande regelverk eller delegation.
 
