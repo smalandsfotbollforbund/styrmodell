@@ -10,10 +10,10 @@ coverY: 0
 
 Styrande principer hjälper Smålands Fotbollförbund att använda styrmodellen klokt när en fråga inte är självklar.
 
-De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../styrande-dokument/arkitektur.md), [ansvarsmatrisen](../strategi/ansvarsmatris.md) eller beslutade dokument. De ska hjälpa läsaren att hitta rätt kärnkälla.
+De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../styrande-dokument/arkitektur.md), [ansvarsmatrisen](../organisation/ansvarsmatris.md) eller beslutade dokument. De ska hjälpa läsaren att hitta rätt kärnkälla.
 
 {% hint style="info" %}
-Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv används [dokumentarkitekturen](../styrande-dokument/arkitektur.md). Om frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../strategi/ansvarsmatris.md).
+Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv används [dokumentarkitekturen](../styrande-dokument/arkitektur.md). Om frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../organisation/ansvarsmatris.md).
 {% endhint %}
 
 ### Om struktur och mandat
@@ -64,7 +64,7 @@ Principerna för delegation finns i [delegation](../ledning/delegation.md). Den 
 
 <summary><strong>Ansvar ska gå att följa</strong></summary>
 
-Ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md). Konkret ansvarsfördelning i olika frågetyper beskrivs i [ansvarsmatrisen](../strategi/ansvarsmatris.md).
+Ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md). Konkret ansvarsfördelning i olika frågetyper beskrivs i [ansvarsmatrisen](../organisation/ansvarsmatris.md).
 
 </details>
 

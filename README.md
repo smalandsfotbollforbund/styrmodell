@@ -56,7 +56,7 @@ Styrmodellens grund beskrivs i [folkrörelseprincip och demokratisk styrning](gr
 
 ## När du behöver en kärnkälla
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>När något väger olika tungt</strong><br>Gå till <a href="grund/normordning.md">normordningen</a>.</td></tr><tr><td><strong>När dokumenttypen är oklar</strong><br>Gå till <a href="styrande-dokument/arkitektur.md">dokumentarkitekturen</a>.</td></tr><tr><td><strong>När ett ord behöver förklaras</strong><br>Gå till <a href="readme/begreppslista.md">begreppslistan</a>.</td></tr><tr><td><strong>När organisationen ska förstås</strong><br>Gå till <a href="organisation/styrarkitektur.md">styrarkitekturen</a>.</td></tr><tr><td><strong>När ansvarskedjan behöver följas</strong><br>Gå till <a href="strategi/ansvarsmatris.md">ansvarsmatrisen</a>.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>När något väger olika tungt</strong><br>Gå till <a href="grund/normordning.md">normordningen</a>.</td></tr><tr><td><strong>När dokumenttypen är oklar</strong><br>Gå till <a href="styrande-dokument/arkitektur.md">dokumentarkitekturen</a>.</td></tr><tr><td><strong>När ett ord behöver förklaras</strong><br>Gå till <a href="readme/begreppslista.md">begreppslistan</a>.</td></tr><tr><td><strong>När organisationen ska förstås</strong><br>Gå till <a href="organisation/styrarkitektur.md">styrarkitekturen</a>.</td></tr><tr><td><strong>När ansvarskedjan behöver följas</strong><br>Gå till <a href="organisation/ansvarsmatris.md">ansvarsmatrisen</a>.</td></tr></tbody></table>
 
 ## Hitta rätt
 

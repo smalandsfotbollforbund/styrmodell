@@ -48,7 +48,7 @@ Det operativa uppdraget är det distriktet är satt att göra: administrera, utv
 
 Uppdraget är inte fritt definierat; det följer av [stadgar](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-1-uppgift), Svenska Fotbollförbundets uppdrag till distriktet och de förväntningar som föreningarna har rätt att ställa. Vad det innebär i praktiken beskrivs i [verksamhetsområden och basuppgifter](verksamhetsomraden-och-basuppgifter.md).
 
-[Ansvarsmatrisen](ansvarsmatris.md) samlar en samlad bild av vem som ansvarar för vad i det löpande arbetet; ett praktiskt verktyg för att undvika oklarheter i vardagen.
+[Ansvarsmatrisen](../organisation/ansvarsmatris.md) samlar en samlad bild av vem som ansvarar för vad i det löpande arbetet; ett praktiskt verktyg för att undvika oklarheter i vardagen.
 
 
 
@@ -76,8 +76,8 @@ Uppdraget är inte fritt definierat; det följer av [stadgar](https://app.gitboo
 [planering-uppfoljning-och-arscykel.md](planering-uppfoljning-och-arscykel.md)
 {% endcontent-ref %}
 
-{% content-ref url="ansvarsmatris.md" %}
-[ansvarsmatris.md](ansvarsmatris.md)
+{% content-ref url="../organisation/ansvarsmatris.md" %}
+[ansvarsmatris.md](../organisation/ansvarsmatris.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}

@@ -150,7 +150,7 @@ Styrmodellen använder vissa återkommande begrepp för att skilja på olika del
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Beredning</strong><br>Framtagande av underlag inför beslut.</td></tr><tr><td><strong>Beslut</strong><br>Formellt ställningstagande av behörigt organ eller behörig funktion.</td></tr><tr><td><strong>Verkställighet</strong><br>Genomförande av fattat beslut.</td></tr><tr><td><strong>Uppföljning</strong><br>Kontroll av att beslut, mål, uppdrag eller processer genomförs och får avsedd effekt.</td></tr><tr><td><strong>Granskning</strong><br>Oberoende eller särskilt utsedd prövning av ansvar, ekonomi, styrning, efterlevnad eller ändamålsenlighet.</td></tr></tbody></table>
 
-Ansvarskedjan används vidare i [ansvarsmatrisen](../strategi/ansvarsmatris.md).
+Ansvarskedjan används vidare i [ansvarsmatrisen](../organisation/ansvarsmatris.md).
 
 ## Viktiga styrningsbegrepp
 
