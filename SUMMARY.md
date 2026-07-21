@@ -51,6 +51,4 @@
   * [Dokumentarkitektur](styrande-dokument/arkitektur.md)
   * [Externa bärande dokument](styrande-dokument/externa.md)
 
-## Demokratisk styrning
-
 ## Styrande dokument
