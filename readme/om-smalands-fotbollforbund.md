@@ -9,6 +9,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -66,7 +67,5 @@ Hur relationerna till RF, SvFF, RF-SISU Småland och övriga fotbollsdistrikt se
 ## Riktningen ska gå att känna igen
 
 Distriktets långsiktiga riktning beskrivs genom vision, mission och verksamhetsidé.
-
-{% include "../.gitbook/includes/vision-mission-och-verksamhetside.md" %}
 
 Hur riktningen kopplas till strategiska inriktningar, prioriteringar, mål och operativt uppdrag beskrivs i [strategihuset](/broken/pages/7HKF0GPpPonIvevKTHSl).
